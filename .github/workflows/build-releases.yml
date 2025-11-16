@@ -71,7 +71,7 @@ jobs:
       - name: Render ODT
         working-directory: ${{ matrix.publication.source_dir }}
         run: quarto render ${{ matrix.publication.source_file }} --to odt
-      
+
       - name: Copy and rename outputs
         run: |
           cp ${{ matrix.publication.source_dir }}/${{ matrix.publication.source_file }} \
