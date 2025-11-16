@@ -50,9 +50,13 @@ jobs:
       - name: Install fonts
         run: |
           mkdir -p ~/.fonts
-          cp fonts/*.ttf ~/.fonts/
-          fc-cache -f
-      
+          if [ -d fonts ] && [ "$(ls -A fonts/*.ttf 2>/dev/null)" ]; then
+            cp fonts/*.ttf ~/.fonts/
+            fc-cache -f
+          else
+            echo "No fonts found in fonts/ directory, skipping font installation"
+          fi
+
       - name: Extract version from frontmatter
         id: get_version
         working-directory: ${{ matrix.publication.source_dir }}
