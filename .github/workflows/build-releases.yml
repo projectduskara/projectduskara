@@ -71,7 +71,7 @@ jobs:
       - name: Render ODT
         working-directory: ${{ matrix.publication.source_dir }}
         run: quarto render ${{ matrix.publication.source_file }} --to odt
-
+      
       - name: Copy and rename outputs
         run: |
           cp ${{ matrix.publication.source_dir }}/${{ matrix.publication.source_file }} \
@@ -87,7 +87,7 @@ jobs:
              ${{ matrix.publication.name }}_v${{ steps.get_version.outputs.VERSION }}.odt
       
       - name: Upload artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: ${{ matrix.publication.name }}_v${{ steps.get_version.outputs.VERSION }}
           path: |
@@ -101,7 +101,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Download all artifacts
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
+        with:
+          path: artifacts
       
       - name: Get current date
         id: date
@@ -110,11 +112,7 @@ jobs:
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v1
         with:
-          files: |
-            **/*.pdf
-            **/*.epub
-            **/*.odt
-            **/*.md
+          files: artifacts/**/*
           tag_name: release-${{ steps.date.outputs.DATE }}
           name: Release ${{ steps.date.outputs.DATE }}
           body: |
