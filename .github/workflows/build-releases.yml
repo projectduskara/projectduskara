@@ -94,40 +94,22 @@ jobs:
           mv "${SOURCE_DIR}/${NAME}.epub" "${NAME}_v${VERSION}.epub"
           mv "${SOURCE_DIR}/${NAME}.odt" "${NAME}_v${VERSION}.odt"
       
-      - name: Upload artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: ${{ matrix.publication.name }}_v${{ steps.get_version.outputs.VERSION }}
-          path: |
-            ${{ matrix.publication.name }}_v${{ steps.get_version.outputs.VERSION }}.pdf
-            ${{ matrix.publication.name }}_v${{ steps.get_version.outputs.VERSION }}.epub
-            ${{ matrix.publication.name }}_v${{ steps.get_version.outputs.VERSION }}.odt
-            ${{ matrix.publication.name }}_v${{ steps.get_version.outputs.VERSION }}.md
-  
-  release:
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
-      - name: Download all artifacts
-        uses: actions/download-artifact@v4
-        with:
-          path: artifacts
-      
-      - name: Get current date
-        id: date
-        run: echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
-      
-      - name: Create GitHub Release
+      - name: Create individual release
         uses: softprops/action-gh-release@v1
         with:
-          files: artifacts/**/*
-          tag_name: release-${{ steps.date.outputs.DATE }}
-          name: Release ${{ steps.date.outputs.DATE }}
+          files: release_files/*
+          tag_name: ${{ matrix.publication.name }}-v${{ steps.get_version.outputs.VERSION }}
+          name: "${{ matrix.publication.name }} v${{ steps.get_version.outputs.VERSION }}"
           body: |
-            ## Automated Multi-Publication Release
+            ## ${{ matrix.publication.name }} v${{ steps.get_version.outputs.VERSION }}
             
-            This release contains the latest versions of all Duskara publications.
-            Check individual file names for version numbers.
+            Automated release of ${{ matrix.publication.name }}.
+            
+            Available formats:
+            - PDF
+            - EPUB
+            - ODT
+            - Markdown (source)
           draft: false
           prerelease: false
         env:
