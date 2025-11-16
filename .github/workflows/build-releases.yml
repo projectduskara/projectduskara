@@ -1,0 +1,128 @@
+name: Build Multi-Format Releases
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'sources/**/*.md'
+      - 'sources/**/_quarto.yml'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    strategy:
+      matrix:
+        publication:
+          - name: duskara_compendium
+            source_dir: sources/duskara_compendium
+            source_file: duskara_compendium.md
+          - name: duskara_ttrpg
+            source_dir: sources/duskara_ttrpg
+            source_file: duskara_ttrpg.md
+          - name: duskara_stormtide
+            source_dir: sources/stormtide
+            source_file: duskara_stormtide.md
+          - name: echoes_in_the_wind
+            source_dir: sources/echoes_in_the_wind
+            source_file: echoes_in_the_wind.md
+          - name: whispers_of_dusk
+            source_dir: sources/whispers_of_dusk
+            source_file: whispers_of_dusk.md
+          - name: children_of_the_twilight
+            source_dir: sources/children_of_the_twilight
+            source_file: children_of_the_twilight.md
+          - name: fragments_of_the_twilight_codex
+            source_dir: sources/fragments_of_the_twilight_codex
+            source_file: fragments_of_the_twilight_codex.md
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+      
+      - name: Install TinyTeX
+        run: quarto install tinytex
+      
+      - name: Install fonts
+        run: |
+          mkdir -p ~/.fonts
+          cp fonts/*.ttf ~/.fonts/
+          fc-cache -f
+      
+      - name: Extract version from frontmatter
+        id: get_version
+        working-directory: ${{ matrix.publication.source_dir }}
+        run: |
+          VERSION=$(grep '^version:' ${{ matrix.publication.source_file }} | sed 's/version: "\(.*\)"/\1/')
+          echo "VERSION=$VERSION" >> $GITHUB_OUTPUT
+      
+      - name: Render PDF
+        working-directory: ${{ matrix.publication.source_dir }}
+        run: quarto render ${{ matrix.publication.source_file }} --to pdf
+      
+      - name: Render EPUB
+        working-directory: ${{ matrix.publication.source_dir }}
+        run: quarto render ${{ matrix.publication.source_file }} --to epub
+      
+      - name: Render ODT
+        working-directory: ${{ matrix.publication.source_dir }}
+        run: quarto render ${{ matrix.publication.source_file }} --to odt
+      
+      - name: Copy and rename outputs
+        run: |
+          cp ${{ matrix.publication.source_dir }}/${{ matrix.publication.source_file }} \
+             ${{ matrix.publication.name }}_v${{ steps.get_version.outputs.VERSION }}.md
+          
+          mv ${{ matrix.publication.source_dir }}/${{ matrix.publication.name }}.pdf \
+             ${{ matrix.publication.name }}_v${{ steps.get_version.outputs.VERSION }}.pdf
+          
+          mv ${{ matrix.publication.source_dir }}/${{ matrix.publication.name }}.epub \
+             ${{ matrix.publication.name }}_v${{ steps.get_version.outputs.VERSION }}.epub
+          
+          mv ${{ matrix.publication.source_dir }}/${{ matrix.publication.name }}.odt \
+             ${{ matrix.publication.name }}_v${{ steps.get_version.outputs.VERSION }}.odt
+      
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: ${{ matrix.publication.name }}_v${{ steps.get_version.outputs.VERSION }}
+          path: |
+            ${{ matrix.publication.name }}_v${{ steps.get_version.outputs.VERSION }}.pdf
+            ${{ matrix.publication.name }}_v${{ steps.get_version.outputs.VERSION }}.epub
+            ${{ matrix.publication.name }}_v${{ steps.get_version.outputs.VERSION }}.odt
+            ${{ matrix.publication.name }}_v${{ steps.get_version.outputs.VERSION }}.md
+  
+  release:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download all artifacts
+        uses: actions/download-artifact@v3
+      
+      - name: Get current date
+        id: date
+        run: echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+      
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: |
+            **/*.pdf
+            **/*.epub
+            **/*.odt
+            **/*.md
+          tag_name: release-${{ steps.date.outputs.DATE }}
+          name: Release ${{ steps.date.outputs.DATE }}
+          body: |
+            ## Automated Multi-Publication Release
+            
+            This release contains the latest versions of all Duskara publications.
+            Check individual file names for version numbers.
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
