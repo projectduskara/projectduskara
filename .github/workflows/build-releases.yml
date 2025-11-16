@@ -78,17 +78,15 @@ jobs:
       
       - name: Copy and rename outputs
         run: |
-          cp ${{ matrix.publication.source_dir }}/${{ matrix.publication.source_file }} \
-             ${{ matrix.publication.name }}_v${{ steps.get_version.outputs.VERSION }}.md
+          VERSION="${{ steps.get_version.outputs.VERSION }}"
+          NAME="${{ matrix.publication.name }}"
+          SOURCE_DIR="${{ matrix.publication.source_dir }}"
+          SOURCE_FILE="${{ matrix.publication.source_file }}"
           
-          mv ${{ matrix.publication.source_dir }}/${{ matrix.publication.name }}.pdf \
-             ${{ matrix.publication.name }}_v${{ steps.get_version.outputs.VERSION }}.pdf
-          
-          mv ${{ matrix.publication.source_dir }}/${{ matrix.publication.name }}.epub \
-             ${{ matrix.publication.name }}_v${{ steps.get_version.outputs.VERSION }}.epub
-          
-          mv ${{ matrix.publication.source_dir }}/${{ matrix.publication.name }}.odt \
-             ${{ matrix.publication.name }}_v${{ steps.get_version.outputs.VERSION }}.odt
+          cp "${SOURCE_DIR}/${SOURCE_FILE}" "${NAME}_v${VERSION}.md"
+          mv "${SOURCE_DIR}/${NAME}.pdf" "${NAME}_v${VERSION}.pdf"
+          mv "${SOURCE_DIR}/${NAME}.epub" "${NAME}_v${VERSION}.epub"
+          mv "${SOURCE_DIR}/${NAME}.odt" "${NAME}_v${VERSION}.odt"
       
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
