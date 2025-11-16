@@ -1,4 +1,4 @@
-name: Build Multi-Format Releases
+name: Build and Release Publications
 
 on:
   push:
@@ -9,7 +9,7 @@ on:
       - 'sources/**/_quarto.yml'
 
 jobs:
-  build:
+  build-and-release:
     runs-on: ubuntu-latest
     
     strategy:
@@ -54,20 +54,18 @@ jobs:
             cp fonts/*.ttf ~/.fonts/
             fc-cache -f
           else
-            echo "No fonts found in fonts/ directory, skipping font installation"
+            echo "No fonts found, skipping"
           fi
-
+      
       - name: Extract version from frontmatter
         id: get_version
         working-directory: ${{ matrix.publication.source_dir }}
         run: |
           VERSION=$(grep '^version:' ${{ matrix.publication.source_file }} | sed 's/version: *"\?\([^"]*\)"\?/\1/' | tr -d ' ')
           if [ -z "$VERSION" ]; then
-            echo "ERROR: Could not extract version from frontmatter"
-            cat ${{ matrix.publication.source_file }} | head -20
+            echo "ERROR: Could not extract version"
             exit 1
           fi
-          echo "Extracted version: $VERSION"
           echo "VERSION=$VERSION" >> $GITHUB_OUTPUT
       
       - name: Render PDF
@@ -82,17 +80,18 @@ jobs:
         working-directory: ${{ matrix.publication.source_dir }}
         run: quarto render ${{ matrix.publication.source_file }} --to odt
       
-      - name: Copy and rename outputs
+      - name: Collect and rename outputs
         run: |
           VERSION="${{ steps.get_version.outputs.VERSION }}"
           NAME="${{ matrix.publication.name }}"
           SOURCE_DIR="${{ matrix.publication.source_dir }}"
           SOURCE_FILE="${{ matrix.publication.source_file }}"
           
-          cp "${SOURCE_DIR}/${SOURCE_FILE}" "${NAME}_v${VERSION}.md"
-          mv "${SOURCE_DIR}/${NAME}.pdf" "${NAME}_v${VERSION}.pdf"
-          mv "${SOURCE_DIR}/${NAME}.epub" "${NAME}_v${VERSION}.epub"
-          mv "${SOURCE_DIR}/${NAME}.odt" "${NAME}_v${VERSION}.odt"
+          mkdir -p release_files
+          cp "${SOURCE_DIR}/${SOURCE_FILE}" "release_files/${NAME}_v${VERSION}.md"
+          mv "${SOURCE_DIR}/${NAME}.pdf" "release_files/${NAME}_v${VERSION}.pdf"
+          mv "${SOURCE_DIR}/${NAME}.epub" "release_files/${NAME}_v${VERSION}.epub"
+          mv "${SOURCE_DIR}/${NAME}.odt" "release_files/${NAME}_v${VERSION}.odt"
       
       - name: Create individual release
         uses: softprops/action-gh-release@v1
