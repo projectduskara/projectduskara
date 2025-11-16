@@ -5,44 +5,87 @@ on:
     branches:
       - main
     paths:
-      - 'sources/**/*.md'
-      - 'sources/**/_quarto.yml'
+      - 'sources/**'
 
 permissions:
   contents: write
-  
+
 jobs:
+  detect-changes:
+    runs-on: ubuntu-latest
+    outputs:
+      publications: ${{ steps.filter.outputs.changes }}
+    steps:
+      - uses: actions/checkout@v3
+      
+      - uses: dorny/paths-filter@v2
+        id: filter
+        with:
+          filters: |
+            duskara_compendium:
+              - 'sources/duskara_compendium/**'
+            duskara_ttrpg:
+              - 'sources/duskara_ttrpg/**'
+            duskara_stormtide:
+              - 'sources/stormtide/**'
+            echoes_in_the_wind:
+              - 'sources/echoes_in_the_wind/**'
+            whispers_of_dusk:
+              - 'sources/whispers_of_dusk/**'
+            children_of_the_twilight:
+              - 'sources/children_of_the_twilight/**'
+            fragments_of_the_twilight_codex:
+              - 'sources/fragments_of_the_twilight_codex/**'
+
   build-and-release:
+    needs: detect-changes
+    if: needs.detect-changes.outputs.publications != '[]'
     runs-on: ubuntu-latest
     
     strategy:
+      fail-fast: false
       matrix:
-        publication:
-          - name: duskara_compendium
-            source_dir: sources/duskara_compendium
-            source_file: duskara_compendium.md
-          - name: duskara_ttrpg
-            source_dir: sources/duskara_ttrpg
-            source_file: duskara_ttrpg.md
-          - name: duskara_stormtide
-            source_dir: sources/stormtide
-            source_file: duskara_stormtide.md
-          - name: echoes_in_the_wind
-            source_dir: sources/echoes_in_the_wind
-            source_file: echoes_in_the_wind.md
-          - name: whispers_of_dusk
-            source_dir: sources/whispers_of_dusk
-            source_file: whispers_of_dusk.md
-          - name: children_of_the_twilight
-            source_dir: sources/children_of_the_twilight
-            source_file: children_of_the_twilight.md
-          - name: fragments_of_the_twilight_codex
-            source_dir: sources/fragments_of_the_twilight_codex
-            source_file: fragments_of_the_twilight_codex.md
+        publication: ${{ fromJSON(needs.detect-changes.outputs.publications) }}
     
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      
+      - name: Set publication details
+        id: pub_details
+        run: |
+          case "${{ matrix.publication }}" in
+            duskara_compendium)
+              echo "source_dir=sources/duskara_compendium" >> $GITHUB_OUTPUT
+              echo "source_file=duskara_compendium.md" >> $GITHUB_OUTPUT
+              ;;
+            duskara_ttrpg)
+              echo "source_dir=sources/duskara_ttrpg" >> $GITHUB_OUTPUT
+              echo "source_file=duskara_ttrpg.md" >> $GITHUB_OUTPUT
+              ;;
+            duskara_stormtide)
+              echo "source_dir=sources/stormtide" >> $GITHUB_OUTPUT
+              echo "source_file=duskara_stormtide.md" >> $GITHUB_OUTPUT
+              ;;
+            echoes_in_the_wind)
+              echo "source_dir=sources/echoes_in_the_wind" >> $GITHUB_OUTPUT
+              echo "source_file=echoes_in_the_wind.md" >> $GITHUB_OUTPUT
+              ;;
+            whispers_of_dusk)
+              echo "source_dir=sources/whispers_of_dusk" >> $GITHUB_OUTPUT
+              echo "source_file=whispers_of_dusk.md" >> $GITHUB_OUTPUT
+              ;;
+            children_of_the_twilight)
+              echo "source_dir=sources/children_of_the_twilight" >> $GITHUB_OUTPUT
+              echo "source_file=children_of_the_twilight.md" >> $GITHUB_OUTPUT
+              ;;
+            fragments_of_the_twilight_codex)
+              echo "source_dir=sources/fragments_of_the_twilight_codex" >> $GITHUB_OUTPUT
+              echo "source_file=fragments_of_the_twilight_codex.md" >> $GITHUB_OUTPUT
+              ;;
+          esac
       
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
@@ -56,15 +99,13 @@ jobs:
           if [ -d fonts ] && [ "$(ls -A fonts/*.ttf 2>/dev/null)" ]; then
             cp fonts/*.ttf ~/.fonts/
             fc-cache -f
-          else
-            echo "No fonts found, skipping"
           fi
       
       - name: Extract version from frontmatter
         id: get_version
-        working-directory: ${{ matrix.publication.source_dir }}
+        working-directory: ${{ steps.pub_details.outputs.source_dir }}
         run: |
-          VERSION=$(grep '^version:' ${{ matrix.publication.source_file }} | sed 's/version: *"\?\([^"]*\)"\?/\1/' | tr -d ' ')
+          VERSION=$(grep '^version:' ${{ steps.pub_details.outputs.source_file }} | sed 's/version: *"\?\([^"]*\)"\?/\1/' | tr -d ' ')
           if [ -z "$VERSION" ]; then
             echo "ERROR: Could not extract version"
             exit 1
@@ -72,47 +113,3 @@ jobs:
           echo "VERSION=$VERSION" >> $GITHUB_OUTPUT
       
       - name: Render PDF
-        working-directory: ${{ matrix.publication.source_dir }}
-        run: quarto render ${{ matrix.publication.source_file }} --to pdf
-      
-      - name: Render EPUB
-        working-directory: ${{ matrix.publication.source_dir }}
-        run: quarto render ${{ matrix.publication.source_file }} --to epub
-      
-      - name: Render ODT
-        working-directory: ${{ matrix.publication.source_dir }}
-        run: quarto render ${{ matrix.publication.source_file }} --to odt
-      
-      - name: Collect and rename outputs
-        run: |
-          VERSION="${{ steps.get_version.outputs.VERSION }}"
-          NAME="${{ matrix.publication.name }}"
-          SOURCE_DIR="${{ matrix.publication.source_dir }}"
-          SOURCE_FILE="${{ matrix.publication.source_file }}"
-          
-          mkdir -p release_files
-          cp "${SOURCE_DIR}/${SOURCE_FILE}" "release_files/${NAME}_v${VERSION}.md"
-          mv "${SOURCE_DIR}/${NAME}.pdf" "release_files/${NAME}_v${VERSION}.pdf"
-          mv "${SOURCE_DIR}/${NAME}.epub" "release_files/${NAME}_v${VERSION}.epub"
-          mv "${SOURCE_DIR}/${NAME}.odt" "release_files/${NAME}_v${VERSION}.odt"
-      
-      - name: Create individual release
-        uses: softprops/action-gh-release@v1
-        with:
-          files: release_files/*
-          tag_name: ${{ matrix.publication.name }}-v${{ steps.get_version.outputs.VERSION }}
-          name: "${{ matrix.publication.name }} v${{ steps.get_version.outputs.VERSION }}"
-          body: |
-            ## ${{ matrix.publication.name }} v${{ steps.get_version.outputs.VERSION }}
-            
-            Automated release of ${{ matrix.publication.name }}.
-            
-            Available formats:
-            - PDF
-            - EPUB
-            - ODT
-            - Markdown (source)
-          draft: false
-          prerelease: false
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
