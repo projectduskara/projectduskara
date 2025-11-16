@@ -113,3 +113,47 @@ jobs:
           echo "VERSION=$VERSION" >> $GITHUB_OUTPUT
       
       - name: Render PDF
+        working-directory: ${{ steps.pub_details.outputs.source_dir }}
+        run: quarto render ${{ steps.pub_details.outputs.source_file }} --to pdf
+      
+      - name: Render EPUB
+        working-directory: ${{ steps.pub_details.outputs.source_dir }}
+        run: quarto render ${{ steps.pub_details.outputs.source_file }} --to epub
+      
+      - name: Render ODT
+        working-directory: ${{ steps.pub_details.outputs.source_dir }}
+        run: quarto render ${{ steps.pub_details.outputs.source_file }} --to odt
+      
+      - name: Collect and rename outputs
+        run: |
+          VERSION="${{ steps.get_version.outputs.VERSION }}"
+          NAME="${{ matrix.publication }}"
+          SOURCE_DIR="${{ steps.pub_details.outputs.source_dir }}"
+          SOURCE_FILE="${{ steps.pub_details.outputs.source_file }}"
+          
+          mkdir -p release_files
+          cp "${SOURCE_DIR}/${SOURCE_FILE}" "release_files/${NAME}_v${VERSION}.md"
+          mv "${SOURCE_DIR}/${NAME}.pdf" "release_files/${NAME}_v${VERSION}.pdf"
+          mv "${SOURCE_DIR}/${NAME}.epub" "release_files/${NAME}_v${VERSION}.epub"
+          mv "${SOURCE_DIR}/${NAME}.odt" "release_files/${NAME}_v${VERSION}.odt"
+      
+      - name: Create individual release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: release_files/*
+          tag_name: ${{ matrix.publication }}-v${{ steps.get_version.outputs.VERSION }}
+          name: "${{ matrix.publication }} v${{ steps.get_version.outputs.VERSION }}"
+          body: |
+            ## ${{ matrix.publication }} v${{ steps.get_version.outputs.VERSION }}
+            
+            Automated release of ${{ matrix.publication }}.
+            
+            Available formats:
+            - PDF
+            - EPUB
+            - ODT
+            - Markdown (source)
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
