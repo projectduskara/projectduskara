@@ -36,8 +36,10 @@ jobs:
               - 'sources/children_of_the_twilight/**'
             fragments_of_the_twilight_codex:
               - 'sources/fragments_of_the_twilight_codex/**'
-            worldbuilding:
-              - 'sources/worldbuilding/**'
+            duskaran_names_guidelines:
+              - 'sources/worldbuilding/duskaran_names_guidelines.md'
+            duskaran_language_handbook:
+              - 'sources/worldbuilding/duskaran_language_handbook.md'
 
   build-and-release:
     needs: detect-changes
