@@ -37,7 +37,7 @@ jobs:
             fragments_of_the_twilight_codex:
               - 'sources/fragments_of_the_twilight_codex/**'
             worldbuilding:
-              - sources/worldbuilding/**
+              - 'sources/worldbuilding/**'
 
   build-and-release:
     needs: detect-changes
