@@ -117,15 +117,15 @@ jobs:
         id: get_metadata
         working-directory: ${{ steps.pub_details.outputs.source_dir }}
         run: |
-          # Estrazione Versione
+          # Extract Version
           VERSION=$(grep '^version:' ${{ steps.pub_details.outputs.source_file }} | sed 's/version: *"\?\([^"]*\)"\?/\1/' | tr -d ' ')
           
-          # Estrazione Latest Update
-          # 1. grep: trova la riga
-          # 2. sed 1: rimuove la chiave "latest_update:" e spazi subito dopo
-          # 3. sed 2: rimuove virgolette doppie a inizio/fine stringa
-          # 4. sed 3: rimuove virgolette singole a inizio/fine stringa (per sicurezza)
-          # 5. sed 4: fa il "trim" degli spazi bianchi residui all'inizio o alla fine
+          # Extract Latest Update
+          # 1. grep: find the line
+          # 2. sed 1: Remove the "latest_update:" key and spaces immediately after
+          # 3. sed 2: Remove double quotes at start/end of string
+          # 4. sed 3: Remove single quotes at start/end of string (for security)
+          # 5. sed 4: Trim any remaining whitespace at the beginning or end
           
           LATEST_UPDATE=$(grep '^latest_update:' ${{ steps.pub_details.outputs.source_file }} | \
             sed 's/^latest_update:[[:space:]]*//' | \
