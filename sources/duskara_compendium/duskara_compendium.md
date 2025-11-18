@@ -1,6 +1,6 @@
 ---
 date: 2025-11-16
-latest_update: The "Duskaran Names" section has been renamed to "Duskaran Names Guidelines" and completely expanded. It now offers a comprehensive guide to the social norms and conventions for creating culturally consistent names
+latest_update: The "Duskaran Names" section has been renamed to "Duskaran Names Guidelines" and completely expanded. It now offers a comprehensive guide to the social norms and conventions for creating culturally consistent names.
 subtitle: Main Setting Book
 title: Duskara Compendium
 version: 1.1.0
