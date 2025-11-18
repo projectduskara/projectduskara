@@ -3,7 +3,7 @@ date: 2025-11-18
 subtitle: A Comprehensive Conlang Reference for the Duskara Setting
 title: Duskaran Language Handbook
 version: 1.0.0
-latest_update: "First release"
+latest_update: First release
 ---
 
 # Introduction
