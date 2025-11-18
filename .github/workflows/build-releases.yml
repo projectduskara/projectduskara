@@ -117,17 +117,21 @@ jobs:
         id: get_metadata
         working-directory: ${{ steps.pub_details.outputs.source_dir }}
         run: |
-          # Estrazione Versione (manteniamo tr -d ' ' qui perché la versione non dovrebbe avere spazi)
+          # Estrazione Versione
           VERSION=$(grep '^version:' ${{ steps.pub_details.outputs.source_file }} | sed 's/version: *"\?\([^"]*\)"\?/\1/' | tr -d ' ')
           
           # Estrazione Latest Update
-          # 1. grep trova la riga
-          # 2. sed cattura il testo tra le virgolette (o dopo i due punti se non ci sono virgolette)
-          # 3. xargs (opzionale) rimuove spazi bianchi a inizio/fine riga rimasti
-          LATEST_UPDATE=$(grep '^latest_update:' ${{ steps.pub_details.outputs.source_file }} | sed 's/latest_update: *"\?\([^"]*\)"\?/\1/')
+          # 1. grep: trova la riga
+          # 2. sed 1: rimuove la chiave "latest_update:" e spazi subito dopo
+          # 3. sed 2: rimuove virgolette doppie a inizio/fine stringa
+          # 4. sed 3: rimuove virgolette singole a inizio/fine stringa (per sicurezza)
+          # 5. sed 4: fa il "trim" degli spazi bianchi residui all'inizio o alla fine
           
-          # Trimma eventuali spazi bianchi residui a inizio/fine usando xargs
-          LATEST_UPDATE=$(echo "$LATEST_UPDATE" | xargs)
+          LATEST_UPDATE=$(grep '^latest_update:' ${{ steps.pub_details.outputs.source_file }} | \
+            sed 's/^latest_update:[[:space:]]*//' | \
+            sed 's/^"//;s/"$//' | \
+            sed "s/^'//;s/'$//" | \
+            sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
 
           if [ -z "$VERSION" ]; then
             echo "ERROR: Could not extract version"
