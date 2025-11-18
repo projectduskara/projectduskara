@@ -1,9 +1,9 @@
 ---
-date: 2025-11-16
+date: 2025-11-18
 latest_update: The "Duskaran Names" section has been renamed to "Duskaran Names Guidelines" and completely expanded. It now offers a comprehensive guide to the social norms and conventions for creating culturally consistent names.
 subtitle: Main Setting Book
 title: Duskara Compendium
-version: 1.1.0
+version: 1.1.1
 ---
 
 # Introduction
@@ -179,11 +179,9 @@ The transition zones between Duskara’s day and night sides are turbulent and d
 
 Subterranean networks, known as the Deep Roads, were excavated by the first generations of settlers to connect twilight and night-side communities. Partially abandoned during periods of resource crisis, these tunnels have been gradually reclaimed and expanded, connecting twilight and night-side communities. These ancient tunnels facilitate trade, resource exchange, and safe travel away from the extremes of the surface environment. Meanwhile, life forms within the twilight belt exhibit remarkable adaptability, with traits suited for both heat and cold, underscoring the planet’s evolutionary diversity and the interconnected nature of its environmental zones.
 
-# The Twilight Belt: Geographic Overview
+# The Twilight Belt
 
 Encircling the planet, the Twilight Belt is a 200–300 kilometer-wide strip where moderate temperatures and light conditions make life possible. This narrow zone, shaped by its position between the extremes of eternal day and perpetual night, is divided into three distinct regions. Closest to the day side lies the Dayward Edge, a sun-blasted and arid frontier. At its heart, the Central Twilight Zone stretches fertile and temperate, serving as the core of human civilization. To the farthest reach, the Nightward Edge approaches the cold and mist-laden frontier of the night side, a realm defined by geothermal warmth and glacial remnants.
-
-BLOCK 11: Coldwell Junction LOCATION: Add to location lists in 'TITLE The Twilight Belt Geographic Overview'
 
 ## Geographical Features
 
