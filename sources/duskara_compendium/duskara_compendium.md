@@ -1,8 +1,8 @@
 ---
-date: 2025-11-16
+date: 2025-11-18
 subtitle: Main Setting Book
 title: Duskara Compendium
-version: 1.0.0
+version: 1.1.0
 ---
 
 # Introduction
@@ -1467,421 +1467,990 @@ Words are combined to create new meanings.
 - *ta* – under
 - *manga hanga* – great wind (noun + modifier)
 
-# Duskaran Names
+# Duskaran Names Guidelines
 
-Here are lists of personal names, all drawing inspiration from **Duskara's culture** and environment:
+## Overview
 
-## Female Names
+Duskaran names reflect the harsh beauty of a tidally locked world, blending the cultural heritage of African and Asian Earth origins with eight centuries of adaptation to extreme environments. Names carry echoes of wind, twilight, thermal gradients, and the psychic abilities that define human survival on Duskara.
 
-1.  Aelira
-2.  Luyana
-3.  Zorathi
-4.  Shavina
-5.  Eryssa
-6.  Khyanni
-7.  Luminara
-8.  Zihara
-9.  Felune
-10. Rhyelle
-11. Manya
-12. Corathi
-13. Vynara
-14. Isarra
-15. Teysha
-16. Kalienna
-17. Saryndel
-18. Maelani
-19. Omishi
-20. Thyra
-21. Liyanna
-22. Nozira
-23. Ayella
-24. Daelune
-25. Niora
-26. Zhanel
-27. Kalyssa
-28. Aramyn
-29. Talyra
-30. Velsha
-31. Aerynn
-32. Jinora
-33. Syraelle
-34. Umika
-35. Vaylith
-36. Thalina
-37. Krysha
-38. Yorina
-39. Nasiri
-40. Leviah
-41. Imera
-42. Quinara
-43. Senisa
-44. Ryelith
-45. Feyana
-46. Kilani
-47. Zymara
-48. Arinna
-49. Neyra
-50. Salisra
-51. Lythera
-52. Erisanne
-53. Xynara
-54. Velanith
-55. Selvari
-56. Zoraina
-57. Vaesha
-58. Lirien
-59. Aeriselle
-60. Zarith
-61. Nysha
-62. Malira
-63. Oranith
-64. Kelina
-65. Xolyna
-66. Thalise
-67. Azynelle
-68. Iovetha
-69. Neris
-70. Ryvelle
-71. Lyanne
-72. Serinai
-73. Avyra
-74. Melyse
-75. Enysha
-76. Tyralis
-77. Feynith
-78. Zhavara
-79. Alyri
-80. Sonith
-81. Nalyna
-82. Ellari
-83. Ceriveth
-84. Varilynn
-85. Amisra
-86. Novira
-87. Solyra
-88. Ferynn
-89. Kalisse
-90. Nerielle
-91. Vyseris
-92. Ilysha
-93. Kaelinne
-94. Myveth
-95. Zorayne
-96. Xoryn
-97. Aelrisa
-98. Lysiveth
-99. Rhenara
-100. Zayla
+## Name Structure
 
-## Male Names
+Duskaran names follow a hierarchical structure that has developed over eight centuries:
 
-1.  Khoran
-2.  Lysander
-3.  Zade
-4.  Omithar
-5.  Thalyon
-6.  Kyren
-7.  Jarath
-8.  Enlor
-9.  Zhayrin
-10. Loric
-11. Karyon
-12. Bralyn
-13. Evren
-14. Moryn
-15. Tharic
-16. Saelon
-17. Vynel
-18. Torik
-19. Lioran
-20. Aziel
-21. Reynor
-22. Malich
-23. Daeven
-24. Tyvol
-25. Xendric
-26. Corain
-27. Velar
-28. Syonis
-29. Mykos
-30. Althar
-31. Zevik
-32. Arlan
-33. Thryne
-34. Kaleth
-35. Sorin
-36. Vyric
-37. Enith
-38. Yoral
-39. Kyos
-40. Faedric
-41. Ulren
-42. Tyras
-43. Nasir
-44. Balric
-45. Lenek
-46. Orvan
-47. Kaelith
-48. Zhyrin
-49. Xavren
-50. Cylas
-51. Ferin
-52. Melior
-53. Sorthar
-54. Jorik
-55. Kalvor
-56. Zylar
-57. Ardel
-58. Veyric
-59. Solrik
-60. Fenryn
-61. Alorin
-62. Kyvar
-63. Tyvren
-64. Eryon
-65. Dalric
-66. Rhyndel
-67. Salnor
-68. Ariveth
-69. Levos
-70. Voryn
-71. Endar
-72. Xorik
-73. Zhelan
-74. Myrkas
-75. Valic
-76. Sarnel
-77. Teryon
-78. Faryn
-79. Vynrik
-80. Lorath
-81. Ralven
-82. Zelrin
-83. Domir
-84. Synar
-85. Krylar
-86. Oneth
-87. Thavor
-88. Zalryn
-89. Vorath
-90. Elorin
-91. Sycoris
-92. Xylen
-93. Tyrin
-94. Rhadel
-95. Valric
-96. Korveth
-97. Lynrik
-98. Altheris
-99. Yvaren
-100. Sorath
+**Personal name + kin-\[Wind-Kin\] + Surname** (full formal)  
+**Personal name + Surname** (common formal)  
+**Personal name** (casual)
 
-## Gender-Neutral
+### Examples
 
-1.  Aelith
-2.  Zoryn
-3.  Lioris
-4.  Feryn
-5.  Thalith
-6.  Valen
-7.  Kyros
-8.  Oris
-9.  Rhelan
-10. Syrel
-11. Zhayn
-12. Eryth
-13. Myrin
-14. Velyn
-15. Arlen
-16. Zynel
-17. Taryn
-18. Kaelis
-19. Vyron
-20. Selric
-21. Nozrin
-22. Aziel
-23. Corin
-24. Xyra
-25. Malen
-26. Velthar
-27. Tyral
-28. Saeris
-29. Isarn
-30. Nyrel
-31. Thoryn
-32. Kryon
-33. Lioren
-34. Vythar
-35. Zhovar
-36. Orynth
-37. Lynel
-38. Syran
-39. Dalien
-40. Feyth
-41. Xariel
-42. Rylen
-43. Quinith
-44. Zhelan
-45. Toren
-46. Arlith
-47. Eryon
-48. Kyther
-49. Salen
-50. Zoryth
-51. Aevrin
-52. Xythen
-53. Valith
-54. Serel
-55. Myvyn
-56. Oralin
-57. Velis
-58. Rysar
-59. Tyvren
-60. Azorin
-61. Nolyn
-62. Zyther
-63. Thalyn
-64. Erylis
-65. Nyvorn
-66. Foryn
-67. Zaleth
-68. Koriel
-69. Sythen
-70. Lycor
-71. Talyth
-72. Yloren
-73. Feris
-74. Zynar
-75. Cyrith
-76. Maren
-77. Xoril
-78. Lioral
-79. Vornis
-80. Ysarith
-81. Noryn
-82. Falin
-83. Tyris
-84. Kaeryn
-85. Malith
-86. Zoryel
-87. Asyr
-88. Veyrin
-89. Coralith
-90. Nerith
-91. Valor
-92. Rhelis
-93. Zyneth
-94. Thynar
-95. Alryn
-96. Lysor
-97. Xaren
-98. Felyn
-99. Soril
-100. Aelir
+- **Full Formal**: Aelira kin-Hanga Thornvale
+- **Common Formal**: Aelira Thornvale
+- **Casual**: Aelira
+
+## Wind-Kin Designations
+
+Wind-Kin affiliation denotes extended family clan membership and is part of formal naming. These designations represent major cultural-environmental lineages that have developed on Duskara:
+
+- **kin-Hanga** – of the Wind clan (surface dwellers, weatherworkers)
+- **kin-Moto** – of the Fire/Geothermal clan (thermal specialists, day-side workers)
+- **kin-Maji** – of the Water clan (water managers, conservationists)
+- **kin-Babu** – of the Elder lineage (knowledge keepers, traditional families)
+- **kin-Kivuli** – of the Shadow clan (Deepkin, night-side cave dwellers)
+
+Wind-Kin designations are used:
+
+- In formal introductions and ceremonies
+- In official documents and records
+- When emphasizing clan affiliation or heritage
+- During negotiations between settlements
+
+They are omitted in:
+
+- Casual daily interactions
+- Most written communication
+- Contexts where clan affiliation is irrelevant
+
+## Phonetic Foundation
+
+### Consonants
+
+- **Common clusters**: zh, kh, sh, th, ry, ly, ny, vy, kr, br, dr, tr, vr, sr
+- **Initial consonants**: K, Z, L, Th, V, A, S, R, M, F, Kh, Zh, Sh, N, T, X, Y
+- **Hard sounds**: k, t, th, r emphasize resilience
+- **Soft sounds**: sh, zh, v, l suggest adaptability
+
+### Vowels
+
+- **Primary**: a, e, i, o
+- **Y as vowel**: Common in endings and middle syllables
+- **Diphthongs**: ae, ai, ey, ay, or
+
+### Syllable Structure
+
+- **Length**: 2-4 syllables
+- **Patterns**: CV (consonant-vowel), CVC, CVCC
+- **Stress**: Usually on first or second syllable
+
+## First Names
+
+### Female Names
+
+**Typical endings**:
+
+- **-a**: Aelira, Zorathi, Vynara (most common)
+- **-ra/-ara**: Zihara, Isarra, Luminara
+- **-na**: Shavina, Kalienna
+- **-ssa/-sa**: Eryssa, Alyris
+- **-elle/-el**: Rhyelle, Saryndel
+- **-yne/-yn**: Zorayne, Varilynn
+- **-is**: Nerielle, Ellari
+- **-e**: Melise, Feynith
+- **-i**: Khyanni, Alyri
+- **-th/-ith**: Feynith, Sonith, Ceriveth
+
+**Construction patterns**:
+
+1.  Start with strong consonant or cluster (Kh-, Zh-, Sh-, Th-, Z-, V-, L-)
+2.  Add 1-2 syllables with flowing vowels
+3.  End with feminine suffix
+4.  Examples: Kh + ya + nni = Khyanni, Z + ih + ara = Zihara
+
+### Male Names
+
+**Typical endings**:
+
+- **-or/-ar**: Khoran, Lysander, Torik, Althar
+- **-ic/-ric**: Dalric, Valric, Tharic, Faedric
+- **-el/-en**: Arlan, Enith, Ulren
+- **-yn/-in**: Moryn, Sorin, Kyren
+- **-os**: Mykos, Kyos, Levos
+- **-as**: Tyras
+- **-th/-eth**: Kaleth, Korveth, Kaelith
+
+**Construction patterns**:
+
+1.  Begin with hard consonants (K-, Th-, Z-, B-, D-, X-)
+2.  Use 2-3 syllables with clear, strong sounds
+3.  End with masculine suffix
+4.  Examples: Th + al + yon = Thalyon, Ky + ren = Kyren
+
+### Gender-Neutral Names
+
+**Typical endings**:
+
+- **-yn**: Zoryn, Taryn, Myrin
+- **-el/-en**: Arlen, Lynel, Toren
+- **-th**: Aelith, Thalith, Eryth, Feyth
+- **-is**: Lioris, Kaelis, Saeris
+- **-ar**: Velthar, Vythar
+- **-os**: Kyros, Oris
+
+**Construction patterns**:
+
+1.  Balance hard and soft consonants
+2.  Use neutral endings that avoid strong gender markers
+3.  2-3 syllables preferred
+4.  Examples: Ae + lith = Aelith, Ky + ros = Kyros
 
 ## Surnames
 
-1.  Thornvale
-2.  Ashenfall
-3.  Luyareh
-4.  Vyraska
-5.  Kethri
-6.  Daemir
-7.  Rynthar
-8.  Velkara
-9.  Zhayran
-10. Loraketh
-11. Emberlyn
-12. Myralis
-13. Shorvik
-14. Zyltar
-15. Tynoria
-16. Vorien
-17. Ulthain
-18. Orvalis
-19. Kryther
-20. Lynara
-21. Sarvoth
-22. Fenorith
-23. Kaelthorne
-24. Vosir
-25. Ryshar
-26. Nasiel
-27. Orynth
-28. Valtan
-29. Alryss
-30. Xorath
-31. Telynn
-32. Corvas
-33. Yzarn
-34. Fethrynn
-35. Larynthal
-36. Zorathis
-37. Shaerith
-38. Volkeran
-39. Thrayne
-40. Melori
-41. Narvith
-42. Soryn
-43. Arlithar
-44. Brynthe
-45. Zhyvorn
-46. Lorianth
-47. Xenros
-48. Velathis
-49. Oryndel
-50. Tyvas
-51. Vorales
-52. Zalveth
-53. Zhorin
-54. Lytriss
-55. Velseris
-56. Arenthar
-57. Synrath
-58. Maloris
-59. Nolvaris
-60. Talyric
-61. Zherith
-62. Caralith
-63. Mynorith
-64. Kaeliris
-65. Dalveth
-66. Velarith
-67. Kyrnath
-68. Falrynn
-69. Loryth
-70. Xilaryn
-71. Ordrath
-72. Kaloris
-73. Brylaris
-74. Endaril
-75. Norithar
-76. Yvaros
-77. Sornath
-78. Ulveris
-79. Vylarith
-80. Lorynthal
-81. Vorenath
-82. Tylaris
-83. Azorith
-84. Varionth
-85. Xorathis
-86. Velanthis
-87. Mylarin
-88. Telorith
-89. Sarneth
-90. Valeris
-91. Zylarin
-92. Rynthorn
-93. Fenrisal
-94. Orzareth
-95. Nalveth
-96. Kryloris
-97. Zephyros
-98. Sorvynis
-99. Olarith
-100. Dalynar
+### Structure Types
+
+**Compound descriptive** (Earth-influenced):
+
+- Environmental: Thornvale, Ashenfall, Emberlyn
+- Pattern: \[descriptor\] + \[natural feature\]
+
+**Duskaran native**:
+
+- Consonant-heavy: Kethri, Vyraska, Rynthar, Kryther
+- Vowel-rich: Luyareh, Orvalis, Loraketh
+- Balanced: Velkara, Zhayran, Daemir
+
+### Typical endings
+
+- **-eth/-ith**: Loraketh, Fenorith, Zorathis, Shaerith
+- **-ar/-or**: Zyltar, Vorien, Vosir
+- **-yn/-yn**: Telynn, Brynthe
+- **-is/-os**: Myralis, Xenros, Velathis
+- **-vale/-fall**: Thornvale, Ashenfall
+- **-orne/-thar**: Kaelthorne, Arlithar
+
+### Construction patterns
+
+1.  **Compound**: \[Environmental/thermal term\] + \[geographical feature\]
+    - Ash + fall = Ashenfall, Thorn + vale = Thornvale
+2.  **Native**: 2-3 syllables, mixed consonant clusters
+    - Vy + rask + a = Vyraska, Kae + lir + is = Kaeliris
+3.  **Hybrid**: Blend Earth and Duskaran elements
+    - Fen + or + ith = Fenorith
+
+## Name Assembly Process
+
+### Step 1: Choose Gender Expression
+
+Determine if the name should be feminine, masculine, or neutral
+
+### Step 2: Select Starting Sound
+
+Pick an initial consonant or cluster that fits the character's nature:
+
+- Hard survivors: K-, Th-, Z-, Kr-, Dr-
+- Adaptable types: L-, V-, S-, Sh-, Zh-
+- Psychic/spiritual: Ae-, Ny-, Ry-
+
+### Step 3: Build Core Syllables
+
+Add 1-2 middle syllables using:
+
+- Common patterns: ya, ra, el, or, yn, is, ar
+- Vowel sequences: ae, ai, ey, or
+- Consonant clusters: ry, ly, th, sh
+
+### Step 4: Apply Appropriate Ending
+
+Choose from gender-appropriate endings listed above
+
+### Step 5: Test Pronunciation
+
+- Say it aloud—should flow smoothly
+- Avoid awkward consonant collisions
+- Ensure 2-4 syllables maximum
+
+### Step 6: Add Surname
+
+Select or create a surname using compound or native patterns
+
+## Cultural Considerations
+
+### Regional Variations
+
+**Twilight Belt settlements**:
+
+- Tend toward wind/storm-related sounds
+- Harder consonants, reflecting environmental harshness
+- Examples: Thryne Stormridge, Zade Thornvale
+
+**Night-side cave dwellers**:
+
+- Softer sounds, more vowel-rich
+- Names often shorter, more whispered
+- Examples: Lyanne Velseris, Feryn Loraketh
+
+**Day-side workers** (rare):
+
+- Sharp, heat-evocative sounds
+- Strong emphasis on harsh consonants
+- Examples: Khoran Ashenfall, Zhyrin Ryshar
+
+### Psychic Ability Influences
+
+**Weatherworkers**:
+
+- Names often contain wind-like sibilants (sh, zh, s)
+- Examples: Shavina, Zhayrin, Saeris
+
+**Thermal Sensors**:
+
+- Names with hard stops and thermal associations
+- Examples: Kaleth, Tyras, Ferith
+
+**Deep Bonders**:
+
+- Flowing, connected sounds
+- Examples: Luyana, Elorin, Velathis
+
+### Naming Ceremonies
+
+Names are typically given in infancy but can be amended or expanded upon demonstrating psychic abilities or achieving significant milestones. Some individuals earn additional names reflecting their roles or accomplishments.
+
+## Examples of Name Construction
+
+1.  **Female weatherworker from twilight belt**:
+
+    - Start: Sh- (wind sound)
+    - Core: -av-in- (flowing)
+    - End: -a (feminine)
+    - Wind-Kin: kin-Hanga (Wind clan)
+    - Surname: Thornvale (compound)
+    - **Full formal**: Shavina kin-Hanga Thornvale
+    - **Common formal**: Shavina Thornvale
+
+2.  **Male thermal sensor from cave settlement**:
+
+    - Start: Ky- (sharp)
+    - Core: -r-eth (thermal)
+    - End: (built into core)
+    - Wind-Kin: kin-Moto (Fire clan)
+    - Surname: Velseris (native)
+    - **Full formal**: Kyreth kin-Moto Velseris
+    - **Common formal**: Kyreth Velseris
+
+3.  **Gender-neutral deep bonder**:
+
+    - Start: Ae- (mystical)
+    - Core: -l- (flowing)
+    - End: -ith (neutral)
+    - Wind-Kin: kin-Maji (Water clan)
+    - Surname: Loraketh (native)
+    - **Full formal**: Aelith kin-Maji Loraketh
+    - **Common formal**: Aelith Loraketh
+
+4.  **Cave dweller from night-side**:
+
+    - Start: L- (soft)
+    - Core: -uy-an- (vowel-rich)
+    - End: -a (feminine)
+    - Wind-Kin: kin-Kivuli (Shadow clan)
+    - Surname: Ashenfall (compound)
+    - **Full formal**: Luyana kin-Kivuli Ashenfall
+    - **Common formal**: Luyana Ashenfall
+
+## Quick Reference Tables
+
+### Common Prefixes
+
+| Prefix  | Sound | Usage                 |
+|---------|-------|-----------------------|
+| Ae-     | /eɪ/  | Mystical, psychic     |
+| Kh-     | /x/   | Strong, resilient     |
+| Zh-     | /ʒ/   | Adaptable, flowing    |
+| Th-     | /θ/   | Traditional, grounded |
+| Zy-/Zy- | /zi/  | Sharp, quick          |
+| Ly-     | /li/  | Graceful, bonding     |
+
+### Common Suffixes
+
+**Feminine**: -a, -ra, -na, -ssa, -elle, -yne, -is, -e, -i, -th
+
+**Masculine**: -or, -ic, -el, -yn, -os, -ar, -en, -eth
+
+**Neutral**: -yn, -el, -th, -is, -en, -ar, -os
+
+### Surname Components
+
+**First elements**: Thorn, Ash, Ember, Storm, Frost, Shadow, Dusk, Wind, Flame
+
+**Second elements**: -vale, -fall, -ridge, -crest, -thorn, -lyn
+
+**Native forms**: -eth, -ith, -ar, -or, -yn, -is, -os, -orne, -thar
+
+## Avoiding Common Pitfalls
+
+1.  **Don't overcomplicate**: Keep to 2-4 syllables
+2.  **Avoid Earth name copying**: Create new combinations, don't just modify existing Earth names
+3.  **Balance sounds**: Mix hard and soft consonants
+4.  **Test pronunciation**: If it's a tongue-twister, simplify
+5.  **Consider character background**: Name should fit their origin and role
+6.  **Maintain consistency**: Follow established patterns from the setting
+
+## Examples of Name Construction
+
+1.  **Female weatherworker from twilight belt**:
+
+    - Start: Sh- (wind sound)
+    - Core: -av-in- (flowing)
+    - End: -a (feminine)
+    - Wind-Kin: kin-Hanga (Wind clan)
+    - Surname: Thornvale (compound)
+    - **Full formal**: Shavina kin-Hanga Thornvale
+    - **Common formal**: Shavina Thornvale
+
+2.  **Male thermal sensor from cave settlement**:
+
+    - Start: Ky- (sharp)
+    - Core: -r-eth (thermal)
+    - End: (built into core)
+    - Wind-Kin: kin-Moto (Fire clan)
+    - Surname: Velseris (native)
+    - **Full formal**: Kyreth kin-Moto Velseris
+    - **Common formal**: Kyreth Velseris
+
+3.  **Gender-neutral deep bonder**:
+
+    - Start: Ae- (mystical)
+    - Core: -l- (flowing)
+    - End: -ith (neutral)
+    - Wind-Kin: kin-Maji (Water clan)
+    - Surname: Loraketh (native)
+    - **Full formal**: Aelith kin-Maji Loraketh
+    - **Common formal**: Aelith Loraketh
+
+4.  **Cave dweller from night-side**:
+
+    - Start: L- (soft)
+    - Core: -uy-an- (vowel-rich)
+    - End: -a (feminine)
+    - Wind-Kin: kin-Kivuli (Shadow clan)
+    - Surname: Ashenfall (compound)
+    - **Full formal**: Luyana kin-Kivuli Ashenfall
+    - **Common formal**: Luyana Ashenfall
+
+## Quick Reference Tables
+
+### Common Prefixes
+
+| Prefix  | Sound | Usage                 |
+|---------|-------|-----------------------|
+| Ae-     | /eɪ/  | Mystical, psychic     |
+| Kh-     | /x/   | Strong, resilient     |
+| Zh-     | /ʒ/   | Adaptable, flowing    |
+| Th-     | /θ/   | Traditional, grounded |
+| Zy-/Zy- | /zi/  | Sharp, quick          |
+| Ly-     | /li/  | Graceful, bonding     |
+
+### Common Suffixes
+
+**Feminine**: -a, -ra, -na, -ssa, -elle, -yne, -is, -e, -i, -th
+
+**Masculine**: -or, -ic, -el, -yn, -os, -ar, -en, -eth
+
+**Neutral**: -yn, -el, -th, -is, -en, -ar, -os
+
+### Surname Components
+
+**First elements**: Thorn, Ash, Ember, Storm, Frost, Shadow, Dusk, Wind, Flame
+
+**Second elements**: -vale, -fall, -ridge, -crest, -thorn, -lyn
+
+**Native forms**: -eth, -ith, -ar, -or, -yn, -is, -os, -orne, -thar
+
+## Naming Examples
+
+This document provides examples of Duskaran names in various contexts and formats.
+
+### Name Structure
+
+Duskaran names follow a three-part structure established over eight centuries:
+
+1.  **Personal name** (given at birth)
+2.  **Wind-Kin designation** (clan affiliation, optional in casual use)
+3.  **Surname** (family name)
+
+### Usage Contexts
+
+#### Full Formal (All three parts)
+
+Used in official documents, ceremonies, formal introductions, and when clan affiliation matters.
+
+**Examples:**
+
+- Aelira kin-Hanga Thornvale
+- Korvan kin-Moto Vyraska
+- Shavina kin-Maji Loraketh
+- Thane kin-Babu Daemir
+- Luyana kin-Kivuli Ashenfall
+- Kaelen kin-Hanga Rynthar
+
+#### Common Formal (Personal + Surname)
+
+Used in most written communication, professional contexts, and daily interactions where formality is expected but clan emphasis is unnecessary.
+
+**Examples:**
+
+- Aelira Thornvale
+- Korvan Vyraska
+- Shavina Loraketh
+- Thane Daemir
+- Luyana Ashenfall
+- Kaelen Rynthar
+
+#### Casual (Personal name only)
+
+Used among friends, family, and in informal settings.
+
+**Examples:**
+
+- Aelira
+- Korvan
+- Shavina
+- Thane
+- Luyana
+- Kaelen
+
+### Wind-Kin Clans
+
+#### kin-Hanga (Wind Clan)
+
+Surface dwellers, weatherworkers, those who work with wind patterns.
+
+**Example characters:**
+
+- Zorathi kin-Hanga Stormridge (female weatherworker)
+- Darian kin-Hanga Emberlyn (male wind engineer)
+- Miren kin-Hanga Velkara (neutral atmospheric monitor)
+
+#### kin-Moto (Fire/Geothermal Clan)
+
+Thermal specialists, geothermal engineers, day-side workers.
+
+**Example characters:**
+
+- Zihara kin-Moto Kryther (female thermal sensor)
+- Ravik kin-Moto Ashenfall (male day-side salvager)
+- Soren kin-Moto Zhayran (neutral geothermal technician)
+
+#### kin-Maji (Water Clan)
+
+Water managers, conservationists, hydroponic farmers.
+
+**Example characters:**
+
+- Manya kin-Maji Loraketh (female water systems manager)
+- Orin kin-Maji Thornvale (male hydroponic specialist)
+- Lyris kin-Maji Orvalis (neutral moisture harvester)
+
+#### kin-Babu (Elder Lineage)
+
+Knowledge keepers, historians, traditional families, cultural preservationists.
+
+**Example characters:**
+
+- Luminara kin-Babu Daemir (female data crystal keeper)
+- Thane kin-Babu Rynthar (male oral historian)
+- Kaelen kin-Babu Luyareh (neutral memory specialist)
+
+#### kin-Kivuli (Shadow Clan)
+
+Deepkin, night-side cave dwellers, those who live in permanent darkness.
+
+**Example characters:**
+
+- Luyana kin-Kivuli Ashenfall (female cave community leader)
+- Zayne kin-Kivuli Velkara (male deep bonder)
+- Miren kin-Kivuli Kethri (neutral geothermal monitor)
+
+### Dialogue Examples
+
+#### Formal Introduction
+
+"I present Aelira kin-Hanga Thornvale, weatherworker of the Northern Reach settlements."
+
+#### Casual Meeting
+
+"Have you met Aelira? She's the new weatherworker."
+
+#### Official Document
+
+"Requisition approved by Korvan kin-Moto Vyraska, Chief Thermal Engineer, Dayward Mining Operations."
+
+#### Letter Salutation
+
+"Dear Shavina Loraketh,
+
+Thank you for your inquiry regarding water allocation..."
+
+#### Between Friends
+
+"Thane says the storm's going to hit us harder than expected."
+
+### Character Sheet Examples
+
+#### Full Character Sheet Header
+
+**Name:** Zorathi kin-Hanga Stormridge  
+**Clan:** Wind (kin-Hanga)  
+**Role:** Senior Weatherworker  
+**Settlement:** Northern Reach
+
+#### Simplified Character Sheet
+
+**Name:** Zorathi Stormridge  
+**Role:** Weatherworker  
+**Settlement:** Northern Reach
+
+#### Quick Reference
+
+**Name:** Zorathi  
+**Clan:** Wind  
+**Role:** Weatherworker
+
+### Multi-Cultural Examples
+
+#### Mixed Clan Family
+
+When individuals from different clans marry, children typically take one parent's clan affiliation but may reference both informally:
+
+- Ravik kin-Moto Thornvale (father from kin-Hanga, mother from kin-Moto)
+- "Ravik of Thornvale, born to the Wind but walks with Fire"
+
+#### Clan Transition
+
+Some individuals change clan affiliation due to life circumstances or professional specialization:
+
+- Formerly: Kaelen kin-Hanga Rynthar
+- Now: Kaelen kin-Kivuli Rynthar (moved to night-side caves)
+- Referred to as: "Kaelen Windborn of the Shadow clan"
+
+#### No Clan Affiliation
+
+Some individuals, particularly those from isolated settlements or mixed backgrounds, may not claim a clan:
+
+- Personal name + Surname only
+- Example: Miren Velkara (no clan designation)
+- Referred to with settlement name instead: "Miren of Deephollow"
+
+### Generational Examples
+
+#### Family Lineage
+
+**Grandfather:** Thoran kin-Hanga Thornvale  
+**Mother:** Aelira kin-Hanga Thornvale  
+**Daughter:** Zorathi kin-Hanga Thornvale
+
+Surnames pass through generations, Wind-Kin affiliations typically do as well, but personal names are unique within immediate family.
+
+#### Compound Family Names
+
+Some prestigious families maintain both parents' surnames:
+
+- Korvan kin-Moto Vyraska-Thornvale
+- More common in Elder lineage (kin-Babu)
+
+### Regional Variations
+
+#### Twilight Belt Settlements
+
+Tend toward full formal names in official contexts, common formal in daily use.
+
+- Written: Aelira kin-Hanga Thornvale
+- Spoken: Aelira Thornvale
+
+#### Night-Side Caves
+
+More casual, clan often implied by location rather than stated.
+
+- Written: Luyana Ashenfall of Deephollow
+- Spoken: Luyana (clan assumed to be kin-Kivuli)
+
+#### Nomadic Groups
+
+Some groups don't use fixed surnames, instead use settlement names:
+
+- Miren of Windcross
+- Soren of the Moving Camps
+
+### Honorifics and Titles
+
+When combined with names, titles precede the full name:
+
+- Weathermaster Aelira kin-Hanga Thornvale
+- Chief Engineer Korvan kin-Moto Vyraska
+- Elder Thane kin-Babu Daemir
+- Deepguide Luyana kin-Kivuli Ashenfall
+
+Casual with title:
+
+- Weathermaster Aelira
+- Chief Korvan
+- Elder Thane
+- Guide Luyana
+
+### Names in Different Media
+
+#### On wind-songs (oral tradition)
+
+"Listen to the tale of Aelira of Thornvale, who tamed the great storm..."
+
+#### On data crystals (formal records)
+
+"Record: Aelira kin-Hanga Thornvale, Weatherworker Third Class, certified Cycle 8,429..."
+
+#### On settlement rosters
+
+"Thornvale, Aelira (kin-Hanga) - Weatherworker"
+
+#### In casual letters
+
+"Dear Aelira,
+
+Hope this finds you well..."
+
+### Common Mistakes to Avoid
+
+❌ Using clan designation in casual conversation between friends  
+✅ Use personal name only: "Aelira says the storm will pass soon"
+
+❌ Omitting clan in official documents  
+✅ Always use full formal: "Approved by Aelira kin-Hanga Thornvale"
+
+❌ Adding unnecessary complexity  
+✅ Match formality to context
+
+❌ Mixing Earth and Duskaran conventions incorrectly  
+✅ Follow established patterns for surnames
+
+### Quick Reference Chart
+
+| Context            | Format        | Example                    |
+|--------------------|---------------|----------------------------|
+| Official ceremony  | Full formal   | Aelira kin-Hanga Thornvale |
+| Legal document     | Full formal   | Aelira kin-Hanga Thornvale |
+| Professional intro | Common formal | Aelira Thornvale           |
+| Written letter     | Common formal | Aelira Thornvale           |
+| Daily conversation | Common formal | Aelira Thornvale           |
+| Among friends      | Casual        | Aelira                     |
+| Family             | Casual        | Aelira                     |
+| Wind-songs         | Varies        | Aelira of Thornvale        |
+
+## Name Sample Lists
+
+Here are lists of personal names, all drawing inspiration from **Duskara's culture** and environment:
+
+### Female Names
+
+|       |    Name    |  Wind-kin  |   Surname    |
+|:-----:|:----------:|:----------:|:------------:|
+|  1\.  |  Zhathoni  |  kin-Babu  | Shadowthorn  |
+|  2\.  |  Teothth   | kin-Hanga  | Shadowthorn  |
+|  3\.  |  Meolelle  |  kin-Maji  |   Beorath    |
+|  4\.  |  Vyothris  |  kin-Maji  |  Khonysvel   |
+|  5\.  | Sharanris  | kin-Hanga  |   Thevith    |
+|  6\.  |  Yyarelle  |  kin-Maji  |   Xyelath    |
+|  7\.  |   Kaila    |  kin-Maji  |  Emberwatch  |
+|  8\.  |  Khokysel  | kin-Kivuli |    Aysvel    |
+|  9\.  |  Zyethel   | kin-Hanga  |  Frostthorn  |
+| 10\.  | Shokasyne  | kin-Hanga  |  Foeralaris  |
+| 11\.  |   Lyerra   |  kin-Maji  |  Veenosthar  |
+| 12\.  |   Shorsa   | kin-Hanga  |   Beasenis   |
+| 13\.  |  Vyolara   |  kin-Moto  |  Windcrest   |
+| 14\.  |   Vaelna   |  kin-Babu  |  Zoyayaeth   |
+| 15\.  |  Dairevna  | kin-Hanga  |   Roavath    |
+| 16\.  |  Thelyne   |  kin-Babu  |  Dawnridge   |
+| 17\.  |  Zhakith   | kin-Kivuli |  Khothalith  |
+| 18\.  |  Thanssa   | kin-Hanga  |   Eorynis    |
+| 19\.  | Maatharel  |  kin-Maji  |  Dawnridge   |
+| 20\.  |   Taethe   | kin-Kivuli |    Yyais     |
+| 21\.  |  Nynivna   |  kin-Maji  |  Vyraakeris  |
+| 22\.  |  Oilelle   | kin-Hanga  |    Learyn    |
+| 23\.  |  Seelith   |  kin-Babu  |  Nyoruraris  |
+| 24\.  | Byelokris  |  kin-Moto  |  Zyosolorne  |
+| 25\.  |  Saanorna  |  kin-Babu  |   Keivaris   |
+| 26\.  |  Khothra   | kin-Kivuli |  Xeevilthar  |
+| 27\.  |  Neothase  |  kin-Maji  |  Varaikthar  |
+| 28\.  |   Neysna   |  kin-Moto  |  Xaolysvel   |
+| 29\.  |   Keonis   | kin-Kivuli |  Emberthorn  |
+| 30\.  |  Faavara   | kin-Hanga  |    Moenis    |
+| 31\.  |   Zhili    |  kin-Maji  |    Oynyth    |
+| 32\.  |  Zeethith  | kin-Kivuli | Shadowwatch  |
+| 33\.  | Beonolelle |  kin-Moto  |  Naokyakis   |
+| 34\.  |  Tealssa   | kin-Kivuli |   Laiveth    |
+| 35\.  | Faikarssa  |  kin-Maji  |  Feivokaris  |
+| 36\.  | Searethra  |  kin-Maji  |  Ryirarith   |
+| 37\.  | Fyavysara  | kin-Kivuli |   Zyikysos   |
+| 38\.  |  Thosris   |  kin-Moto  |   Kyavath    |
+| 39\.  | Tayaikveth | kin-Hanga  |   Oraorne    |
+| 40\.  |   Myelis   | kin-Hanga  |   Koerosos   |
+| 41\.  |  Keelveth  | kin-Hanga  |    Easos     |
+| 42\.  |   Dyothi   | kin-Hanga  |  Thornwind   |
+| 43\.  | Zeethilel  | kin-Kivuli |  Khalosorne  |
+| 44\.  |  Vaavveth  |  kin-Babu  |  Dawnridge   |
+| 45\.  |  Kholeli   |  kin-Maji  |  Taathokath  |
+| 46\.  |  Maurveth  |  kin-Babu  |  Koaveleth   |
+| 47\.  |   Dearis   |  kin-Maji  |    Xeoris    |
+| 48\.  |  Raisith   | kin-Kivuli |   Yoothos    |
+| 49\.  |  Mailevra  |  kin-Maji  |  Ashkeeper   |
+| 50\.  |   Myolel   | kin-Hanga  |   Xaakvel    |
+| 51\.  |   Xeeryn   | kin-Hanga  |  Frostthorn  |
+| 52\.  |   Ourith   | kin-Kivuli |  Zeraysthar  |
+| 53\.  |   Zhosi    |  kin-Maji  |  Starcrest   |
+| 54\.  |  Kaavris   |  kin-Maji  |  Dailevith   |
+| 55\.  |  Zaynene   |  kin-Moto  |  Moraalyth   |
+| 56\.  |  Shethel   | kin-Hanga  |   Khothar    |
+| 57\.  | Keynothith | kin-Hanga  |  Frostwind   |
+| 58\.  |  Eeroris   | kin-Hanga  |   Ashthorn   |
+| 59\.  |   Xaerth   |  kin-Babu  |    Deasor    |
+| 60\.  |  Eothenel  |  kin-Babu  |   Teanyaar   |
+| 61\.  |  Teynelle  |  kin-Babu  |   Flamelyn   |
+| 62\.  |   Eothe    | kin-Kivuli |   Zharosor   |
+| 63\.  | Byarothssa |  kin-Babu  |  Maosararis  |
+| 64\.  |  Kyolveth  |  kin-Maji  |  Oynilorne   |
+| 65\.  |  Yealris   | kin-Kivuli |   Shanvel    |
+| 66\.  |  Dyakris   | kin-Kivuli | Frostwalker  |
+| 67\.  | Xeirathssa |  kin-Maji  |   Oalothor   |
+| 68\.  |  Aysveth   |  kin-Moto  |   Soonvel    |
+| 69\.  | Fyilethyne |  kin-Babu  |   Eurolor    |
+| 70\.  |  Veakelle  | kin-Hanga  | Boakeththar  |
+| 71\.  |  Thokith   |  kin-Maji  |  Duskridge   |
+| 72\.  |  Vyaothe   | kin-Kivuli |   Saerorne   |
+| 73\.  |   Maysth   | kin-Kivuli | Flamewalker  |
+| 74\.  |   Failra   |  kin-Babu  |  Windwatch   |
+| 75\.  |   Saone    | kin-Hanga  |    Xyeris    |
+| 76\.  |  Eerothna  |  kin-Babu  | Shadowridge  |
+| 77\.  |  Sharavis  |  kin-Moto  |   Feanyth    |
+| 78\.  |  Aalerra   |  kin-Moto  |   Starvale   |
+| 79\.  |   Shila    | kin-Kivuli |  Nightvale   |
+| 80\.  |  Dynelle   |  kin-Maji  |  Xaysyskis   |
+| 81\.  |   Laari    | kin-Hanga  |   Thevvel    |
+| 82\.  |  Tyosirna  |  kin-Babu  |  Vaelileris  |
+| 83\.  |   Daeve    | kin-Hanga  |  Flamevale   |
+| 84\.  |  Khysyne   | kin-Hanga  |  Leetheris   |
+| 85\.  |  Rynavth   |  kin-Babu  |  Boathevvel  |
+| 86\.  |   Neonel   | kin-Hanga  |  Daikakith   |
+| 87\.  |  Layselle  |  kin-Maji  |  Flamethorn  |
+| 88\.  |   Xyelra   | kin-Hanga  |  Dyelavith   |
+| 89\.  |  Aathveth  | kin-Kivuli |  Myenivaris  |
+| 90\.  |   Shyai    | kin-Hanga  |  Byikenath   |
+| 91\.  |   Thoksa   | kin-Kivuli | Shadowwalker |
+| 92\.  |  Xayneni   | kin-Kivuli |  Thornthorn  |
+| 93\.  |   Yyone    |  kin-Moto  |  Voanereris  |
+| 94\.  |  Saonith   |  kin-Babu  |  Frostfall   |
+| 95\.  |   Beike    | kin-Hanga  |  Myasoseris  |
+| 96\.  |   Khassa   | kin-Kivuli |   Kyanorne   |
+| 97\.  |   Farayn   | kin-Hanga  | Vyathokeris  |
+| 98\.  |  Shelelyn  | kin-Hanga  |  Stormridge  |
+| 99\.  |  Zhasyne   |  kin-Moto  |   Faaneris   |
+| 100\. | Naosurelle |  kin-Maji  |   Aevaseth   |
+
+### Male Names
+
+|       |    Name    |  Wind-kin  |   Surname   |
+|:-----:|:----------:|:----------:|:-----------:|
+|  1\.  |   Maoros   | kin-Kivuli |  Feiluryth  |
+|  2\.  |   Oasth    |  kin-Babu  | Windwalker  |
+|  3\.  | Sharurath  | kin-Kivuli | Nightkeeper |
+|  4\.  |   Meivas   |  kin-Babu  |  Nightlyn   |
+|  5\.  |  Vaanath   | kin-Kivuli |  Teononyn   |
+|  6\.  |   Ealas    |  kin-Maji  | Zaathelvel  |
+|  7\.  |  Rairisor  | kin-Kivuli |   Vaothar   |
+|  8\.  |   Feonar   |  kin-Maji  |   Khavkis   |
+|  9\.  |  Veakanic  |  kin-Babu  |  Lyetheris  |
+| 10\.  | Beraikath  |  kin-Moto  |   Deanis    |
+| 11\.  |  Yaonysar  |  kin-Maji  |  Eathanyn   |
+| 12\.  | Zeaviketh  | kin-Hanga  |   Roorar    |
+| 13\.  |   Kyorar   |  kin-Moto  |   Shosar    |
+| 14\.  |  Raenenic  |  kin-Babu  |   Xoaryth   |
+| 15\.  |  Eorevas   |  kin-Maji  |  Dusklight  |
+| 16\.  |   Fearin   | kin-Kivuli |  Oorirorne  |
+| 17\.  |   Khirar   |  kin-Babu  |  Keivorne   |
+| 18\.  |   Deasor   | kin-Kivuli |   Zhoneth   |
+| 19\.  |   Kyasin   |  kin-Babu  |  Veethorne  |
+| 20\.  |  Tyarath   |  kin-Moto  |    Aaryn    |
+| 21\.  |   Taason   | kin-Kivuli | Emberstone  |
+| 22\.  |  Meoleros  | kin-Hanga  |  Khetharis  |
+| 23\.  | Fyavatheth | kin-Hanga  |  Yeavasis   |
+| 24\.  | Xyikanrik  | kin-Hanga  | Shadowlight |
+| 25\.  | Khikethon  |  kin-Moto  |  Starcrest  |
+| 26\.  |  Eiselel   | kin-Kivuli | Thethalaris |
+| 27\.  |  Xeothen   | kin-Hanga  |   Kaasyth   |
+| 28\.  |  Leenysic  |  kin-Moto  |  Yyiraseth  |
+| 29\.  | Myivosric  |  kin-Babu  |  Taynthar   |
+| 30\.  |   Zhakel   | kin-Hanga  | Windwalker  |
+| 31\.  |  Kholiryn  |  kin-Maji  |  Aaleraris  |
+| 32\.  | Ryasisath  |  kin-Maji  | Foononthar  |
+| 33\.  |  Xyisonen  | kin-Kivuli |  Faathyth   |
+| 34\.  |   Khenar   | kin-Hanga  | Boorotharis |
+| 35\.  |   Tyaryn   | kin-Hanga  |   Zhynar    |
+| 36\.  |   Laokar   |  kin-Maji  |  Xaraevith  |
+| 37\.  |   Syiryn   | kin-Kivuli |  Windwatch  |
+| 38\.  |   Shikor   | kin-Hanga  |   Dyakyth   |
+| 39\.  |   Kyson    | kin-Kivuli |  Vyivaris   |
+| 40\.  |   Oalth    |  kin-Babu  |  Duskfall   |
+| 41\.  |   Ailic    |  kin-Maji  |  Ashridge   |
+| 42\.  |  Kyauryn   |  kin-Babu  |  Thirthar   |
+| 43\.  |  Oelevath  | kin-Kivuli | Zyaryathar  |
+| 44\.  |  Lyrayath  |  kin-Moto  |  Neikeris   |
+| 45\.  |  Khaliren  | kin-Hanga  |  Boisiryth  |
+| 46\.  |  Yaevrik   | kin-Hanga  |  Dawnstone  |
+| 47\.  |   Zaeven   |  kin-Moto  | Shadowwatch |
+| 48\.  |  Deenonic  | kin-Kivuli | Thornkeeper |
+| 49\.  |  Nayaavel  | kin-Kivuli |   Yyonath   |
+| 50\.  |  Daosric   |  kin-Moto  |   Byanis    |
+| 51\.  |   Zaoson   |  kin-Moto  |  Toolothyn  |
+| 52\.  |   Eokyn    |  kin-Maji  |  Byosavos   |
+| 53\.  |  Reathic   | kin-Kivuli |  Myileris   |
+| 54\.  |  Reothyn   |  kin-Maji  |  Xauraris   |
+| 55\.  |   Daaren   |  kin-Moto  |  Daothvel   |
+| 56\.  |   Keasth   | kin-Kivuli | Shadowcrest |
+| 57\.  |  Zhiluryn  |  kin-Maji  |   Reysor    |
+| 58\.  |   Reevon   |  kin-Moto  |  Windfall   |
+| 59\.  |   Byisen   |  kin-Moto  |   Deanis    |
+| 60\.  |  Xealath   |  kin-Babu  |  Stormlyn   |
+| 61\.  | Oonathath  | kin-Hanga  |  Toolysyth  |
+| 62\.  |   Khysic   |  kin-Maji  |  Aarurthar  |
+| 63\.  |   Yeyson   |  kin-Moto  |   Oolenis   |
+| 64\.  |  Eethath   |  kin-Maji  |  Mootharis  |
+| 65\.  |  Eathraor  |  kin-Babu  | Seathivith  |
+| 66\.  |  Yeivurar  |  kin-Moto  |  Thornfall  |
+| 67\.  |   Feysth   |  kin-Moto  |   Sauros    |
+| 68\.  |  Myikric   |  kin-Babu  |   Khavis    |
+| 69\.  |   Tearel   |  kin-Moto  |  Sheryseth  |
+| 70\.  |  Thikirth  |  kin-Babu  |  Ryotheris  |
+| 71\.  |  Oerokic   | kin-Kivuli |   Ashwind   |
+| 72\.  | Lyasasath  |  kin-Babu  | Thornwalker |
+| 73\.  |  Lyathyn   | kin-Kivuli |   Zhrakis   |
+| 74\.  | Xealisath  |  kin-Babu  |  Oavoryth   |
+| 75\.  |  Daevolel  | kin-Kivuli |  Raasirath  |
+| 76\.  |   Yeakel   | kin-Kivuli |   Ashlyn    |
+| 77\.  |  Khivath   | kin-Hanga  |  Thornwind  |
+| 78\.  |  Khilerin  | kin-Kivuli |  Nyarirkis  |
+| 79\.  |  Eokanrik  |  kin-Maji  |   Saorvel   |
+| 80\.  | Raalysric  | kin-Kivuli | Khysyaorne  |
+| 81\.  |  Kaerenth  |  kin-Maji  |   Noasar    |
+| 82\.  |  Nyakilic  |  kin-Babu  |  Meevyaith  |
+| 83\.  |   Khalas   |  kin-Babu  |  Oakakorne  |
+| 84\.  |   Dyokon   | kin-Hanga  |  Seenthar   |
+| 85\.  |  Feisrik   |  kin-Maji  |  Loolasos   |
+| 86\.  |   Easath   |  kin-Moto  |  Dawnridge  |
+| 87\.  |  Zyeveth   |  kin-Babu  |  Starlight  |
+| 88\.  |  Khikric   | kin-Hanga  |  Windthorn  |
+| 89\.  |  Thirath   |  kin-Moto  |   Nysyth    |
+| 90\.  |  Khakavel  | kin-Hanga  | Emberkeeper |
+| 91\.  |   Dyakyn   |  kin-Babu  |   Oynkis    |
+| 92\.  | Kaalasath  |  kin-Moto  | Khathakaris |
+| 93\.  |   Zaivar   |  kin-Maji  |  Yeisuris   |
+| 94\.  |  Ooralar   | kin-Kivuli |  Frostvale  |
+| 95\.  |  Xaevrik   |  kin-Maji  | Flamewatch  |
+| 96\.  | Nairavath  |  kin-Moto  |  Aenerkis   |
+| 97\.  |   Vyenos   |  kin-Babu  |   Ashvale   |
+| 98\.  |  Maavric   |  kin-Moto  |   Naonor    |
+| 99\.  |  Ayaavric  |  kin-Moto  |  Xoolenar   |
+| 100\. |  Kherenon  |  kin-Maji  |  Oanereth   |
+
+### Neutral Names
+
+|       |    Name     |  Wind-kin  |   Surname   |
+|:-----:|:-----------:|:----------:|:-----------:|
+|  1\.  |   Fyenlen   |  kin-Babu  |  Ryaseris   |
+|  2\.  |   Oevisth   |  kin-Maji  |  Syivevath  |
+|  3\.  |   Thonis    | kin-Hanga  |  Shadowlyn  |
+|  4\.  |   Aenyayn   |  kin-Moto  |  Stormwind  |
+|  5\.  | Khalathlen  |  kin-Babu  |  Duskwind   |
+|  6\.  |  Yeivivar   |  kin-Moto  | Zaynaththar |
+|  7\.  |  Faosisis   | kin-Kivuli |  Starcrest  |
+|  8\.  |   Xaolyn    | kin-Kivuli |   Voosis    |
+|  9\.  |  Thavothar  | kin-Hanga  |   Soakor    |
+| 10\.  | Myathalren  |  kin-Maji  |   Fyevyn    |
+| 11\.  |  Thokanen   | kin-Kivuli |   Noiseth   |
+| 12\.  |   Khakyth   | kin-Hanga  |  Euralorne  |
+| 13\.  |   Oilonyn   |  kin-Moto  | Nightstone  |
+| 14\.  | Shathenlen  | kin-Hanga  |   Taevos    |
+| 15\.  |  Teokakris  | kin-Kivuli | Stormlight  |
+| 16\.  |  Xaorollen  |  kin-Babu  | Nightwalker |
+| 17\.  |   Yeisris   |  kin-Moto  |   Thathar   |
+| 18\.  |   Ailren    |  kin-Moto  | Yyraotheris |
+| 19\.  |    Eisel    |  kin-Babu  |   Loyaor    |
+| 20\.  |   Taerth    |  kin-Babu  | Frostridge  |
+| 21\.  |  Feavanar   |  kin-Moto  |  Zhoneris   |
+| 22\.  |  Oevynlen   |  kin-Maji  |  Zaurokvel  |
+| 23\.  |   Faerth    | kin-Kivuli |  Duskcrest  |
+| 24\.  |   Reysis    |  kin-Babu  |   Syerith   |
+| 25\.  |   Dairis    |  kin-Babu  |  Sheleveth  |
+| 26\.  |   Zhothis   |  kin-Maji  | Frostthorn  |
+| 27\.  |  Zhanysith  |  kin-Moto  |   Aethath   |
+| 28\.  |  Leisevith  |  kin-Babu  |   Ryraos    |
+| 29\.  |   Zhikth    |  kin-Maji  |   Vyokos    |
+| 30\.  |   Oanivis   | kin-Hanga  |   Ashlyn    |
+| 31\.  |  Yaaselar   |  kin-Moto  |  Meothorne  |
+| 32\.  |  Faeluryn   | kin-Kivuli |   Doothyn   |
+| 33\.  |   Feivyn    |  kin-Babu  |  Maynosyth  |
+| 34\.  |   Khakris   |  kin-Maji  |   Aololos   |
+| 35\.  |   Lyrayth   | kin-Hanga  |  Ashkeeper  |
+| 36\.  |   Laathis   | kin-Kivuli |    Oynos    |
+| 37\.  |  Keirynis   |  kin-Maji  |   Feysyn    |
+| 38\.  |   Yyikith   |  kin-Babu  |   Ookath    |
+| 39\.  |  Eethasth   | kin-Kivuli |   Ashlyn    |
+| 40\.  |   Xeokith   |  kin-Maji  |  Starwatch  |
+| 41\.  |   Taanar    | kin-Hanga  |  Laysorne   |
+| 42\.  |  Meenilos   | kin-Hanga  |   Zhisor    |
+| 43\.  |  Khyneris   | kin-Kivuli |  Emberwind  |
+| 44\.  | Thothathen  |  kin-Maji  | Emberkeeper |
+| 45\.  |   Zhethar   | kin-Hanga  |  Meisynath  |
+| 46\.  |   Naikor    | kin-Kivuli |   Therith   |
+| 47\.  | Thethakyth  |  kin-Moto  |  Lyivaros   |
+| 48\.  |   Zyikar    | kin-Kivuli |  Frostwind  |
+| 49\.  |   Aurosel   | kin-Kivuli |  Duskwatch  |
+| 50\.  | Vyoloseris  | kin-Kivuli |  Starvale   |
+| 51\.  |    Oolel    | kin-Hanga  |  Starcrest  |
+| 52\.  |  Zhaneris   |  kin-Moto  |  Starridge  |
+| 53\.  |  Beorasth   |  kin-Babu  |  Boeveris   |
+| 54\.  |   Vyilar    | kin-Kivuli |  Windwind   |
+| 55\.  | Lyraethlen  | kin-Hanga  |  Tholorne   |
+| 56\.  |   Xeothos   |  kin-Babu  |   Teavvel   |
+| 57\.  |   Beasar    | kin-Hanga  |   Ashvale   |
+| 58\.  |  Thysralen  | kin-Hanga  | Shadowthorn |
+| 59\.  |  Ryakevith  | kin-Hanga  | Flameridge  |
+| 60\.  |  Neavenos   | kin-Kivuli |  Veonokvel  |
+| 61\.  |   Teislen   | kin-Kivuli |  Therurvel  |
+| 62\.  |   Kaollen   |  kin-Babu  |  Kyethakor  |
+| 63\.  |   Khenen    | kin-Hanga  | Khokaveris  |
+| 64\.  |   Ryanyth   |  kin-Maji  |  Eirevkis   |
+| 65\.  |   Nysith    | kin-Kivuli |  Zeaneris   |
+| 66\.  |  Thatheris  | kin-Hanga  |  Kholakkis  |
+| 67\.  |  Thivyaor   | kin-Kivuli |  Eilathkis  |
+| 68\.  | Kyisothith  |  kin-Maji  |  Windvale   |
+| 69\.  |   Shanth    |  kin-Maji  | Duskkeeper  |
+| 70\.  |    Aaken    | kin-Hanga  |  Thonothar  |
+| 71\.  |    Oeren    | kin-Kivuli |   Tyisar    |
+| 72\.  |   Byenyth   |  kin-Babu  |   Boiseth   |
+| 73\.  |   Yyilyth   |  kin-Maji  |  Keysynos   |
+| 74\.  |   Oorlen    |  kin-Moto  |  Stormlyn   |
+| 75\.  |   Xyrayth   | kin-Hanga  |  Noerikyth  |
+| 76\.  |   Kaysth    |  kin-Babu  |  Flamevale  |
+| 77\.  | Aothotheris | kin-Kivuli |  Easethar   |
+| 78\.  |  Fyivalor   |  kin-Maji  | Zoasivaris  |
+| 79\.  |  Veraothen  |  kin-Moto  |  Aokraeth   |
+| 80\.  | Fyethasren  | kin-Kivuli |  Myakilith  |
+| 81\.  |  Feathisth  | kin-Hanga  | Frostwatch  |
+| 82\.  |   Nararis   |  kin-Moto  | Nookenaris  |
+| 83\.  |   Zyerris   | kin-Hanga  |   Oerenos   |
+| 84\.  |   Vaolar    |  kin-Moto  |   Zheror    |
+| 85\.  |  Shosakar   |  kin-Moto  | Zoelikeris  |
+| 86\.  |  Khosarlen  | kin-Hanga  |   Oasilyn   |
+| 87\.  |  Zharikith  |  kin-Babu  |   Byeryth   |
+| 88\.  |   Teurith   |  kin-Maji  |   Aysikis   |
+| 89\.  |   Thurel    |  kin-Babu  |   Veanvel   |
+| 90\.  |  Vailelyth  | kin-Kivuli |  Reosorne   |
+| 91\.  |  Airethren  |  kin-Maji  | Voynysthar  |
+| 92\.  |   Maraor    |  kin-Maji  |  Aatheris   |
+| 93\.  |   Khokis    | kin-Kivuli |  Moeneris   |
+| 94\.  | Reokaleris  | kin-Kivuli |  Ashlight   |
+| 95\.  |  Faaveris   |  kin-Moto  |   Xaisyn    |
+| 96\.  |   Oelren    |  kin-Moto  |  Roenerith  |
+| 97\.  |  Kheveris   |  kin-Maji  |  Yoakynvel  |
+| 98\.  |   Seilar    |  kin-Moto  |  Emberlyn   |
+| 99\.  |  Kaorasen   |  kin-Maji  |   Kyoris    |
+| 100\. |   Daavith   |  kin-Moto  |  Zhokalyn   |
 
 # License
 
