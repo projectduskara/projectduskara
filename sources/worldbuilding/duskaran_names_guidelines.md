@@ -2,6 +2,7 @@
 date: 2025-11-18
 title: Duskaran Names Guidelines
 version: 1.0.0
+latest_update: "First release"
 ---
 
 # Overview

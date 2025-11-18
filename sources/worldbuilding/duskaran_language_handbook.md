@@ -3,6 +3,7 @@ date: 2025-11-18
 subtitle: A Comprehensive Conlang Reference for the Duskara Setting
 title: Duskaran Language Handbook
 version: 1.0.0
+latest_update: "First release"
 ---
 
 # Introduction
@@ -902,4 +903,4 @@ Duskaran Language Handbook
 
 © 2025 Roberto Bisceglie
 
-This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit <http://creativecommons.org/licenses/by-sa/4.0/> or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit <http://creativecommons.org/licenses/by-sa/4.0/> or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA. 
