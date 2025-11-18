@@ -1,8 +1,9 @@
 ---
-date: 2025-11-18
+date: 2025-11-16
+latest_update: The "Duskaran Names" section has been renamed to "Duskaran Names Guidelines" and completely expanded. It now offers a comprehensive guide to the social norms and conventions for creating culturally consistent names.
 subtitle: Main Setting Book
 title: Duskara Compendium
-version: 1.1.0
+version: 1.0.0
 ---
 
 # Introduction
@@ -2451,6 +2452,11 @@ Here are lists of personal names, all drawing inspiration from **Duskara's cultu
 | 98\.  |   Seilar    |  kin-Moto  |  Emberlyn   |
 | 99\.  |  Kaorasen   |  kin-Maji  |   Kyoris    |
 | 100\. |   Daavith   |  kin-Moto  |  Zhokalyn   |
+
+# Changelog
+
+- 1.0.0: First release
+- 1.1.0: The "Duskaran Names" section has been renamed to "Duskaran Names Guidelines" and completely expanded. It now offers a comprehensive guide to the social norms and conventions for creating culturally consistent names.
 
 # License
 
