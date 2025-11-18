@@ -36,6 +36,8 @@ jobs:
               - 'sources/children_of_the_twilight/**'
             fragments_of_the_twilight_codex:
               - 'sources/fragments_of_the_twilight_codex/**'
+            worldbuilding:
+              - 'sources/worldbuilding/**'
 
   build-and-release:
     needs: detect-changes
@@ -85,6 +87,14 @@ jobs:
               echo "source_dir=sources/fragments_of_the_twilight_codex" >> $GITHUB_OUTPUT
               echo "source_file=fragments_of_the_twilight_codex.md" >> $GITHUB_OUTPUT
               ;;
+            duskaran_names_guidelines)
+              echo "source_dir=sources/worldbuilding" >> $GITHUB_OUTPUT
+              echo "source_file=duskaran_names_guidelines.md" >> $GITHUB_OUTPUT
+              ;;
+            duskaran_language_handbook)
+              echo "source_dir=sources/worldbuilding" >> $GITHUB_OUTPUT
+              echo "source_file=duskaran_language_handbook.md" >> $GITHUB_OUTPUT
+              ;;              
           esac
       
       - name: Set up Quarto
