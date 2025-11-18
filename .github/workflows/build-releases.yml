@@ -147,7 +147,7 @@ jobs:
 
       - name: Render PDF
         working-directory: ${{ steps.pub_details.outputs.source_dir }}
-        run: quarto render ${{ steps.pub_details.outputs.source_file }} --to pdf
+        run: quarto render ${{ steps.pub_details.outputs.source_file }} --to typst
       
       - name: Render EPUB
         working-directory: ${{ steps.pub_details.outputs.source_dir }}
