@@ -1,7 +1,8 @@
 ---
 subtitle: A Roleplaying Game of Wind and Memory
 title: "Duskara: Children of the Twilight"
-version: 1.0.0
+version: 1.0.1
+last_update: First release
 ---
 
 # Introduction

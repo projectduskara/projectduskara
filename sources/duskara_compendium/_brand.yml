@@ -1,0 +1,34 @@
+meta:
+  name: "Duskara Compendium"
+
+color:
+  palette:
+    dark-grey: "#222222"
+    light-parchment: "#f8f5ef"
+    charcoal: "#333333"
+  background: light-parchment
+  foreground: charcoal
+  primary: dark-grey
+
+logo:
+  medium: logo.png
+
+typography:
+  fonts:
+    - family: Maitree
+      source: file
+      files:
+        - path: fonts/Maitree-Regular.ttf
+        - path: fonts/Maitree-Bold.ttf
+          weight: 700
+    - family: Rakkas
+      source: file
+      files:
+        - path: fonts/Rakkas-Regular.ttf
+    - family: Pretoria
+      source: file
+      files:
+        - path: fonts/Pretoria-Regular.ttf
+  
+  base: Maitree
+  headings: Rakkas

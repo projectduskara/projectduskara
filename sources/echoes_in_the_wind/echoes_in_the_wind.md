@@ -1,10 +1,13 @@
-# Duskara: Echoes in the Wind
+---
+title: "Duskara: Echoes in the Wind"
+subtitle: A Duet Roleplaying Game of Distance, Memory, and Wind
+version: 1.0.0
+last_update: First release
+---
 
-## A Duet Roleplaying Game of Distance, Memory, and Wind
+# Introduction
 
-## 1. Introduction
-
-### A Game of Distance, Memory, and Wind
+## A Game of Distance, Memory, and Wind
 
 *Duskara: Echoes in the Wind* is a duet roleplaying game for two players. It's a story of connection stretched across impossible distances—of voices carried by storms, of lost rites rediscovered in broken journals, of memories etched into stone or light, and the echo they leave in someone else's heart.
 
@@ -18,7 +21,7 @@ Together, you build a story told entirely through **messages**—not direct conv
 
 This is not a game of fast-paced action. It is slow. Meditative. Emotional. Ideal for quiet evenings, for long-distance friends, for lovers separated by miles. It plays like an exchange of letters with psychic resonance.
 
-### What You Need to Play
+## What You Need to Play
 
 - Two players
 - A way to record or write fragments (audio, voice notes, paper, email, shared doc)
@@ -28,7 +31,7 @@ This is not a game of fast-paced action. It is slow. Meditative. Emotional. Idea
 - Paper and pencil for tracking the map and Echo tokens
 - A willingness to **listen deeply**, **build patiently**, and **change the map**
 
-### Play Duration
+## Play Duration
 
 A complete story typically takes 8-12 Echo Cycles (4-6 cycles per player), which can be completed in:
 
@@ -36,7 +39,7 @@ A complete story typically takes 8-12 Echo Cycles (4-6 cycles per player), which
 - **Over days/weeks:** Perfect for asynchronous exchange
 - **Extended campaign:** Some pairs play across months, letting real time mirror fictional distance
 
-### Themes
+## Themes
 
 - The persistence of memory
 - Longing and legacy
@@ -46,9 +49,9 @@ A complete story typically takes 8-12 Echo Cycles (4-6 cycles per player), which
 
 You don't need to play all at once. In fact, it's better if you don't.
 
-## 2. Safety and Boundaries
+# Safety and Boundaries
 
-### Lines and Veils
+## Lines and Veils
 
 Before beginning play, discuss your comfort levels. This game explores themes of loss, separation, grief, and emotional vulnerability. Use the Lines and Veils framework:
 
@@ -67,7 +70,7 @@ Before beginning play, discuss your comfort levels. This game explores themes of
 
 Write down your Lines and Veils before Session Zero. You can add to them anytime during play.
 
-### Pause and Check-In
+## Pause and Check-In
 
 Either player can say **"Pause"** at any time to:
 
@@ -78,15 +81,15 @@ Either player can say **"Pause"** at any time to:
 
 This is not a failure of play—it's responsible storytelling.
 
-## 3. How to Play
+# How to Play
 
-### Rituals of Exchange
+## Rituals of Exchange
 
 *Echoes in the Wind* is a game played through **fragments**—short entries that may be letters, recordings, visions, maps, or memories. These are exchanged between two players in **turns**, with each turn called an **Echo Cycle**.
 
 One player creates a fragment. The other receives it, sits with it, and replies. This continues until the story comes to a natural or dramatic end.
 
-### Structure of Play
+## Structure of Play
 
 Each player takes on a role:
 
@@ -103,7 +106,7 @@ Each fragment must:
 
 The **Receiver** may also introduce **a new question**—a mystery, a contradiction, a symbol. The story builds through layers of partial understanding.
 
-### The Fragment Can Take Any Form
+## The Fragment Can Take Any Form
 
 - A letter scratched into a shrine wall
 - An audio recording buried in a wind archive
@@ -114,7 +117,7 @@ The **Receiver** may also introduce **a new question**—a mystery, a contradict
 - Map annotations marking lost places
 - Ritual instructions with missing steps
 
-### Ways to Play
+## Ways to Play
 
 **Live / In-Person**  
 Take turns writing entries and reading them aloud, or exchange physical notes/artifacts. Expect 2-4 hours for a complete story.
@@ -127,9 +130,9 @@ Use photos, sketches, sound, handwriting. The more personal the fragments, the m
 
 This is not a competitive game. There are no secrets, only layers. You are not playing to win. You are playing to remember.
 
-## 4. The Echoes of Duskara
+# The Echoes of Duskara
 
-### A World Held in Wind and Twilight
+## A World Held in Wind and Twilight
 
 Duskara is not Earth. It is not even Earth-like. It is a planet of brutal contrast—locked in place, its day side scorched beyond reason, its night side frozen and silent. Life clings to the narrow band in between, a twilight belt of storm and resilience.
 
@@ -143,7 +146,7 @@ You may no longer know each other.
 You may no longer be alive.  
 But the wind remembers. And so do you.
 
-### Key Concepts of the World
+## Key Concepts of the World
 
 - **The Twilight Belt**: The only habitable zone, 200–300 km wide, where temperature and light permit life. This is where most Windcallers are born, train, and serve.
 
@@ -157,7 +160,7 @@ But the wind remembers. And so do you.
 
 - **Fragments**: Messages left behind—rituals, visions, recordings, or maps. Not all are meant to be understood. Some were never meant to be found.
 
-### Your Connection
+## Your Connection
 
 The two of you were once bonded:
 
@@ -170,7 +173,7 @@ You are separated now by time, distance, loss, or death. One of you writes from 
 
 Across cycles, the truth will rise. Or fracture. Or change.
 
-### Inspirations
+## Inspirations
 
 This game is inspired by:
 
@@ -182,9 +185,9 @@ This game is inspired by:
 You are not explorers. You are not heroes.  
 You are echoes in the wind.
 
-## 5. The Windcallers
+# The Windcallers
 
-### Who You Were, Who You Are
+## Who You Were, Who You Are
 
 You are both Windcallers—psychic mystics attuned to the breath of Duskara. You were trained to listen to storms, mediate between settlements, and commune with the forces that most cannot see.
 
@@ -198,7 +201,7 @@ One of you speaks from a time of crisis. The other from before—or after. You a
 
 You will each create your Windcaller at the start of play, using the following prompts.
 
-### Step 1: Name and Voice
+## Step 1: Name and Voice
 
 Choose a **name** and describe how your Windcaller communicates.
 
@@ -210,7 +213,7 @@ This style will shape the tone of your fragments.
 
 > *"I write only in the old sigils. If you've forgotten them… perhaps you are not who I thought."*
 
-### Step 2: Attunement
+## Step 2: Attunement
 
 Choose **one psychic attunement**—your Windcaller's deepest resonance with Duskara.
 
@@ -221,7 +224,7 @@ Choose **one psychic attunement**—your Windcaller's deepest resonance with Dus
 
 Your attunement will color your memories, your rituals, and how you perceive the fragments left behind.
 
-### Step 3: Origin
+## Step 3: Origin
 
 Define where or when your Windcaller speaks from.
 
@@ -234,7 +237,7 @@ Define where or when your Windcaller speaks from.
 
 You can begin in different eras. You might even contradict each other. The fragments are the only truth you share.
 
-### Step 4: The Bond
+## Step 4: The Bond
 
 Define your prior connection.
 
@@ -247,7 +250,7 @@ Answer one or more of the following:
 
 This bond should remain unnamed in the fragments—something felt, not explained. Something the wind knows.
 
-### Step 5: The Burden
+## Step 5: The Burden
 
 Every Windcaller carries a weight.
 
@@ -261,9 +264,9 @@ Choose one or write your own:
 
 Let your burden guide your tone, your doubts, your silences.
 
-## 6. The Echo Cycle
+# The Echo Cycle
 
-### The Rhythm of Play
+## The Rhythm of Play
 
 An **Echo Cycle** consists of:
 
@@ -274,11 +277,11 @@ An **Echo Cycle** consists of:
 
 Both players contribute one fragment per cycle. A complete game typically runs 8-12 cycles total (4-6 each).
 
-### Creating a Fragment
+## Creating a Fragment
 
 When it's your turn to send a fragment, follow these steps:
 
-#### 1. Choose Your Medium
+### 1. Choose Your Medium
 
 Decide what form your fragment takes:
 
@@ -290,7 +293,7 @@ Decide what form your fragment takes:
 - Shrine inscription
 - Psychic echo
 
-#### 2. Ground It in Place and Time
+### 2. Ground It in Place and Time
 
 Reference a location on the map (existing or new) and indicate when this fragment originates:
 
@@ -298,7 +301,7 @@ Reference a location on the map (existing or new) and indicate when this fragmen
 - Before or after a specific event?
 - In response to what?
 
-#### 3. Make a Change
+### 3. Make a Change
 
 Every fragment must alter something. Choose one or more:
 
@@ -324,7 +327,7 @@ Every fragment must alter something. Choose one or more:
 - You cannot negate their previous fragment entirely
 - You cannot declare their Windcaller dead without agreement
 
-#### 4. Invite Response
+### 4. Invite Response
 
 End your fragment with something that calls for reply:
 
@@ -334,15 +337,15 @@ End your fragment with something that calls for reply:
 - A contradiction to resolve
 - A location to explore
 
-#### 5. Update the Map
+### 5. Update the Map
 
 Add your new location or change to the shared map (see Map Generation section).
 
-### Fragment Length
+## Fragment Length
 
 Aim for **150-400 words** or **1-3 minutes** of audio. Fragments should be substantial enough to advance the story but brief enough to maintain mystery.
 
-### Spending Echo Tokens
+## Spending Echo Tokens
 
 You begin play with **3 Echo tokens**. These represent moments of clear psychic connection across distance. Spend them to:
 
@@ -365,9 +368,9 @@ You regain 1 Echo token when:
 
 You cannot exceed 3 tokens at any time.
 
-## 7. The Map of Duskara
+# The Map of Duskara
 
-### What the Map Represents
+## What the Map Represents
 
 The map in *Echoes in the Wind* is not a traditional geographic tool. It represents the **psychic landscape** of your story—the places that matter to your Windcallers, weighted by memory and emotion.
 
@@ -375,17 +378,17 @@ Physical locations appear on this map only if they carry narrative significance.
 
 The map is **mutable**. Locations shift. Names change. Places that were real might become metaphorical. The map erodes and transforms with each fragment, mirroring the unstable nature of memory across distance.
 
-### Generating the Initial Map
+## Generating the Initial Map
 
 Before your first fragment, create the map together using the **dice drop method**:
 
-#### Step 1: Define the Meridian
+### Step 1: Define the Meridian
 
 Draw a vertical line down the center of a blank page. This represents the **Twilight Meridian**—the habitable band of Duskara.
 
 Mark the top as **Dayward** and the bottom as **Nightward**.
 
-#### Step 2: Drop the Dice
+### Step 2: Drop the Dice
 
 Each player takes 3d6. Roll them onto the page from a height of about 6 inches, letting them scatter naturally.
 
@@ -397,7 +400,7 @@ Wherever dice land, they become **locations**. The number showing indicates the 
 
 If a die falls off the page, that location exists beyond the known map—perhaps on the day side, deep night side, or in the Storm Walls themselves.
 
-#### Step 3: Name the Locations
+### Step 3: Name the Locations
 
 Working together, name each location based on its position and type:
 
@@ -408,7 +411,7 @@ Working together, name each location based on its position and type:
 
 You can also add 1-2 canonical settlements from the Duskara Compendium if you wish to anchor your story.
 
-#### Step 4: Draw Connections
+### Step 4: Draw Connections
 
 Draw lines between locations that are connected by:
 
@@ -419,27 +422,23 @@ Draw lines between locations that are connected by:
 
 Not all locations need connections. Isolation is meaningful.
 
-#### Step 5: Mark Your Origins
+### Step 5: Mark Your Origins
 
 Each player places a symbol marking where their Windcaller originated or currently resides. These may be different locations or even different eras of the same place.
 
-### Changing the Map
+## Changing the Map
 
 As fragments progress, the map evolves:
 
-**Adding Locations:**
-When your fragment introduces a new place, roll 1d6 near an existing location to place it, using the same type chart. Or, simply draw it where it feels right and note its type.
+**Adding Locations:** When your fragment introduces a new place, roll 1d6 near an existing location to place it, using the same type chart. Or, simply draw it where it feels right and note its type.
 
-**Shifting Locations:**
-Spend 1 Echo token to move an existing location's position on the map, representing changed memory, metaphorical drift, or actual physical change.
+**Shifting Locations:** Spend 1 Echo token to move an existing location's position on the map, representing changed memory, metaphorical drift, or actual physical change.
 
-**Erasing Locations:**
-When a location is destroyed, abandoned, or forgotten in the fiction, cross it out but leave it visible beneath. Ghost locations remain on the map as scars.
+**Erasing Locations:** When a location is destroyed, abandoned, or forgotten in the fiction, cross it out but leave it visible beneath. Ghost locations remain on the map as scars.
 
-**Merging Locations:**
-If two fragments refer to the same place by different names, they may be the same location seen from different perspectives. Draw them overlapping.
+**Merging Locations:** If two fragments refer to the same place by different names, they may be the same location seen from different perspectives. Draw them overlapping.
 
-### When the Map Collapses
+## When the Map Collapses
 
 The map collapses—and the game ends—when one of the following occurs:
 
@@ -450,18 +449,18 @@ The map collapses—and the game ends—when one of the following occurs:
 
 A collapsed map represents total disconnection—when memory can no longer bridge the distance.
 
-## 8. Storm Events
+# Storm Events
 
 Every **4 fragments total** (2 complete Echo Cycles), the Storm Walls intrude on your exchange. These represent disruptions, interference, or the harsh reality of Duskara breaking through.
 
 When a Storm Event occurs:
 
-### Step 1: Roll for the Storm
+## Step 1: Roll for the Storm
 
 The player who just received a fragment rolls 1d6:
 
 | Roll | Storm Effect |
-|------|--------------|
+|----|----|
 | 1 | **Ritual Failure** — A rite mentioned in the last 2 fragments goes catastrophically wrong. Describe the consequences in your next fragment. |
 | 2 | **Inverted Truth** — Something previously believed true is revealed to be false or misremembered. Choose one established fact and reverse it. |
 | 3 | **Scrambled Voice** — Your next fragment must be partially corrupted, illegible, or interrupted. Parts of your message don't reach the other Windcaller. |
@@ -469,19 +468,19 @@ The player who just received a fragment rolls 1d6:
 | 5 | **Psychic Surge** — Both Windcallers experience a shared vision or sensation. Describe it together, then both gain 1 Echo token. |
 | 6 | **The Wind's Mercy** — No disruption. Instead, both players gain 1 Echo token and may ask one clarifying question out of character. |
 
-### Step 2: Resolve the Effect
+## Step 2: Resolve the Effect
 
 The **Sender** of the next fragment must incorporate the storm's effect into their message. Work together to determine what this means for the story.
 
 Storm Events cannot be prevented or negated, but you can spend Echo tokens to shape how they manifest.
 
-## 9. Conflict Resolution
+# Conflict Resolution
 
-### When Players Disagree
+## When Players Disagree
 
 In *Echoes in the Wind*, there is no GM to arbitrate. If players disagree about the fiction, use this framework:
 
-#### Type 1: Contradictory Facts
+### Type 1: Contradictory Facts
 
 If fragments present contradictory information about the setting or events:
 
@@ -493,7 +492,7 @@ If fragments present contradictory information about the setting or events:
 - Revise their fragment to align with established facts
 - Add language suggesting their Windcaller is uncertain or mistaken
 
-#### Type 2: Tonal Mismatch
+### Type 2: Tonal Mismatch
 
 If one fragment feels tonally out of place (too comedic, too dark, breaking the fourth wall inappropriately):
 
@@ -501,7 +500,7 @@ If one fragment feels tonally out of place (too comedic, too dark, breaking the 
 
 The sender revises their fragment to better match the established tone. This is not a failure—it's calibration.
 
-#### Type 3: Boundary Violation
+### Type 3: Boundary Violation
 
 If a fragment crosses a Line or pushes a Veil too hard:
 
@@ -509,7 +508,7 @@ If a fragment crosses a Line or pushes a Veil too hard:
 
 The sender revises or retracts their fragment completely. No questions asked. No explanation required.
 
-#### Type 4: Narrative Dead End
+### Type 4: Narrative Dead End
 
 If a fragment seems to leave no room for response or closes off interesting story directions:
 
@@ -517,32 +516,32 @@ If a fragment seems to leave no room for response or closes off interesting stor
 
 Discuss briefly, then the sender may add an additional sentence or two to open the door wider.
 
-### The Golden Rule
+## The Golden Rule
 
 **Both players must consent to major changes.** Before introducing something that drastically alters the game's direction, ask:
 
-*"I'm thinking of [X]. Does that work for you?"*
+*"I'm thinking of \[X\]. Does that work for you?"*
 
 A simple check-in prevents hours of misaligned play.
 
-## 10. Ending the Game
+# Ending the Game
 
 *Echoes in the Wind* concludes when one of the following occurs:
 
-### Agreed Endings
+## Agreed Endings
 
 - **The Rite Is Complete**: A ritual introduced early in play is finally finished across both Windcallers' efforts
 - **The Question Is Answered**: The central mystery or unfinished business is resolved
 - **The Map Collapses**: As described in the Map section
 - **Reunion or Final Separation**: The Windcallers meet again, or one definitively vanishes
 
-### Emergent Endings
+## Emergent Endings
 
 - **The Fragment Unanswered**: One player sends a fragment so perfect, so complete, that no response is needed. The other player simply says, *"I have no words left to send."*
 - **Exhaustion**: All Echo tokens are spent by both players, and the wind falls silent
 - **The Story Told Itself**: Both players feel a natural conclusion without a dramatic climax—the fragments have said all they needed to say
 
-### The Wind Offering (Optional)
+## The Wind Offering (Optional)
 
 If you wish to create a formal ending, after the final fragment:
 
@@ -555,40 +554,38 @@ If you wish to create a formal ending, after the final fragment:
 
 This offering stands outside the game, a shared reflection on what you created together.
 
-## 11. Appendix: Tools and Templates
+# Appendix: Tools and Templates
 
-### Echo Tokens Tracker
+## Echo Tokens Tracker
 
-```
-ECHO TOKENS: ☐ ☐ ☐
+    ECHO TOKENS: ☐ ☐ ☐
 
-Spent on:
-- ________________________
-- ________________________
-- ________________________
+    Spent on:
+    - ________________________
+    - ________________________
+    - ________________________
 
-Regained from:
-- ________________________
-- ________________________
-- ________________________
-```
+    Regained from:
+    - ________________________
+    - ________________________
+    - ________________________
 
-### Fragment Checklist
+## Fragment Checklist
 
 Before sending a fragment, verify:
 
-- ☐ It's grounded in a specific place and time
-- ☐ It references or responds to the previous fragment
-- ☐ It changes something (adds to map, reveals information, shifts tone)
-- ☐ It invites a response (question, symbol, mystery)
-- ☐ It respects established boundaries
-- ☐ Length: 150-400 words or 1-3 minutes audio
+- [ ] It's grounded in a specific place and time
+- [ ] It references or responds to the previous fragment
+- [ ] It changes something (adds to map, reveals information, shifts tone)
+- [ ] It invites a response (question, symbol, mystery)
+- [ ] It respects established boundaries
+- [ ] Length: 150-400 words or 1-3 minutes audio
 
-### Card-Based Prompts (Optional)
+## Card-Based Prompts (Optional)
 
 If you're stuck for inspiration, draw a playing card from a standard deck:
 
-#### Hearts (♥) — Memory
+### Hearts (♥) — Memory
 
 *Fragments of past connection, longing, and loss.*
 
@@ -606,7 +603,7 @@ If you're stuck for inspiration, draw a playing card from a standard deck:
 12. **Queen** — "I've rewritten our history three times. This version is truer."
 13. **King** — "I forget you on purpose, sometimes. It helps me listen."
 
-#### Spades (♠) — Map & Change
+### Spades (♠) — Map & Change
 
 *Revelations that alter the world, its geography, or truths.*
 
@@ -624,7 +621,7 @@ If you're stuck for inspiration, draw a playing card from a standard deck:
 12. **Queen** — "The map we once drew together is folded differently now."
 13. **King** — "The storm erased a city. I don't remember which one."
 
-#### Clubs (♣) — Ritual & Symbol
+### Clubs (♣) — Ritual & Symbol
 
 *Echoes of the sacred, psychic, or strange.*
 
@@ -642,7 +639,7 @@ If you're stuck for inspiration, draw a playing card from a standard deck:
 12. **Queen** — "The wind refuses to carry your tune."
 13. **King** — "I buried your tool where no one will find it. Unless they're listening."
 
-#### Diamonds (♦) — Tone Shifters
+### Diamonds (♦) — Tone Shifters
 
 *Contradictions, confessions, mood swings, emotional pivots.*
 
@@ -660,28 +657,26 @@ If you're stuck for inspiration, draw a playing card from a standard deck:
 12. **Queen** — "You were right. About the storm. About me."
 13. **King** — "I don't need you anymore. That's the worst part."
 
-#### Jokers — Storm Interference
+### Jokers — Storm Interference
 
 Treat as automatic Storm Event, roll on the Storm table immediately.
 
-### 🗺️ Map Template
+## Map Template
 
 Draw this structure on a blank page:
 
-```
-           [DAYWARD]
-               |
-     ————————— | —————————
-    |    TWILIGHT BELT    |
-    |    [MERIDIAN]       |
-     ————————— | —————————
-               |
-          [NIGHTWARD]
-```
+               [DAYWARD]
+                   |
+         ————————— | —————————
+        |    TWILIGHT BELT    |
+        |    [MERIDIAN]       |
+         ————————— | —————————
+                   |
+              [NIGHTWARD]
 
 Then drop dice to populate with locations.
 
-### Sample Locations by Type
+## Sample Locations by Type
 
 **Ruins (1-2):**
 
@@ -707,9 +702,9 @@ Then drop dice to populate with locations.
 - The Deep Roads (Underground network)
 - Singing Stones (Twilight, resonant)
 
-## 12. Example of Play
+# Example of Play
 
-### Session Zero
+## Session Zero
 
 **Players:** Alex and Morgan  
 **Windcallers:** Isarn (Alex) and Saeli (Morgan)
@@ -736,14 +731,14 @@ They draw connections between Aetherion and Echo Pool (old trade route), and a d
 Alex: "What did we never finish? We were mapping a route through the Storm Walls."  
 Morgan: "What do I carry of yours? Your resonance staff. I shouldn't have taken it."
 
-### First Echo Cycle
+## First Echo Cycle
 
 **Cycle 1, Fragment 1 (Morgan as Saeli):**
 
 *Audio recording, crackling with interference*
 
-> "Isarn. Testing. The Breach. Three days from Aetherion.  
-> 
+> "Isarn. Testing. The Breach. Three days from Aetherion.
+>
 > The wind serpents won't come closer. They circle, but they won't cross. There's something... the resonance here is wrong. Your staff keeps humming—E-flat, sustained. It shouldn't do that without a weatherworker holding it.
 >
 > If you're listening to this later, I've gone deeper in. The maps are wrong about the Storm Walls. They're not just weather. There are *structures* inside.
@@ -761,20 +756,20 @@ Morgan: "What do I carry of yours? Your resonance staff. I shouldn't have taken 
 
 *Field log, dated 50 years later*
 
-> FIELD LOG #1047—AETHERION ARCHIVE  
+> FIELD LOG \#1047—AETHERION ARCHIVE  
 > Sky Pressure: Stable  
-> Aurora Strength: Minimal  
-> 
+> Aurora Strength: Minimal
+>
 > Recovered Saeli's last transmission from Archive Server 7. Audio dated GC 2934. I was nineteen. I don't remember her going to the Breach. Wind take me, I don't remember *her*.
-> 
+>
 > Cross-referenced with settlement records: No one named Saeli trained at Aetherion's weatherworking guild. No expedition to the Breach authorized that year. But the recording is authentic—verified by crystal signature.
-> 
+>
 > The staff she mentions sits in my quarters. I've had it since my initiation. Standard resonance staff. It doesn't hum. It never has.
-> 
+>
 > Why would someone I don't remember leave a message *to me*? Why do I still have her—your—staff?
-> 
+>
 > Tomorrow I'm traveling to Echo Pool. There's supposed to be a shrine there, old Windcaller site. If you left markers, maybe they're still there.
-> 
+>
 > Maybe I'll remember.
 >
 > —I.
@@ -782,23 +777,23 @@ Morgan: "What do I carry of yours? Your resonance staff. I shouldn't have taken 
 **Alex updates the map:** Adds "Aetherion Archive" overlapping with existing Aetherion.  
 **Echo Tokens:** 3/3
 
-### Second Echo Cycle
+## Second Echo Cycle
 
 **Cycle 2, Fragment 3 (Morgan as Saeli):**
 
 *Torn journal page, water-damaged*
 
 > Day 6. Structures confirmed. Not ruins—they're *growing*. Crystalline formations responding to wind patterns. The serpents won't approach because they recognize something I don't.
-> 
+>
 > Found an echo pool inside the Walls—natural amphitheater where sound loops forever. Spoke your name into it. Isarn. Isarn. Isarn. It's still playing. Will you hear it fifty years from now?
-> 
+>
 > The staff's hum is louder. Three tones now: E-flat, G, B-flat. Storm chord. Impossible without three weatherworkers.
-> 
+>
 > I understand now. The Breach isn't a place. It's a *when*. The Storm Walls don't just divide day from night—they divide time from time.
-> 
+>
 > I'm leaving your staff at the Echo Pool shrine. If I don't come back, maybe you'll find it before you gave it to me. Maybe you'll understand before I do.
-> 
-> [The rest is illegible]
+>
+> \[The rest is illegible\]
 
 **Morgan:** "I want to spend 1 Echo token to Contradict a Memory. The staff Isarn has *isn't* the one I took. It's a different staff. The one I took is still at the Echo Pool shrine, waiting."
 
@@ -817,81 +812,81 @@ Both players gain 1 Echo token and describe a shared vision:
 
 *Map annotation on official survey chart*
 
-> [Marked on the map: Echo Pool location, with extensive notes]
-> 
+> \[Marked on the map: Echo Pool location, with extensive notes\]
+>
 > Echo Pool reached. Shrine confirmed. Inside: One resonance staff, heavily weathered but functional. Not mine—crystal signature reads "S. Thornvale." Saeli Thornvale.
-> 
+>
 > It hums. E-flat, G, B-flat. Storm chord.
-> 
+>
 > Settlement records searched further. Found her: Saeli Thornvale, Windcaller, lost in Storm Walls expedition GC 2934. Memorial stone in Aetherion plaza. I walk past it every day.
-> 
+>
 > The shrine has an inscription. Old script. Reads: "For the one who taught me to listen before I met them."
-> 
+>
 > I don't understand. But I'm starting to remember something that hasn't happened yet. A voice in the wind. Teaching me weatherworking before my master ever did.
-> 
+>
 > Saeli. Were you my teacher? Across time?
-> 
+>
 > I'm taking your staff. I think I'm supposed to. I think this is how I learned.
-> 
+>
 > I'm going to the Breach.
 
 **Alex updates the map:** Draws a new connection between Echo Pool and The Breach, labeled "Path Through When"  
 **Echo Tokens:** 3/3
 
-[Play continues...]
+\[Play continues...\]
 
-## 13. Designer Notes
+# Designer Notes
 
-### On Distance and Asynchrony
+## On Distance and Asynchrony
 
 This game works best when played slowly. The pauses between fragments—whether minutes or weeks—create space for reflection that mirrors the Windcallers' separation. Don't rush to respond. Sit with what you've received. Let it settle.
 
-### On the Map's Mutability
+## On the Map's Mutability
 
 The map's instability is intentional. It represents subjective experience, not objective geography. Two Windcallers separated by trauma or time will remember places differently. The map should feel more like a dream-journal than an atlas.
 
-### On Endings
+## On Endings
 
 Some of the most powerful endings happen quietly. You don't need a dramatic climax. Sometimes one fragment answers every question simply by existing. Trust that moment.
 
-### On Echo Tokens
+## On Echo Tokens
 
 The token economy is tight by design. Three tokens isn't much. You'll need to let some mysteries remain mysteries. You can't force every answer. That's the point.
 
-## 🕯️ Windcaller Character Sheet
+# Windcaller Character Sheet
 
-### 📜 Name
+## Name
 
-_______________________________________________
+------------------------------------------------------------------------
 
-### 🎙️ Voice & Medium
+## Voice & Medium
 
 *How do you communicate? (poetry, diagrams, audio, sigils, song, etc.)*
 
-_______________________________________________
+------------------------------------------------------------------------
 
-_______________________________________________
+------------------------------------------------------------------------
 
-### 🔮 Attunement
+## Attunement
 
 *Choose one:*  
 ☐ Weatherworking — shape storms, calm winds, invoke rain  
 ☐ Thermal Sight — see heat, life, emotional residue  
 ☐ Deep Bonding — empathically connect with native fauna  
-☐ Waterfinding — detect hidden moisture and aquifers  
+☐ Waterfinding — detect hidden moisture and aquifers
 
-### 🗺️ Origin
+## Origin
 
 *Where or when do you write from?*  
-☐ Known Settlement: _______________________________  
+☐ Known Settlement: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 ☐ Ruined Outpost  
 ☐ Drifting Sky Refuge  
 ☐ Edge of the Day Side  
 ☐ Deep Night Caves (Deepkin)  
 ☐ Distant Future (Windcallers are myth)  
-☐ Other: ______________________________________
+☐ Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### 🪢 The Bond
+## The Bond
 
 *Answer one or more. You may write in fragments.*  
 • What did I once promise you?  
@@ -899,75 +894,88 @@ _______________________________________________
 • What do I regret?  
 • What do I still carry that once belonged to you?
 
-_______________________________________________
+------------------------------------------------------------------------
 
-_______________________________________________
+------------------------------------------------------------------------
 
-_______________________________________________
+------------------------------------------------------------------------
 
-### 🕸️ The Burden
+## The Burden
 
 ☐ I broke the storm that should not have been broken.  
 ☐ I swore never to forget. I have failed.  
 ☐ I kept the memory alive too long.  
 ☐ I lost the child.  
 ☐ I remember what never happened.  
-☐ Custom: _____________________________________
+☐ Custom: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### 💎 Echo Tokens
+## Echo Tokens
 
 CURRENT: ☐ ☐ ☐
 
 **Spent:**
 
-- ___________________________________________
-- ___________________________________________
-- ___________________________________________
+-
+
+  ------------------------------------------------------------------------
+
+-
+
+  ------------------------------------------------------------------------
+
+-
+
+  ------------------------------------------------------------------------
 
 **Regained:**
 
-- ___________________________________________
-- ___________________________________________
+-
 
-## 📖 Transmission Log
+  ------------------------------------------------------------------------
 
-### 🌀 Fragment Entry
+-
 
-**Cycle #:** __________  
-**Sender:** _________________________________  
-**Date (fictional or real):** ___________________________  
+  ------------------------------------------------------------------------
+
+# Transmission Log
+
+## Fragment Entry
+
+**Cycle \#:** \_\_\_\_\_\_\_\_\_\_  
+**Sender:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+**Date (fictional or real):** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Fragment Type:**  
-☐ Letter   ☐ Field Log   ☐ Dream   ☐ Ritual   ☐ Audio   ☐ Vision   ☐ Map   ☐ Other: __________
+☐ Letter ☐ Field Log ☐ Dream ☐ Ritual ☐ Audio ☐ Vision ☐ Map ☐ Other: \_\_\_\_\_\_\_\_\_\_
 
 **Title or First Line:**
 
-_______________________________________________
+------------------------------------------------------------------------
 
 **Summary / Event / Emotion:**
 
-_______________________________________________
+------------------------------------------------------------------------
 
-_______________________________________________
+------------------------------------------------------------------------
 
 **Map Changes:**
 
-_______________________________________________
+------------------------------------------------------------------------
 
-**Echo Token Spent:** ☐ Yes  ☐ No  
-**Storm Event:** ☐ Yes (Roll: ___) ☐ No
+**Echo Token Spent:** ☐ Yes ☐ No  
+**Storm Event:** ☐ Yes (Roll: \_\_\_) ☐ No
 
 **New Questions or Symbols:**
 
-_______________________________________________
+------------------------------------------------------------------------
 
 **Effect on Relationship:**
 
-_______________________________________________
+------------------------------------------------------------------------
 
-## 🌬️ Quick Reference
+# Quick Reference
 
-### Each Fragment Must
+## Each Fragment Must
 
 ✓ Be grounded in place and time  
 ✓ Reference the previous fragment  
@@ -975,50 +983,50 @@ _______________________________________________
 ✓ Invite response  
 ✓ Respect boundaries
 
-### Echo Tokens (Start with 3)
+## Echo Tokens (Start with 3)
 
 - Ask Direct Question (1)
-- Contradict Memory (1)  
+- Contradict Memory (1)
 - Invoke Shared Echo (2)
 
 **Regain:** Complete a ritual, answer old questions, acknowledge truths, Storm Event
 
-### Storm Events (Every 4 Fragments)
+## Storm Events (Every 4 Fragments)
 
 Roll 1d6:
 
-1. Ritual Failure  
-2. Inverted Truth  
-3. Scrambled Voice  
-4. Collapsed Location  
-5. Psychic Surge (+1 token each)  
+1. Ritual Failure
+2. Inverted Truth
+3. Scrambled Voice
+4. Collapsed Location
+5. Psychic Surge (+1 token each)
 6. Wind's Mercy (+1 token each)
 
-### The Map
+## The Map
 
 - Generate with 3d6 each (1-2: Ruin, 3-4: Settlement, 5-6: Natural)
 - Add locations as fragments introduce them
 - Cross out destroyed places
 - Game ends when map collapses
 
-### Game Ends When
+## Game Ends When
 
-- Rite completed  
-- Map collapses  
-- Fragment unanswered  
+- Rite completed
+- Map collapses
+- Fragment unanswered
 - Both agree story is told
 
-## Names and Locations
+# Names and Locations
 
-### Given Names
+## Given Names
 
 Aelith, Ralvek, Saeli, Teshun, Veyna, Dhuvan, Isarn, Zohren, Thira, Lorik, Zoryn, Omet, Nyrel, Feryn, Moraine
 
-### Family / Kin Names
+## Family / Kin Names
 
 Thornvale, Emberlyn, Luyareh, Ashenfall, Velkara, Zyltar, Vosir, Xorath, Myralis, Tynoria
 
-### Honorifics or Titles
+## Honorifics or Titles
 
 - The Last Listener
 - Warden of Silence
@@ -1027,7 +1035,7 @@ Thornvale, Emberlyn, Luyareh, Ashenfall, Velkara, Zyltar, Vosir, Xorath, Myralis
 - Chimebound
 - Keeper of Hollow Wind
 
-### Canonical Settlements
+## Canonical Settlements
 
 **Twilight Belt:**
 
@@ -1048,21 +1056,21 @@ Thornvale, Emberlyn, Luyareh, Ashenfall, Velkara, Zyltar, Vosir, Xorath, Myralis
 - Glass Fields
 - Mining Station Seventeen
 
-## 💬 Fragment Templates
+# Fragment Templates
 
-### 1. Field Log
+## 1. Field Log
 
-    Windcaller Log #044 — Aetherion Outskirts
+    Windcaller Log #\044 — Aetherion Outskirts
     Sky Pressure: Rising
     Aurora Strength: Low
-    
+
     Observed anomaly at the Echo Pool. Sigils matched those seen during the Breach incident.
     Possible resonance with Subject [REDACTED]. Further testing required.
 
     Closing note: I heard your voice. It said my name.
     — R.
 
-### 2. Letter
+## 2. Letter
 
     To the one who still listens,
 
@@ -1075,7 +1083,7 @@ Thornvale, Emberlyn, Luyareh, Ashenfall, Velkara, Zyltar, Vosir, Xorath, Myralis
 
     — Veyna
 
-### 3. Ritual Fragment
+## 3. Ritual Fragment
 
     Binding of the Fourth Breath — Fragment only
     [Line 1 missing]
@@ -1083,17 +1091,17 @@ Thornvale, Emberlyn, Luyareh, Ashenfall, Velkara, Zyltar, Vosir, Xorath, Myralis
     The name must be written in salt. Not spoken. Never again.
     Burn the map. It remembers too well.
 
-### 4. Dream Transcript
+## 4. Dream Transcript
 
     Dream #17
-    
+
     The floodplain glowed like glass. You were kneeling in the ruins, 
     writing symbols on your palms.
-    
+
     When I called your name, you looked at me with someone else's eyes.
-    
+
     The wind laughed.
-    
+
     Then it started to rain inside the room.
 
 *Duskara: Echoes in the Wind*  
@@ -1101,11 +1109,12 @@ A game about what persists when everything else is gone.
 
 Wind remembers. So do you.
 
-## License
+# License
 
-*Duskara: Echoes in the Wind* is set in the Duskara universe.
+Duskara: Echoes in the Wind
 
-The Duskara Compendium © 2025 Roberto Bisceglie  
-Licensed under Creative Commons Attribution-ShareAlike 4.0 International License.
+© 2025 Roberto Bisceglie
 
-This game is compatible with the Duskara setting and uses its established lore.
+Based on Cradle & Ward Designer's Framework by Roberto Bisceglie
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit <http://creativecommons.org/licenses/by-sa/4.0/> or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.

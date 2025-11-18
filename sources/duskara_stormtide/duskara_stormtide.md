@@ -1,17 +1,17 @@
-# DUSKARA: STORMTIDE
-## A Breathless Game of Survival and Exploration
-
 ---
+title: "Duskara: Stormtide"
+subtitle: A Breathless Game of Survival and Exploration
+version: 1.0.0
+last_update: Firs release
+---
+
+# Introduction & Setting Overview
 
 ## Before We Start
 
 **Content Warning:** Environmental peril, resource scarcity, survival themes, psychic phenomena.
 
 Before you start, define lines that should not be crossed. Pause or rewind the game if something uncomfortable happens during a session. Always make sure everyone is comfortable with the direction of the story.
-
----
-
-# 1. Introduction & Setting Overview
 
 ## Welcome to the Twilight
 
@@ -58,9 +58,7 @@ In **Duskara: Stormtide**, you'll navigate this world of scarcity and wonder. Yo
 
 Survival requires more than strength—it demands ingenuity, cooperation, and the willingness to catch your breath and face complications head-on.
 
----
-
-# 2. Core Mechanics
+# Core Mechanics
 
 **Duskara: Stormtide** uses the **Breathless** system, adapted for a world of environmental extremes and psychic phenomena. The rules are simple but punishing: your skills degrade with use, forcing you to rest and face new complications.
 
@@ -162,9 +160,7 @@ Track stress with boxes or tally marks. If you reach **4 stress**, your characte
 - Rest in a secure location (settlement, fortified shelter) to clear an amount at the GM's discretion
 - Narrative recovery (psychic counseling, geothermal rest chambers, communal support)
 
----
-
-# 3. Character Creation
+# Character Creation
 
 Creating a Duskaran character takes about 10 minutes. Answer a few questions, assign skills, choose a psychic ability (optional), and you're ready to play.
 
@@ -262,6 +258,7 @@ You also start with **1 med kit** (clears 2 stress).
 **Role:** Deepkin Scout
 
 **Skills:**
+
 - Endure: d6
 - Navigate: d10
 - Perceive: d8
@@ -272,14 +269,13 @@ You also start with **1 med kit** (clears 2 stress).
 **Psychic Ability:** Resonance (sense vibrations through stone)
 
 **Starting Equipment:**
+
 - Resonance crystal (d10 item)
 - Med kit
 
 **Stress:** [ ] [ ] [ ] [ ]
 
----
-
-# 4. Equipment & Resources
+# Equipment & Resources
 
 Duskaran equipment blends Earth technology with eight centuries of adaptation. Everything is designed for durability, sustainability, and function in extreme environments.
 
@@ -379,9 +375,7 @@ When you make a loot check, roll for item type based on result (d6, d8, d10, or 
 5. Ancient Earth tech fragment (functional)
 6. Bonded creature egg (wind serpent, thermal lizard)
 
----
-
-# 5. Environmental Hazards & Complications
+# Environmental Hazards & Complications
 
 Duskara is a world that fights back. When you **catch your breath** or roll low on a check, the GM introduces complications. Here are Duskaran-specific threats to replace Breathless's zombie/bandit defaults:
 
@@ -445,9 +439,7 @@ If a complication doesn't fit the scene at all, reroll or pick one that does. Th
 5. **Bonding Backlash:** Beastwalker's connection to creature inverted. Creature experiences human's emotions, becomes erratic.
 6. **Storm Memory:** Superstorm "remembers" previous patterns. Weather workers sense echoes of past events encoded in wind.
 
----
-
-# 6. Settlements & Factions
+# Settlements & Factions
 
 Duskara's 40 million inhabitants cluster in settlements ranging from sprawling cities to isolated cave outposts. Here are key locations and factions to anchor your game:
 
@@ -458,12 +450,14 @@ Duskara's 40 million inhabitants cluster in settlements ranging from sprawling c
 Largest twilight belt city. Built around the *Stellar Horizon* crash site. Central hub for trade, politics, and Earth archive preservation.
 
 **Key Features:**
+
 - Vertical farms produce 40% of twilight belt food
 - The Vault of Echoes: repository of data crystals and Earth artifacts
 - Weatherworking Academy: premier institution for psychic training
 - The Windspire: kilometer-high tower for storm observation and wind energy
 
 **Hooks:**
+
 - Rival factions vie for control of Earth archives
 - Storm season threatens to overwhelm defenses
 - Mysterious signal from *Stellar Horizon* wreckage activates after 800 years
@@ -473,12 +467,14 @@ Largest twilight belt city. Built around the *Stellar Horizon* crash site. Centr
 Fortified settlement near day-side margin. Coordinates mining operations and salvage expeditions.
 
 **Key Features:**
+
 - Thermal forges produce heat-resistant alloys
 - Daywalker guilds train specialists for extreme conditions
 - The Scorched Gates: massive shield walls deflecting day-side heat
 - Black market for illicit day-side artifacts
 
 **Hooks:**
+
 - Mining claim dispute escalates to violence
 - Salvage crew discovers functioning day-side structure
 - Thermal forges malfunction, threatening settlement's economic base
@@ -488,12 +484,14 @@ Fortified settlement near day-side margin. Coordinates mining operations and sal
 Largest night-side cave settlement. Built around extensive geothermal vent network.
 
 **Key Features:**
+
 - Deepkin culture emphasizes resonance and collective memory
 - Mushroom farms and thermal agriculture sustain population
 - The Deep Roads: ancient tunnel network of unknown origin
 - The Resonance Chamber: psychic training facility
 
 **Hooks:**
+
 - Geothermal vents show signs of instability
 - Deep Roads section collapses, cutting off ice harvesting routes
 - Ancient structure discovered deeper than any previous exploration
@@ -503,12 +501,14 @@ Largest night-side cave settlement. Built around extensive geothermal vent netwo
 Twilight belt settlement specializing in ice harvesting and night-side trade.
 
 **Key Features:**
+
 - Ice caravans supply entire twilight belt
 - Mixed surface/cave architecture bridges day and night cultures
 - The Frost Market: trade hub for night-side goods
 - Auroral Observatory: studies night-side phenomena
 
 **Hooks:**
+
 - Ice harvesting grounds claimed by rival settlement
 - Auroral disruption causes mass psychic feedback
 - Night-side predators migrate toward settlement
@@ -582,12 +582,14 @@ Twilight belt settlement specializing in ice harvesting and night-side trade.
 Militant settlement positioned at the most volatile storm corridor in the twilight belt. Specializes in storm prediction and meteorological research.
 
 **Key Features:**
+
 - The Tempest Wall: massive reinforced barrier system
 - Elite weatherworker corps trained in emergency storm deflection
 - Storm Archive: centuries of weather pattern data
 - Early warning system serving entire twilight belt
 
 **Hooks:**
+
 - Weatherworker cabal accused of manipulating storms for profit
 - Ancient storm patterns no longer match predictions
 - Rival settlement refuses to pay for warning services
@@ -598,12 +600,14 @@ Militant settlement positioned at the most volatile storm corridor in the twilig
 Border settlement at the edge of day-side habitability. Controls access to most productive mining regions.
 
 **Key Features:**
+
 - Thermal shielding technology protects settlement from heat surges
 - Daywalker training academy with 90% attrition rate
 - Mining equipment manufacturing and repair facilities
 - The Seared Market: trade hub for rare day-side materials
 
 **Hooks:**
+
 - New mining claim discovered in unexplored day-side sector
 - Shield generator malfunction threatens entire settlement
 - Daywalker guild strike halts all mining operations
@@ -614,12 +618,14 @@ Border settlement at the edge of day-side habitability. Controls access to most 
 Experimental settlement attempting to establish permanent agriculture on night-side border using artificial lighting and geothermal heat.
 
 **Key Features:**
+
 - Massive hydroponics complexes lit by bioluminescent arrays
 - Research station studying Duskaran flora adaptation
 - The Green Cathedral: ceremonial garden honoring Earth plants
 - Geothermal regulation systems maintaining precise temperatures
 
 **Hooks:**
+
 - Crop blight threatens food security for multiple settlements
 - Geothermal system overload risks catastrophic heat loss
 - Research reveals plants developing psychic properties
@@ -630,20 +636,20 @@ Experimental settlement attempting to establish permanent agriculture on night-s
 Night-side settlement built in massive vertical cave system. Known for resonance-based communication and Deepkin philosophical schools.
 
 **Key Features:**
+
 - The Resonance Lattice: acoustic amplification network
 - Philosophical academies teaching resonance meditation
 - Ice harvesting operations supplying twilight belt
 - The Silent Library: repository of oral histories preserved via resonance
 
 **Hooks:**
+
 - Resonance Lattice produces mysterious signal of unknown origin
 - Philosophical schism threatens to split community
 - Ice harvesting discovered illegal Deep Roads artifacts
 - Shadow stalker pack establishes territory near settlement
 
----
-
-# 7. Bestiary
+# Bestiary
 
 Duskara's native fauna has evolved to thrive in extreme conditions. Some species can be bonded with psychically; others are apex predators best avoided.
 
@@ -656,12 +662,14 @@ Duskara's native fauna has evolved to thrive in extreme conditions. Some species
 **Behavior:** Hunts in twilight belt thermal updrafts. Intelligent, territorial, capable of complex communication. Bonded serpents serve as mounts, messengers, and protectors.
 
 **Abilities:**
+
 - Flight (sustained by wind currents)
 - Thermal vision
 - Pack tactics
 - Psychic receptivity (bonding)
 
 **Vulnerabilities:**
+
 - Exposed underbelly (soft tissue)
 - Grounded in windless zones
 - Bonding disruption causes disorientation
@@ -677,12 +685,14 @@ Duskara's native fauna has evolved to thrive in extreme conditions. Some species
 **Behavior:** Heat-seeking, camouflaged in day-side margins and ruins. Waits motionless for hours before striking. Solitary except during mating.
 
 **Abilities:**
+
 - Thermal camouflage (blends with heat signatures)
 - Explosive speed (short bursts)
 - Thermal vision
 - Armor-plated scales
 
 **Vulnerabilities:**
+
 - Cold exposure (sluggish below 10°C)
 - Poor low-light vision
 - Predictable attack patterns
@@ -698,12 +708,14 @@ Duskara's native fauna has evolved to thrive in extreme conditions. Some species
 **Behavior:** Hunts by sound in absolute darkness. Nearly invisible. Territorial. Avoids light instinctively.
 
 **Abilities:**
+
 - Perfect night camouflage
 - Echolocation
 - Razor claws and fangs
 - Silent movement
 
 **Vulnerabilities:**
+
 - Light sources (causes disorientation)
 - Loud noises (disrupts echolocation)
 - Slow in open areas
@@ -719,11 +731,13 @@ Duskara's native fauna has evolved to thrive in extreme conditions. Some species
 **Behavior:** Filter-feeds on airborne spores. Harmless individually, overwhelming in swarms. Light pulses disorient predators.
 
 **Abilities:**
+
 - Bioluminescence (controllable intensity)
 - Synchronized light pulses (hypnotic)
 - Numbers (crush threats by mass)
 
 **Vulnerabilities:**
+
 - Smoke (disperses swarm)
 - Sound (disrupts coordination)
 - Cold (induces hibernation)
@@ -739,12 +753,14 @@ Duskara's native fauna has evolved to thrive in extreme conditions. Some species
 **Behavior:** Burrows through superheated sand. Attracted to movement. Scavenges equipment, corpses, and mining waste. Cowardly but persistent.
 
 **Abilities:**
+
 - Sand-swimming (burrows rapidly)
 - Heat resistance (tolerates 500°C+)
 - Vibration sense
 - Corrosive saliva (melts metal)
 
 **Vulnerabilities:**
+
 - Sonic weapons (disrupt burrowing)
 - Extreme cold (immobilizes)
 - Predictable (always approaches from downwind)
@@ -758,11 +774,13 @@ Duskara's native fauna has evolved to thrive in extreme conditions. Some species
 **Behavior:** Psychic bond broken by trauma, death, or sabotage. Retains training but acts unpredictably. Dangerous because it understands human tactics.
 
 **Abilities:**
+
 - Species-dependent (wind serpent, thermal lizard, etc.)
 - Human tactical knowledge
 - Psychic resistance (rejects new bonding attempts)
 
 **Vulnerabilities:**
+
 - Species-dependent
 - Psychic trauma (erratic, exploitable)
 
@@ -777,12 +795,14 @@ Duskara's native fauna has evolved to thrive in extreme conditions. Some species
 **Behavior:** Native to twilight belt storm fronts. Feed on electrical discharge during superstorms. Harmless individually, dangerous in swarms when they discharge stored energy.
 
 **Abilities:**
+
 - Flight (sustained by storm winds)
 - Electrical discharge (coordinated swarm attack)
 - Storm prediction (appear hours before major weather)
 - Chitinous armor (resistant to wind damage)
 
 **Vulnerabilities:**
+
 - Grounded in windless conditions
 - Cold (induces torpor)
 - Electromagnetic interference (disrupts coordination)
@@ -798,12 +818,14 @@ Duskara's native fauna has evolved to thrive in extreme conditions. Some species
 **Behavior:** Lives in Deep Roads and twilight belt crevices. Ambushes prey by erupting from stone. Excellent tremor sense. Solitary and territorial.
 
 **Abilities:**
+
 - Stone-boring (creates new tunnels)
 - Tremor sense (detects movement through rock)
 - Crushing bite (armored jaws)
 - Slime secretion (acidic, aids tunneling)
 
 **Vulnerabilities:**
+
 - Sonic weapons (disorients tremor sense)
 - Predictable (always attacks from below)
 - Slow outside tunnels
@@ -819,12 +841,14 @@ Duskara's native fauna has evolved to thrive in extreme conditions. Some species
 **Behavior:** Gentle creature that feeds on ice crystals and lichen. Beautiful bioluminescent wings. Used by Deepkin as light sources and companions.
 
 **Abilities:**
+
 - Bioluminescence (controllable, multiple colors)
 - Cold resistance (thrives in -100°C)
 - Pheromone communication
 - Ice crystal digestion
 
 **Vulnerabilities:**
+
 - Heat (dies above 20°C)
 - Fragile wings (easily damaged)
 - Predictable (drawn to lichen blooms)
@@ -840,23 +864,21 @@ Duskara's native fauna has evolved to thrive in extreme conditions. Some species
 **Behavior:** Semi-mobile plant that migrates toward heat sources. Roots can detach and re-establish. Absorbs thermal energy for sustenance. Neither predator nor prey—environmental hazard.
 
 **Abilities:**
+
 - Thermal absorption (cools surroundings)
 - Slow mobility (roots as limbs)
 - Heat tracking
 - Spore release (irritating to lungs)
 
 **Vulnerabilities:**
+
 - Cold (enters dormancy)
 - Fire (destroys rapidly)
 - Dehydration
 
 **Encounter Notes:** Found near geothermal vents and day-side margins. Can cool settlement heating systems if not removed. Farmers use them to regulate greenhouse temperatures. Spores are medical ingredient (anti-inflammatory).
 
----
-
----
-
-# 7.5. Creating Custom Content
+# Creating Custom Content
 
 One of Duskara's strengths is its adaptability. GMs should feel empowered to create settlements, factions, creatures, and psychic abilities that suit their vision. Here's how:
 
@@ -865,16 +887,19 @@ One of Duskara's strengths is its adaptability. GMs should feel empowered to cre
 **1. Choose Scale:** 50,000-150,000 (cave/outpost), 200,000-500,000 (mid-size), 500,000-2,000,000 (major city)
 
 **2. Define Location:**
+
 - Twilight belt position (closer to day or night?)
 - Cave system or surface
 - Proximity to resources (geothermal, water, ice, mines)
 
 **3. Establish Specialty:** What makes this settlement unique?
+
 - Resource: water management, ice harvesting, mining, agriculture
 - Service: trade hub, research center, military garrison, pilgrimage site
 - Culture: weatherworking tradition, Earth preservation, experimental governance
 
 **4. Create Conflict:** Every interesting settlement has internal or external tension:
+
 - Resource scarcity vs. neighboring claims
 - Traditional faction vs. progressive reformers
 - Isolation vs. integration with broader Duskara
@@ -888,23 +913,27 @@ One of Duskara's strengths is its adaptability. GMs should feel empowered to cre
 ## Creating Factions
 
 **1. Define Core Goal:** What does this faction want?
+
 - Control resource (water, energy, knowledge, psychic training)
 - Ideological mission (preserve Earth culture, embrace Duskaran evolution, expand settlements)
 - Practical objective (profit, survival, political power)
 
 **2. Establish Methods:** How do they pursue goals?
+
 - Diplomatic: negotiation, alliance-building, legal frameworks
 - Economic: trade manipulation, resource control, employment
 - Militant: sabotage, raids, threats, open warfare
 - Subversive: espionage, propaganda, blackmail
 
 **3. Create Internal Divisions:** Factions are never monolithic
+
 - Moderate vs. radical wings
 - Generational disagreements (elders vs. youth)
 - Regional chapters with competing priorities
 - Personal rivalries among leadership
 
 **4. Establish Relationships:** How do they relate to other factions?
+
 - Allies: who do they cooperate with?
 - Rivals: who competes for same resources?
 - Enemies: who actively opposes them?
@@ -916,18 +945,21 @@ One of Duskara's strengths is its adaptability. GMs should feel empowered to cre
 ## Inventing Creatures
 
 **1. Choose Niche:** What role does this creature fill?
+
 - Predator (hunts humans or other fauna)
 - Prey (food source, companionship)
 - Symbiote (mutual benefit with humans or environment)
 - Hazard (environmental feature that happens to be alive)
 
 **2. Adapt to Environment:**
+
 - Day side: extreme heat resistance, radiation tolerance, heat-seeking
 - Twilight belt: wind adaptation, thermal flexibility, storm survival
 - Night side: cold resistance, bioluminescence, cave navigation
 - Deep Roads: vibration sense, darkness adaptation, stone-boring
 
 **3. Add One Weird Trait:** Make it memorable
+
 - Absorbs psychic energy
 - Fossilizes when killed (valuable resource)
 - Changes color based on atmospheric pressure
@@ -935,6 +967,7 @@ One of Duskara's strengths is its adaptability. GMs should feel empowered to cre
 - Hibernates during superstorms
 
 **4. Define Human Interaction:**
+
 - Dangerous: threat level, vulnerability
 - Useful: resource harvested, service provided
 - Neutral: indicator species, ecosystem role
@@ -946,21 +979,25 @@ One of Duskara's strengths is its adaptability. GMs should feel empowered to cre
 ## Developing Psychic Abilities
 
 **1. Choose Sensory or Motor:** Does it enhance perception or allow manipulation?
+
 - Sensory: detect something humans normally can't (metal, water, emotions, future echoes)
 - Motor: manipulate something physically or psychically (gravity, minds, biology, time)
 
 **2. Tie to Duskara:** How does this ability relate to the environment?
+
 - Survival advantage on tidally locked world
 - Evolution from specific Duskaran radiation/pressure
 - Connection to native life, geological features, or atmospheric phenomena
 
 **3. Establish Limitations:** Overpowered abilities break tension
+
 - Range limits (touch, line of sight, 100 meters)
 - Duration limits (seconds, minutes, hours)
 - Exhaustion (stress per use, requires rest)
 - Conditions (only in specific environments, requires focus)
 
 **4. Add Drawback:** Interesting abilities have costs
+
 - Psychological: paranoia, empathy overload, temporal disorientation
 - Physical: nosebleeds, tremors, temperature sensitivity
 - Social: feared, envied, ostracized
@@ -969,9 +1006,7 @@ One of Duskara's strengths is its adaptability. GMs should feel empowered to cre
 **Example:**
 **Pressure Sight** - Sensory psychic ability. User perceives barometric pressure gradients as visible "flows" in air. Allows prediction of wind direction, storm formation, and optimal wind energy placement. Range: line of sight. Limitation: requires concentration; combat makes it unusable. Drawback: constant headaches from atmospheric noise; users become irritable and isolation-seeking. Exhaustion: 1 stress per hour of active use. Tied to Duskara: evolved from generations navigating twilight belt's chaotic wind patterns.
 
----
-
-# 8. GM Guidance
+# GM Guidance
 
 Running **Duskara: Stormtide** is about balancing resource depletion with narrative tension. Breathless's mechanics—skills that degrade, complications that escalate, the need to catch your breath—mirror Duskara's scarcity-driven survival.
 
@@ -994,12 +1029,14 @@ Running **Duskara: Stormtide** is about balancing resource depletion with narrat
 **Premise:** Players escort trade caravans between settlements, dealing with superstorms, bandits, predators, and inter-settlement politics.
 
 **Structure:**
+
 - Session = one journey segment (settlement to settlement)
 - Introduce complications at halfway point and destination
 - Build reputation with factions over time
 - Escalate threats: minor predators → bandit ambushes → sabotage plots
 
 **Key Tensions:**
+
 - Protect cargo vs. protect lives
 - Loyalty to employer vs. moral choices
 - Speed vs. safety
@@ -1010,12 +1047,14 @@ Running **Duskara: Stormtide** is about balancing resource depletion with narrat
 **Premise:** Players are leaders/caretakers of a struggling outpost. Must secure resources, maintain infrastructure, and navigate external threats.
 
 **Structure:**
+
 - Session = one crisis (water shortage, superstorm, diplomatic incident)
 - Use "catch your breath" to introduce new settlement problems
 - Track population morale, resource stockpiles, faction relationships
 - Long-term goal: achieve stability or relocate
 
 **Key Tensions:**
+
 - Survival vs. ethics
 - Self-sufficiency vs. dependence on neighbors
 - Tradition vs. innovation
@@ -1026,12 +1065,14 @@ Running **Duskara: Stormtide** is about balancing resource depletion with narrat
 **Premise:** Players investigate Deep Roads, ancient alien structures, or day-side ruins. Uncover Earth technology, psychic artifacts, and mysteries.
 
 **Structure:**
+
 - Session = one expedition into dangerous territory
 - Use loot checks to find clues and equipment
 - Build mystery over multiple sessions
 - Introduce rival explorers, hostile factions
 
 **Key Tensions:**
+
 - Knowledge vs. safety
 - Preserve artifacts vs. exploit them
 - Share discoveries vs. hoard power
@@ -1042,12 +1083,14 @@ Running **Duskara: Stormtide** is about balancing resource depletion with narrat
 **Premise:** Players are troubleshooters for Weather Wraiths, bonding backlashes, and psychic phenomena. Blend detective work with action.
 
 **Structure:**
+
 - Session = investigate incident, identify cause, resolve/contain threat
 - Use psychic abilities as investigation tools
 - Complications escalate psychic phenomena
 - Build toward larger conspiracy or natural disaster
 
 **Key Tensions:**
+
 - Help victim vs. eliminate threat
 - Science vs. spirituality
 - Control vs. freedom (for psychics)
@@ -1188,18 +1231,21 @@ RPG storytelling emerges from player choices and system interactions. Don't plan
 ## Pacing Long-Term Campaigns
 
 **Sessions 1-3: Establish Stakes**
+
 - Introduce settlements, factions, key NPCs
 - Focus on simple missions (caravan escort, salvage, resource gathering)
 - Let players experience core mechanics without overwhelming complications
 - Build investment in community or faction
 
 **Sessions 4-6: Escalate Tension**
+
 - Introduce faction conflicts, political intrigue
 - Increase environmental hazards (superstorms, predator attacks)
 - Begin long-term mystery threads (ancient structures, psychic phenomena)
 - Force difficult choices (rescue vs. profit, loyalty vs. ethics)
 
 **Sessions 7-10: Crisis Point**
+
 - Major catastrophe threatens settlement or region
 - Multiple factions mobilize, players caught in middle
 - Ancient mysteries begin revealing connections
@@ -1207,6 +1253,7 @@ RPG storytelling emerges from player choices and system interactions. Don't plan
 - Boss encounters (rogue weatherworker, feral creature pack, corporate army)
 
 **Sessions 11+: Resolution and New Beginning**
+
 - Immediate crisis resolved but consequences remain
 - Political landscape shifts based on player actions
 - New threats emerge from resolved plots
@@ -1240,9 +1287,7 @@ RPG storytelling emerges from player choices and system interactions. Don't plan
 
 **Key Principle:** Say yes to creative solutions. Use Risk Oracle to assess difficulty. Let complications emerge naturally from bold choices.
 
----
-
-# 9. Solo Play Rules
+# Solo Play Rules
 
 **Duskara: Stormtide** includes robust solo play support using the **Breathless Oracles** system. These rules let you experience the world of Duskara without a GM.
 
@@ -1288,7 +1333,7 @@ Interpret oracle results narratively. Update your character journal. Introduce n
 
 Repeat the loop.
 
-## 9.2 Question Oracle
+## Question Oracle
 
 **Use this when your character isn't directly involved**, or when you need to disclaim decision-making.
 
@@ -1343,7 +1388,7 @@ Ask a yes/no question. Imagine the outcome. Roll a die based on the **likelihood
 
 **Interpretation:** "You spot Aurora Bastion's windspires on the horizon, but a dust storm is rolling in from the day side. You'll need to navigate through reduced visibility, and the settlement gates may close before you arrive."
 
-## 9.3 Risk Oracle
+## Risk Oracle
 
 **Use this when your character attempts something challenging** with uncertain outcome.
 
@@ -1366,6 +1411,7 @@ Roll a die based on control level:
 ### Assessing Control Levels
 
 **Chaotic (d4):**
+
 - Navigating superstorm
 - Confronting Weather Wraith
 - Fighting wind serpent pack
@@ -1373,6 +1419,7 @@ Roll a die based on control level:
 - Geothermal eruption in progress
 
 **Precarious (d6):**
+
 - Negotiating with hostile faction
 - Traversing unstable Deep Roads section
 - Tracking predator through ruins
@@ -1380,6 +1427,7 @@ Roll a die based on control level:
 - Repairing critical equipment under time pressure
 
 **Manageable (d8):**
+
 - Escorting caravan on clear route
 - Routine salvage in explored ruins
 - Trading with friendly settlement
@@ -1387,6 +1435,7 @@ Roll a die based on control level:
 - Using psychic abilities within limits
 
 **Predictable (d10):**
+
 - Resupplying in safe settlement
 - Repairing equipment with proper tools
 - Communicating via comm crystal
@@ -1394,6 +1443,7 @@ Roll a die based on control level:
 - Routine weather working
 
 **Stable (d12):**
+
 - Activities at home base
 - No time pressure or threats
 - Full resources available
@@ -1413,7 +1463,7 @@ Roll a die based on control level:
 
 **Consequence:** Reduce Navigate skill to d6. You're exhausted—mark 1 stress.
 
-## 9.4 Solo-Specific Tables
+## Solo-Specific Tables
 
 These tables help generate content when you need inspiration.
 
@@ -1475,7 +1525,7 @@ Roll for **attitude** separately: 1-4 = hostile, 5-8 = neutral, 9-12 = friendly.
 7. **Bioluminescent Bloom** (glowcap spores fill air, hallucinogenic effects)
 8. **Silent Zone** (wind stops inexplicably, precedes catastrophic storm)
 
-## 9.5 Solo Campaign Frameworks
+## Solo Campaign Frameworks
 
 Choose one framework or blend elements to create your own.
 
@@ -1484,12 +1534,14 @@ Choose one framework or blend elements to create your own.
 **Concept:** You're a solo explorer, trader, or exile surviving across settlements. Build reputation, gather resources, and carve out a place in the world.
 
 **Structure:**
+
 - Session = one mission or journey
 - Track reputation with factions (5-point scale: hostile to allied)
 - Build resource stockpile over time
 - Long-term goal: establish home base, gain faction membership, or achieve legendary status
 
 **Key Mechanics:**
+
 - Use Mission Generator for each session
 - Track water tokens, equipment, and faction standing
 - Introduce recurring NPCs (allies, rivals, contacts)
@@ -1500,12 +1552,14 @@ Choose one framework or blend elements to create your own.
 **Concept:** You manage a small outpost (20-50 inhabitants). Deal with resource shortages, external threats, and internal disputes.
 
 **Structure:**
+
 - Session = one crisis (water shortage, superstorm, diplomatic incident)
 - Track settlement resources: Water (1-10), Power (1-10), Provisions (1-10)
 - Track population morale (1-10)
 - Long-term goal: achieve stability (all resources 7+) or relocate
 
 **Key Mechanics:**
+
 - Use Complication Tables to generate crises
 - Each session, roll d6: 1-2 = resource depletes 1 point, 3-4 = stays same, 5-6 = improves 1 point
 - Morale changes based on how you resolve crises
@@ -1516,6 +1570,7 @@ Choose one framework or blend elements to create your own.
 **Concept:** You're a trader or guard protecting caravans between settlements. Navigate weather, predators, and politics.
 
 **Structure:**
+
 - Session = one journey segment (settlement to settlement)
 - Create route map with 3-5 waypoints per journey
 - Roll for complications at each waypoint
@@ -1523,6 +1578,7 @@ Choose one framework or blend elements to create your own.
 - Long-term goal: join caravan guild, establish trade monopoly, or retire wealthy
 
 **Key Mechanics:**
+
 - Use Location Generator for waypoints
 - Use Environmental Events and Predator Encounters at each waypoint
 - Catch your breath = reach settlement, resolve cargo delivery
@@ -1533,6 +1589,7 @@ Choose one framework or blend elements to create your own.
 **Concept:** You investigate ancient Earth technology and Duskaran mysteries. Explore Deep Roads, day-side ruins, and alien structures.
 
 **Structure:**
+
 - Session = one expedition into dangerous location
 - Use loot checks to find clues and artifacts
 - Build mystery over multiple sessions (e.g., "What caused the *Stellar Horizon* to crash?")
@@ -1540,12 +1597,13 @@ Choose one framework or blend elements to create your own.
 - Long-term goal: decode major mystery, recover legendary artifact, or publish findings
 
 **Key Mechanics:**
+
 - Use Location Generator (focus on ruins, caves, day-side)
 - Use Complication Tables for environmental hazards
 - Introduce rival explorers and faction interference
 - Catch your breath = return to settlement, catalog findings
 
-## 9.6 Journaling Prompts
+## Journaling Prompts
 
 Solo play benefits from journaling. After each session, answer one or two prompts:
 
@@ -1558,7 +1616,7 @@ Solo play benefits from journaling. After each session, answer one or two prompt
 7. What's one thing you learned about Duskara today?
 8. If you could change one thing about your situation, what would it be?
 
-## 9.7 Extended Solo Play Example
+## Extended Solo Play Example
 
 **Premise:** You're Kael Serin, a Deepkin Scout escorting a small caravan from Lumina Caverns to Aurora Bastion. You carry resonance crystal (d10), climbing kit (d8), and a med kit. Your skills: Navigate d10, Perceive d8, Endure d6, others d4.
 
@@ -1673,11 +1731,13 @@ Solo play benefits from journaling. After each session, answer one or two prompt
 **Loot Die:** d10
 
 **Resources:**
+
 - Water tokens: Started with 10, paid 2 to guards, earned 15 from contract + 8 bonus = 31 total
 - Glowcap rations: Adequate
 - Reputation: Improved with Archivists
 
 **Inventory:**
+
 - Resonance crystal (d10)
 - Climbing kit (d8)
 - Med kit (unused)
@@ -1686,9 +1746,7 @@ Solo play benefits from journaling. After each session, answer one or two prompt
 
 **Next Session Hook:** The Archivist proposes accompanying you back to the chamber for full investigation. But Deep Roads are dangerous, and someone else might have noticed your discovery...
 
----
-
-# 10. Random Tables
+# Random Tables
 
 These tables supplement GM-led and solo play, providing quick inspiration for locations, missions, and complications.
 
@@ -1795,8 +1853,6 @@ When you loot ruins or salvage day-side operations, you might find:
 11. **Holographic Projector** (displays 3D images, entertainment or communication)
 12. **Weapon Prototype** (Earth-tech weapon, powerful but unstable)
 
----
-
 # 11. Appendices
 
 ## Glossary of Duskaran Terms
@@ -1843,36 +1899,37 @@ When you loot ruins or salvage day-side operations, you might find:
 
 **Wind-Kin:** Alliance of Beastwalker communities and bonded creature populations.
 
----
-
 ## Quick Reference: Core Rules
 
 ### Making a Check
+
 1. GM telegraphs risk
 2. Pick skill, roll matching die
 3. Interpret: 1-2 = fail + complication, 3-4 = succeed + complication, 5+ = succeed
 4. Reduce skill by one step (d12→d10→d8→d6→d4)
 
 ### Catch Your Breath
+
 - Resets all skills to original ratings
 - Can be done anytime, even in combat
 - GM introduces new complication
 
 ### Loot Checks
+
 - Start with d12 loot die, step down after each use
 - Roll: 1-2 = trouble here, 3-4 = trouble ahead, 5+ = find item (die rating matches result)
 - Reset loot die when you catch your breath
 
 ### Stunts
+
 - Use d12 instead of skill rating for extraordinary actions
 - Must catch your breath before attempting another
 
 ### Stress
+
 - Track complications and damage with stress boxes
 - 4 stress = vulnerable (failure could mean death)
 - Clear 2 stress with med kit or rest in secure location
-
----
 
 ## Character Sheet Template
 
@@ -1881,6 +1938,7 @@ When you loot ruins or salvage day-side operations, you might find:
 **Role:** _________________
 
 ### Skills
+
 - **Endure:** [ d4 / d6 / d8 / d10 / d12 ]
 - **Navigate:** [ d4 / d6 / d8 / d10 / d12 ]
 - **Perceive:** [ d4 / d6 / d8 / d10 / d12 ]
@@ -1889,9 +1947,11 @@ When you loot ruins or salvage day-side operations, you might find:
 - **Assert:** [ d4 / d6 / d8 / d10 / d12 ]
 
 ### Psychic Ability (Optional)
+
 _________________
 
 ### Backpack (3 items max + 1 med kit)
+
 1. _________________ [ d4 / d6 / d8 / d10 / d12 ]
 2. _________________ [ d4 / d6 / d8 / d10 / d12 ]
 3. _________________ [ d4 / d6 / d8 / d10 / d12 ]
@@ -1899,22 +1959,24 @@ _________________
 **Med Kit:** [ ] (clears 2 stress)
 
 ### Loot Die
+
 [ d4 / d6 / d8 / d10 / d12 ]
 
 ### Stress
+
 [ ] [ ] [ ] [ ]  
 (4 stress = vulnerable)
 
 ### Notes / Resources
+
 Water Tokens: _________________  
 Glowcap Rations: _________________  
 Faction Reputation: _________________
 
----
-
 ## Solo Oracle Cheat Sheet
 
 ### Question Oracle (Yes/No Questions)
+
 - Very unlikely: d4
 - Unlikely: d6
 - Likely: d8
@@ -1922,11 +1984,13 @@ Faction Reputation: _________________
 - Almost certain: d12
 
 **Results:**
+
 - 1-2: "No, and…" (complication)
 - 3-4: "Yes, but…" (cost)
 - 5+: "Yes, and…" (benefit)
 
 ### Risk Oracle (Action Outcomes)
+
 - Chaotic: d4
 - Precarious: d6
 - Manageable: d8
@@ -1934,11 +1998,13 @@ Faction Reputation: _________________
 - Stable: d12
 
 **Results:**
+
 - 1-2: Very risky → perilous check
 - 3-4: Risky → check
 - 5+: Not risky → succeed
 
 ### Solo Game Loop
+
 1. Establish scene (location, goal)
 2. Frame intent (what you want to accomplish)
 3. Consult oracles (question or risk)
@@ -1947,22 +2013,16 @@ Faction Reputation: _________________
 6. Catch your breath (reset skills + complication)
 7. Advance story (interpret results, journal)
 
----
-
 ## License & Attribution
 
-**Duskara: Stormtide** is based on **Breathless** by Fari RPGs (René-Pier Deshaies-Gélinas), licensed for use under the Creative Commons Attribution 4.0 License.
+Duskara: Stormtide
+
+© 2025 Roberto Bisceglie
+
+Based on Cradle & Ward Designer's Framework by Roberto Bisceglie
+
+*Duskara: Stormtide* is based on **Breathless** by Fari RPGs (René-Pier Deshaies-Gélinas), licensed for use under the Creative Commons Attribution 4.0 License.
 
 Solo play rules are based on **The Oracles** Gasp by Fari RPGs (René-Pier Deshaies-Gélinas).
 
-**Breathless** uses the Creative Commons Attribution 4.0 License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
-
-**Duskara: Stormtide** © 2025 [Your Name Here]
-
-This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
-
----
-
-**END OF RULEBOOK**
-
-*The wind never stops. Neither should you.*
+This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit <http://creativecommons.org/licenses/by/4.0/> or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
