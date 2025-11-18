@@ -117,18 +117,23 @@ jobs:
         id: get_metadata
         working-directory: ${{ steps.pub_details.outputs.source_dir }}
         run: |
-          # Extract Version
+          # Estrazione Versione (manteniamo tr -d ' ' qui perché la versione non dovrebbe avere spazi)
           VERSION=$(grep '^version:' ${{ steps.pub_details.outputs.source_file }} | sed 's/version: *"\?\([^"]*\)"\?/\1/' | tr -d ' ')
           
-          # Extract Latest Update
-          LATEST_UPDATE=$(grep '^latest_update:' ${{ steps.pub_details.outputs.source_file }} | sed 's/latest_update: *"\?\([^"]*\)"\?/\1/' | tr -d ' ')
+          # Estrazione Latest Update
+          # 1. grep trova la riga
+          # 2. sed cattura il testo tra le virgolette (o dopo i due punti se non ci sono virgolette)
+          # 3. xargs (opzionale) rimuove spazi bianchi a inizio/fine riga rimasti
+          LATEST_UPDATE=$(grep '^latest_update:' ${{ steps.pub_details.outputs.source_file }} | sed 's/latest_update: *"\?\([^"]*\)"\?/\1/')
           
+          # Trimma eventuali spazi bianchi residui a inizio/fine usando xargs
+          LATEST_UPDATE=$(echo "$LATEST_UPDATE" | xargs)
+
           if [ -z "$VERSION" ]; then
             echo "ERROR: Could not extract version"
             exit 1
           fi
           
-          # If latest_update is not there, use an empty string or the current date (optional)
           if [ -z "$LATEST_UPDATE" ]; then
              LATEST_UPDATE="N/A"
           fi
