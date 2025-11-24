@@ -92,7 +92,7 @@ Subject-Verb-Object (SVO), with flexibility for emphasis.
 - **dodo** /ˈdo.do/ – younger sibling
 - **bibi** /ˈbi.bi/ – grandmother
 - **babu-tano** /ˈba.bu.ta.no/ – grandfather (lit. "strong elder")
-- **mpenzi** /ˈmpen.zi/ – beloved, partner (from Swahili)
+- **mpenzi** /ˈmpen.zi/ – beloved, partner; can be used sincerely or to imply obligation (from Swahili)
 - **rafiki-wan** /ra.ˈfi.ki.wan/ – friendship-bond
 - **kin-hanga** /ˈkin.ha.ŋa/ – Wind-Kin (extended family unit)
 
@@ -521,7 +521,10 @@ Subject-Verb-Object (SVO), with flexibility for emphasis.
 
 - **jamii** /dʒa.ˈmi/ – community, society (from Swahili)
 - **umoja** /u.ˈmo.dʒa/ – unity (from Swahili)
-- **ushirika** /u.ʃi.ˈri.ka/ – cooperation (from Swahili)
+- **ushirika** /u.ʃi.ˈri.ka/ – cooperation, specifically the principle of 'sharing a burden' within a partnership or community.
+- **shanda** /ˈʃan.da/ – trade; also used to describe the negotiation of expectations and responsibilities within a relationship.
+- **kinabara** /ki.ˈna.ba.ra/ – "hoarder"; a deeply shameful term for someone who stockpiles resources or power.
+- **hangakora** /ˈha.ŋa.ko.ra/ – "bad wind"; a term for psychic coercion, emotional manipulation, or the abuse of psychic gifts.
 - **utu** /ˈu.tu/ – humanity, compassion (from Swahili *ubuntu*)
 - **ukoo** /u.ˈko/ – lineage, clan (from Swahili)
 - **utamaduni** /u.ta.ma.ˈdu.ni/ – culture, tradition (from Swahili)
