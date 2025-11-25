@@ -1,9 +1,9 @@
 ---
-date: 2025-11-18
-latest_update: The "Duskaran Names" section has been renamed to "Duskaran Names Guidelines" and completely expanded. It now offers a comprehensive guide to the social norms and conventions for creating culturally consistent names.
+date: 2025-11-25
+latest_update: Massive worldbuilding update following fiction integrations. See Changelog for details.
 subtitle: Main Setting Book
 title: Duskara Compendium
-version: 1.1.1
+version: 1.2.0
 ---
 
 # Introduction
@@ -265,7 +265,7 @@ Wind barriers—monumental structures that tame the planet’s ferocious gusts�
 
 The necessity of survival in such an unforgiving environment has cultivated a profound sense of collectivism among Duskarans. Individual ambitions are often subordinated to the greater good of the community. Decisions are made through communal processes, with a strong emphasis on fairness and transparency. This collective mentality is not merely practical—it is a deeply ingrained cultural value, reinforced by centuries of shared struggle.
 
-Resource conservation is paramount in Duskaran life. Water, fertile land, and energy are all scarce, and their careful management is both a practical necessity and a moral imperative. Waste is seen as a profound failing, a threat to survival itself. Rituals such as water blessings and wind tributes imbue these practices with spiritual significance, celebrating the interconnectedness of life and resources.
+Resource conservation is paramount in Duskaran life. Water, fertile land, and energy are all scarce, and their careful management is both a practical necessity and a moral imperative. Waste is seen as a profound failing, a threat to survival itself. This ethic is encapsulated in a core societal maxim: "If we make exceptions for love, we break for everything." This principle dictates that ecological mandates cannot be compromised for individual need, no matter how tragic, as doing so threatens the collective stability. Rituals such as water blessings and wind tributes imbue these practices with spiritual significance, celebrating the interconnectedness of life and resources.
 
 Duskarans’ spirituality is intrinsically tied to their environment. The ever-present wind and stark contrasts between day and night have shaped their beliefs and rituals. Wind spirits are revered as powerful forces that both sustain and challenge life, their presence honored through ceremonies aligned with significant weather events like auroras or the seasonal shifts in wind patterns. The wind is both a provider and a destroyer, embodying the precarious balance of existence.
 
@@ -279,13 +279,23 @@ Duskaran society operates within a linear hierarchy dictated by the geography of
 
 Trade and marriage alliances serve as the bedrock of inter-settlement relations. Arranged marriages are not merely personal unions but significant political events, symbolizing the merging of communities and the establishment of long-term resource-sharing agreements. These grand ceremonies reflect the importance of such partnerships in maintaining societal stability. Families that specialize in fostering these alliances—diplomatic lineages—are held in high regard, occupying the upper echelons of social status.
 
-Genetic diversity is a key concern in isolated settlements, where the threat of inbreeding looms large. To mitigate this, marriage caravans traverse the twilight belt, introducing potential matches and facilitating cultural exchanges between communities. This mobile tradition strengthens social bonds and ensures the genetic health of future generations.
+### The Baŋga'sora (Marriage Caravan)
 
-Life in Duskara is marked by age-graded roles, with each stage of life carrying specific expectations. Children are immersed in survival skills and taught the principles of resource conservation, while adolescents undergo rigorous rites of passage, such as wind endurance trials, to prove their readiness for adulthood. Adults take on critical responsibilities, including resource management, trade, and defense, while elders serve as teachers and advisors, preserving the cultural and practical knowledge vital to their community’s survival.
+To mitigate genetic isolation and forge political alliances, settlements participate in the *baŋga'sora*—a formal marriage caravan. These organized journeys transport a selection of participants to multiple settlements to evaluate potential partnerships. While ostensibly an honor, the selection process is often political. Individuals from struggling settlements, particularly those without psychic abilities, may be chosen as "offerings" to secure vital resources or expertise from more powerful communities.
+
+Each caravan is overseen by a neutral Wayseer, who is responsible for documenting proceedings and ensuring the consent of all participants is respected, at least in principle. The *baŋga'sora* serves as a critical mechanism for cultural exchange and political negotiation, though it is often fraught with tension between communal duty and individual autonomy.
+
+Life in Duskara is marked by age-graded roles, with each stage of life carrying specific expectations. Children are immersed in survival skills and taught the principles of resource conservation. Adults take on critical responsibilities, including resource management, trade, and defense, while elders serve as teachers and advisors, preserving the cultural and practical knowledge vital to their community’s survival.
+
+### Threshold Education and Age-Graded Roles
+
+The transition to adulthood is formalized through **Threshold Education**, a rigorous rite of passage for adolescents around the age of 17 Cycles. Guided by an elder mentor (often from the *kin-Babu* lineage), this education focuses on the ethical and social responsibilities of adulthood rather than job training. The curriculum covers complex topics such as consent frameworks, partnership negotiation, birth quotas, and the recognition of psychic and emotional coercion.
+
+This period of learning culminates in the **Wind Endurance Trial**, a physically and psychically demanding test where the student must prove they can withstand the planet’s raw environmental forces. Success marks their official entry into adulthood, symbolized by the granting of a ceremonial sash. They are now considered a full member of their kin-group, expected to "carry weight" rather than be carried.
 
 ## Resource Management
 
-Access to water, the most precious commodity on Duskara, defines wealth and power. Families with significant water quotas or control over distribution systems are among the societal elite. Water tokens, ceramic discs marked with settlement glyphs, are physical representations of water rights. They are often passed down through generations or traded as part of alliances, symbolizing both status and survival.
+Access to water, the most precious commodity on Duskara, defines wealth and power. Families with significant water quotas or control over distribution systems are among the societal elite. Water tokens, ceramic discs marked with settlement glyphs, are physical representations of water rights. Beyond their economic value, they are instruments of authority and autonomy, physically required to authorize critical actions within a settlement’s water systems, such as overriding automated valves. Linked to an individual's specific role and identification, the possession or coercive withholding of a token can become a significant source of personal and political power. They are often passed down through generations or traded as part of alliances, symbolizing both status and survival.
 
 The tokens contain psychic authentication signatures embedded in microscopic grooves during their creation. Each settlement's glyph (Aurora Bastion's spiral-and-crescent, for example) identifies origin, while groove depth analysis detects forgery attempts. These tokens function as both economic instruments and legal evidence, with chain-of-custody protocols governing their inter-settlement trade.
 
@@ -306,6 +316,10 @@ The cultural practices of Duskaran society reflect their deep connection to thei
 **Communal decision-making** is a deeply ingrained practice, emphasizing transparency and consensus. Major decisions about resources and trade are made in open forums where all members of a settlement can voice their perspectives. Elders or appointed leaders facilitate these discussions, but the final outcomes often depend on unique traditions such as wind votes, where symbolic items are placed in wind urns, allowing the breeze to determine the consensus in an act of natural symbolism.
 
 Oral traditions form the backbone of Duskaran cultural memory. Through stories, songs, and interactive performances, generations pass down critical survival techniques, historical narratives, and moral lessons. Tales of heroes who safeguarded water supplies during droughts, myths of the wind’s origins, and cautionary stories of settlers lost to the night side ensure that both knowledge and values are preserved. These traditions, often enhanced with shadow puppetry or musical interludes, serve as both education and entertainment, blending practicality with the artistry of storytelling.
+
+### Partnership Ethics and Terminology
+
+Duskaran culture applies economic and engineering principles to interpersonal relationships to ensure clarity and stability. A partnership is often viewed as a form of ***ushirika*** (cooperation, or 'sharing a burden'), where individuals provide mutual support to maintain the stability of their shared structure. The negotiation of a relationship's terms—from resource sharing to child-rearing responsibilities—is referred to as ***shanda*** (trade), emphasizing that clarity and voluntary agreement are the highest forms of care. A partnership where one individual is forced to carry more weight or has their autonomy compromised is seen as a dangerously unstable "pressure vessel" that will inevitably "torque" and "rupture," threatening the well-being of the individuals and the community.
 
 ## Ritual Objects and Voting Systems
 
@@ -339,6 +353,8 @@ Deep bonding is a telepathic connection that allows individuals to form empathic
 
 This ability is cultivated under the guidance of beastwalkers, experts who teach apprentices how to establish and nurture psychic bonds. Trust and mutual respect are essential, as the strength of the connection depends as much on emotional intelligence as on psychic power.
 
+Because of their deep connection to native fauna, many Beastwalkers evolve into fierce conservation advocates or serve as **Preserve Wardens**. Their unique perspective allows them to sense ecosystem health through the experiences of their animal companions, making them critical players in maintaining Duskara's ecological balance.
+
 ## Shadow Walking
 
 Shadow walking is the art of navigating complete darkness using psychic awareness. Practitioners describe it as an intuitive sense of their surroundings, allowing them to detect obstacles, creatures, and spatial details without relying on sight. This ability is crucial for exploring Duskara’s sprawling cave systems and is equally valuable in combat, enabling shadow walkers to evade detection or set ambushes in pitch-black environments. They also assist in underground construction projects, offering unparalleled precision in unlit conditions.
@@ -359,9 +375,21 @@ Yet reverence coexists with unease. Weatherworkers who can summon winds or water
 
 This tension is managed through cultural institutions: Weatherworking Guilds enforce strict ethical codes, psychic abilities are presented as communal responsibilities rather than personal advantages, and most settlements ensure that councils include both psychic and non-psychic representatives. The balance is delicate, and communities where psychics consolidate too much power risk internal fracture.
 
+This form of manipulation is known colloquially as generating "emotional weather" or, more formally, as *hangakora* (bad wind). A powerful psychic can broadcast a suffocating blanket of certainty, anxiety, or desire, making it difficult for those around them to think clearly or trust their own judgment. While difficult to prove, this subtle coercion is considered a grave ethical violation, as it undermines the core Duskaran value of individual autonomy. The most insidious practitioners convince their victims that this psychic pressure is a form of protection or care.
+
 ## Potential Drawbacks
 
-Despite their many benefits, psychic abilities come with risks. Overuse can result in psychic burnout, a condition marked by severe mental and physical exhaustion. In extreme cases, practitioners may suffer permanent impairment. Additionally, psychic energy can sometimes destabilize, creating aberrant phenomena. Weather Wraiths, for example, are dangerous manifestations of uncontrolled energy, often presenting significant threats to both the affected individual and their surroundings. These rare occurrences remind Duskarans of the delicate balance required to wield their extraordinary gifts.
+Despite their many benefits, psychic abilities come with risks. Overuse can result in psychic burnout, a condition marked by severe mental and physical exhaustion. In extreme cases, practitioners may suffer permanent impairment.
+
+**The Held** are weatherworkers who have experienced this burnout but retain limited capability. While they cannot perform active sensing or manipulation, they provide stable anchoring for distributed workings (low power, high endurance) and serve as respected teachers and archivists. Their existence is a testament to the cost of the craft.
+
+**Solo Work Dangers:** Working alone lacks the accountability and distributed load of group efforts. It creates false confidence, hides warning signs like tremors or exhaustion, and removes group intervention. This isolation is a major contributing factor to burnout, leading guilds to prioritize distributed working despite its complexities.
+
+Additionally, psychic energy can sometimes destabilize, creating aberrant phenomena. Weather Wraiths, for example, are dangerous manifestations of uncontrolled energy.
+
+## Infrastructure and Training
+
+**Grounding Chambers** are a standard feature of weatherworking guild houses. These underground, geothermal-warmed spaces are acoustically deadened to reduce sensory input. They are used for meditation, recovery, and teaching initiates to manage the constant atmospheric awareness that comes with the gift. Not complete silence, but a necessary refuge from the "noise" of the wind.
 
 ## Physical Manifestations and Advanced Techniques
 
@@ -370,6 +398,8 @@ Weatherworking exacts physical tolls beyond the general burnout described in tra
 **Dampening Fields** represent a critical safety innovation developed after several cascading Weather Wraith incidents. Multiple practitioners create overlapping psychic barriers around a destabilized weatherworker, containing their uncontrolled emissions and preventing Wraith formation. The technique requires precise coordination; if one practitioner falters, the entire field collapses. Those within dampening fields experience profound sensory deprivation—the psychic equivalent of blindness and deafness—making the experience deeply unsettling even when necessary.
 
 **Distributed Weatherworking** emerged from caravan culture as a practical solution to the limited range and physical cost of individual psychic work. Rather than one weatherworker attempting to shield an entire caravan from an approaching storm, three to five practitioners share the psychic load, each manipulating a portion of the atmospheric system. This requires extraordinary synchronization; practitioners describe the sensation as "holding hands through the wind," their awareness blending into a collective perception. The technique reduces individual strain but demands absolute trust—a psychic backlash affects all participants simultaneously.
+
+***Songa-roho*** **(Spirit-Binding)** is an ancient *siri-ji* (Archivist) technique, traditionally used for imprinting history onto data crystals. It has been adapted by some weatherworkers to form a deep, empathetic psychic link with a sentient atmospheric phenomena. The technique requires what is known as "absolute empathy"—the practitioner must feel what the entity feels, connecting with its core emotions, such as trauma, loneliness, or confusion. Following this deep connection, a "rejection" or "truth-telling" is performed, where the practitioner shows the entity its own history, often including its formation or "death," to guide it toward release and dissolution. This powerful and ethically complex technique provides a method for resolving psychic trauma in sentient storms, but carries immense personal risk for the practitioner.
 
 Thermal sensing through direct touch provides more precise readings than distance scanning. Practitioners place palms against rock, metal, or even organic tissue, reading temperature gradients through bone-deep vibration. Advanced users develop calluses on their fingertips from repeated contact with extreme surfaces.
 
@@ -403,6 +433,8 @@ Governance is anchored by the **Council of Elders**, who oversees decision-makin
 
 Knowledge of Earth history carries prestige among certain intellectual circles, with Archivists holding elevated status for their guardianship of ancient records. However, this scholarship is viewed by most as academic curiosity rather than practical wisdom. The divide between "Earth-obsessed" elites and pragmatic laborers occasionally sparks tension, particularly when resources are diverted to preserving data crystals rather than expanding water infrastructure.
 
+This guardianship has led to the development of unique skills. The most revered and secret of these is ***Songa-roho*** **(Spirit-Binding)**, an ancient technique originally used for imprinting history and consciousness onto data crystals for long-term preservation. This practice allows an Archivist to form a deep, empathetic psychic link with a subject, a process requiring "absolute empathy." Some rare practitioners have adapted this technique beyond its original purpose, applying it to sentient atmospheric phenomena to understand and resolve their traumatic origins.
+
 ## Customs and Traditions
 
 Duskaran life is rich with rituals and traditions that reflect their environment and values. Endurance trials, such as heat tests and frost vigils, mark the transition to adulthood, challenging participants to demonstrate resilience and readiness. Seasonal gatherings celebrate survival and resource-sharing, with feasts, dances, and communal storytelling fostering unity.
@@ -412,6 +444,8 @@ Marriage ceremonies, timed with optimal wind conditions, symbolize harmony and p
 Ancestor veneration focuses on the early settlers—those who survived the landing and established the first communities. The Stellar Horizon's crew are remembered more as mythic founders than historical figures, their individual stories largely lost. Digital archives exist but are consulted primarily for technical knowledge; the cultural memory of Earth itself has been subsumed into distinctly Duskaran identity.
 
 Wind-listening meditations, taught to all children, cultivate an early connection to Duskara’s rhythms, while resource-sharing festivals promote gratitude and communal bonds.
+
+A philosophical concept that has survived from the First Generation is the **Intervention of the Witness**. This belief holds that hidden wrongs, particularly subtle forms of coercion or abuse within relationships, cannot persist if they are truly "Seen" by the community. It encourages individuals not to rescue adults from their choices, but to act as a "mirror" by calmly and privately bearing witness, letting the affected person know that their experience is valid and that they are not alone. This act of seeing is considered a profound form of community care, intended to break the isolation that allows manipulation to thrive.
 
 ## Material Culture
 
@@ -496,7 +530,7 @@ The Deepkin’s existence exemplifies adaptability and resilience, their culture
 
 Governance in Duskara is defined by the needs of survival and resource management, varying between the twilight belt cities and the cave settlements. Each community has developed systems that reflect their unique environments while fostering collaboration with their neighbors.
 
-In the twilight belt, city-states operate autonomously under the leadership of a Council of Windkeepers. These councils are composed of representatives from key groups, including resource guilds specializing in water, wind energy, and agriculture, as well as Wind-Kin leaders and elected delegates from communal forums. Leadership rotates with the changing wind patterns, a practice that ensures flexibility and equitable power distribution. Decision-making is rooted in consensus, reflecting the cooperative ethos necessary for managing scarce resources and maintaining stability.
+In the twilight belt, city-states operate autonomously under the leadership of a Council of Windkeepers. Reflecting the existential importance of resource management, these councils are typically composed of representatives from the most critical sectors: **agriculture, trade, and water management**. These key figures are joined by leaders from prominent Wind-Kin families and elected delegates from communal forums, ensuring a balance of specialized expertise and popular will. Leadership often rotates with the changing wind patterns, a practice that ensures flexibility and equitable power distribution, while decision-making is rooted in consensus.
 
 Most twilight settlements operate under seven-member Councils of Windkeepers, with representatives holding specialized roles: water management, agricultural oversight, wind energy systems, trade coordination, and three general governance positions rotating among Wind-Kin leaders. Wind-votes in these councils often employ hand-raising rather than formal urn ceremonies, with decisions recorded when clear majorities form. Emergency audiences—triggered by water judges, Stormwardens, or citizen coalitions presenting crisis evidence—suspend normal procedures, requiring council response within three solar cycles.
 
@@ -580,7 +614,7 @@ Underground expansion is vital for both twilight and cave settlements. Subterran
 
 ### Hydroloop Monitoring Systems
 
-Major settlements maintain underground monitoring chambers where water judges analyze real-time data from distributed sensor networks. Tablet arrays display hydroloop junction flows, aquifer depth fluctuations, and atmospheric condenser performance. Archive chambers beneath council complexes store decades of water rights documentation—ceramic tokens, trade manifests, quota adjustments—accessible only to water judges and authorized delegates. Projection systems allow emergency data presentation during council audiences, visualizing crisis patterns across multiple screens for rapid decision-making.
+Major settlements maintain underground monitoring chambers where water judges analyze real-time data from distributed sensor networks. Tablet arrays display hydroloop junction flows, aquifer depth fluctuations, and atmospheric condenser performance. While most systems are automated, critical valves and manual overrides require physical authentication with an authorized water token, ensuring a layer of personal accountability. Archive chambers beneath council complexes store decades of water rights documentation—ceramic tokens, trade manifests, quota adjustments—accessible only to water judges and authorized delegates. Projection systems allow emergency data presentation during council audiences, visualizing crisis patterns across multiple screens for rapid decision-making.
 
 ## Communication Technology
 
@@ -692,7 +726,7 @@ Life on Duskara, while deeply rooted in cooperation and interdependence, is far 
 
 Resource competition is a frequent source of discord among settlements. Access to water, geothermal energy, and rare minerals often sparks disputes, with accusations of resource diversion or overuse leading to standoffs. For example, a twilight city might accuse its neighbor of diverting an underground water source, prompting intervention by Wayseers to mediate the conflict.
 
-Cultural differences further strain relations, particularly between the twilight belters and the cave-dwelling Deepkin. Twilight communities often view the Deepkin as insular and overly superstitious, while the Deepkin see their surface counterparts as wasteful and arrogant. These perceptions can escalate into significant tensions, such as when a Deepkin community threatens to cut off geothermal energy trade after a twilight settlement disrespects a sacred geothermal site.
+Cultural differences further strain relations, particularly between the twilight belters and the cave-dwelling Deepkin. Twilight communities often view the Deepkin as insular and overly superstitious, while the Deepkin see their surface counterparts as wasteful and arrogant. These perceptions can escalate into significant tensions, such as when a Deepkin community threatens to cut off geothermal energy trade after a twilight settlement disrespects a sacred geothermal site. These tensions often manifest as disputes over the valuation of raw materials from the caves versus finished goods from the surface, as exemplified by the trade conflicts preceding the "Tempest's Edge Incident".
 
 Trade disputes also pose challenges, as the lifelines connecting settlements are fragile. Tariffs or restrictions on caravan access can spark rivalries, while lucrative routes, like those through the Storm Wall, often become battlegrounds for control. Shared threats, such as environmental hazards or predators, can exacerbate these divisions when settlements disagree over contributions to collective defense. For instance, one settlement might accuse another of failing to provide enough fighters to protect against wind serpent incursions.
 
@@ -700,13 +734,15 @@ Trade disputes also pose challenges, as the lifelines connecting settlements are
 
 Inequalities within settlements often mirror the struggles between them. Access to resources like water and energy creates a stark divide between the resource elite—guild leaders and wealthy merchants—and the laboring class. Such disparities can lead to unrest, as seen in cases where workers revolt after settlement councils prioritize trade caravans over local families' water needs.
 
-The psychic-non-psychic divide cuts across traditional class lines. A wealthy merchant without abilities may resent a weatherworker from a laboring family who holds greater influence over settlement decisions. Movements led by non-psychic populists occasionally emerge, demanding restrictions on psychic involvement in governance or resource allocation. These tensions are usually defused through council mediation, but settlements have fractured over accusations of psychic tyranny.
+The psychic-non-psychic divide cuts across traditional class lines. A wealthy merchant without abilities may resent a weatherworker from a laboring family who holds greater influence over settlement decisions. This tension is exacerbated in times of crisis, when non-psychic individuals from struggling settlements may be treated as expendable political assets, offered up in marriage caravans (*baŋga'sora*) to secure alliances. Furthermore, a cultural deference to powerful psychics (especially critical ones like water-finders) can lead to councils ignoring the valid data and expertise of non-psychic specialists, creating a dangerous dynamic where charisma and psychic power override verifiable facts. Movements led by non-psychic populists occasionally emerge, demanding restrictions on psychic involvement in governance or resource allocation. These tensions are usually defused through council mediation, but settlements have fractured over accusations of psychic tyranny.
 
 In cave settlements, a divide exists between those living near geothermal hearths—the Warmcore Elite—and those relegated to colder, less hospitable outskirts, known as Marginals. The Marginals’ struggles for survival occasionally lead to drastic actions, such as sabotaging thermal harvesters to force resource redistribution.
 
 ## Between Different Philosophies of Resource Management
 
 The debate over how best to manage Duskara’s limited resources is a constant source of tension. Conservationists advocate for strict preservation and population control to ensure long-term survival, while expansionists push for ambitious projects to extend habitable zones or exploit the day side’s resources. This philosophical divide often paralyzes councils, as seen when a twilight city becomes deadlocked over a proposal to fund a dangerous mining operation on the day side.
+
+A deeper, more personal conflict arises from the "No Exceptions" principle ("If we make exceptions for love, we break for everything"). Individuals facing personal tragedy—such as a bonded companion needing a resource from a protected preserve—often find themselves at odds with Wardens and community leaders who must enforce ecological boundaries regardless of empathy. These heartbreaking standoffs test the community's resolve and are a frequent subject of wind-songs and ethical debate.
 
 Traditional resource management practices, such as communal farming and ritualized water-sharing, often clash with modernization efforts like automated irrigation and genetic crop modification. The clandestine adoption of forbidden technologies within settlements can lead to outrage and division when discovered, highlighting the precarious balance between tradition and progress.
 
@@ -910,7 +946,7 @@ Duskaran flora display remarkable convergent adaptations across zones. Many spec
 
 **Driftwings**: Small, gliding creatures resembling bats with sleek, aerodynamic bodies and translucent wing membranes that catch and redirect wind currents. They navigate with uncanny precision, sensing pressure changes and thermal gradients to ride optimal air flows across vast distances. Some settlements train them as scouts or messengers, exploiting their natural ability to navigate storms that would ground other creatures.
 
-**Wind Serpents**: Elongated, serpentine predators with sail-like fins running the length of their bodies, allowing them to stabilize and maneuver in high winds. They hunt by waiting in ambush positions, then using sudden gusts to propel lightning-fast strikes at prey. Their scales have a wind-polished sheen, and they're considered both dangerous and symbolically significant—representing freedom and untamed nature in Duskaran mythology.
+**Wind Serpents**: Elongated, serpentine predators with sail-like fins running the length of their bodies, allowing them to stabilize and maneuver in high winds. Their scales shimmer with copper and amber hues, possessing a wind-polished sheen. Highly intelligent, they are capable of communicating complex emotions and images to those they bond with. They exhibit communal behaviors, such as circling dying members in silent vigils. However, they are vulnerable to specific respiratory fungal infections that can devastate local populations. They are considered both dangerous and symbolically significant—representing freedom and untamed nature in Duskaran mythology.
 
 **Sand Skimmers**: Insect-like creatures the size of a human hand, featuring lightweight chitinous exoskeletons and powerful hind legs that allow them to leap several meters in a single bound. They glide on gossamer wings during longer movements, creating distinctive zigzag patterns across the dunes. Largely harmless to humans, they're considered indicators of stable sand conditions—if skimmers avoid an area, it suggests dangerous substrate or hidden predators.
 
@@ -929,6 +965,8 @@ Duskaran flora display remarkable convergent adaptations across zones. Many spec
 **Auroral Crustaceans**: Semi-transparent shellfish that inhabit geothermal pools, feeding on bacterial mats and filtering minerals from superheated water. Their translucent shells reveal faintly glowing internal organs, created by bioluminescent bacteria in their digestive systems. They're a protein staple for cave settlements, farmed in managed thermal pools where water temperature and chemistry can be controlled.
 
 **Glowmoss Grazers**: Herbivorous mammals about the size of rabbits, with large eyes adapted to perceive the subtle light emitted by bioluminescent fungi. They feed exclusively on glowcaps and stalkmoss, their digestive systems breaking down compounds that would be toxic to other species. Their populations serve as indicators of fungal ecosystem health, and they're occasionally kept as livestock in settlements with extensive glowcap farms.
+
+Beyond their ecological role, Glowmoss Grazers are central to Deepkin culture for a more profound reason: they are living vessels of ancestral consciousness. The first settlers, seeking to preserve their heritage, encoded memories of Earth—its arts, sciences, and history—into the genetic and psychic makeup of this species. When a Deepkin forms a Deep Bond with a grazer, they can access this latent archive, often experiencing these ancestral memories as vivid, involuntary visions. This makes the Glowmoss Grazer not merely a companion or livestock, but a sacred link to humanity's lost past.
 
 **Ice Burrowers**: Compact mammals with dense fur, powerful claws, and low metabolic rates that allow them to survive in the coldest nightward caves. They excavate complex tunnel networks through ice and frozen soil, following scent trails to locate buried plant material and small prey. Their fur is exceptionally warm but difficult to harvest humanely, leading to ongoing debates about controlled hunting versus protected status.
 
@@ -987,11 +1025,16 @@ Duskaran is a hybrid language that emerged from the necessity of communication a
 1.  **Common Words**:
 
     - Water: *Maji*
+    - Sweet Water: *Maji-tamu* (pure, drinkable)
     - Wind: *Hanga*
+    - Fierce Wind: *Hanga-kali*
+    - Superstorm: *Tufani*
+    - Day Face: *Joto-kanda* (the sun-scorched hemisphere)
     - Trade: *Shanda*
     - Shelter: *Kibanda*
     - Light: *Liwanag*
     - Ancestor: *Babu*
+    - Archivist: *Siri-ji* (keeper of secrets)
 
 2.  **Hybrid Terms**:
 
@@ -1001,8 +1044,16 @@ Duskaran is a hybrid language that emerged from the necessity of communication a
 
 3.  **Psychic Lexicon**:
 
-    - Weatherworking: *Hangan'kiya* (wind craft)
+    - Weatherworking: *Hangan'kiya* (wind craft), also refers to the collective psychic "web" of practitioners.
     - Water Finding: *Maji'tunga* (water sense)
+
+4.  **Social & Ethical Terms**:
+
+    - *Ushirika*: Cooperation, especially the 'sharing of a burden' within a partnership.
+    - *Shanda*: The 'trade' or negotiation of expectations and responsibilities within a relationship.
+    - *Kinabara*: "Hoarder." A deeply shameful term for someone who stockpiles resources or power beyond their share.
+    - *Hangakora*: "Bad wind." A term for psychic coercion or the manipulative abuse of psychic abilities.
+    - *Mpenzi*: "Beloved." A term for a partner, which can be used sincerely or, in some contexts, to enforce a sense of obligation.
 
 ## Trade Pidgin
 
@@ -2455,6 +2506,12 @@ Here are lists of personal names, all drawing inspiration from **Duskara's cultu
 
 - 1.0.0: First release
 - 1.1.0: The "Duskaran Names" section has been renamed to "Duskaran Names Guidelines" and completely expanded. It now offers a comprehensive guide to the social norms and conventions for creating culturally consistent names.
+- 1.2.0: Massive worldbuilding update following fiction integrations.
+  - Cultural Frameworks: Added "Threshold Education" rites, "Partnership Ethics" (shanda, ushirika), and the "No Exceptions" conservation principle.
+  - Psychic Abilities: Expanded "Beastwalker" roles (Wardens), defined "Psychic Coercion" (hangakora), added "Songa-roho" technique, and clarified Water Token authority.
+  - Settlements: Added detailed profiles for Zephyrvale, Thistledrift, Harmattan's Reach, Gale Reach, and Threshold Bend.
+  - Rituals: Documented "The Baŋga'sora" (Marriage Caravan), "Aurora Veil Festival", and Mourning Rituals for Bonded Creatures.
+  - Environment: Updated Wind Serpent and Glowmoss Grazer lore; detailed the "Dragon's Throat" phenomenon and Storm Wall navigation protocols.
 
 # License
 
