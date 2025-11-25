@@ -2,8 +2,8 @@
 date: 2025-11-18
 subtitle: A Comprehensive Conlang Reference for the Duskara Setting
 title: Duskaran Language Handbook
-version: 1.0.0
-latest_update: "First release"
+version: 1.1.0
+latest_update: "Various new terms added"
 ---
 
 # Introduction
@@ -121,7 +121,7 @@ Subject-Verb-Object (SVO), with flexibility for emphasis.
 - **hanga-daŋa** /ˌha.ŋaˈda.ŋa/ – twilight edge, habitable zone
 - **sori-wan** /ˈso.ri.wan/ – day side (lit. "dawn place")
 - **giza-wan** /ˈgi.za.wan/ – night side (from Swahili *giza* "darkness")
-- **joto-kanda** /ˈdʒo.to.kan.da/ – day face, the scorching hemisphere
+- **joto-kanda** /ˈdʒo.to.kan.da/ – the Sun-scorched Day Face, the hemisphere perpetually facing the star
 - **baridi-kanda** /ba.ˈri.di.kan.da/ – night face, the frozen hemisphere
 - **anga** /ˈa.ŋa/ – sky
 - **taiyo** /ˈtai.jo/ – star, sun (loanword from Japanese)
@@ -439,7 +439,7 @@ Subject-Verb-Object (SVO), with flexibility for emphasis.
 
 ### Psychic Abilities
 
-- **hangan'kiya** /ˌha.ŋaŋˈki.ja/ – weatherworking
+- **hangan'kiya** /ˌha.ŋaŋˈki.ja/ – weatherworking; the term also refers to the collective psychic link of practitioners, the "weatherworking web."
 - **maji'tunga** /ˈma.dʒi.tu.ŋa/ – water finding
 - **joto'hisi** /ˈdʒo.to.hi.si/ – thermal sensing
 - **songa-unga** /ˈso.ŋa.u.ŋa/ – deep bonding (with animals or people)
