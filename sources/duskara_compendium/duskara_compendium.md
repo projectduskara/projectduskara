@@ -620,7 +620,7 @@ Duskaran culture celebrates inclusivity and fluidity, embracing diverse sexual o
 
 Among the inhabitants of Duskara, the Deepkin—those who dwell in the subterranean warmth of the night side—have developed a culture and way of life distinct from their twilight counterparts. These cave-dwellers embrace isolation, self-sufficiency, and a profound connection to the geothermal forces that sustain them, carving out a resilient existence in the shadows.
 
-For comparative context on how Deepkin culture differs from Twilight Belter societies, see [Environment and Culture](#enviroment-and-culture). For information on Deepkin psychic adaptations, see [Psychic Abilities](#psychic-abilities). For technical details on Deepkin geothermal systems and infrastructure, see [Technology](#technology).
+For comparative context on how Deepkin culture differs from Twilight Belter societies, see [Environment and Culture](#environment-and-culture). For information on Deepkin psychic adaptations, see [Psychic Abilities](#psychic-abilities). For technical details on Deepkin geothermal systems and infrastructure, see [Technology](#technology).
 
 ## Cultural Differences from Twilight Settlements
 
