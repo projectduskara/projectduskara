@@ -2,8 +2,8 @@
 title: Duskara Compendium
 date: 2025-11-25
 subtitle: Main Setting Book
-latest_update:
 version: 1.3.0
+latest_update:
   - "Sensory and daily life worldbuilding additions to make Duskara feel lived-in. "
   - "Entertainment (Chapter 15): Expanded with specific game rules (Stormball, Glow Disc, Wind Chess, Thermal Tag, Stone Balancing), detailed musical instruments (Wind Flutes, Resonance Drums, Geothermal Chimes, String Instruments), and dance forms (Wind Dance, Thermal Dance, Ceremonial Choreography)."
   - "Daily Life (Chapter 3): Added comprehensive daily life cycles for both Twilight Belters and Deepkin, including work schedules, meal times, sleep patterns, and sensory signatures of settlements (sights, sounds, smells unique to each environment)."
