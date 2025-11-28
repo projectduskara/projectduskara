@@ -1,10 +1,16 @@
 ---
-date: 2025-11-25
-latest_update: |
-  Sensory and daily life worldbuilding additions to make Duskara feel lived-in. - Entertainment (Chapter 15): Expanded with specific game rules (Stormball, Glow Disc, Wind Chess, Thermal Tag, Stone Balancing), detailed musical instruments (Wind Flutes, Resonance Drums, Geothermal Chimes, String Instruments), and dance forms (Wind Dance, Thermal Dance, Ceremonial Choreography). - Daily Life (Chapter 3): Added comprehensive daily life cycles for both Twilight Belters and Deepkin, including work schedules, meal times, sleep patterns, and sensory signatures of settlements (sights, sounds, smells unique to each environment). - Food and Agriculture (Chapter 11): Documented Twilight Belt hydroponics, cave settlement geothermal farming, staple foods (bread, preserved foods, proteins, fermented beverages), communal dining customs, and resource conservation practices in food preparation. - Intimate Bonds (Chapter 4): Expanded with courtship customs, multiple partnership types (dyadic, multi-partner, contractual, intentional friendship), sexuality and consent frameworks, and detailed child-rearing practices including parental roles, education, coming-of-age rituals, and grief customs. - Tensions and Disagreements (Chapter 12): Reframed from "Conflicts" to emphasize that while real tensions exist (resource disputes, class divides, psychic vs. non-psychic dynamics, generational differences, philosophical disagreements about tradition vs. technology), they are managed through institutional mechanisms (council mediation, neutral Wayseers, resource-sharing protocols, emigration) rather than violence. Established that warfare is culturally taboo and structurally impossible due to absolute interdependence. - Community Safety and Emergency Response (Chapter 13): Completely reframed from "Military & Defense" to reflect absence of military establishment. Now describes community-based response teams organized around environmental hazards (storms, auroras), fauna management (wind serpents, heat hounds, ember stalkers, shadow lizards, ice burrowers, auroral crustaceans), and psychic phenomena (Weather Wraiths). Emphasized that all tools and training serve environmental and fauna response, not inter-settlement warfare.
-subtitle: Main Setting Book
 title: Duskara Compendium
+date: 2025-11-25
+subtitle: Main Setting Book
+latest_update:
 version: 1.3.0
+  - "Sensory and daily life worldbuilding additions to make Duskara feel lived-in. "
+  - "Entertainment (Chapter 15): Expanded with specific game rules (Stormball, Glow Disc, Wind Chess, Thermal Tag, Stone Balancing), detailed musical instruments (Wind Flutes, Resonance Drums, Geothermal Chimes, String Instruments), and dance forms (Wind Dance, Thermal Dance, Ceremonial Choreography)."
+  - "Daily Life (Chapter 3): Added comprehensive daily life cycles for both Twilight Belters and Deepkin, including work schedules, meal times, sleep patterns, and sensory signatures of settlements (sights, sounds, smells unique to each environment)."
+  - "Food and Agriculture (Chapter 11): Documented Twilight Belt hydroponics, cave settlement geothermal farming, staple foods (bread, preserved foods, proteins, fermented beverages), communal dining customs, and resource conservation practices in food preparation."
+  - "Intimate Bonds (Chapter 4): Expanded with courtship customs, multiple partnership types (dyadic, multi-partner, contractual, intentional friendship), sexuality and consent frameworks, and detailed child-rearing practices including parental roles, education, coming-of-age rituals, and grief customs."
+  - "Tensions and Disagreements (Chapter 12): Reframed from "Conflicts" to emphasize that while real tensions exist, they are managed through institutional mechanisms rather than violence.
+  - "Community Safety and Emergency Response (Chapter 13): Completely reframed from "Military & Defense" to reflect absence of military establishment."
 ---
 
 # Introduction
