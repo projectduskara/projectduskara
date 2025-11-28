@@ -40,7 +40,7 @@ This is a world of:
 
 Yet for all its harshness, Duskara is home. Its people have developed a deep connection to their world's rhythms - the wind patterns, the temperature gradients, the flow of precious water through their carefully maintained systems. They have created beauty in their adaptation, strength in their communion with the planet's forces, and meaning in their struggle to thrive where their ancestors merely hoped to survive.
 
-## Timeline of the Duskara Setting
+## Timeline
 
 - **2187 CE**: The colony ship *Stellar Horizon* departs Earth, bound for Kepler-442b, carrying a mixed African and Asian crew in cryogenic stasis.
 
