@@ -1,9 +1,9 @@
 ---
-date: 2025-11-18
+date: 2025-11-28
 subtitle: A Comprehensive Conlang Reference for the Duskara Setting
 title: Duskaran Language Handbook
-version: 1.1.0
-latest_update: "Various new terms added"
+version: 1.2.0
+latest_update: "Integrated comprehensive vocabulary sections, everyday dialogues, and cultural phrases"
 ---
 
 # Introduction
@@ -576,6 +576,67 @@ Subject-Verb-Object (SVO), with flexibility for emphasis.
 - **tu** /tu/ – only, just (from Swahili)
 - **pia** /ˈpi.a/ – also (from Swahili)
 
+## XIII. Community & Cooperation
+
+- **ushirika** /u.ʃi.ˈri.ka/ – cooperation, burden-sharing (core cultural value)
+- **unga-mkono** /ˈu.ŋa.mko.no/ – to join hands, collaborate (lit. "join-hand")
+- **baraza** /ba.ˈra.za/ – council, assembly (from Swahili)
+- **shauri** /ˈʃau.ri/ – consultation, advice (from Swahili)
+- **msaada** /msa.ˈda/ – assistance, mutual aid (from Swahili)
+- **pamoja** /pa.ˈmo.dʒa/ – together (from Swahili)
+- **wote** /ˈwo.te/ – all, everyone (from Swahili)
+- **uzalendo** /u.za.ˈlen.do/ – solidarity, loyalty to community
+
+## XIV. Celebration & Gratitude
+
+- **shukrani** /ʃu.ˈkra.ni/ – gratitude, thanksgiving (from Swahili)
+- **furaha-kubwa** /fu.ˈra.ha.kub.wa/ – great joy, celebration (lit. "happiness-big")
+- **karamu-pamoja** /ka.ˈra.mu.pa.mo.dʒa/ – communal feast
+- **ngoma** /ˈŋo.ma/ – drum, music, dance gathering (from Swahili)
+- **wimbo** /ˈwim.bo/ – song (from Swahili)
+- **shangwe** /ˈʃa.ŋwe/ – celebration, festivity (from Swahili)
+- **baraka** /ba.ˈra.ka/ – blessing, fortune (from Swahili/Arabic)
+
+## XV. Education & Mentorship
+
+- **elimu** /e.ˈli.mu/ – education, knowledge system (from Swahili)
+- **funza** /ˈfun.za/ – teach (from Swahili)
+- **mwalimu** /mwa.ˈli.mu/ – teacher, mentor (from Swahili)
+- **mwanafunzi** /mwa.na.ˈfun.zi/ – student, apprentice (from Swahili)
+- **masomo** /ma.ˈso.mo/ – lessons, studies (from Swahili)
+- **busara** /bu.ˈsa.ra/ – wisdom, good judgment (from Swahili)
+- **akili-tamu** /a.ˈki.li.ta.mu/ – sweet mind, intellectual curiosity
+
+## XVI. Partnership & Intimacy (Cultural Framework)
+
+- **ushirika-roho** /u.ʃi.ˈri.ka.ro.ho/ – soul-partnership, deep bond
+- **shanda-roho** /ˈʃan.da.ro.ho/ – relationship negotiation (lit. "trade-soul")
+- **upendo-huru** /u.ˈpen.do.hu.ru/ – freely-given love (consensual)
+- **heshima-mwili** /he.ˈʃi.ma.mwi.li/ – body respect, consent
+- **mazungumzo-wazi** /ma.zu.ŋum.ˈzo.wa.zi/ – open conversation, transparency
+- **kumbembe** /kum.ˈbem.be/ – affection, tenderness (from Swahili)
+- **starehe** /sta.ˈre.he/ – comfort, pleasure, intimacy (from Swahili)
+
+## XVII. Resilience & Adaptation
+
+- **uvumilivu** /u.vu.mi.ˈli.vu/ – endurance, patience (from Swahili)
+- **ustawi** /u.ˈsta.wi/ – flourishing, thriving (from Swahili)
+- **kubadilika** /ku.ba.di.ˈli.ka/ – to adapt, change (from Swahili)
+- **nguvu-pamoja** /ˈŋu.vu.pa.mo.dʒa/ – strength together, collective power
+- **tumaini-thabiti** /tu.ˈmai.ni.θa.ˈbi.ti/ – steadfast hope
+- **ufanisi** /u.fa.ˈni.si/ – success, achievement (from Swahili)
+- **uwezo** /u.ˈwe.zo/ – capability, capacity (from Swahili)
+
+## XVIII. Ethical & Spiritual Concepts
+
+- **utu** /ˈu.tu/ – ubuntu, humanity, compassion (core philosophy)
+- **haki-ya-wote** /ˈha.ki.ja.wo.te/ – justice for all
+- **uwazi** /u.ˈwa.zi/ – transparency, openness (from Swahili)
+- **uadilifu** /u.a.di.ˈli.fu/ – fairness, integrity (from Swahili)
+- **uzuri** /u.ˈzu.ri/ – goodness, beauty (from Swahili)
+- **huruma** /hu.ˈru.ma/ – mercy, compassion (from Swahili)
+- **subira** /su.ˈbi.ra/ – patience, forbearance (from Swahili)
+
 # Compound Formation Patterns
 
 Duskaran creates new vocabulary through systematic compounding:
@@ -658,7 +719,7 @@ Simplified Duskaran for inter-settlement commerce:
 - **Ma nzuri.** – Not good. (No deal)
 - **Tuka kuja.** – Will come later.
 
-# RPG Phrasebook
+# Phrasebook
 
 ## Greetings & Social
 
@@ -707,6 +768,88 @@ Simplified Duskaran for inter-settlement commerce:
 - *Maji ni yako.* – Water is yours. (generous offer)
 - *Lala hapa usiku.* – Sleep here tonight.
 - *Hanga-salama.* – Safe winds. (blessing/farewell)
+
+## Everyday Dialogues
+
+### Morning Greeting at Settlement
+
+**A:** Hujambo, rafiki. Wara yako wote wanafanya nzuri?
+"Hello, friend. Is your whole family doing well?"
+
+**B:** Ndiyo, asante sana. Kazi ya moto-bomba imekwisha mapema. Zi kuja kwa tafakari-hanga asubuhi?
+"Yes, thank you very much. The thermal exchanger work finished early. Will you come to morning wind-meditation?"
+
+**A:** Ni furaha. Kupumua pamoja na jamii inaniletea amani.
+"With joy. Breathing together with community brings me peace."
+
+### Council Discussion
+
+**Elder:** Kabla ya kura, wapi jata anataka sema?
+"Before the vote, where is the person who wants to speak?"
+
+**Young Adult:** Ni omba ruhusa. Ni pendekeza kubadilisha zamu za kazi ili hakuna jata anabeba mzigo mkubwa peke yake.
+"I ask permission. I propose we change work rotations so no person carries a big burden alone."
+
+**Elder:** Maneno yako yaheshimu babu wetu na ahadi za ushirika. Asante.
+"Your words honor our ancestors and the promises of cooperation. Thank you."
+
+### Children's Education
+
+**Teacher:** Ni uliza: Sifa gani ni muhimu zaidi kwa kuishi Duskara?
+"I ask: What quality is most important for living on Duskara?"
+
+**Child:** Uvumilivu—na ujasiri wa kuomba msaada.
+"Endurance—and the courage to ask for help."
+
+**Teacher:** Sawa kabisa. Kumbuka: hanga kali inakutana vizuri pamoja.
+"Exactly right. Remember: strong winds are best met together."
+
+### Feast Preparation
+
+**Elder:** Sherehe ya Gradient inakuja hivi karib. Wara yako imefanya viko vya shukrani?
+"The Gradient Feast comes soon. Has your family made gratitude cups?"
+
+**Parent:** Ndiyo. Tumefanya vipya kwa watoto, ili wakumbuke sehemu yao katika jamii.
+"Yes. We made new ones for the children, so they remember their part in community."
+
+**Elder:** Ni baraka nzuri. Hanga yenu iwe daima na usawa.
+"A beautiful blessing. May your wind always be balanced."
+
+### Partnership Negotiation
+
+**Person A:** Ni penda kuongea kuhusu ushirika wetu. Naweza kusema wazi?
+"I want to talk about our partnership. May I speak openly?"
+
+**Person B:** Ndiyo, tafadhali. Uwazi ni heshima kubwa.
+"Yes, please. Transparency is great respect."
+
+**Person A:** Ni hisi mzigo wa nyumba haujalingana. Tunaweza shanda upya?
+"I feel the household burden isn't balanced. Can we negotiate again?"
+
+**Person B:** Asante kwa ujasiri wako. Tunaongea na kupanga pamoja.
+"Thank you for your courage. We will talk and arrange together."
+
+## Blessings & Encouragement
+
+- *Hanga-salama kwa safari yako* – Safe winds on your journey
+- *Maji-tamu kwa wara yako* – Sweet water to your family
+- *Nguvu pamoja* – Strength together
+- *Roho yako iko imara* – Your spirit is strong
+- *Babu wanakutazama* – The ancestors watch you (protective)
+
+## Council & Decision-Making
+
+- *Tunasikia maneno yako* – We hear your words (acknowledgment)
+- *Ni shauri pamoja* – We consult together
+- *Haki ya wote* – Justice for all
+- *Tunga roho za jamii* – Sense the community's spirit
+
+## Teaching & Mentorship
+
+- *Jifunza polepole* – Learn gently/patiently
+- *Kila jata anajua kitu* – Every person knows something
+- *Elimu ni baraka* – Education is a blessing
+- *Busara inatoka uzoefu* – Wisdom comes from experience
 
 # Sample Texts
 
@@ -875,30 +1018,7 @@ Duskaran surnames follow two main patterns:
 
 \| Duskaran \| IPA \| English \| \|-\|--\|\| \| hanga \| /ˈha.ŋa/ \| wind \| \| maji \| /ˈma.dʒi/ \| water \| \| shanda \| /ˈʃan.da/ \| trade \| \| tufani \| /tu.ˈfa.ni/ \| storm \| \| moto \| /ˈmo.to/ \| heat/fire \| \| baridi \| /ba.ˈri.di/ \| cold \| \| tana \| /ˈta.na/ \| strong \| \| kibanda \| /ki.ˈban.da/ \| shelter \| \| muru \| /ˈmu.ru/ \| friend \| \| hatari \| /ha.ˈta.ri/ \| danger \|
 
-# Notes for Tabletop RPG Use
-
-## Scene-Setting Vocabulary
-
-- *hanga-daŋa* for "twilight edge" immediately establishes location
-- *tufani-kali* warns of dangerous weather
-- *maji-ndogo* hints at water scarcity tension
-
-## NPC Dialogue Flavor
-
-Sprinkle phrases like:
-
-- *"Hanga-salama, traveler."* (Safe winds, traveler.)
-- *"Maji ni ghali leo."* (Water is expensive today.)
-- *"Tunga-roho yangu inasema..."* (My psychic sense tells me...)
-
-## Quest/Scenario Terminology
-
-- **korasha** (scout mission)
-- **maji'tunga** (water-finding quest)
-- **tufani-sherehe** (Storm Wall Festival event)
-- **hangan'kiya** (weatherworking challenge)
-
-This handbook provides 500+ vocabulary entries organized for practical use in the Duskara TTRPG setting. The language reflects eight centuries of linguistic evolution, blending African and Asian influences into a survival-focused creole shaped by wind, water, and psychic adaptation.
+This handbook provides 600+ vocabulary entries organized across eighteen comprehensive sections covering grammar, vocabulary, pronunciation, and cultural context. The language reflects eight centuries of linguistic evolution, blending African and Asian influences into a survival-focused creole shaped by wind, water, and psychic adaptation.
 
 # License
 
