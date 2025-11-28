@@ -193,26 +193,26 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-#      - name: Upload to itch.io
-#        env:
-#          BUTLER_API_KEY: ${{ secrets.BUTLER_API_KEY }}
-#        run: |
-#          # Download and setup butler
-#          curl -L -o butler.zip https://broth.itch.ovh/butler/linux-amd64/LATEST/archive/default
-#          unzip butler.zip
-#          chmod +x butler
-#          
-#          # Push files to itch.io
-#          VERSION="${{ steps.get_version.outputs.VERSION }}"
-#          NAME="${{ matrix.publication }}"
-#          ITCH_USER="your-itch-username"
-#          ITCH_GAME="${NAME}"
-#          
-#          # Upload PDF
-#          ./butler push "release_files/${NAME}_v${VERSION}.pdf" "${ITCH_USER}/${ITCH_GAME}:pdf" --userversion "${VERSION}"
-#          
-#          # Upload EPUB
-#          ./butler push "release_files/${NAME}_v${VERSION}.epub" "${ITCH_USER}/${ITCH_GAME}:epub" --userversion "${VERSION}"
-#          
-#          # Upload ODT
-#          ./butler push "release_files/${NAME}_v${VERSION}.odt" "${ITCH_USER}/${ITCH_GAME}:odt" --userversion "${VERSION}"
+      - name: Upload to itch.io
+        env:
+          BUTLER_API_KEY: ${{ secrets.BUTLER_API_KEY }}
+        run: |
+          # Download and setup butler
+          curl -L -o butler.zip https://broth.itch.ovh/butler/linux-amd64/LATEST/archive/default
+          unzip butler.zip
+          chmod +x butler
+          
+          # Push files to itch.io
+          VERSION="${{ steps.get_version.outputs.VERSION }}"
+          NAME="${{ matrix.publication }}"
+          ITCH_USER="projectduskara"
+          ITCH_GAME="${NAME}"
+          
+          # Upload PDF
+          ./butler push "release_files/${NAME}_v${VERSION}.pdf" "${ITCH_USER}/${ITCH_GAME}:pdf" --userversion "${VERSION}"
+          
+          # Upload EPUB
+          ./butler push "release_files/${NAME}_v${VERSION}.epub" "${ITCH_USER}/${ITCH_GAME}:epub" --userversion "${VERSION}"
+          
+          # Upload ODT
+          ./butler push "release_files/${NAME}_v${VERSION}.odt" "${ITCH_USER}/${ITCH_GAME}:odt" --userversion "${VERSION}"
