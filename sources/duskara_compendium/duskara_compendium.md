@@ -1,8 +1,8 @@
 ---
 title: Duskara Compendium
 subtitle: Main Setting Book
-version: 1.4.0
 date: 2025-11-25
+version: 1.4.0
 latest_update: Enhanced Compendium architecture with bidirectional cross-references to Chapter 7.
 ---
 
@@ -287,7 +287,7 @@ Life in cave settlements revolves around geothermal vents, the rhythms of subter
 
 ## Comparative Cultural Mindsets: Twilight Belters and Deepkin
 
-While both Twilight Belters and Deepkin share foundational Duskaran values of collectivism and resource conservation, their divergent environments have cultivated distinct cultural emphases (see also: [Cave-Dwellers](#07_cave-dwellers)).
+While both Twilight Belters and Deepkin share foundational Duskaran values of collectivism and resource conservation, their divergent environments have cultivated distinct cultural emphases (see also: [Cave-Dwellers](#cave-dwellers)).
 
 **Twilight Belters** prioritize interconnectedness and cooperative networks. Their survival depends on maintaining the linear chain of settlements through active trade, communication, and alliance. Wind-based challenges require constant environmental negotiation; weatherworkers and water-finders are integrated into community decision-making. Leadership tends toward councils that balance individual expertise with collective input. The ever-present wind creates a culture of shared vulnerability—everyone feels its power equally—reinforcing lateral relationships across settlements.
 
@@ -513,7 +513,7 @@ Water-finders describe their ability as detecting moisture gradients—not simpl
 
 ## Deepkin Psychic Adaptations
 
-Living in perpetual darkness has fostered exceptional psychic abilities among the Deepkin, creating variants and specializations distinct from Twilight Belt psychic practices (detailed further in [Cave-Dwellers](#07_cave-dwellers)).
+Living in perpetual darkness has fostered exceptional psychic abilities among the Deepkin, creating variants and specializations distinct from Twilight Belt psychic practices (detailed further in [Cave-Dwellers](#cave-dwellers)).
 
 **Shadow Sight** extends thermal sensing into the geothermal environment, allowing Deepkin to perceive heat gradients with unparalleled precision. Rather than detecting emotional states through thermal variation, Shadow Sight creates a complete thermal awareness that compensates for the absence of light, effectively allowing cave-dwellers to "see" their surroundings through temperature fields. This natural talent is often enhanced through training with resonance crystals.
 
@@ -620,7 +620,7 @@ Duskaran culture celebrates inclusivity and fluidity, embracing diverse sexual o
 
 Among the inhabitants of Duskara, the Deepkin—those who dwell in the subterranean warmth of the night side—have developed a culture and way of life distinct from their twilight counterparts. These cave-dwellers embrace isolation, self-sufficiency, and a profound connection to the geothermal forces that sustain them, carving out a resilient existence in the shadows.
 
-For comparative context on how Deepkin culture differs from Twilight Belter societies, see [Environment and Culture](#03_enviroment_and_culture). For information on Deepkin psychic adaptations, see [Psychic Abilities](#05_psychic_abilities). For technical details on Deepkin geothermal systems and infrastructure, see [Technology](#09_technology).
+For comparative context on how Deepkin culture differs from Twilight Belter societies, see [Environment and Culture](#enviroment_and_culture). For information on Deepkin psychic adaptations, see [Psychic Abilities](#psychic_abilities). For technical details on Deepkin geothermal systems and infrastructure, see [Technology](#technology).
 
 ## Cultural Differences from Twilight Settlements
 
@@ -640,7 +640,7 @@ Bioluminescent systems illuminate their world. Glow farms cultivate fungi and ba
 
 Resource storage and recycling are equally advanced. Cold vaults, formed in natural ice caves, preserve food and materials, while bio-recyclers transform organic waste into fuel or nutrient-rich compost. Adaptations to the night side's unique challenges include thermal sensors for detecting heat signatures and Aurora Arrays, which harness electromagnetic energy from auroras for power or enhanced communication.
 
-See [Technology](#09_technology) for detailed information on Deepkin-specific infrastructure systems, including thermal distribution networks, bioluminescent farming, and specialized mining equipment.
+See [Technology](#technology) for detailed information on Deepkin-specific infrastructure systems, including thermal distribution networks, bioluminescent farming, and specialized mining equipment.
 
 ## Psychic Adaptations to Darkness
 
@@ -650,7 +650,7 @@ Dark Bonding enables deep telepathic connections with underground fauna, such as
 
 Geothermal Communion is the hallmark of Deepkin weatherworkers, who manipulate heat flows to stabilize temperatures and protect their communities from cold intrusions. The profound silence and darkness of the night side have also given rise to Void Attunement, a meditative practice where adepts tune their minds to subtle psychic currents. This ability allows them to detect distant disturbances or threats, making them invaluable protectors of their secluded world.
 
-See [Psychic Abilities](#05_psychic_abilities) for detailed information on how these Deepkin variants compare to standard psychic practices in Twilight Belt settlements.
+See [Psychic Abilities](#psychic_abilities) for detailed information on how these Deepkin variants compare to standard psychic practices in Twilight Belt settlements.
 
 The Deepkin's existence exemplifies adaptability and resilience, their culture and abilities perfectly attuned to the challenges of life in the depths of Duskara.
 
@@ -728,7 +728,7 @@ Technology in Duskara is a blend of innovation and necessity, designed to harnes
 
 The twilight belt's relentless winds form the foundation of Duskaran energy production. Massive wind turbines dominate the landscape, capturing the unceasing gales to power settlements. These adaptive turbines adjust to shifts in wind direction and intensity, ensuring maximum efficiency and longevity. The energy collected is stored in decentralized wind banks, preventing outages during storms or mechanical failures.
 
-In the caves of the night side, geothermal energy reigns supreme. Natural heat sources are tapped using thermal harvesters that convert warmth into electricity or direct heating for homes and machinery. Steam condensers extract moisture from underground heat, providing a critical water source. Heat grids—networks of heated pathways—prevent freezing and support underground agriculture (see also: [Cave-Dwellers](#07_cave-dwellers) for detailed Deepkin geothermal engineering). Portable thermal coils store this energy for use in remote or colder regions, providing a lifeline to isolated communities.
+In the caves of the night side, geothermal energy reigns supreme. Natural heat sources are tapped using thermal harvesters that convert warmth into electricity or direct heating for homes and machinery. Steam condensers extract moisture from underground heat, providing a critical water source. Heat grids—networks of heated pathways—prevent freezing and support underground agriculture (see also: [Cave-Dwellers](#cave-dwellers) for detailed Deepkin geothermal engineering). Portable thermal coils store this energy for use in remote or colder regions, providing a lifeline to isolated communities.
 
 Specialized generators near the storm walls harness the temperature gradients between the day and night sides, converting these extremes into sustainable power. This innovative approach highlights Duskarans' ability to adapt to their planet's unique challenges. To ensure reliability across conditions, energy is stored in advanced cryo-batteries, which maintain efficiency in harsh environments, and thermal capacitors, which preserve surplus heat for later use.
 
@@ -1379,7 +1379,7 @@ Duskaran is a hybrid language that emerged from the necessity of communication a
 
 ## Vocabulary
 
-1. **Common Words**:
+1.  **Common Words**:
 
     - Water: *Maji*
     - Sweet Water: *Maji-tamu* (pure, drinkable)
@@ -1393,18 +1393,18 @@ Duskaran is a hybrid language that emerged from the necessity of communication a
     - Ancestor: *Babu*
     - Archivist: *Siri-ji* (keeper of secrets)
 
-2. **Hybrid Terms**:
+2.  **Hybrid Terms**:
 
     - Combining roots:
       - "Geothermal" → *Motohan* (*moto* \[fire\] + *han* \[warmth\])
       - "Community" → *Banwan* (*bayan* \[village\] + *wan* \[place\])
 
-3. **Psychic Lexicon**:
+3.  **Psychic Lexicon**:
 
     - Weatherworking: *Hangan'kiya* (wind craft), also refers to the collective psychic "web" of practitioners.
     - Water Finding: *Maji'tunga* (water sense)
 
-4. **Social & Ethical Terms**:
+4.  **Social & Ethical Terms**:
 
     - *Ushirika*: Cooperation, especially the 'sharing of a burden' within a partnership.
     - *Shanda*: The 'trade' or negotiation of expectations and responsibilities within a relationship.
@@ -1597,16 +1597,16 @@ These taboos aren't merely linguistic—they reflect existential threats. A wate
 
 ### Word-for-Word Breakdown
 
-1. **na** → /na/ → "at"
-2. **hangadanga** → /han.gaˈda.ŋa/ → "twilight edge"  
+1.  **na** → /na/ → "at"
+2.  **hangadanga** → /han.gaˈda.ŋa/ → "twilight edge"  
     (*hanga* = "wind"; *danga* = "border/edge")
-3. **mi** → /mi/ → "we"
-4. **ngaŋga** → /ˈŋaŋ.ga/ → "gather"
-5. **ta** → /ta/ → "under"
-6. **manga** → /ˈmaŋ.ga/ → "great"
-7. **hanga** → /ˈhan.ga/ → "wind"
-8. **babaki** → /baˈba.ki/ → "elders"
-9. **ja** → /ja/ → "teach"
+3.  **mi** → /mi/ → "we"
+4.  **ngaŋga** → /ˈŋaŋ.ga/ → "gather"
+5.  **ta** → /ta/ → "under"
+6.  **manga** → /ˈmaŋ.ga/ → "great"
+7.  **hanga** → /ˈhan.ga/ → "wind"
+8.  **babaki** → /baˈba.ki/ → "elders"
+9.  **ja** → /ja/ → "teach"
 10. **kina** → /ˈki.na/ → "us"
 11. **shimu** → /ˈʃi.mu/ → "song"
 12. **zizi** → /ziˈzi/ → "children"
@@ -1625,10 +1625,10 @@ These taboos aren't merely linguistic—they reflect existential threats. A wate
 
 ### Features Demonstrated
 
-1. **Stress Pattern**: Consistently penultimate across all words.
-2. **Syntax**: Follows **Subject-Verb-Object** structure with postpositional modifiers.
-3. **Vocabulary**: Combines native Duskaran terms with hybridized roots.
-4. **Cultural Context**: Emphasizes survival, reverence for the wind, and ancestral connection.
+1.  **Stress Pattern**: Consistently penultimate across all words.
+2.  **Syntax**: Follows **Subject-Verb-Object** structure with postpositional modifiers.
+3.  **Vocabulary**: Combines native Duskaran terms with hybridized roots.
+4.  **Cultural Context**: Emphasizes survival, reverence for the wind, and ancestral connection.
 
 ## Base Vocabulary
 
@@ -1703,15 +1703,15 @@ These taboos aren't merely linguistic—they reflect existential threats. A wate
 
 ### Sample Phrases
 
-1. *Mi ngaŋga na han.ga.daŋa.*  
+1.  *Mi ngaŋga na han.ga.daŋa.*  
     /mi ˈŋaŋ.ga na ˌhan.gaˈda.ŋa/  
     "We gather at the twilight edge."
 
-2. *Maji ja tana.*  
+2.  *Maji ja tana.*  
     /maˈji ja ˈta.na/  
     "Water is strength."
 
-3. *Babaki ja kina na han.ga.*  
+3.  *Babaki ja kina na han.ga.*  
     /baˈba.ki ja ˈki.na na ˈhan.ga/  
     "The elders teach us about the wind."
 
@@ -1957,10 +1957,10 @@ They are omitted in:
 
 **Construction patterns**:
 
-1. Start with strong consonant or cluster (Kh-, Zh-, Sh-, Th-, Z-, V-, L-)
-2. Add 1-2 syllables with flowing vowels
-3. End with feminine suffix
-4. Examples: Kh + ya + nni = Khyanni, Z + ih + ara = Zihara
+1.  Start with strong consonant or cluster (Kh-, Zh-, Sh-, Th-, Z-, V-, L-)
+2.  Add 1-2 syllables with flowing vowels
+3.  End with feminine suffix
+4.  Examples: Kh + ya + nni = Khyanni, Z + ih + ara = Zihara
 
 ### Male Names
 
@@ -1976,10 +1976,10 @@ They are omitted in:
 
 **Construction patterns**:
 
-1. Begin with hard consonants (K-, Th-, Z-, B-, D-, X-)
-2. Use 2-3 syllables with clear, strong sounds
-3. End with masculine suffix
-4. Examples: Th + al + yon = Thalyon, Ky + ren = Kyren
+1.  Begin with hard consonants (K-, Th-, Z-, B-, D-, X-)
+2.  Use 2-3 syllables with clear, strong sounds
+3.  End with masculine suffix
+4.  Examples: Th + al + yon = Thalyon, Ky + ren = Kyren
 
 ### Gender-Neutral Names
 
@@ -1994,10 +1994,10 @@ They are omitted in:
 
 **Construction patterns**:
 
-1. Balance hard and soft consonants
-2. Use neutral endings that avoid strong gender markers
-3. 2-3 syllables preferred
-4. Examples: Ae + lith = Aelith, Ky + ros = Kyros
+1.  Balance hard and soft consonants
+2.  Use neutral endings that avoid strong gender markers
+3.  2-3 syllables preferred
+4.  Examples: Ae + lith = Aelith, Ky + ros = Kyros
 
 ## Surnames
 
@@ -2025,11 +2025,11 @@ They are omitted in:
 
 ### Construction patterns
 
-1. **Compound**: \[Environmental/thermal term\] + \[geographical feature\]
+1.  **Compound**: \[Environmental/thermal term\] + \[geographical feature\]
     - Ash + fall = Ashenfall, Thorn + vale = Thornvale
-2. **Native**: 2-3 syllables, mixed consonant clusters
+2.  **Native**: 2-3 syllables, mixed consonant clusters
     - Vy + rask + a = Vyraska, Kae + lir + is = Kaeliris
-3. **Hybrid**: Blend Earth and Duskaran elements
+3.  **Hybrid**: Blend Earth and Duskaran elements
     - Fen + or + ith = Fenorith
 
 ## Name Assembly Process
@@ -2113,7 +2113,7 @@ Names are typically given in infancy but can be amended or expanded upon demonst
 
 ## Examples of Name Construction
 
-1. **Female weatherworker from twilight belt**:
+1.  **Female weatherworker from twilight belt**:
 
     - Start: Sh- (wind sound)
     - Core: -av-in- (flowing)
@@ -2123,7 +2123,7 @@ Names are typically given in infancy but can be amended or expanded upon demonst
     - **Full formal**: Shavina kin-Hanga Thornvale
     - **Common formal**: Shavina Thornvale
 
-2. **Male thermal sensor from cave settlement**:
+2.  **Male thermal sensor from cave settlement**:
 
     - Start: Ky- (sharp)
     - Core: -r-eth (thermal)
@@ -2133,7 +2133,7 @@ Names are typically given in infancy but can be amended or expanded upon demonst
     - **Full formal**: Kyreth kin-Moto Velseris
     - **Common formal**: Kyreth Velseris
 
-3. **Gender-neutral deep bonder**:
+3.  **Gender-neutral deep bonder**:
 
     - Start: Ae- (mystical)
     - Core: -l- (flowing)
@@ -2143,7 +2143,7 @@ Names are typically given in infancy but can be amended or expanded upon demonst
     - **Full formal**: Aelith kin-Maji Loraketh
     - **Common formal**: Aelith Loraketh
 
-4. **Cave dweller from night-side**:
+4.  **Cave dweller from night-side**:
 
     - Start: L- (soft)
     - Core: -uy-an- (vowel-rich)
@@ -2184,16 +2184,16 @@ Names are typically given in infancy but can be amended or expanded upon demonst
 
 ## Avoiding Common Pitfalls
 
-1. **Don't overcomplicate**: Keep to 2-4 syllables
-2. **Avoid Earth name copying**: Create new combinations, don't just modify existing Earth names
-3. **Balance sounds**: Mix hard and soft consonants
-4. **Test pronunciation**: If it's a tongue-twister, simplify
-5. **Consider character background**: Name should fit their origin and role
-6. **Maintain consistency**: Follow established patterns from the setting
+1.  **Don't overcomplicate**: Keep to 2-4 syllables
+2.  **Avoid Earth name copying**: Create new combinations, don't just modify existing Earth names
+3.  **Balance sounds**: Mix hard and soft consonants
+4.  **Test pronunciation**: If it's a tongue-twister, simplify
+5.  **Consider character background**: Name should fit their origin and role
+6.  **Maintain consistency**: Follow established patterns from the setting
 
 ## Examples of Name Construction
 
-1. **Female weatherworker from twilight belt**:
+1.  **Female weatherworker from twilight belt**:
 
     - Start: Sh- (wind sound)
     - Core: -av-in- (flowing)
@@ -2203,7 +2203,7 @@ Names are typically given in infancy but can be amended or expanded upon demonst
     - **Full formal**: Shavina kin-Hanga Thornvale
     - **Common formal**: Shavina Thornvale
 
-2. **Male thermal sensor from cave settlement**:
+2.  **Male thermal sensor from cave settlement**:
 
     - Start: Ky- (sharp)
     - Core: -r-eth (thermal)
@@ -2213,7 +2213,7 @@ Names are typically given in infancy but can be amended or expanded upon demonst
     - **Full formal**: Kyreth kin-Moto Velseris
     - **Common formal**: Kyreth Velseris
 
-3. **Gender-neutral deep bonder**:
+3.  **Gender-neutral deep bonder**:
 
     - Start: Ae- (mystical)
     - Core: -l- (flowing)
@@ -2223,7 +2223,7 @@ Names are typically given in infancy but can be amended or expanded upon demonst
     - **Full formal**: Aelith kin-Maji Loraketh
     - **Common formal**: Aelith Loraketh
 
-4. **Cave dweller from night-side**:
+4.  **Cave dweller from night-side**:
 
     - Start: L- (soft)
     - Core: -uy-an- (vowel-rich)
@@ -2270,9 +2270,9 @@ This document provides examples of Duskaran names in various contexts and format
 
 Duskaran names follow a three-part structure established over eight centuries:
 
-1. **Personal name** (given at birth)
-2. **Wind-Kin designation** (clan affiliation, optional in casual use)
-3. **Surname** (family name)
+1.  **Personal name** (given at birth)
+2.  **Wind-Kin designation** (clan affiliation, optional in casual use)
+3.  **Surname** (family name)
 
 ### Usage Contexts
 
