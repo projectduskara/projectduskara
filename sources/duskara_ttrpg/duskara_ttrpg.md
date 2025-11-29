@@ -93,9 +93,62 @@ The GM is also a player, but with specific tasks:
 - **Maintains clear dialogue:** Answers players' questions and asks new ones to ensure everyone understands the story's developments.
 - **Adopts a participatory approach:** The GM acts in cooperation with the players, not as their adversary, to ensure a rewarding game experience for everyone.
 
-### Safety Tools
+### Safety and Accessibility
 
-In a game like *Duskara*, the well-being of all participants is fundamentally important. To ensure a welcoming and safe environment for players, it is essential to adopt safety tools such as [CATS](https://proleary.com/2016/04/25/the-cats-method-a-story-telling-game-opening-ritual/) (Concept, Aim, Tone, and Subject Matter) and [Script Change](https://thoughty.itch.io/script-change). These tools promote consent, mutual awareness, trust, and safety, allowing players to play mindfully. CATS encourages open communication about game expectations, while Script Change offers practical mechanisms to modify or stop the narrative when it ventures into potentially sensitive territories. Actively implementing these tools at the game table ensures that the adventure remains a positive and inclusive experience for all.
+In a game like *Duskara*, the well-being of all participants is fundamentally important. This is not about protecting players from challenge or consequence—the fiction is real and sometimes harsh. It's about communication and ensuring everyone can play authentically.
+
+All safety tools in *Duskara* are built on **transparency and conversation.** There are no silent signals or hidden discomfort. When something surfaces that doesn't work, we talk about it.
+
+#### Before Play: CATS
+
+Before the first session, use [**CATS**](https://proleary.com/2016/04/25/the-cats-method-a-story-telling-game-opening-ritual/) to establish shared expectations:
+
+- **Concept:** What kind of story are we telling? (exploration, political conflict, survival, community drama, etc.)
+- **Aim:** What are we trying to do together? (have fun, tell a meaningful story, explore Duskara, develop characters)
+- **Tone:** What's the emotional quality? (hopeful, tense, contemplative, gritty but not grimdark)
+- **Subject Matter:** What topics might come up? What do we want to explore or avoid?
+
+This one conversation happens once, and everyone knows what to expect.
+
+#### During Play: Script Change
+
+When something uncomfortable surfaces *during* play, anyone can use [**Script Change**](https://thoughty.itch.io/script-change):
+
+- **Pause the scene:** "Let's pause here."
+- **Name what doesn't work:** "I don't want to play that out" or "Can we make that less graphic?" or "Let's skip forward past that conversation."
+- **Continue:** The facilitator acknowledges it, adjusts, and play resumes.
+
+This is **explicit and communicative.** Everyone at the table understands what changed and why.
+
+#### During Play: Lines & Veils (Emergent)
+
+Lines & Veils are **not** established before play. They emerge when play surfaces something uncomfortable:
+
+- **A Line:** Something you won't play. The facilitator hears "that's a Line for me" and the scene moves away from it entirely. No details, no fade-to-black—just: we don't go there.
+- **A Veil:** Something that happens but you don't detail. "That's a Veil for me" means the scene plays out, but we fade to black or gloss over the specifics. "The negotiation becomes hostile. We skip past the difficult parts—they come to an agreement, shaken."
+
+Lines & Veils **require communication.** Someone has to speak up when they emerge. This is honest and collaborative.
+
+#### Accessibility (Practical & Ongoing)
+
+Make the table accessible to everyone:
+
+- **Dice:** Use colorblind-friendly dice or announce results verbally so everyone hears
+- **Text:** Print character sheets and adventure notes in dyslexia-friendly fonts if anyone needs it
+- **Pacing:** Some people need breaks more often. Offer them without commentary: "Break in five minutes"
+- **Sensory:** Not everyone processes sound/text/maps the same way. Offer multiple ways to receive information
+- **Neurodivergence:** Be clear about expectations. Some people need explicit guidance ("We're playing for 3 hours, with a 10-minute break at the midpoint")
+- **Participation:** Not everyone engages the same way. Someone quiet might be fully engaged; someone talkative might be performing. Trust that people are playing as they need to
+
+Accessibility is **ongoing conversation.** After the first session: "Is there anything that didn't work for you? What would help?"
+
+#### The Principle Behind All of This
+
+Safety in *Duskara* is not about softening the world. Duskara is harsh. Characters die. Failures matter. Relationships break.
+
+Safety is about **ensuring everyone can engage honestly** with that harshness. It's about communication. When something doesn't work, we say so. When something shifts, everyone knows why. When someone needs something different, we adjust.
+
+This is why every tool requires speaking up. Silence doesn't help anyone. Only conversation does.
 
 ## The World of Duskara
 
@@ -323,6 +376,192 @@ See the **Psychic Abilities** section for details on how these work mechanically
   - "Owes Thalen a life-debt after a rescue mission went wrong"
 - **Psychic Ability:** Thermal Sense (Novice)
 
+## Character Evolution Through Play
+
+*Duskara* does not use mechanical advancement. There are no experience points, no level-ups, no skill trees. **Instead, characters evolve through the fiction itself.**
+
+When you survive a crisis, overcome a Frailty, achieve a Goal, or fundamentally change as a character, your Tags change to reflect what happened in the story. Advancement *is* the narrative. The story is the only progression system you need.
+
+### The Core Principle
+
+Your character sheet isn't a static record. It's a living document that transforms as your character transforms. When the fiction changes your character, you change their Tags together with your facilitator and fellow players.
+
+This is fundamentally different from mechanical progression systems, and it matters: **You don't become stronger because you earned points. You become stronger because you survived something that changed you.**
+
+### How Character Evolution Works
+
+There are no hard rules for *when* Tags change—it emerges from play. But here are common patterns:
+
+#### Skills and Expertise
+
+When you use a Skill repeatedly and it becomes central to your story, you can:
+- **Deepen it:** Rewrite it to reflect deeper mastery or specialization
+  - *Before:* "Wind Pattern Reading"
+  - *After:* "Can read wind patterns weeks in advance"
+- **Add new context:** Expand what the skill lets you do
+  - *Before:* "Thermal Suit Operation"
+  - *After:* "Thermal Suit Operation, including emergency repairs under extreme conditions"
+- **Gain a related skill:** If your story calls for something adjacent, add it
+  - A salvager who repeatedly works with ancient technology might add "Data Crystal Decryption"
+
+**The facilitator asks:** "You've survived five salvage missions in extreme heat. What have you learned about operating your thermal suit that's different now?"
+
+#### Frailties
+
+Your Frailties can evolve in several ways:
+
+- **Overcome:** If the story involves directly confronting a Frailty, it can be removed or transformed
+  - *From:* "Uncomfortable in Enclosed Spaces" → *To:* (removed, or) "Claustrophobic in Unfamiliar Caves"
+- **Deepened:** A Frailty might become more complex through repeated challenge
+  - *From:* "Overconfident in Their Abilities" → *To:* "Overconfident until they fail catastrophically, then paralyzed by doubt"
+- **Replaced:** As your character grows, old vulnerabilities fade and new ones emerge from experience
+  - *From:* "Distrusts Night-Side Cultures" → *To:* "Afraid of losing the people they've learned to trust in the night-side community"
+
+**The facilitator asks:** "That failure really shook you. Does 'Overconfident' still describe your character, or has something shifted?"
+
+#### Goals and Motives
+
+Goals are meant to be achieved, abandoned, or transformed:
+
+- **Achieved:** When Kael recovers the *Stellar Horizon*'s navigation core, that Goal is complete. What drives them now?
+- **Obsoleted:** If circumstances change dramatically, a Goal might become irrelevant
+- **Evolved:** A Goal can transform as your character's understanding deepens
+  - *From:* "Recover the navigation core" → *To:* "Understand why the *Stellar Horizon* came to Duskara in the first place"
+
+When a Goal is resolved or abandoned, you establish a new one collaboratively. This becomes the new north star of your character's journey.
+
+#### Relationships
+
+Relationships deepen, break, complicate, or transform:
+
+- **Deepened:** A relationship that survives hardship can be rewritten to reflect new intimacy
+  - *From:* "Trained Mira in thermal sensing" → *To:* "Mira saved my life, and now I'd trust them with anything"
+- **Broken:** Betrayal or conflict can transform a relationship
+  - *From:* "Partners in exploring the Deep Roads" → *To:* "Used to be partners; they chose the Consortium's money over loyalty"
+- **Complicated:** A relationship can become more nuanced through play
+  - *From:* "Rivals for a settlement contract" → *To:* "Rivals professionally, but I've come to respect their ethics"
+
+You can also add new relationships as play develops, reflecting bonds forged through shared struggle.
+
+#### Psychic Abilities
+
+Psychic abilities progress naturally through use and crisis:
+
+- **Awakening:** A new ability can manifest during intense psychic moments or environmental immersion
+- **Deepening:** An ability you've used repeatedly can be rewritten to reflect greater mastery
+  - *From:* "Thermal Sense (Novice)" → *To:* "Thermal Sense (Adept), can perceive through rock"
+- **Specialization:** You can develop unique applications of an ability
+  - A Weather Worker might specialize in "Predicting Storm Patterns Days in Advance"
+
+**The facilitator asks:** "You've spent three Cycles bonded with that wind-runner. Your Deep Bonding has evolved. What can you do now that you couldn't before?"
+
+#### Nemeses
+
+Nemeses don't just fade—they transform:
+
+- **Resolved:** A Nemesis might be defeated, reconciled with, or simply bypassed
+- **Replaced:** As one conflict resolves, new opposition can emerge
+- **Deepened:** A Nemesis relationship can become more complex
+  - *From:* "The Day Side Trading Consortium" → *To:* "The Consortium's ruthless leader, who I now understand lost everything when the mining collapse happened"
+
+### The Collaborative Process
+
+Character evolution always happens through conversation:
+
+1. **The fiction creates opportunity:** Something happens in the story that naturally suggests a character change
+2. **The player proposes:** "I think this experience changed Kael. I want to rewrite my Overconfidence as something more nuanced"
+3. **The facilitator listens and builds:** "Yes, and I see it. You've learned hard lessons. How do you want to phrase it now?"
+4. **The group validates:** Other players often confirm the change feels right: "That makes sense with what we've seen"
+5. **The tag evolves:** The character sheet is updated together, with everyone aware of the shift
+
+**This is not a mechanical process.** There's no "you qualify for advancement because you've leveled up enough times." There's only: "The story changed your character, so we're updating their Tags to match."
+
+### Why This Matters
+
+This approach has profound implications:
+
+- **No vertical progression:** You don't become "more powerful" in an abstract sense; you become different, more capable in specific ways
+- **Story-driven development:** Only developments that make narrative sense occur
+- **Collaboration:** Character growth emerges from the whole table, not from a character sheet
+- **Emergent surprises:** You often discover new aspects of your character by watching them change
+- **Equal pace:** All characters evolve through shared play, not through grinding or grinding mechanics
+
+### When Evolution Happens
+
+Character evolution isn't scheduled. It happens:
+
+- **After major story arcs** — When a significant challenge is resolved
+- **Following traumatic moments** — When a character faces something that fundamentally shakes them
+- **When relationships shift** — When bonds deepen, break, or transform
+- **When Goals are achieved or abandoned** — Creating space for new direction
+- **When the player and facilitator feel it's right** — Trust your instincts about when a character has grown
+
+And sometimes, characters *don't* change. A character can play through an entire campaign without modifying their core Tags. That's fine—not every experience transforms a person. The point is that change happens because it's narratively appropriate, not because a clock ticked.
+
+### Example of Evolution
+
+Let's say Kael, the salvage specialist, survives a catastrophic day-side mission where their overconfidence nearly kills their partner Mira. After the session, Kael's player and the facilitator talk:
+
+**Player:** "That failure... I don't think Kael is just 'Overconfident' anymore. They're shaken."
+
+**Facilitator:** "Yes. What does it look like now?"
+
+**Player:** "Maybe something like: 'Haunted by a Near-Disaster—second-guesses themselves now, sometimes to the point of paralysis.'"
+
+**Facilitator:** "I like that. It's more specific and captures what we just saw. Does that feel true?"
+
+**Player:** "Yeah. And maybe they develop a new relationship tag: something about Mira. Like 'Mira saved my life—I'm responsible for theirs now.'"
+
+**Facilitator:** "Perfect. Let's update the sheet."
+
+Notice: No XP was earned. No levels increased. The story changed Kael, so Kael changed. That *is* the advancement system.
+
+## Character Death
+
+On Duskara, people die. Sometimes it's meaningful. Sometimes it's not. Either way, it's part of the story.
+
+### When Death Occurs
+
+A character dies when the fiction calls for it. There are no special conditions, no dramatic requirements, no exceptions for plot armor. If a failed roll in a dangerous situation means the character doesn't survive, then they don't survive.
+
+This can happen:
+- Mid-mission, in the middle of nothing important
+- Quietly, without fanfare
+- Anticlimactically, without a final speech
+- From simple mistakes or bad luck
+- In ways that feel wrong or unfair
+
+All of these are valid. The fiction doesn't care about narrative timing.
+
+### The Character Is Gone
+
+When a character dies, they're gone. There's no resurrection, no last-minute save, no retcon because the timing felt off.
+
+Acknowledge it simply: "Your character dies here."
+
+Then the facilitator and table move forward.
+
+### Their Impact Remains
+
+Even though the character is gone, what they did matters:
+
+- **Relationships persist** — Other characters remember them, grieve them, or carry obligations they left behind
+- **Consequences continue** — Projects the character started affect the world. Promises made shape what comes next
+- **Legacy** — The settlement remembers them. They changed people. They left marks on Duskara
+- **Unfinished business** — Other characters might pursue the dead character's Goals, or struggle with their unresolved Nemeses
+
+The character may be absent, but their presence in the story doesn't disappear.
+
+### Next Scene: A New Character
+
+Usually immediately, sometimes after a brief moment, a new character joins the story. They might be:
+- Someone the group knew and who was already present
+- A new arrival to the settlement
+- Someone stepping into a role the dead character left empty
+- A completely different person with different Goals and connections
+
+There's no mechanical cost or delay. The world keeps moving. People die on Duskara, and life continues.
+
 ## Core Mechanics
 
 ### The Basic Roll
@@ -456,6 +695,134 @@ These Tags remain in play until the fiction changes them. Players and GMs create
 When facing sapient opposition (NPCs, creatures, rival settlements), their relevant Tags add Risk Dice to your roll. The GM can frame their own closed questions for NPCs taking independent action.
 
 Major NPCs might have their own Concept, Skills, and Gear, which function like player character Tags.
+
+### Solo Play  
+
+*Duskara* is designed for emergent, collaborative storytelling—but the wind speaks even when no one else is listening. This chapter offers guidance for playing the game solo, exploring personal stories of pilgrimage, loss, resilience, or ritual purpose.
+
+The solo rules use the **Loner engine** as their base, adapted to match Duskara's tone. You’ll use oracles to answer questions, a twist system to escalate tension, and light prompts to track changes to your character.
+
+These rules assume you are playing a single character. Simply scale narrative focus across scenes or divide attention across their individual arcs.
+
+#### Consulting the Oracle
+
+When you want to test your expectations, ask the Oracle a **closed question**—one that can be answered Yes or No.
+
+Roll:
+
+- **1 Chance Die** (d6, use one color)
+- **1 Risk Die** (d6, use a different color)
+
+#### Interpreting Results
+
+| Situation               | Outcome         |
+|-------------------------|-----------------|
+| Chance > Risk           | **Yes**         |
+| Risk > Chance           | **No**          |
+| Both ≤ 3                | Add **but...**  |
+| Both ≥ 4                | Add **and...**  |
+| Equal values            | **Yes, and...** + increase **Twist Counter** by 1
+
+This gives you combinations like “Yes, and…”, “No, but…”, etc.
+
+#### Advantage and Disadvantage
+
+- **Advantage:** Add a second Chance Die and keep the higher.
+- **Disadvantage:** Add a second Risk Die and keep the higher.
+
+Use **context, not math**. If a tag, Trait, or situation favors you narratively, grant yourself Advantage. If a complication or flaw applies, take Disadvantage.
+
+This should feel intuitive and fast—not like bookkeeping.
+
+#### The Twist Counter
+
+Start with **0**.  
+Whenever your Oracle roll results in **doubles**, increase it by **+1**.
+
+When the **Twist Counter** reaches **3**, a twist occurs. Reset the counter to 0, and roll on the table below:
+
+| D6 | Subject             | Action              |
+|----|---------------------|---------------------|
+| 1  | A third party        | Appears             |
+| 2  | The hero             | Alters the location |
+| 3  | An encounter         | Helps the hero      |
+| 4  | A physical event     | Hinders the hero    |
+| 5  | An emotional event   | Changes the goal    |
+| 6  | An object            | Ends the scene      |
+
+Interpret this two-part phrase in the context of your current scene. Don’t overthink—follow the wind.
+
+#### Mood of the Next Scene
+
+Sometimes you’ll know where the story is headed. Other times, let fate guide you.
+
+Roll 1d6 to determine the tone of the next scene:
+
+| D6 | Mood          |
+|----|---------------|
+| 1–3 | Dramatic Scene (obstacles increase)  
+| 4–5 | Quiet Scene (recovery, bonding, reflection)  
+| 6   | Meanwhile… (cut to another character, faction, or location)
+
+#### Open Questions or Inspiration
+
+When faced with an open-ended question (“What does the wind carry?”), use the **Inspiration Tables** on the next page.
+
+Roll 1d6 for each: a verb, a noun, and optionally, an adjective. Interpret the result freely.
+
+Here are the full **Inspiration Tables** for use in *Windcallers* solo play. You can roll 1d6 on each table to form a prompt like:
+
+- **"Shatter the Hollow Mask"**  
+- **"Observe a Distant Flame"**  
+- **"Betray the Quiet Storm"**
+
+Use them freely for narrative inspiration, ritual detail, or scene framing.
+
+#### Inspiration Tables
+
+##### Verbs
+
+| D6 | 1            | 2           | 3             | 4            | 5             | 6             |
+|----|--------------|-------------|---------------|--------------|---------------|---------------|
+| 1  | Observe      | Call        | Shatter       | Protect      | Listen        | Carry         |
+| 2  | Follow       | Ignite      | Break         | Offer        | Weave         | Seek          |
+| 3  | Conceal      | Reveal      | Guard         | Awaken       | Bury          | Reflect       |
+| 4  | Escape       | Pursue      | Bind          | Echo         | Watch         | Cut           |
+| 5  | Transform    | Seal        | Channel       | Forget       | Find          | Twist         |
+| 6  | Uncover      | Repair      | Steal         | Echo         | Remember      | Guide         |
+
+##### Adjectives
+
+| D6 | 1            | 2            | 3           | 4           | 5             | 6           |
+|----|--------------|--------------|-------------|-------------|---------------|-------------|
+| 1  | Forgotten    | Flickering   | Hollow      | Distant     | Sacred        | Shifting    |
+| 2  | Cold         | Broken       | Hidden      | Weeping     | Ancient       | Whispering  |
+| 3  | Silent       | Cracked      | Unnamed     | Twisted     | Burning       | Breathing   |
+| 4  | Ghostly      | Radiant      | Buried      | Wind-torn   | Fading        | Bound       |
+| 5  | Pale         | Harmonic     | Scorched    | Veiled      | Lost          | Rooted      |
+| 6  | Frozen       | Ethereal     | Dim         | Thorned     | Devoted       | Stormbound  |
+
+##### Nouns
+
+| D6 | 1           | 2           | 3            | 4           | 5            | 6             |
+|----|-------------|-------------|--------------|-------------|--------------|---------------|
+| 1  | Name        | Storm       | Memory       | Shrine      | Flame        | Echo          |
+| 2  | Song        | Path        | Mask         | Stone       | Bond         | Hollow         |
+| 3  | Eye         | Wing        | Wind         | Blade       | Thread       | Scar          |
+| 4  | Dream       | Root        | Silence      | Mirror      | Offering     | Voice         |
+| 5  | Gate        | River       | Dust         | Circle      | Mark         | Shadow        |
+| 6  | Wraith      | Light       | Ritual       | Step        | Gift         | Secret        |
+
+
+#### When the Story Ends
+
+When you reach a satisfying conclusion:
+
+- Add a new Trait to your Windcaller (Skill, Flaw, Gear, etc.)
+- Update NPCs, Locations, and Events for future stories
+- Optionally, **evolve your Attunement** or **add a Ritual Scar**
+
+You’re writing wind-memory. It will return later, in another game, with different eyes.
 
 ## Psychic Abilities
 
@@ -1255,6 +1622,417 @@ Conflicts should have lasting impacts:
 **Social:** Relationship shifts, reputation changes, new alliances or Nemeses
 **Environmental:** Structural damage to settlements, resource status degradation, ecological disruption
 
+## Facilitating Duskara Games
+
+As the Game Master (or "Facilitator" in GM-less play), your role is to voice the world—its settlements, dangers, mysteries, and inhabitants. You're not the author imposing a predetermined narrative. You're the steward of a living world that responds to player choices and reveals itself through shared play.
+
+This section offers principles and practical guidance for running *Duskara* effectively.
+
+### Core Facilitation Principles
+
+#### 1. The World Is Always Changing
+
+Nothing on Duskara stays fixed. Weather patterns shift. Settlements face new crises. NPCs evolve their goals and positions. People remember what the characters did.
+
+**In Practice:** When characters complete a mission, let it reshape the world. A successful salvage operation improves the settlement's Water Status. A failed negotiation creates new enemies. A rescue creates bonds of loyalty. Make the world responsive—not punishing, but honest about consequences.
+
+#### 2. Ask, Don't Tell
+
+Use questions to invite participation and surprise rather than narrating outcomes. Questions share control with your players and often generate better ideas than you planned.
+
+**Examples:**
+- "The storm front is now visible from the settlement. What does the Council decide to do?"
+- "You've been living in this settlement for three Cycles. What has made you trust the weather worker who's now asking for your help?"
+- "The drone's signal goes dark. What do you think went wrong?"
+
+#### 3. Make Failure Interesting
+
+When characters fail a roll, don't block their story. Open new doors. Failure is an opportunity for complications, plot twists, or unexpected discoveries.
+
+**Examples of reframing failure:**
+- "No..." → They fail to convince the Council, but overhear a secret they weren't meant to know
+- "No, but..." → The salvage mission fails, but they discover something more valuable instead
+- "No, and..." → The negotiation collapses, but it reveals that the opposing settlement has a hidden problem the characters can exploit or help solve
+
+#### 4. Use the Players' Character Tags
+
+Pay attention to what players created:
+
+- **Goals and Motives:** Introduce complications or opportunities that press on these directly. Make characters feel like their driving ambitions matter.
+- **Nemeses:** Bring them back. When a character's Nemesis appears, raise the stakes.
+- **Relationships:** Use relationships to create drama. A character's mentor might ask for something that conflicts with another character's Goal. A bonded partner might be threatened.
+- **Frailties:** When a character's Frailty is relevant to the situation, remind them it exists—and let it matter without punishing them unfairly.
+
+**Example:** Kael's Goal is "Recover the *Stellar Horizon*'s navigation core," and their Nemesis is "The Day Side Trading Consortium." Create situations where these intersect: perhaps the Consortium has discovered the same salvage site, or they control access to the day-side margins. This makes Kael feel seen and gives their choices real weight.
+
+#### 5. Design NPCs with Contradictions
+
+Don't make NPCs simple. Give every significant NPC at least one contradiction:
+
+- A stern Weather Worker who secretly fears their abilities
+- A settlement leader who is politically shrewd but personally lonely
+- A rival salvager who competes ruthlessly but honors their debts
+- An Archivist who guards secrets fiercely but is desperate to find truth
+
+These contradictions make NPCs memorable and create opportunities for surprising interactions or character arcs.
+
+#### 6. Build Unseen Forces into the World
+
+Plant mysteries early. Duskara is vast, and humanity doesn't understand it fully:
+
+- Strange signals from the Deep Roads
+- Ancient structures that appear in satellite images
+- Psychic phenomena that resist easy explanation
+- Whispered rumors about pre-human civilizations
+- Fragments of encrypted data that hint at bigger secrets
+
+Don't explain these immediately. Let them grow. Some mysteries might never be fully resolved—that's okay. The mystery itself is part of the world.
+
+### What to Prepare
+
+You don't need extensive prep for *Duskara*, but a little structure helps:
+
+#### 1. Settlements
+
+Define each settlement by:
+- **1–2 Key NPCs:** Who matters here? Who do the characters interact with?
+- **Current Tension:** What's the settlement dealing with right now? A resource crisis? Political conflict? A recent discovery?
+- **Implicit Pressure:** What's the underlying problem or opportunity? Water scarcity? Rivalry with a neighboring settlement? Unexplained phenomena?
+
+#### 2. Maps and Weather
+
+Sketch the territory where play might happen. Don't make it detailed—rough is fine. But know:
+- Where's the nearest storm wall?
+- What direction does the wind blow?
+- Are there geothermal zones nearby?
+- What's the current weather condition?
+
+Weather can change during play, especially if characters use Weather Working.
+
+#### 3. NPCs with Relationships
+
+When you introduce a major NPC, jot down:
+- A visible strength
+- A hidden fault or fear
+- A specific relationship to the character(s) or settlement
+
+This is usually 3-4 sentences. Don't over-prepare.
+
+#### 4. Complications
+
+Have a few complications in mind that you can introduce when the story needs tension:
+- Environmental hazards (superstorm brewing, thermal surge, structural collapse)
+- Social pressure (faction conflict, betrayal, competing interests)
+- Resource pressure (water status degrades, supply caravan delays)
+- Timing pressure (character's deadline, settlement's crisis, Nemesis appears)
+
+You don't need to plan exactly when these occur. Introduce them when the fiction calls for it.
+
+### Zoom In and Zoom Out
+
+You have control over narrative focus. Use it to pace your sessions:
+
+**Zoom Out:** Resolve an entire scene with a single closed question.
+- "Does the expedition reach the geothermal site before the storm hits?" (one roll)
+- Fast, emphasizes outcomes over details
+- Best for scenes that aren't emotionally crucial
+
+**Zoom In:** Break a scene into multiple detailed questions.
+- "Can I spot the trap before we trigger it?"
+- "Do I convince the faction leader to help?"
+- "Can I repair the water pump before the pressure ruptures?"
+- Slower, more tense, lets players feel agency in details
+- Best for climactic or emotionally important moments
+
+Mix zoom levels within a single session to create rhythm.
+
+### Reinforcing Tone
+
+*Duskara* emphasizes:
+- **Wonder and discovery** — The world is vast and mysterious
+- **Competence** — Characters are skilled, resourceful, and capable
+- **Community** — Settlements and relationships matter more than individual glory
+- **Consequence** — Actions ripple outward; nothing is truly isolated
+- **Respect for the environment** — Duskara is harsh but not malicious
+
+When facilitating, lean into these. Describe the world with sensory detail. Show how character choices reshape communities. Make NPCs care about the larger world, not just the immediate conflict.
+
+### Common Facilitation Challenges
+
+**The party is scattered:** Ask each character what they're doing individually, and zoom between them. Use questions to show how their separate actions create consequences for each other.
+
+**No one is engaging with the hooks:** Step back. Ask the table directly: "What does your character care about right now?" Build the next scene around their answers, not your prepared material.
+
+**A player is hogging spotlight:** Use side conversations. Pull focus to quieter characters with questions: "Thalen, while Kael is talking with the Council, what are you doing?" Give each character scenes where they're the center.
+
+**Dice results aren't going the way you expected:** Trust the dice. "Yes, and..." and "No, but..." often create better stories than your plan. Follow the fiction—that's where the story lives.
+
+### Keeping Notes
+
+Track:
+- **Resource Status Tags** for the settlement (Water, Power, Provisions)
+- **NPC Relationships** that matter to characters
+- **Scene Tags** that might carry over (storm fronts, psychic phenomena, structural damage)
+- **Character Conditions** that persist between sessions
+- **Plot threads** left unresolved
+
+You don't need a formal ledger—a few bullet points per NPC and location are enough. The players will remind you of what they care about.
+
+## Running Without Prep
+
+You don't need extensive preparation to facilitate *Duskara*. The game is designed for emergent play, and you have all the tools you need right in the rulebook.
+
+### You Have Enough Already
+
+Start with what you know:
+
+- **The setting:** You know Duskara. The Twilight Belt has settlements, wind, geothermal vents, salvage opportunities. The Deep Roads are dark and mysterious. The day side is lethal heat. This is enough.
+- **The characters:** Players have created their Goals, Nemeses, Relationships. Their Tags are adventure hooks. Start there.
+- **The tables:** Adventure Tables give you complications, events, encounters, discoveries on demand. Roll and incorporate.
+- **The fiction:** What happened last session? What do the characters want now? That's your starting point.
+
+You don't need a detailed plot outline. You don't need a map of every location. You don't need prepared NPCs for every scene.
+
+### Improvise NPCs on the Spot
+
+When an NPC needs to appear, create them in seconds:
+
+- **Concept:** What's their role? (merchant, settlement leader, rival salvager, worker)
+- **Visible trait:** One thing you can describe (nervous hands, commanding presence, weathered face)
+- **One complication:** One thing that makes them interesting (loyal but harsh, skilled but afraid, friendly but hiding something)
+
+That's it. You don't need a full character sheet. You need enough to know how they respond when challenged.
+
+**Example:** A merchant appears. Concept: salvage trader. Visible trait: scarred hands. Complication: desperate to offload cursed salvage before anyone realizes it's defective. Now you can play them honestly.
+
+### Ask Questions About Character Actions and Intentions
+
+Your job is to ask players what their characters do and why, then describe what happens next.
+
+- "The settlement council meets to discuss the water crisis. What does your character say?"
+- "You've arrived at the salvage site. What do you want to accomplish first?"
+- "The weather worker is asking for volunteers for a dangerous working. Does your character volunteer? Why or why not?"
+- "The rival offers you a deal. How does your character respond?"
+
+Questions are about character action and intention. You describe the world. The players describe what their characters do in it.
+
+### Use the Adventure Tables
+
+When you need:
+- **A complication:** Roll on Expedition Complications
+- **A settlement event:** Roll on Settlement Events
+- **A discovery:** Roll on Salvage Discoveries
+- **A Deep Roads encounter:** Roll on Deep Roads Encounters
+- **A psychic phenomenon:** Roll on Psychic Phenomena
+
+These tables exist so you don't have to invent on the spot. Roll and incorporate. The fiction adjusts around the result.
+
+### Trust Player Choices to Drive the Story
+
+You don't control what happens next. The characters do.
+
+- They want to explore the day side? You describe the heat, the hazards, the landscape. They tell you what they do. You respond to their actions.
+- They want to negotiate with a rival settlement? You describe the rival's position and demeanor. They tell you how they respond. You describe the outcome.
+- They want to investigate a mystery? You describe what's discoverable. They tell you what they investigate. You use the tables to generate complications and discoveries based on their choices.
+
+The story emerges from what players do, not from what you prepared.
+
+### When You Don't Know, Decide on the Spot
+
+You don't have to have all the answers ready, but you do need to answer for the world:
+
+- "You're in the Deep Roads. The air is cold and still. The echo of dripping water fills the silence."
+- "The storm front moves in. The wind picks up from the day side, carrying heat and dust."
+- "The Archivist's expression hardens. She turns away without answering."
+
+You decide what the world does. You don't ask players to help construct it.
+
+### Minimal Notes Are Enough
+
+Between sessions, jot down:
+- What each NPC cares about (one sentence)
+- Current settlement Resource Status
+- Open story threads
+- What surprised you that you might build on next session
+
+That's all. You don't need detailed notes. The players will remind you of what matters.
+
+### A Session Without Prep
+
+Here's what a session might look like with zero preparation:
+
+1. **Describe where the characters are:** Set the scene
+2. **Ask what the characters do:** Open question about their actions
+3. **Listen and respond:** Their choices shape what happens
+4. **When they roll, interpret the result:** Use the fiction to determine what comes next
+5. **When you need complications:** Roll on a table
+6. **When an NPC appears:** Create them in 10 seconds (concept, trait, complication)
+7. **When you don't know what happens:** Decide what the world does
+
+That's a complete session. No outline needed. No prepared story. Just you describing the world, players describing their characters' actions, and the fiction unfolding between them.
+
+### The Trust Required
+
+This works because:
+
+- **The setting guides play:** Duskara's harsh reality shapes what's possible. You don't need to script outcomes—the world does
+- **Character Tags drive conflict:** Players bring drama through their Goals, Nemeses, Relationships. You don't need to create it
+- **Failure and complication fuel adventure:** When rolls fail, the tables give you ideas. Things get interesting without your planning
+- **The table is collaborative:** Not in world-building (that's your job), but in responding to outcomes. You're not alone in interpreting what happens
+
+You can facilitate *Duskara* with genuine confidence without preparation. The game is built for exactly this.
+
+## Running Your First Session
+
+Your first session is simpler than you think. No elaborate prep needed. The core goal is: everyone creates a character, everyone understands the setting, and everyone plays a scene together.
+
+### Time Budget
+
+For a first session with 2-4 players:
+
+- **Character Creation:** 30-45 minutes
+- **Safety & Expectations (CATS):** 10 minutes
+- **First Scene:** 60-90 minutes
+- **Total:** 2.5-3 hours
+
+If you have less time, shorten character creation (consider pre-generated characters—see Priority 3) or save world-building questions for later.
+
+### Before You Start
+
+**Have ready:**
+- Dice (at least 1d6 per player, ideally in three colors)
+- Character sheets or paper for notes
+- The Adventure Tables section (you'll reference it)
+- A simple settlement concept (see Settlement Creation section)
+
+**Don't prepare:**
+- A detailed plot
+- A mapped-out story
+- Specific NPC names and histories
+- Multiple scenes
+
+You won't need them.
+
+### Character Creation (30-45 minutes)
+
+Walk players through character creation together. Don't rush it—this is where players invest in their characters.
+
+**Structure:**
+1. Explain each tag type briefly (Concept, Skills, Frailty, etc.)
+2. Give examples for each
+3. Let players create at their own pace
+4. Answer questions as they come
+5. Have them read their characters aloud when done
+
+**Tip:** Use the Example Character (Kael) as a reference model. When someone asks "what should my Skill be?" point to Kael's skills.
+
+### Safety & Expectations (CATS) (10 minutes)
+
+Quick conversation:
+
+- **Concept:** "We're telling a story about people on Duskara, surviving and exploring."
+- **Aim:** "We want to have fun, discover what happens, and see how our characters respond to challenges."
+- **Tone:** "It's hopeful but real. People die. Communities struggle. But there's also wonder and possibility."
+- **Subject Matter:** "We'll explore resource scarcity, environmental danger, conflict, and loss. Are there topics anyone wants to avoid?"
+
+Don't overthink this. It's just alignment.
+
+### Your First Scene
+
+**Keep it simple:**
+
+1. **Ask an opening question:** "You're in a settlement called Aetherion. The wind turbines have just been damaged by a storm. What brought you here, and how do you react to the news?"
+
+2. **Listen to responses:** Let each character answer. You're learning what they care about.
+
+3. **Describe the world:** "The settlement is busy with repairs. People are worried but moving with purpose. The wind is still strong—the storm might return."
+
+4. **Ask what they do:** "What does your character do right now?"
+
+5. **If they want to roll:** Build their dice pool and let them roll. Simple as that.
+
+6. **Keep moving:** Don't get stuck on details. Something happens; you describe it; they respond.
+
+### Possible First Scenarios
+
+Pick one that feels right:
+
+**Scenario 1: The Damaged Settlement**
+- A superstorm has damaged the settlement's key infrastructure
+- Resources are degraded; leadership is making emergency decisions
+- Characters are asked to help (or volunteer)
+- Simple hook: "Can you help restore the [water system / power grid / structural damage]?"
+
+**Scenario 2: The Arrival**
+- Characters are outsiders arriving at a settlement for the first time
+- Someone meets them (a contact, an old friend, an NPC with a job offer)
+- The settlement has a current problem they might get involved in
+- Simple hook: "What brings you to Aetherion? And what do you notice is wrong?"
+
+**Scenario 3: The Crisis**
+- A settlement emergency happens while the characters are there
+- A caravanvanishes. Someone needs rescue. A failure occurs.
+- Characters are nearby and witness it
+- Simple hook: "You hear the alarm bells. What do you do?"
+
+**Pick Scenario 1 or 2** for your first session. They're easier to facilitate. Scenario 3 requires more comfort with emergent crisis.
+
+### Pacing Tips
+
+- **Don't explain all the rules at once.** Teach mechanics as they come up. "When you try something uncertain, we'll roll."
+- **After each roll, move the scene forward.** Don't explain outcomes extensively—just say what happens and ask what they do next.
+- **A first session has 3-5 scenes maximum.** Each scene is usually one rolled question. That's enough.
+- **End when energy drops.** A good first session might wrap after 2-2.5 hours. Leaving people wanting more is better than overstaying.
+
+### What Happens in Play
+
+You describe → Players respond → You ask what they do → They roll (maybe) → You describe the outcome → Repeat
+
+That's it. You don't need to manage initiative, track detailed positions, or improvise complex NPC dialogues. You just: world, character action, consequence, repeat.
+
+### Common First Session Mistakes
+
+- **Explaining too much before play starts.** Get to character creation quickly.
+- **Preparing too much.** You have enough. Trust it.
+- **Trying to introduce all the world details.** Players learn Duskara through play, not exposition.
+- **Asking questions about the world.** Describe the world; ask about character actions.
+- **Moving too fast.** Give scenes time to breathe. Let players respond and think.
+
+### Ending the First Session
+
+**End on a moment of clarity or question:**
+
+- Characters have discovered something
+- A complication has emerged
+- A relationship has shifted
+- An NPC has made a request
+- A problem is clear
+
+Then: "That's a good place to stop. Next session, we pick up here."
+
+**Don't try to resolve everything.** You're building momentum for session two, not closing a plot.
+
+### Between Sessions
+
+Make minimal notes:
+
+- What each character cares about (one sentence per character)
+- What happened (three bullets)
+- What's coming next (one open thread)
+
+That's all you need. Players will remind you of details that matter.
+
+### Your Second Session
+
+You already know:
+- Who the characters are and what they want
+- What the settlement is dealing with
+- What mystery or problem emerged in session one
+
+That's your starting point. Same structure: describe, ask what they do, roll if needed, move forward.
+
+You're done. You've run Duskara.
+
 ## Example of Play
 
 This extended example demonstrates how *Duskara* plays at the table, showcasing the interplay of fiction, mechanics, and collaborative storytelling.
@@ -1438,6 +2216,120 @@ The Accord creates adventure hooks:
 - **Storm Response:** Coordinate multi-settlement efforts during catastrophic weather
 - **Archival Quests:** Recover knowledge for the collective good
 - **Enforcement Actions:** Investigate settlements violating Accord principles
+
+## Settlement Creation
+
+Settlements are the anchors of *Duskara* play. They provide context, resources, conflicts, and consequences. You don't need extensive detail—a simple template is enough.
+
+### Settlement Template
+
+**Name & Location:**
+- *Example: Aetherion (Twilight Belt, central position)*
+
+**Character (1-2 sentences):**
+- What's distinctive about this settlement? What defines it?
+- *Example: Aetherion is a vertical spire city built around geothermal vents. Water is carefully rationed but plentiful; power abundant. Politics are rigid but fair.*
+
+**Key NPCs (1-2):**
+- Name, role, one complication
+- *Example: Councilor Thess (administrator, afraid of losing control) / Archivist Kael (preserves pre-landing data, obsessive about lost knowledge)*
+
+**Current Resource Status:**
+- Water: [Abundant / Adequate / Rationing / Crisis]
+- Power: [Full Grid / Adequate / Rolling Blackouts / Failure]
+- Provisions: [Well-Supplied / Adequate / Running Low / Critical Shortage]
+
+**Current Tension (what's happening now):**
+- What problem or opportunity is the settlement facing?
+- *Example: Aquifer pumps are failing. The council debates whether to fund repairs or accept rationing.*
+
+**Implicit Pressure (underlying issue):**
+- What's the deeper problem beneath the immediate crisis?
+- *Example: The geothermal vents have cooled over the past generation. No one admits it publicly.*
+
+**Relationships to Other Settlements:**
+- How does this settlement relate to neighbors?
+- *Example: Tense alliance with Harmattan's Reach (competing for water resources) / Trading partnership with Khoros Deep (geothermal technology)*
+
+**A Few Useful Details:**
+- Architecture/visual: One distinctive feature
+- Culture/values: What matters to people here?
+- Safety: Is it stable? Dangerous? Prosperous?
+
+### Example: Aetherion
+
+**Name & Location:** Aetherion, Twilight Belt (central position, day-side margins accessible)
+
+**Character:** A vertical spire city built around geothermal vents. Architecture emphasizes height—towers reach into the wind currents, deep foundations tap heat. Water is precious but available; power abundant. Politics are hierarchical but fair.
+
+**Key NPCs:**
+- **Councilor Thess** (settlement administrator; afraid of losing control, makes decisions conservatively)
+- **Archivist Kael** (preserves pre-landing data; obsessive about recovering lost knowledge, will risk settlement resources for discoveries)
+
+**Current Resource Status:**
+- Water: Adequate (but precarious; aquifer pumps are aging)
+- Power: Full Grid (geothermal vents are reliable)
+- Provisions: Well-Supplied (trade relationships stable)
+
+**Current Tension:** Aquifer pumps are failing. Thess wants to defer repairs and accept rationing. Kael argues the settlement should invest in new deep-drilling technology discovered in the archives. The council debates while the pumps degrade further.
+
+**Implicit Pressure:** The geothermal vents have been cooling for three generations. No one admits it publicly. If the decline continues, Aetherion's advantage disappears.
+
+**Relationships:**
+- **Harmattan's Reach** (rival): Competing for the same aquifer. Relationship is tense but governed by Accord protocols.
+- **Khoros Deep** (ally): Trade partnership for geothermal extraction technology.
+- **Nomadic traders**: Regular visitors; Aetherion offers supplies; travelers bring news.
+
+**Distinctive Details:**
+- Architecture: Spire towers with wind-capture systems; deep foundations in thermal caverns
+- Culture: Values precision and order; slow to trust outsiders; honor long-term relationships
+- Safety: Stable and defended; storms rarely penetrate the spire system; day-side salvagers operate from here
+
+### Example: Khoros Deep
+
+**Name & Location:** Khoros Deep, Night Side (geothermal settlement, 400 meters beneath surface)
+
+**Character:** An underground city built around massive geothermal vents. Darkness is absolute; bioluminescent life lights the caverns. Culture is collectivist and ritual-focused. Temperature is warm but carefully managed. People are adaptable, resilient, suspicious of surface dwellers.
+
+**Key NPCs:**
+- **Warmth Mother Seren** (leader of the Geothermal Circle; wise and patient, but unwilling to change tradition)
+- **Kai the Resonance Singer** (young, ambitious; wants to expand trade with twilight settlements; challenges Seren's conservatism)
+
+**Current Resource Status:**
+- Water: Abundant (geothermal aquifers provide unlimited fresh water)
+- Power: Full Grid (geothermal vents power everything; energy is unlimited)
+- Provisions: Adequate (food sources from cave ecosystems are limited; relies on trade)
+
+**Current Tension:** Kai argues Khoros should trade more aggressively with twilight settlements, offering geothermal technology in exchange for surface goods. Seren fears this will expose the settlement's secrets and invite exploitation.
+
+**Implicit Pressure:** The cave ecosystem that feeds Khoros is slowly collapsing due to human harvesting. The geothermal vents, while plentiful, heat some areas to dangerous levels. Long-term survival requires expansion or adaptation.
+
+**Relationships:**
+- **Aetherion** (trade partner): Khoros supplies geothermal extraction technology; Aetherion provides food, textiles, Earth artifacts.
+- **Other night-side settlements** (cooperative): Share geothermal resources and knowledge; participate in Warmth Circles.
+- **Twilight belt settlements** (wary): Surface dwellers are unpredictable; trade is necessary but limited.
+
+**Distinctive Details:**
+- Architecture: Carved into cavern walls; bioluminescent gardens cultivated for food and light; thermal pools for warmth and ritual
+- Culture: Deeply ritualistic; Resonance singing is sacred; collectivism valued over individuality; suspicious of haste
+- Safety: Well-defended by knowledge of cavern systems; geothermal hazards are the real danger; rarely visited by outsiders
+
+### Using This Template
+
+Create a settlement in minutes:
+
+1. **Give it a name and location** — Where is it? What zone?
+2. **Describe its character** — One or two sentences capturing its feel
+3. **Add 1-2 NPCs** — Name, role, one complication each
+4. **Set Resource Status** — Simple tags showing current scarcity
+5. **Define the tension** — What's happening now?
+6. **Name the pressure** — What's the underlying issue?
+7. **Add relationships** — How does it connect to other places?
+8. **Add details** — A few lines about what it's like
+
+That's a complete, playable settlement. You have enough to facilitate scenes there and improvise what happens.
+
+You don't need detailed histories, complete NPC rosters, or maps. You need enough to know what's at stake when the characters arrive.
 
 ## Creating Adventures
 
