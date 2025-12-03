@@ -165,14 +165,14 @@ And still it whispers, for those who have ears to hear.
 
 *(Weatherworker’s Journal—Exploring the transition zones and their intricate wind patterns, and a harrowing tale of navigating a super-storm.)*
 
-**Entry 672 - Cycle 889**  
+**Entry 672 - Cycle 6889**  
 The wind changes before it speaks. That is the first lesson we learn as weatherworkers, and it is the lesson that keeps us alive. Today, I stand at the threshold of the *Great Gradient*, where the twilight fades into the realms of extremes—blinding heat to one side, frozen abyss to the other. Here, the air does not move in straight lines. It coils, bends, dances in ways unseen, shaping itself around the land and those who listen.
 
 I can feel the shift before it comes. The currents here do not simply blow—they weave. The warm updrafts from the dayward dunes tangle with the sinking night-chill, forming layers upon layers of unseen motion. If I close my eyes, I can *see* it—not with sight, but with something deeper. The way the pressure bends against my skin, the electric hum in the air before a storm's first breath.
 
 Wind-reading is an art, but it is also a bond. I do not command the air. I do not *force* it into patterns. I ask, I listen, I move with it. The strongest weatherworkers know this: you do not fight the wind. You follow it, step by step, until it shows you the way forward.
 
-**Entry 673 - Cycle 889**  
+**Entry 673 - Cycle 6889**  
 The storm rose faster than I expected.
 
 I was charting the pressure shifts along the mid-gradient, where the hot winds of the day side curl into themselves like restless serpents. The barometric drop was sudden, sharper than my predictions, and then—silence.
@@ -195,7 +195,7 @@ That was my path.
 
 I dove forward, trusting the pull, my feet finding ground through instinct more than sight. The moment passed in a breath, and then the storm closed behind me like a shutting door. When I finally reached shelter, I could still feel the wind in my bones, its rhythm pulsing through me like a second heartbeat.
 
-**Entry 674 - Cycle 889**
+**Entry 674 - Cycle 6889**
 
 I have spent my life following the wind, learning its signs, its moods, its warnings. But days like today remind me—no matter how much I learn, it will always know more than I do.
 
@@ -341,7 +341,7 @@ as we have always been.
 
 *(Weatherworker’s Journal—A vivid ritual description, its toll on the mind, and its spiritual undertones.)*
 
-**Entry 712 - Cycle 891**
+**Entry 712 - Cycle 7,891**
 
 The wind does not bow, nor does it yield. It can be read, it can be followed, but it cannot be *tamed*. To practice weatherworking is not to control the air, but to *become part of it*—to listen, to guide, to offer a hand where the storm hesitates.
 
@@ -359,7 +359,7 @@ I kept my breath steady, grounding myself in the rhythm of the chime. With caref
 
 I guided the current as best I could, adjusting my stance, aligning my will with the shifting flow. Not forcing, not demanding—just suggesting. The wind does not bow, but it listens. And tonight, it chose to hear me.
 
-**Entry 713 - Cycle 891**
+**Entry 713 - Cycle 7,891**
 
 The ritual left its mark. It always does.
 
@@ -481,7 +481,7 @@ walking where the light cannot follow.
 
 **Transcript of a Wind-Moot Between Zephyrvale and Thistledrift**  
 **Location:** The Whispering Dunes, neutral ground between the two settlements  
-**Cycle 892, Wind Phase: Rising Eastern Current**  
+**Cycle 7,892, Wind Phase: Rising Eastern Current**  
 **Messengers Present:**
 
 - **Varen Ato, Windcaller of Zephyrvale**
@@ -518,13 +518,13 @@ Varen Ato: *Let it be carried.*
 
 The trade accord between Zephyrvale and Thistledrift has been ratified. Let this stand as a reminder—resources do not belong to one hand alone. They are carried as the wind carries the sand, as water shapes the stone. **Balance is not found in hoarding, but in knowing when to give and when to receive.**
 
-— **Official Transcript Recorded for the Duskaran Accord Archives, Cycle 892**
+— **Official Transcript Recorded for the Duskaran Accord Archives, Cycle 7,892**
 
 ### **Auroral Rites of Harmony**
 
 *(Pilgrim’s Almanac—Festival traditions tied to wind and auroras, told through a traveler’s eyes.)*
 
-**Cycle 891, Wind Phase: The Silent Drift**  
+**Cycle 6,891, Wind Phase: The Silent Drift**  
 **Location: The Nightward Reaches, approaching Lumina Caverns**
 
 The wind at the edge of the world moves differently. It is not the howling breath of the Storm Walls, nor the steady push that guides traders through the twilight belt. Here, where the land leans toward the eternal night, the air carries silence. It does not rush; it lingers, as if listening for something just beyond hearing.
@@ -559,7 +559,7 @@ And as I step beyond the caverns, the wind moves around me—not pushing, not pu
 
 The elders say the auroras return when the world is ready to dream again. And so, I walk, knowing the sky will burn again, and the wind will call me back.
 
-— **A Pilgrim’s Account, Recorded for the Almanac, Cycle 891**
+— **A Pilgrim’s Account, Recorded for the Almanac, Cycle 6,891**
 
 ## Bonds Beneath the Eternal Skies
 
@@ -567,7 +567,7 @@ The elders say the auroras return when the world is ready to dream again. And so
 
 *(Excerpt from the Overseer’s Ledger—Insights into Duskaran polyamory and water-sharing alliances.)*
 
-**Cycle 892, Accord Standard**  
+**Cycle 7,892, Accord Standard**  
 **Recorded by: Overseer Deyra Alun, Wind and Water Assembly**
 
 The wind does not move in isolation. It turns, shifts, entwines itself with other currents. Alone, a gust is fleeting—together, the winds shape the land, bring the rains, carry life across the twilight belt. So too are we, bound not by rigid ties, but by the fluidity of connection, by the understanding that survival is not an individual act but a shared endeavor.
@@ -618,7 +618,7 @@ To be Duskaran is to belong—not to a single person, but to a current that move
 
 We are not islands. We are the wind, bound together, and stronger for it.
 
-— **Filed for the Assembly’s Record, Cycle 892**
+— **Filed for the Assembly’s Record, Cycle 7,892**
 
 ### **Whispers of the Bonding Winds**
 
@@ -746,13 +746,13 @@ Leave no water untended. Leave no fire to burn unchecked. Leave no shelter in ru
 
 And if the wind speaks—**listen.**
 
-— **Filed for the Almanac, as recorded by Auren Saal, Pilgrim-Scribe, Cycle 890**
+— **Filed for the Almanac, as recorded by Auren Saal, Pilgrim-Scribe, Cycle 5,890**
 
 ### **The Psychic Wilds**
 
 *(Weatherworker’s Journal—Observations of Duskaran creatures’ unique adaptations and bonds with weatherworkers.)*
 
-**Entry 731 - Cycle 892**
+**Entry 731 - Cycle 7,892**
 
 There are those who think the wind is indifferent, that it moves without mind or will. I know better.
 
@@ -768,7 +768,7 @@ Some believe these creatures bond with weatherworkers because of our resonance w
 
 The driftwing veered sharply to the west. It was showing me something.
 
-**Entry 732 - Cycle 892**
+**Entry 732 - Cycle 7,892**
 
 The driftwing led me to a sheltering rock formation, and beneath it, a dying **wind serpent** lay coiled.
 
@@ -786,7 +786,7 @@ I had no medicine strong enough to save it, no power to mend wounds so deep. But
 
 The driftwing let out a keening cry and rose into the sky, circling once before vanishing into the storm.
 
-**Entry 733 - Cycle 892**
+**Entry 733 - Cycle 7,892**
 
 I have long known that weatherworkers are not the only ones who hear the wind’s voice. The creatures of this world *listen*, just as we do. Some warn us of danger, others guide us toward safety.
 
