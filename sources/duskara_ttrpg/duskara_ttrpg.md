@@ -1,3 +1,10 @@
+---
+subtitle: Roleplaying in the Eternal Twilight
+title: "Duskara: Children of the Twilight"
+version: 1.0.0
+last_update: First release
+---
+
 # Duskara
 
 ***Duskara*** is a tabletop role-playing game for two or more players that focuses on essential and intuitive rules, enriched by clear examples and insights into the philosophy that inspires its mechanics.
@@ -581,6 +588,7 @@ There are no hard rules for *when* Tags change—it emerges from play. But here 
 #### Skills and Expertise
 
 When you use a Skill repeatedly and it becomes central to your story, you can:
+
 - **Deepen it:** Rewrite it to reflect deeper mastery or specialization
   - *Before:* "Wind Pattern Reading"
   - *After:* "Can read wind patterns weeks in advance"
@@ -711,6 +719,7 @@ On Duskara, people die. Sometimes it's meaningful. Sometimes it's not. Either wa
 A character dies when the fiction calls for it. There are no special conditions, no dramatic requirements, no exceptions for plot armor. If a failed roll in a dangerous situation means the character doesn't survive, then they don't survive.
 
 This can happen:
+
 - Mid-mission, in the middle of nothing important
 - Quietly, without fanfare
 - Anticlimactically, without a final speech
@@ -741,6 +750,7 @@ The character may be absent, but their presence in the story doesn't disappear.
 ### Next Scene: A New Character
 
 Usually immediately, sometimes after a brief moment, a new character joins the story. They might be:
+
 - Someone the group knew and who was already present
 - A new arrival to the settlement
 - Someone stepping into a role the dead character left empty
@@ -1001,7 +1011,6 @@ Use them freely for narrative inspiration, ritual detail, or scene framing.
 | 5  | Gate        | River       | Dust         | Circle      | Mark         | Shadow        |
 | 6  | Wraith      | Light       | Ritual       | Step        | Gift         | Secret        |
 
-
 #### When the Story Ends
 
 When you reach a satisfying conclusion:
@@ -1029,30 +1038,36 @@ Psychic abilities function as specialized Skills with additional considerations:
 This index helps you navigate all psychic-related mechanics throughout the document:
 
 **Character Creation & Awakening:**
+
 - The Awakening (line 167) — How characters discover psychic abilities
 - Starting as a Novice psychic (line 355) — Initial ability selection during character creation
 - Awakening New Abilities (line 1175) — How characters learn new psychic abilities during play
 
 **Understanding Psychic Mechanics:**
+
 - Core Psychic Abilities (this section) — Five primary ability types with applications and progressions
 - Psychic Costs & Conditions (each ability) — Risk/reward mechanics for each ability type
 
 **Progression & Advancement:**
+
 - Advancing Psychic Abilities (line 1186) — Triggers and mechanical changes for Novice → Adept → Master progression
 - Psychic Cost progression (line 1186) — How costs increase with advancement
 - Psychic Burnout & Degradation (line 1186) — Consequences of overuse
 
 **Using Psychic Abilities in Play:**
+
 - Using Psychic Abilities in Play (line 1262) — Practical guidance for narrative integration
 - Psychic Ability examples in conflicts (line 1262) — How to include psychic mechanics in scenes
 - Psychic phenomena as complications (Adventure Tables, line 3119+) — Table for random psychic events
 
 **Creatures & Environments:**
+
 - Psychic Interference (Creatures section, line 1366+) — How some creatures affect psychic abilities
 - Storm interactions with Weather Working (line 1873+) — How weather mechanics interact with Weather Working
 - Deep Roads psychic hazards (line 1950+) — Psychic interference and disruptions in caves
 
 **Quick Reference:**
+
 - Psychic Abilities summary (Quick Reference Card, line ~3565) — One-page summary of all abilities
 - Psychic Ability costs quick reference (line ~3565) — Costs and associated Conditions
 
@@ -1224,6 +1239,7 @@ Psychic abilities don't improve through points or mechanical progression. Instea
 **Triggers for Advancement:**
 
 **Novice → Adept Progression:**
+
 - **Repeated use:** Using an ability regularly for 3-5 Cycles (in-game time) in varied situations
 - **Narrow escape:** Surviving a life-threatening situation where the ability was critical
 - **Mastery moment:** A scene where the character demonstrates clear competence and control
@@ -1231,6 +1247,7 @@ Psychic abilities don't improve through points or mechanical progression. Instea
 - **Crisis awakening:** A desperate moment where the character pushes their ability beyond normal limits
 
 **Adept → Master Progression:**
+
 - **Legendary feat:** Accomplishing something previously thought impossible with the ability
 - **Burden and sacrifice:** Suffering serious consequences (permanent Condition, physical toll) but mastering the ability through that hardship
 - **Teaching others:** Successfully training other psychics in the ability
@@ -1240,6 +1257,7 @@ Psychic abilities don't improve through points or mechanical progression. Instea
 **What Changes When Abilities Advance:**
 
 At **Novice**, a psychic can perform basic functions:
+
 - Weather Working (Novice): Sense weather patterns, predict storms days in advance
 - Thermal Sense (Novice): Detect obvious heat sources, navigate by thermal signatures
 - Deep Bonding (Novice): Bond with one simple organism, sense basic emotions
@@ -1247,6 +1265,7 @@ At **Novice**, a psychic can perform basic functions:
 - Water Finding (Novice): Detect water sources within several hundred meters
 
 At **Adept**, control and range expand:
+
 - Weather Working (Adept): Influence local winds, guide small weather systems, partially redirect storm movements
 - Thermal Sense (Adept): Perceive through obstacles like rock, operate in extreme heat, detect minute temperature variations
 - Deep Bonding (Adept): Bond with multiple creatures, share surface thoughts with willing humans, sense bonded partners across distance
@@ -1254,6 +1273,7 @@ At **Adept**, control and range expand:
 - Water Finding (Adept): Locate water through rock barriers, sense water quality and purity, detect water far underground
 
 At **Master**, the ability becomes an extension of self:
+
 - Weather Working (Master): Calm superstorms, redirect major atmospheric phenomena, predict weather Cycles in advance
 - Thermal Sense (Master): Map complex thermal patterns at vast scales, sense minute temperature variations, possibly predict geothermal events
 - Deep Bonding (Master): Form complex bonds, maintain group telepathic coordination, possibly sense/bond with sapient creatures
@@ -1265,6 +1285,7 @@ At **Master**, the ability becomes an extension of self:
 **Costs and Consequences:**
 
 As abilities advance, their costs often increase:
+
 - **Novice abilities** trigger basic Conditions (Psychically Drained, Exhausted)
 - **Adept abilities** trigger more serious Conditions (Severely Psychically Drained, Disoriented, Grief-Struck from broken bonds)
 - **Master abilities** may require permanent sacrifice (physical scarring, mental changes, ongoing vulnerability)
@@ -1274,6 +1295,7 @@ A Master-level weather worker who calms a superstorm might suffer burns, permane
 **Collaborative Advancement:**
 
 When a character approaches ability advancement, the player and GM should discuss:
+
 1. **Does this feel earned?** Has the character actually demonstrated mastery of the lower level?
 2. **What story moment marks this?** When in the narrative does this advancement happen?
 3. **What changes mechanically?** How does the ability description update?
@@ -1286,6 +1308,7 @@ The player updates the character sheet, describes what Thermal Sense now feels l
 **Ability Loss and Degradation:**
 
 Psychic abilities can also diminish:
+
 - Refusing to use an ability for extended periods (many Cycles) may cause it to weaken
 - Psychic damage from catastrophic failure (attempting Master-level working while Adept) may cause temporary or permanent regression
 - Traumatic bonding experiences might make Deep Bonding impossible for a time
@@ -1482,18 +1505,23 @@ Duskara's native life has adapted to extreme conditions over centuries of evolut
 Creatures in *Duskara* use the same Tag system as characters. When designing a creature or enemy, consider:
 
 **Concept:** What is this creature's role in Duskaran ecology? What niche does it fill?
+
 - *Examples: "Wind-Riding Herd Animal," "Ambush Predator of Extreme Heat," "Geothermal Ecosystem Engineer"*
 
 **Skills:** What is this creature naturally good at? These become Chance Dice when relevant to opposition.
+
 - *Examples: "Thermal Camouflage," "Wind Navigation," "Resonance Communication"*
 
 **Frailty:** What vulnerability does this creature have? This becomes a Risk Die when that vulnerability is exploited.
+
 - *Examples: "Sluggish in Cold Environments," "Sensitive to Bright Light," "Dependent on Geothermal Heat"*
 
 **Abilities:** Does this creature have psychic abilities or special physical powers? Document them clearly.
+
 - *Examples: "Thermal Camouflage" (hides thermal signature), "Echo Location" (navigates in darkness), "Resonance Transmission" (communicates through rock)*
 
 **Opposition Strength:** How much of a threat is this creature?
+
 - **Minor Opposition** (+1 Risk Die): Small creatures, inexperienced predators, limited threat
 - **Moderate Opposition** (+2 Risk Dice): Skilled hunters, organized swarms, significant threat
 - **Major Opposition** (+3 Risk Dice): Apex predators, legendary creatures, catastrophic threat
@@ -1503,8 +1531,6 @@ Creatures in *Duskara* use the same Tag system as characters. When designing a c
 **Behavioral Notes:** How does this creature act? Is it territorial? Migratory? Herd-based? Solitary?
 
 **In Play Notes:** How should a GM use this creature? As environmental hazard? Social conflict? Bonding opportunity? Mystery?
-
----
 
 ### Native Creatures of Duskara
 
@@ -1676,8 +1702,6 @@ Competing communities with conflicting interests, goals, or ideologies, sometime
 - **Behavior:** Politically motivated, organized, capable of negotiation or escalation
 - **In Play:** Rival settlements aren't inherently "enemies," but conflicts over water rights, geothermal claims, or Accord violations create tension. Diplomacy, sabotage, or cooperation are all possible approaches. A settlement is a complex opponent—attacking one militarily has consequences, as does supporting one politically. The most interesting rival settlement conflicts are those with legitimate competing interests and room for negotiation.
 
----
-
 ### Hostile NPC Templates
 
 When a creature or human enemy needs to be an NPC opponent (not just an environmental hazard), use this simplified framework:
@@ -1689,13 +1713,12 @@ When a creature or human enemy needs to be an NPC opponent (not just an environm
 **In Play Note:** How should this NPC be used?
 
 **Example - Claim-Jumper Leader:**
+
 - **Concept:** Ruthless salvage syndicate head
 - **Visible Strength:** Tactical cunning and crew loyalty
 - **Hidden Fault:** Desperate to replace profit from a failed expedition
 - **Opposition Strength:** Major (+3 Risk Dice) in direct confrontation
 - **In Play:** Could be negotiated with if their desperation is understood, or escalated if threatened
-
----
 
 ### Using Creatures and Enemies in Play
 
@@ -1713,8 +1736,6 @@ Resonance whales, archive golems, rogue drones, and resonance drakes raise quest
 
 **As Recurring Antagonists:**
 A particular rogue weather worker, claim-jumper crew, or even a specific thermal serpent known in a region can become a recurring threat or uneasy ally. These NPCs and creatures have motivations, can change over time, and can develop relationships with characters.
-
----
 
 ## Resource Management
 
@@ -2198,6 +2219,7 @@ Nothing on Duskara stays fixed. Weather patterns shift. Settlements face new cri
 Use questions to invite participation and surprise rather than narrating outcomes. Questions share control with your players and often generate better ideas than you planned.
 
 **Examples:**
+
 - "The storm front is now visible from the settlement. What does the Council decide to do?"
 - "You've been living in this settlement for three Cycles. What has made you trust the weather worker who's now asking for your help?"
 - "The drone's signal goes dark. What do you think went wrong?"
@@ -2207,6 +2229,7 @@ Use questions to invite participation and surprise rather than narrating outcome
 When characters fail a roll, don't block their story. Open new doors. Failure is an opportunity for complications, plot twists, or unexpected discoveries.
 
 **Examples of reframing failure:**
+
 - "No..." → They fail to convince the Council, but overhear a secret they weren't meant to know
 - "No, but..." → The salvage mission fails, but they discover something more valuable instead
 - "No, and..." → The negotiation collapses, but it reveals that the opposing settlement has a hidden problem the characters can exploit or help solve
@@ -2254,6 +2277,7 @@ You don't need extensive prep for *Duskara*, but a little structure helps:
 #### 1. Settlements
 
 Define each settlement by:
+
 - **1–2 Key NPCs:** Who matters here? Who do the characters interact with?
 - **Current Tension:** What's the settlement dealing with right now? A resource crisis? Political conflict? A recent discovery?
 - **Implicit Pressure:** What's the underlying problem or opportunity? Water scarcity? Rivalry with a neighboring settlement? Unexplained phenomena?
@@ -2261,6 +2285,7 @@ Define each settlement by:
 #### 2. Maps and Weather
 
 Sketch the territory where play might happen. Don't make it detailed—rough is fine. But know:
+
 - Where's the nearest storm wall?
 - What direction does the wind blow?
 - Are there geothermal zones nearby?
@@ -2271,6 +2296,7 @@ Weather can change during play, especially if characters use Weather Working.
 #### 3. NPCs with Relationships
 
 When you introduce a major NPC, jot down:
+
 - A visible strength
 - A hidden fault or fear
 - A specific relationship to the character(s) or settlement
@@ -2280,6 +2306,7 @@ This is usually 3-4 sentences. Don't over-prepare.
 #### 4. Complications
 
 Have a few complications in mind that you can introduce when the story needs tension:
+
 - Environmental hazards (superstorm brewing, thermal surge, structural collapse)
 - Social pressure (faction conflict, betrayal, competing interests)
 - Resource pressure (water status degrades, supply caravan delays)
@@ -2308,72 +2335,84 @@ That's it. You don't need a full character sheet. You need enough to know how th
 Below are profession-based NPC templates you can adapt in seconds. Each includes a concept, a visible strength, a hidden fault, and a story hook. Mix and match to create memorable characters:
 
 **WEATHERWORKER**
+
 - **Concept:** Trained psychic specialist (Novice/Adept/Master)
 - **Visible Strength:** Uncanny ability to read atmospheric patterns / prediction accuracy
 - **Hidden Fault:** Pride in their abilities / fear of losing power / isolation from community
 - **Hook:** Needs help managing burnout OR pursuing dangerous weather manipulation
 
 **THERMAL SPECIALIST**
+
 - **Concept:** Geothermal engineer / day-side salvager / thermal researcher
 - **Visible Strength:** Equipment expertise / heat navigation skill / technical innovation
 - **Hidden Fault:** Recklessness near extreme conditions / technical obsession / disregard for safety
 - **Hook:** Pursuing dangerous salvage OR developing risky new thermal technology
 
 **COUNCIL MEMBER**
+
 - **Concept:** Settlement representative / elected leader / appointed administrator
 - **Visible Strength:** Political acumen / community trust / diplomatic skill
 - **Hidden Fault:** Competing interests / hidden allegiances / decision paralysis from consensus pressure
 - **Hook:** Proposing controversial policy OR blocking community initiative
 
 **ARCHIVIST**
+
 - **Concept:** Data specialist / historian / Earth knowledge keeper
 - **Visible Strength:** Extensive knowledge / pattern recognition / access to information
 - **Hidden Fault:** Obsession with past / disconnection from current needs / gatekeeping information
 - **Hook:** Protecting dangerous ancient knowledge OR desperately seeking lost data
 
 **SALVAGE OPERATOR**
+
 - **Concept:** Day-side salvager / wreck explorer / independent contractor
 - **Visible Strength:** Navigation in dangerous environments / technical salvage skills / resourcefulness
 - **Hidden Fault:** Greed / recklessness / willing to break rules / hiding past failures
 - **Hook:** Seeking legendary salvage OR needing team for high-risk expedition
 
 **SETTLEMENT LEADER**
+
 - **Concept:** Mayor / Council head / Warmth Circle elder
 - **Visible Strength:** Authority / strategic thinking / community support
 - **Hidden Fault:** Authoritarianism / fear of change / protecting outdated systems
 - **Hook:** Managing resource crisis OR resisting necessary innovation
 
 **CARAVAN MASTER**
+
 - **Concept:** Trade leader / route expert / nomadic merchant
 - **Visible Strength:** Negotiation / knowledge of inter-settlement routes / survival expertise
 - **Hidden Fault:** Deals with questionable people / bending rules / long-time grudges
 - **Hook:** Offering lucrative job OR pursuing old rival
 
 **DEEP BONDED PSYCHIC**
+
 - **Concept:** Bonded specialist / fauna liaison / psychic researcher
 - **Visible Strength:** Connection to native life / telepathy skill / empathy
 - **Hidden Fault:** Over-attachment to creatures / trust in bonded partners over humans / emotional dependency
 - **Hook:** Asking for help rescuing bonded partner OR investigating mysterious animal behavior
 
 **COMMUNITY HEALER**
+
 - **Concept:** Medical specialist / herbalist / psychic healer
 - **Visible Strength:** Diagnostic skill / caring nature / technical medical knowledge
 - **Hidden Fault:** Overextending resources / treating beyond their expertise / hiding own addiction/illness
 - **Hook:** Needing rare medical supplies OR facing epidemic they can't handle
 
 **WATER SPECIALIST**
+
 - **Concept:** Water manager / conservation officer / hydroponic farmer
 - **Visible Strength:** Resource efficiency / technical water system knowledge / conservation passion
 - **Hidden Fault:** Inflexibility about rationing / hoarding supplies / conflict with other priorities
 - **Hook:** Managing water crisis OR investigating water contamination
 
 **ROGUE WEATHER WORKER**
+
 - **Concept:** Outcast psychic / ideological extremist / freelancer
 - **Visible Strength:** Master-level weather working / physical toughness / unpredictability
 - **Hidden Fault:** Unstable / pursuing harmful agenda / psychically damaged
 - **Hook:** Manipulating weather for political gain OR seeking redemption
 
 **DEEPKIN GUIDE**
+
 - **Concept:** Night-side expert / cave system mapper / deep culture specialist
 - **Visible Strength:** Deep Roads knowledge / resonance communication / cave survival
 - **Hidden Fault:** Discomfort on surface / cultural bias / protective of cave territories
@@ -2410,6 +2449,7 @@ Questions are about character action and intention. You describe the world. The 
 #### Use the Adventure Tables
 
 When you need:
+
 - **A complication:** Roll on Expedition Complications
 - **A settlement event:** Roll on Settlement Events
 - **A discovery:** Roll on Salvage Discoveries
@@ -2441,6 +2481,7 @@ You decide what the world does. You don't ask players to help construct it.
 #### Minimal Notes Are Enough
 
 Between sessions, jot down:
+
 - What each NPC cares about (one sentence)
 - Current settlement Resource Status
 - Open story threads
@@ -2478,11 +2519,13 @@ You can facilitate *Duskara* with genuine confidence without preparation. The ga
 You have control over narrative focus. Use it to pace your sessions:
 
 **Zoom Out:** Resolve an entire scene with a single closed question.
+
 - "Does the expedition reach the geothermal site before the storm hits?" (one roll)
 - Fast, emphasizes outcomes over details
 - Best for scenes that aren't emotionally crucial
 
 **Zoom In:** Break a scene into multiple detailed questions.
+
 - "Can I spot the trap before we trigger it?"
 - "Do I convince the faction leader to help?"
 - "Can I repair the water pump before the pressure ruptures?"
@@ -2509,12 +2552,14 @@ If you have less time, shorten character creation (consider pre-generated charac
 #### Before You Start
 
 **Have ready:**
+
 - Dice (at least 1d6 per player, ideally in three colors)
 - Character sheets or paper for notes
 - The Adventure Tables section (you'll reference it)
 - A simple settlement concept
 
 **Don't prepare:**
+
 - A detailed plot
 - A mapped-out story
 - Specific NPC names and histories
@@ -2527,6 +2572,7 @@ You won't need them.
 Walk players through character creation together. Don't rush it—this is where players invest in their characters.
 
 **Structure:**
+
 1. Explain each tag type briefly (Concept, Skills, Frailty, etc.)
 2. Give examples for each
 3. Let players create at their own pace
@@ -2567,18 +2613,21 @@ Don't overthink this. It's just alignment.
 Pick one that feels right:
 
 **Scenario 1: The Damaged Settlement**
+
 - A superstorm has damaged the settlement's key infrastructure
 - Resources are degraded; leadership is making emergency decisions
 - Characters are asked to help (or volunteer)
 - Simple hook: "Can you help restore the [water system / power grid / structural damage]?"
 
 **Scenario 2: The Arrival**
+
 - Characters are outsiders arriving at a settlement for the first time
 - Someone meets them (a contact, an old friend, an NPC with a job offer)
 - The settlement has a current problem they might get involved in
 - Simple hook: "What brings you to Aetherion? And what do you notice is wrong?"
 
 **Scenario 3: The Crisis**
+
 - A settlement emergency happens while the characters are there
 - A caravan vanishes. Someone needs rescue. A failure occurs.
 - Characters are nearby and witness it
@@ -2634,6 +2683,7 @@ That's all you need. Players will remind you of details that matter.
 #### Your Second Session
 
 You already know:
+
 - Who the characters are and what they want
 - What the settlement is dealing with
 - What mystery or problem emerged in session one
@@ -2645,6 +2695,7 @@ You're done. You've run Duskara.
 ### Reinforcing Tone and Managing Play
 
 *Duskara* emphasizes:
+
 - **Wonder and discovery** — The world is vast and mysterious
 - **Competence** — Characters are skilled, resourceful, and capable
 - **Community** — Settlements and relationships matter more than individual glory
@@ -2666,6 +2717,7 @@ When facilitating, lean into these. Describe the world with sensory detail. Show
 #### Keeping Notes
 
 Track:
+
 - **Resource Status Tags** for the settlement (Water, Power, Provisions)
 - **NPC Relationships** that matter to characters
 - **Scene Tags** that might carry over (storm fronts, psychic phenomena, structural damage)
@@ -2802,8 +2854,6 @@ This extended example demonstrates how *Duskara* plays at the table, showcasing 
 
 **GM:** "The salvage contract will keep Aetherion' water systems running, improving the settlement's Water Status from 'Water Rationing' to 'Water Adequate.' And the data crystal—well, that's a mystery for another session. For now, you've both earned some rest."
 
----
-
 **What This Example Demonstrates:**
 
 - **Fiction-first play:** The story drives the mechanics, not the other way around
@@ -2827,6 +2877,7 @@ This extended example demonstrates how *Duskara* plays at the table, showcasing 
 Your role is not to railroad players toward a predetermined narrative. Instead, establish a world full of opportunities and tensions, then let player choices determine what happens. Consequences should flow naturally from their decisions—not as punishment, but as honest reflection of how the world responds.
 
 Adventures work best when they arise from:
+
 - **Character Tags:** Goals, Nemeses, and Relationships are built-in adventure hooks
 - **Settlement Pressures:** Current Tensions and Implicit Pressures create natural conflicts
 - **Duskara's Harshness:** Environmental challenges and resource scarcity drive urgency
@@ -2837,6 +2888,7 @@ Adventures work best when they arise from:
 The Duskaran Accord is a loose confederation of settlements established in Cycle 7,306 to manage inter-settlement relations, resource distribution, and collective defense. It's not a government but a framework for cooperation.
 
 **Accord Structure:**
+
 - **The Wind and Water Assembly:** Annual gathering of settlement delegates to address shared concerns
 - **Wayseers:** Neutral psychic adepts who mediate disputes
 - **Wind Riders:** Couriers and envoys traveling between settlements
@@ -2844,6 +2896,7 @@ The Duskaran Accord is a loose confederation of settlements established in Cycle
 - **Storm Wardens:** Elite weather workers protecting multiple settlements
 
 **Accord Principles:**
+
 - Mutual Aid (settlements assist during crises)
 - Fair Trade (resources exchanged at agreed rates)
 - Dispute Resolution (negotiation, not violence)
@@ -2852,6 +2905,7 @@ The Duskaran Accord is a loose confederation of settlements established in Cycle
 
 **Accord Tensions:**
 Not every settlement honors the Accord equally. Common conflicts include:
+
 - Resource Competition (rival claims over geothermal sites, water, salvage)
 - Isolationism (some settlements prefer self-reliance)
 - Cultural Differences (twilight belt vs. night-side values)
@@ -2859,6 +2913,7 @@ Not every settlement honors the Accord equally. Common conflicts include:
 - Secret-Keeping (settlements withhold discoveries for advantage)
 
 **Adventure Hooks from the Accord:**
+
 - Diplomatic Missions (represent your settlement in negotiations)
 - Resource Disputes (mediate or escalate conflicts)
 - Storm Response (coordinate multi-settlement efforts)
@@ -2872,35 +2927,43 @@ Settlements are the anchors of *Duskara* play. They provide context, resources, 
 #### Settlement Template
 
 **Name & Location:**
+
 - *Example: Aetherion (Twilight Belt, central position)*
 
 **Character (1-2 sentences):**
+
 - What's distinctive about this settlement? What defines it?
 - *Example: Aetherion is a vertical spire city built around geothermal vents. Water is carefully rationed but plentiful; power abundant. Politics are rigid but fair.*
 
 **Key NPCs (1-2):**
+
 - Name, role, one complication
 - *Example: Councilor Thessan kin-Babu Rynthar (administrator, afraid of losing control) / Archivist Sorahn kin-Babu Daemir (preserves pre-landing data, obsessive about lost knowledge)*
 
 **Current Resource Status:**
+
 - Water: [Abundant / Adequate / Rationing / Crisis]
 - Power: [Full Grid / Adequate / Rolling Blackouts / Failure]
 - Provisions: [Well-Supplied / Adequate / Running Low / Critical Shortage]
 
 **Current Tension (what's happening now):**
+
 - What problem or opportunity is the settlement facing?
 - *Example: Aquifer pumps are failing. The council debates whether to fund repairs or accept rationing.*
 
 **Implicit Pressure (underlying issue):**
+
 - What's the deeper problem beneath the immediate crisis?
 - *Example: The geothermal vents have cooled over the past generation. No one admits it publicly.*
 - **On Implicit Pressure:** This is not a hidden secret you're protecting. It's a world condition that might emerge through play if players investigate the settlement's problems or if circumstances naturally reveal it. If players never dig into the settlement's history or politics, the implicit pressure stays in the background. If they do investigate, let them uncover this reality honestly. The pressure creates interesting drama when it surfaces—not because you're revealing a plot twist, but because it makes the world feel real and consequential.
 
 **Relationships to Other Settlements:**
+
 - How does this settlement relate to neighbors?
 - *Example: Tense alliance with Harmattan's Reach (competing for water resources) / Trading partnership with Khoros Deep (geothermal technology)*
 
 **A Few Useful Details:**
+
 - Architecture/visual: One distinctive feature
 - Culture/values: What matters to people here?
 - Safety: Is it stable? Dangerous? Prosperous?
@@ -2912,10 +2975,12 @@ Settlements are the anchors of *Duskara* play. They provide context, resources, 
 **Character:** A vertical spire city built around geothermal vents. Architecture emphasizes height—towers reach into the wind currents, deep foundations tap heat. Water is precious but available; power abundant. Politics are hierarchical but fair.
 
 **Key NPCs:**
+
 - **Councilor Thessan kin-Babu Rynthar** (settlement administrator; afraid of losing control, makes decisions conservatively)
 - **Archivist Sorahn kin-Babu Daemir** (preserves pre-landing data; obsessive about recovering lost knowledge, will risk settlement resources for discoveries)
 
 **Current Resource Status:**
+
 - Water: Adequate (but precarious; aquifer pumps are aging)
 - Power: Full Grid (geothermal vents are reliable)
 - Provisions: Well-Supplied (trade relationships stable)
@@ -2925,11 +2990,13 @@ Settlements are the anchors of *Duskara* play. They provide context, resources, 
 **Implicit Pressure:** The geothermal vents have been cooling for three generations. No one admits it publicly. If the decline continues, Aetherion's advantage disappears.
 
 **Relationships:**
+
 - **Harmattan's Reach** (rival): Competing for the same aquifer. Relationship is tense but governed by Accord protocols.
 - **Khoros Deep** (ally): Trade partnership for geothermal extraction technology.
 - **Nomadic traders**: Regular visitors; Aetherion offers supplies; travelers bring news.
 
 **Distinctive Details:**
+
 - Architecture: Spire towers with wind-capture systems; deep foundations in thermal caverns
 - Culture: Values precision and order; slow to trust outsiders; honor long-term relationships
 - Safety: Stable and defended; storms rarely penetrate the spire system; day-side salvagers operate from here
@@ -2941,10 +3008,12 @@ Settlements are the anchors of *Duskara* play. They provide context, resources, 
 **Character:** An underground city built around massive geothermal vents. Darkness is absolute; bioluminescent life lights the caverns. Culture is collectivist and ritual-focused. Temperature is warm but carefully managed. People are adaptable, resilient, suspicious of surface dwellers.
 
 **Key NPCs:**
+
 - **Warmth Mother Seren** (leader of the Geothermal Circle; wise and patient, but unwilling to change tradition)
 - **Kai the Resonance Singer** (young, ambitious; wants to expand trade with twilight settlements; challenges Seren's conservatism)
 
 **Current Resource Status:**
+
 - Water: Abundant (geothermal aquifers provide unlimited fresh water)
 - Power: Full Grid (geothermal vents power everything; energy is unlimited)
 - Provisions: Adequate (food sources from cave ecosystems are limited; relies on trade)
@@ -2954,11 +3023,13 @@ Settlements are the anchors of *Duskara* play. They provide context, resources, 
 **Implicit Pressure:** The cave ecosystem that feeds Khoros is slowly collapsing due to human harvesting. The geothermal vents, while plentiful, heat some areas to dangerous levels. Long-term survival requires expansion or adaptation.
 
 **Relationships:**
+
 - **Aetherion** (trade partner): Khoros supplies geothermal extraction technology; Aetherion provides food, textiles, Earth artifacts.
 - **Other night-side settlements** (cooperative): Share geothermal resources and knowledge; participate in Warmth Circles.
 - **Twilight belt settlements** (wary): Surface dwellers are unpredictable; trade is necessary but limited.
 
 **Distinctive Details:**
+
 - Architecture: Carved into cavern walls; bioluminescent gardens cultivated for food and light; thermal pools for warmth and ritual
 - Culture: Deeply ritualistic; Resonance singing is sacred; collectivism valued over individuality; suspicious of haste
 - Safety: Well-defended by knowledge of cavern systems; geothermal hazards are the real danger; rarely visited by outsiders
@@ -3077,6 +3148,7 @@ What shape should your campaign take? These frameworks provide starting points, 
 Characters are settlers establishing a new outpost in contested territory or expanding an existing settlement's influence. The campaign revolves around survival, resource acquisition, and navigating relationships with neighboring settlements.
 
 **Typical Sessions:**
+
 - Establishing the outpost's infrastructure and defenses
 - Securing resource supplies and trade relationships
 - Negotiating or competing with neighboring settlements
@@ -3084,6 +3156,7 @@ Characters are settlers establishing a new outpost in contested territory or exp
 - Integrating with (or resisting) the broader Accord
 
 **Key Mechanics:**
+
 - Settlement Resource Status becomes central (water, power, provisions)
 - Character Goals often tie to the settlement's success
 - Relationships with neighboring settlements matter greatly
@@ -3097,6 +3170,7 @@ Characters are settlers establishing a new outpost in contested territory or exp
 Characters are Archivists, scholars, or explorers piecing together the lost history of the *Stellar Horizon* and Earth's final days. The campaign is driven by curiosity, revelation, and the tension between preserving knowledge and using it wisely.
 
 **Typical Sessions:**
+
 - Investigating satellite transmissions or pre-landing records
 - Mounting expeditions to recover data crystals or archives
 - Decoding encrypted Earth-era technology
@@ -3104,6 +3178,7 @@ Characters are Archivists, scholars, or explorers piecing together the lost hist
 - Navigating ethical questions about dangerous knowledge
 
 **Key Mechanics:**
+
 - Salvage Discoveries often advance the mystery
 - Relationships with Archivists and institutions become crucial
 - Character Nemeses might involve those wanting to suppress knowledge
@@ -3117,6 +3192,7 @@ Characters are Archivists, scholars, or explorers piecing together the lost hist
 Characters are Wind Riders or wanderers traveling between settlements to mediate conflicts, deliver messages, trade, or respond to emergencies. Each location presents new challenges and opportunities.
 
 **Typical Sessions:**
+
 - Traveling between settlements (using Deep Roads or surface routes)
 - Negotiating disputes between rival settlements
 - Delivering urgent messages during crises
@@ -3124,6 +3200,7 @@ Characters are Wind Riders or wanderers traveling between settlements to mediate
 - Uncovering larger patterns in regional conflicts
 
 **Key Mechanics:**
+
 - Multiple settlements become familiar locations with recurring NPCs
 - Character Relationships expand across the region
 - Travel rolls (Progress Clocks) create tension and discovery
@@ -3137,6 +3214,7 @@ Characters are Wind Riders or wanderers traveling between settlements to mediate
 Characters are professional explorers, archaeologists, or salvagers mapping and exploiting the Deep Roads. The campaign emphasizes mystery, danger, and the unknown.
 
 **Typical Sessions:**
+
 - Mounting expeditions into uncharted Deep Roads sections
 - Discovering ancient structures or geothermal sites
 - Surviving environmental hazards (cold, darkness, instability)
@@ -3144,6 +3222,7 @@ Characters are professional explorers, archaeologists, or salvagers mapping and 
 - Surfacing to manage discoveries and plan next expeditions
 
 **Key Mechanics:**
+
 - Progress Clocks and environmental hazards become central
 - Salvage Discoveries often reveal deeper mysteries
 - Psychic phenomena might escalate over the campaign
@@ -3468,7 +3547,7 @@ These works capture the spirit of *Duskara*—planetary romance, environmental a
 - Jon Hopkins — immersive, rhythmic, exploratory
 - Stellardrone — space ambient, isolation, wonder
 
-## Appendix: Glossary
+## Appendix A: Glossary
 
 **Key:** [term] - Definition (See line XXX for detailed explanation)
 
@@ -3493,6 +3572,7 @@ These works capture the spirit of *Duskara*—planetary romance, environmental a
 **Tag** — Short words or phrases describing relevant characteristics of characters, places, objects, or situations. Used to activate advantages or disadvantages during play. (See line 300)
 
 **Zoom In / Zoom Out** — Two ways to approach a conflict: (See line 2442)
+
 - **Zoom Out:** A single closed question resolves the entire scene.
 - **Zoom In:** A series of closed questions explores each phase of the action in detail.
 
@@ -3572,111 +3652,10 @@ These works capture the spirit of *Duskara*—planetary romance, environmental a
 
 **Details** — Tags related to the environment or scene, such as "curtains on fire" or "guards alerted." Reflect the transformations of the world following characters' actions. (See line 920)
 
-## Table of Contents
-
-### 0. Front Matter
-- What is role-playing? (p. 11)
-- Game Principles (p. 34)
-- Game Materials (p. 56)
-- Game Modes (p. 65)
-- Game Roles (p. 75)
-- Safety and Accessibility (p. 96)
-
-### 1. World Building (p. 153)
-- A World Between Light and Dark
-- The Twilight Belt
-- The Awakening
-- A Culture of Adaptation
-- Mysteries and Wonders
-- Themes of Play
-
-### 2. Character Creation (p. 205)
-- Step 1: Concept (p. 209)
-- Step 2: Skills (p. 240)
-- Step 3: Frailty (p. 265)
-- Step 4: Gear (p. 282)
-- Step 5: Goal (p. 301)
-- Step 6: Motive (p. 318)
-- Step 7: Nemesis (p. 335)
-- Step 8: Relationships (p. 352)
-- Character Trait Reference Lists (p. 369)
-- Psychic Abilities (p. 539)
-- Example Character: Kaelen (p. 549)
-
-### 3. Character Evolution (p. 565)
-- The Core Principle (p. 571)
-- How Character Evolution Works (p. 577)
-- Character Death (p. 705)
-
-### 4. Core Mechanics (p. 751)
-- The Basic Roll (p. 753)
-- When to Roll (p. 802)
-- Zoom In / Zoom Out (p. 816)
-- Tags as Tools (p. 832)
-- Conditions (p. 849)
-- Details and Scene Tags (p. 870)
-- Opposition (p. 881)
-- Solo Play (p. 887)
-
-### 5. Psychic Abilities (p. 1015)
-- How Psychic Abilities Work (p. 1019)
-- Core Psychic Abilities (p. 1027)
-  - Weather Working (p. 1029)
-  - Thermal Sense (p. 1048)
-  - Deep Bonding (p. 1067)
-  - Shadow Walking (p. 1086)
-  - Water Finding (p. 1106)
-- Deepkin Specializations (p. 1126)
-- Awakening New Abilities (p. 1175)
-- Advancing Psychic Abilities (p. 1186)
-- Using Psychic Abilities in Play (p. 1262)
-
-### 6. Environmental Zones (p. 1311)
-- Zone-Based Dice Modifiers (p. 1315)
-  - Day Side (p. 1219)
-  - Twilight Belt (p. 1243)
-  - Night Side (p. 1262)
-- Transition Zones (p. 1287)
-- Using Zones in Play (p. 1304)
-- Zone-Specific Challenges (p. 1338)
-
-### 7. Creatures and Enemies (p. 1366)
-- Creature Creation Framework (p. 1370)
-- Native Creatures of Duskara (p. 1399)
-- Hostile NPC Templates (p. 1571)
-- Using Creatures and Enemies in Play (p. 1590)
-
-### 8. Advanced Systems (p. 1609)
-- Resource Management (p. 1609)
-- Wind and Storm Conditions (p. 1475)
-- The Deep Roads (p. 1591)
-- Encounters and Conflicts (p. 1698)
-
-### 9. Facilitating Duskara Games (p. 1829)
-- Core Facilitation Principles (p. 1835)
-- What to Prepare (p. 1897)
-- NPC Archetypes (p. 2073)
-- Running Without Prep (p. 2044)
-- Running Your First Session (p. 2228)
-- Example of Play (p. 2379)
-
-### 10. Adventure Design (p. 2680)
-- The Duskaran Accord (p. 2521)
-- Settlement Creation (p. 2565)
-- Creating Adventures (p. 2680)
-- Campaign Frameworks (p. 2766)
-- Adventure Tables (p. 2792)
-
-### 11. Appendices
-- Glossary (p. 3233)
-- Quick Reference Card (below)
-- License (p. 3463)
-
----
-
-## Appendix: Quick Reference Card
+## Appendix B: Quick Reference Card
 
 **CORE MECHANIC:**
+
 1. Frame action as closed question
 2. Build dice pool: 1 Action Die + Chance Dice - Risk Dice
 3. Roll the pool, keep highest die
@@ -3684,6 +3663,7 @@ These works capture the spirit of *Duskara*—planetary romance, environmental a
 5. Describe result in fiction
 
 **DICE OUTCOMES:**
+
 | Roll | Outcome | |
 |------|---------|---|
 | 6 | Yes, and... | +1 to result |
@@ -3694,11 +3674,13 @@ These works capture the spirit of *Duskara*—planetary romance, environmental a
 | 1 | No, and... | -1 to result |
 
 **ZONE MODIFIERS (Base):**
+
 - Day Side: +2 Risk Dice
 - Twilight Belt: None
 - Night Side: +1 Risk Die
 
 **PSYCHIC ABILITIES:**
+
 - Weather Working: Manipulate winds and storms
 - Thermal Sense: Perceive heat signatures
 - Deep Bonding: Connect with native life
@@ -3706,11 +3688,13 @@ These works capture the spirit of *Duskara*—planetary romance, environmental a
 - Water Finding: Locate water sources
 
 **PROGRESSION LEVELS:**
+
 - Novice: Basic capability
 - Adept: Enhanced control and range
 - Master: Legendary mastery and cost
 
 **PSYCHIC ABILITY COSTS:**
+
 - Weather Working → Psychically Drained
 - Thermal Sense → Overwhelmed by Thermal Noise
 - Deep Bonding → Grief-Struck (on loss)
@@ -3721,6 +3705,7 @@ These works capture the spirit of *Duskara*—planetary romance, environmental a
 Injured, Exhausted, Frightened, Psychically Drained, Overheating, Disoriented, Grief-Struck
 
 **CHARACTER TAGS:**
+
 1. Concept (role/identity)
 2. Skills (expertise) — 3 total
 3. Frailty (vulnerability)
@@ -3736,6 +3721,7 @@ Injured, Exhausted, Frightened, Psychically Drained, Overheating, Disoriented, G
 **Provisions:** Well-Supplied / Adequate / Low / Critical
 
 **DICE POOL MODIFIERS:**
+
 - Chance Die (+): Helpful Skill, favorable Gear, beneficial environment, ally help
 - Risk Die (-): Opposing Skill, environmental hazard, Frailty applies, enemy opposition
 
@@ -3744,23 +3730,24 @@ Roll when: outcome is uncertain + failure has interesting consequences + success
 Don't roll when: automatic success + automatic failure + outcome doesn't matter
 
 **SAFETY TOOLS:**
+
 - Before play: CATS (Concept, Aim, Tone, Subject Matter)
 - During play: Script Change (pause and adjust immediately)
 - Emergent: Lines & Veils (stated when they come up)
 
 **CONFLICT RESOLUTION:**
+
 - Zoom Out: Single question resolves entire scene
 - Zoom In: Multiple questions for detailed conflict
 
 **ADVANCEMENT:**
+
 - No XP or levels
 - Characters evolve through fiction
 - Update Tags when story changes them
 - Skills deepen, Frailties transform, Goals are achieved/replaced, Relationships shift
 
----
-
-## Appendix: Blank Character Sheet
+## Appendix C: Blank Character Sheet
 
 Use this template to create your character. Write your character's name and details in each section. Each Tag adds Chance or Risk Dice as noted.
 
@@ -3771,6 +3758,7 @@ _________________________________
 _________________________________
 
 ### Concept
+
 (Brief description of who you are: role, appearance, or essence)
 
 _________________________________
@@ -3778,6 +3766,7 @@ _________________________________
 *Adds +1 Chance Die when relevant to your action*
 
 ### Skills
+
 (Three areas of training or expertise. Each adds +1 Chance Die)
 
 1. _________________________________
@@ -3785,6 +3774,7 @@ _________________________________
 3. _________________________________
 
 ### Frailty
+
 (A vulnerability, fear, or challenge that complicates your life)
 
 _________________________________
@@ -3792,12 +3782,14 @@ _________________________________
 *Adds +1 Risk Die when this comes into play*
 
 ### Gear
+
 (Two pieces of equipment or tools you carry. Each adds +1 Chance Die when used)
 
 1. _________________________________
 2. _________________________________
 
 ### Goal
+
 (What you want to achieve. Your driving ambition.)
 
 _________________________________
@@ -3805,6 +3797,7 @@ _________________________________
 *Adds +1 Chance Die when working toward this goal*
 
 ### Motive
+
 (Why you pursue your Goal. What drives you?)
 
 _________________________________
@@ -3812,6 +3805,7 @@ _________________________________
 *Adds +1 Chance Die when directly relevant*
 
 ### Nemesis
+
 (A person, organization, force, or concept that opposes you or complicates your life)
 
 _________________________________
@@ -3819,6 +3813,7 @@ _________________________________
 *Adds +1 Risk Die when this Nemesis comes into play*
 
 ### Relationships
+
 (Two significant bonds with other player characters. Can be allies, rivals, family, mentors, or complicated)
 
 **1. Character Name:** _________________________________
@@ -3834,6 +3829,7 @@ _________________________________
 **Current status:** Ally / Rival / Complicated / Other: _____________
 
 ### Psychic Ability (Optional)
+
 (Choose one psychic ability if desired. Starts at Novice level and can advance through play.)
 
 **Ability:** ☐ Weather Working ☐ Thermal Sense ☐ Deep Bonding ☐ Shadow Walking ☐ Water Finding
@@ -3843,6 +3839,7 @@ _________________________________
 **Cost/Risk:** _________________________________
 
 ### Conditions
+
 (Temporary states that emerge during play—track here as they occur)
 
 _________________________________
@@ -3852,6 +3849,7 @@ _________________________________
 _________________________________
 
 ### Notes & Additional Details
+
 (Any other details about your character—history, beliefs, secrets, plans)
 
 _________________________________
@@ -3860,9 +3858,7 @@ _________________________________
 
 _________________________________
 
----
-
-## Example: Kaelen kin-Moto Velkara
+### Example: Kaelen kin-Moto Velkara
 
 This completed character sheet shows how to fill out all fields. Use Kaelen as a reference when creating your own character.
 
@@ -3873,11 +3869,13 @@ Kaelen kin-Moto Velkara
 kin-Moto (Day-side salvagers and thermal specialists)
 
 ### Concept
+
 Day-Side Salvage Specialist
 
 *Adds +1 Chance Die when relevant to actions involving salvage, day-side navigation, or specialist knowledge*
 
 ### Skills
+
 (Three areas of training or expertise)
 
 1. Thermal Suit Operation
@@ -3885,27 +3883,32 @@ Day-Side Salvage Specialist
 3. Day-Side Survival
 
 ### Frailty
+
 Overconfident in Their Abilities
 
 *Adds +1 Risk Die when this overconfidence leads to rash decisions or underestimation*
 
 ### Gear
+
 (Two pieces of equipment or tools)
 
 1. Heavy-Duty Thermal Suit
 2. Thermal Lance (salvage tool)
 
 ### Goal
+
 Recover the *Stellar Horizon*'s navigation core from the day-side wreckage
 
 *Adds +1 Chance Die when pursuing this specific objective*
 
 ### Motive
+
 To prove that humanity can reclaim what was lost—that we're not just survivors clinging to the margins, but explorers and builders who can venture into the harshest places
 
 *Adds +1 Chance Die when this motivation directly drives the action*
 
 ### Nemesis
+
 The Day Side Trading Consortium
 
 *Adds +1 Risk Die when opposing the Consortium or when their interests clash with Kaelen's goals*
@@ -3925,6 +3928,7 @@ The Day Side Trading Consortium
 **Current status:** Complicated / Bonded by obligation
 
 ### Psychic Ability
+
 (Optional—Kaelen has one)
 
 **Ability:** ☑ Thermal Sense (Weather Working / Deep Bonding / Shadow Walking / Water Finding)
@@ -3934,251 +3938,22 @@ The Day Side Trading Consortium
 **Cost/Risk:** Prolonged exposure to extreme temperatures creates the Overwhelmed by Thermal Noise Condition, adding Risk Dice to Thermal Sense use and concentration-based actions until returning to moderate temperatures.
 
 ### Conditions
+
 (Currently none. Track conditions that arise during play here)
 
 *(Empty at start; updates as play progresses)*
 
 ### Notes & Additional Details
+
 - Scar tissue on left arm from a day-side burn incident—faded but visible
 - Keeps a fragment of *Stellar Horizon* hull plating as a reminder of the mission
 - Dreams of navigating the day-side expanse where no human has gone before
 - Debates internally whether recovering the navigation core is about hope or obsession
 
----
-
-## Comprehensive Index
-
-**A**
-- Accord, Duskaran (2801) — inter-settlement confederation and adventure hooks
-- Accord Principles (2812)
-- Accord Tensions (2819)
-- Aetherion (settlement example) (2869)
-- Advancement, Character (3755) — no XP system; evolution through play
-- Advancement, Psychic (1186) — progression triggers and mechanical changes
-- Archivists (NPC archetype) (2294)
-- Adventure Design (2785) — comprehensive section for designing campaigns
-- Adventure Hooks (3119) — organized by zone and type
-- Adventure Tables (3166) — D66 tables for complications, events, discoveries
-- Automatic Success (line 850) — when rolls aren't necessary
-- Awakening New Abilities (1175) — how characters learn new psychic powers
-
-**B**
-- Building Sessions (3019) — hook, stakes, complications, consequences
-- Burnout, Psychic (1186) — consequences of overuse and degradation
-
-**C**
-- Campaign Frameworks (3035) — four detailed templates (Frontier, Earth, Storm Riders, Deep Roads)
-- Caravan Master (NPC archetype) (2312)
-- Character Creation (line 270) — steps 1-8 and beyond
-- Character Death (line 560) — when characters die and how
-- Character Evolution (line 520) — how characters change through play
-- Character Sheet (appendix)
-- Chances Dice (845) — bonus dice for advantages
-- Closed Questions (900) — framing actions for resolution
-- Community Healer (NPC archetype) (2324)
-- Complications (920) — obstacles emerging from actions
-- Conditions (940) — temporary character states (Injured, Psychically Drained, etc.)
-- Conflict Resolution (2021) — types and approaches
-- Conflicts, Managing (200) — guidance for challenging moments
-- Core Mechanics (line 840) — how to roll and interpret results
-- Creatures and Enemies (1366) — native life, hostile NPCs, opposition strength
-- Culture (line 480) — Duskaran values and adaptation
-- Cycle (time unit) — not "year"; ~32.5 Earth days
-
-**D**
-- Day Side (600) — scorching hemisphere, environmental zone
-- Deep Bonding (1067) — psychic ability; bonding with creatures and humans
-- Deep Roads (1610) — vast tunnel network; navigation and hazards
-- Deep Roads Delvers (3099) — campaign framework for exploration
-- Deepkin Guide (NPC archetype) (2342)
-- Design Philosophy, Adventure (2789)
-- Details (scene tags) (920) — environmental reflections of character actions
-- Dice Outcomes (880) — interpreting roll results
-- Dice Pool (845) — collection of dice in a roll
-- Discovery (Deep Roads) (1959) — geothermal sites, structures, caches, ecosystems
-- Disputes, Inter-settlement (2978) — adventure structure
-- Duskara, Planet (line 150) — tidally locked world
-- Duskaran Accord (2801) — confederation of settlements
-
-**E**
-- Echoes of Earth (3059) — campaign framework (historical mystery)
-- Enemies (1366) — creatures and hostile forces
-- Environmental Confrontation (2055) — conflicts with nature
-- Environmental Zones (line 1335) — Day Side, Twilight Belt, Night Side
-- Encounters (2017) — conflicts and resolution
-- Enemy (NPC) — opposition and Nemesis
-- Equipment/Gear (360) — starting equipment options
-
-**F**
-- Facilitation (2148) — comprehensive guide for GMs
-- Facilitation Challenges (2622) — solutions to common problems
-- Failure, Making Interesting (2171) — using failed rolls narratively
-- Fatigue (940) — Condition affecting characters
-- First Session (2460) — time budget, character creation, first scene, scenarios
-- Frailty (325) — character vulnerability trait
-- Frontier, Twilight (3039) — campaign framework (settlement building)
-
-**G**
-- Gear (360) — equipment traits and examples
-- Geothermal Vents (620) — heat sources; power generation
-- Glossary (3471) — terms and definitions with cross-references
-- Goal (370) — character's driving ambition
-- GM-less Play (line 75) — game without Game Master
-- GM Roles (line 75) — what facilitators do
-- Glossary (appendix)
-- Glowworms (creatures) (1366+) — night-side bioluminescent life
-- Grounding in Fiction (line 840) — how mechanics serve narrative
-
-**H**
-- Hazards, Deep Roads (1935) — structural, environmental, unknown
-- Healer, Community (2324) — NPC archetype
-- Hostile NPCs (1450+) — creating opposition characters
-- Hooks, Adventure (3119) — by zone type (Twilight, Deep Roads, Day-Side, Night-Side, Political)
-
-**I**
-- Implicit Pressure (2855) — underlying settlement issue
-- Index, Comprehensive (this section) — navigate entire rulebook
-- Index, Psychic Abilities (1027) — cross-reference for psychic topics
-- Inter-Settlement Conflict (2978) — adventure structure
-
-**J**
-- Journeys, Long (1718) — navigating via Progress Clocks
-
-**K**
-- Khoros Deep (settlement example) (2898) — night-side geothermal community
-- Knowledge, Earth (line 200) — pre-landing history
-
-**L**
-- License (3763)
-
-**M**
-- Maps and Weather (2227) — preparation guidance
-- Materials, Game (line 56) — what you need to play
-- Mechanics, Core (840) — dice, outcomes, narrative
-- Mysteries (2202) — planting and developing secrets
-
-**N**
-- Nemesis (380) — character opposition trait
-- Night Side (640) — frozen hemisphere; geothermal settlements
-- NPC Archetypes (2272) — 12 profession templates
-- NPC Creation (2256) — improvising on the spot
-- NPC Design (2191) — contradictions and depth
-
-**O**
-- Opposition Strength (2071) — Minor/Moderate/Major
-- Outcomes, Dice (880) — interpreting "Yes, and...", "Yes...", "Yes, but...", etc.
-- Outpost, Establishing (3045) — Twilight Frontier sessions
-
-**P**
-- Pacing, First Session (2555)
-- Play, Example of (2643) — extended sample play
-- Play, What Happens in (2562) — the GM-player loop
-- Player Agency (2180) — using character Tags
-- Player Choice (2789) — consequence and emergence
-- Prep, Running Without (2350) — improvisation guide
-- Preparation (2216) — what GMs should prepare
-- Prep, What to (2216) — settlements, maps, NPCs, complications
-- Progress Clock (1718) — tracking extended challenges
-- Psychic Abilities (1015) — all five core abilities
-- Psychic Advancement (1186) — progression system
-- Psychic Burnout (1186) — consequences
-- Psychic Costs (each ability) — narrative and mechanical effects
-- Psychic Index (1027) — cross-reference for all psychic topics
-- Psychic Interference (1950) — Deep Roads hazard
-
-**Q**
-- Quick Reference (appendix) — one-page summary
-- Questions, Closed (900) — framing actions
-
-**R**
-- Relationship (390) — character bond trait
-- Relationships, NPC (2237) — creating meaningful NPCs
-- Relationships, Settlement (2860) — inter-settlement ties
-- Reinforcing Tone (2611) — setting game atmosphere
-- Resource Crisis (3019) — adventure structure
-- Resource Status (875) — Water, Power, Provisions (Abundant to Crisis)
-- Resonance (1290) — psychic ability; vibration sensing
-- Risk Dice (845) — penalty dice for disadvantages
-- Rogue Weather Worker (NPC archetype) (2336)
-- Rolling Dice (845) — when and how
-- Rolls, Interpreting (880) — outcomes framework
-- Running Without Prep (2350) — improvisation approach
-
-**S**
-- Sabotage (2054) — conflict example
-- Safety (line 96) — safety tools and accessibility
-- Salvage Discoveries (3142) — D66 table
-- Salvage Operator (NPC archetype) (2300)
-- Scene Narration (2783) — describing world vs. agency
-- Scene Tags (1377) — environmental details
-- Scenes, Building (3019) — hook, stakes, complications, resolution
-- Settlement Creation (2834) — template and examples
-- Settlement Events (3101) — D66 table
-- Settlement Leader (NPC archetype) (2306)
-- Settlements (2220) — preparation and templates
-- Shadow Walking (1086) — psychic ability; darkness navigation
-- Skills (310) — character expertise trait
-- Solo Play (line 75) — one player, one character, no GM
-- Spotlight, Managing (2626) — balancing attention
-- Spotlight Hogging (2626) — solution
-- Spread, Scattered Party (2624)
-- Storm Season (1755) — atmospheric conditions
-- Storm Riders (3079) — campaign framework (travel/diplomacy)
-- Storms, Wind (1735+) — environmental effects and zones
-- Superstorm (1743) — catastrophic weather; +3 Risk Dice
-- Superstorm Margins (1832)
-
-**T**
-- Table of Contents (3575) — organized document navigation
-- Tables, Adventure (3166) — D66 complications, events, discoveries
-- Tags (300) — core system of describing advantages
-- Tags, Character (370+) — Concept, Skills, Frailty, Goal, Motive, Nemesis, Relationships, Gear
-- Tags, Scene (1377) — environmental details
-- Tags, Settlement (875) — Resource Status (Water, Power, Provisions)
-- Facilitation Tone (2611) — wonder, competence, community, consequence
-- Thermal Sense (1048) — psychic ability; heat perception
-- Thermal Specialist (NPC archetype) (2282)
-- Time Budget, First Session (2464)
-- Time Terminology (never "year/month") — Cycle, Ancestor Cycle, phase
-- Tone (2611) — game feel and emphasis
-- Traits, Character (280+) — Tags that define who characters are
-- Troubles, Common (2655) — first session mistakes
-- Twilight Belt (180) — habitable zone; 80% of population
-- Twilight Frontier (3039) — campaign framework (settlement expansion)
-- Twilight Frontier Expansion (adventure hook)
-
-**U**
-- Using Abilities, Psychic (1262) — in play examples
-- Using Creatures, in Play (1450) — opposition and hazards
-- Using Template (2932) — settlement creation process
-
-**V**
-- Vents, Geothermal (620) — power and heat sources
-
-**W**
-- Water Finding (1106) — psychic ability; locating water
-- Water Specialist (NPC archetype) (2330)
-- Weatherworker (NPC archetype) (2276)
-- Weather Working (1029) — psychic ability; atmospheric influence
-- Wind and Water Assembly (2806) — Accord governance body
-- Wind Riders (2808) — Accord couriers
-- Wind/Storm (1735+) — mechanical effects and zones
-- World Building (line 150) — Duskara's setting
-- World Changes (2156) — consequence and responsiveness
-
-**Y**
-- Your First Scene (2515) — opening a first session
-- Your Second Session (2600) — continuing play
-
-**Z**
-- Zoom In and Zoom Out (2442) — pacing tool for conflicts
-
----
-
 ## License
 
 Duskara
 
-© 2025 Roberto Bisceglie
+© 2026 Roberto Bisceglie
 
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/) or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
