@@ -3,10 +3,6 @@ subtitle: Roleplaying in the Eternal Twilight
 title: "Duskara"
 version: 1.0.0
 last_update: First release
-format:
-  typst:
-    template-partials:
-      - horizontalrule.typ
 ---
 
 # Duskara
@@ -3756,16 +3752,16 @@ Don't roll when: automatic success + automatic failure + outcome doesn't matter
 Use this template to create your character. Write your character's name and details in each section. Each Tag adds Chance or Risk Dice as noted.
 
 **CHARACTER NAME:**
-_________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **WIND-KIN CLAN AFFILIATION:** (optional)
-_________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### Concept
 
 (Brief description of who you are: role, appearance, or essence)
 
-_________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 *Adds +1 Chance Die when relevant to your action*
 
@@ -3773,15 +3769,15 @@ _________________________________
 
 (Three areas of training or expertise. Each adds +1 Chance Die)
 
-1. _________________________________
-2. _________________________________
-3. _________________________________
+1. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+2. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+3. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### Frailty
 
 (A vulnerability, fear, or challenge that complicates your life)
 
-_________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 *Adds +1 Risk Die when this comes into play*
 
@@ -3789,14 +3785,14 @@ _________________________________
 
 (Two pieces of equipment or tools you carry. Each adds +1 Chance Die when used)
 
-1. _________________________________
-2. _________________________________
+1. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+2. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### Goal
 
 (What you want to achieve. Your driving ambition.)
 
-_________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 *Adds +1 Chance Die when working toward this goal*
 
@@ -3804,7 +3800,7 @@ _________________________________
 
 (Why you pursue your Goal. What drives you?)
 
-_________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 *Adds +1 Chance Die when directly relevant*
 
@@ -3812,7 +3808,7 @@ _________________________________
 
 (A person, organization, force, or concept that opposes you or complicates your life)
 
-_________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 *Adds +1 Risk Die when this Nemesis comes into play*
 
@@ -3820,15 +3816,15 @@ _________________________________
 
 (Two significant bonds with other player characters. Can be allies, rivals, family, mentors, or complicated)
 
-**1. Character Name:** _________________________________
+**1. Character Name:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**How you know them:** _________________________________
+**How you know them:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Current status:** Ally / Rival / Complicated / Other: _____________
 
-**2. Character Name:** _________________________________
+**2. Character Name:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**How you know them:** _________________________________
+**How you know them:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Current status:** Ally / Rival / Complicated / Other: _____________
 
@@ -3840,27 +3836,27 @@ _________________________________
 
 **Current Level:** ☐ Novice ☐ Adept ☐ Master
 
-**Cost/Risk:** _________________________________
+**Cost/Risk:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### Conditions
 
 (Temporary states that emerge during play—track here as they occur)
 
-_________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-_________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-_________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### Notes & Additional Details
 
 (Any other details about your character—history, beliefs, secrets, plans)
 
-_________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-_________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-_________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### Example: Kaelen kin-Moto Velkara
 
