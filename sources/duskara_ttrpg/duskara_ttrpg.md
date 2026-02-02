@@ -1,8 +1,12 @@
 ---
 subtitle: Roleplaying in the Eternal Twilight
-title: "Duskara: Children of the Twilight"
+title: "Duskara"
 version: 1.0.0
 last_update: First release
+format:
+  typst:
+    template-partials:
+      - horizontalrule.typ
 ---
 
 # Duskara
