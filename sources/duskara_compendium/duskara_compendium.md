@@ -1,7 +1,7 @@
 ---
 title: Duskara Compendium
 subtitle: Main Setting Book
-version: 2.0.0
+version: 2.0.1
 date: 2026-10-07
 latest_update: "Second edition. Not compatible with 1.x: new timeline, star and orbit, settled arc, place names, origins of the settlers and crew, language and personal names."
 
@@ -287,7 +287,7 @@ Travel is slow. A caravan needs ten to twelve days between adjacent major cities
 
 ## Waterways of the Twilight Belt
 
-Water is the cornerstone of life in the Twilight Belt, and its sources are revered. The Bahari dominates the heartland, its shores bustling with settlements and vertical farms. From it flow the Luŋga-Hanga rivers, a network of waterways irrigating the grasslands and linking smaller communities. In the colder reaches of the Nightward Edge, glacial rivers carve through the icy terrain, feeding into wetlands and sustaining life where warmth and water converge. The Lawa-Biŋ pools, fed by geothermal springs, hold a sacred significance for those who dwell nearby.
+Water is the cornerstone of life in the Twilight Belt, and its sources are revered. The Bahari dominates the heartland, its shores bustling with settlements and vertical farms. The Luŋga-Hanga rivers flow into it from up-belt and out of it down-belt, a network of waterways irrigating the grasslands and linking smaller communities. In the colder reaches of the Nightward Edge, glacial rivers carve through the icy terrain, feeding into wetlands and sustaining life where warmth and water converge. The Lawa-Biŋ pools, fed by geothermal springs, hold a sacred significance for those who dwell nearby.
 
 # Environment and Culture
 
@@ -2233,6 +2233,7 @@ Names are given in infancy and can be amended or expanded when a person shows a 
   - Wrap-up paragraphs removed (Chapters 02, 07, 08, 12, 13, 15, 17). The Thirst Wars sentence of Chapter 12 moved under "Violence as Taboo".
   - Governance (Chapter 08): Small frontier settlements such as Bukal-Mvuke keep a Council of Elders.
   - Tooling: duskara_compendium.md is now built by scripts/build_compendium.py; scripts/check_compendium.py checks time units, tidal lock wording, em dashes, "solar" and Cycle dates against canon_dates.json. It also covers the Language Handbook, the Gazetteer, the quickstart, the glossary, the RPG books and the Codex, and reports superseded place names.
+- 2.0.1: Waterways (Chapter 02): the up-belt branch of the Luŋga-Hanga flows into the Bahari and the down-belt branch flows out of it. The text said that the rivers flow from the lake. See Gazetteer 1.1.0.
 
 # License
 

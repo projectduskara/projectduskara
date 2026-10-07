@@ -1,9 +1,9 @@
 ---
 title: Duskaran Gazetteer
 subtitle: Places of the Living Edge
-version: 1.0.0
+version: 1.1.0
 date: 2026-10-07
-latest_update: "First release, with Compendium 2.0.0: the settled arc, positions and distances, and an entry for every named place."
+latest_update: "Cartographic check: corrected positions, an offset across the belt for every place, the Bahari and its rivers, the slope and the rift. The maps and their data are in the geodata folder."
 ---
 
 # Introduction
@@ -16,6 +16,8 @@ Each entry carries a status:
 - **Proposed**: the place is new in this Gazetteer and waits for confirmation. No entry has this status at present.
 
 The detailed settlement profiles stay in worldbuilding/settlements/.
+
+The geodata folder beside this file holds the maps and the data made from this Gazetteer: the strip map, the terrain, the climate and the biomes. They are canon at the scale of the maps, which is 2 kilometers.
 
 # The Shape of the Settled World
 
@@ -50,18 +52,28 @@ There is no east or west in daily speech, because the star does not move.
 
 ## Bands
 
-Across its width, the belt has three bands. Each entry in this Gazetteer names its band.
+Across its width, the belt has three bands. On the Living Edge the belt is 300 kilometers wide and each band is 100 kilometers wide. Each entry in this Gazetteer names its band.
 
-| Band | Creole | Code | Character |
-|------|--------|------|-----------|
-| Dayward Edge | *Daŋa-Joto* | D | Dunes, badlands, salt flats; mining and salvage |
-| Central Twilight Zone | *Daŋa-Sawa* | C | Plains, rivers, farmland; nearly all cities |
-| Nightward Edge | *Daŋa-Baridi* | N | Mist, wetlands, glacier tongues; ice harvesting |
-| Night side | *Giza-wan* | X | Deepkin caves, up to about 300 kilometers beyond the edge |
+| Band | Creole | Code | Offset | Character |
+|------|--------|------|--------|-----------|
+| Dayward Edge | *Daŋa-Joto* | D | +50 to +150 | Dunes, badlands, salt flats; mining and salvage |
+| Central Twilight Zone | *Daŋa-Sawa* | C | -50 to +50 | Plains, rivers, farmland; nearly all cities |
+| Nightward Edge | *Daŋa-Baridi* | N | -150 to -50 | Mist, wetlands, glacier tongues; ice harvesting |
+| Night side | *Giza-wan* | X | beyond -150 | Deepkin caves, up to about 300 kilometers beyond the edge |
+
+## The Slope and the Rift
+
+The ground is highest on the night side, under the ice, and falls toward the day side. Melt water from the glaciers runs dayward across the belt and ends in the salt flats of the Dayward Edge.
+
+The heartland is different. A rift runs along the belt there, and the land between its two sides has sunk. The Bahari fills the deepest part of the rift, and both branches of the Luŋga-Hanga follow its floor. Nowhere else on the arc does a river run along the belt for a long distance.
+
+## Offset
+
+Positions across the belt are given as an **offset**: kilometers from the center line of the belt. A negative offset is nightward and a positive offset is dayward. The main Whisper Road is not straight: it passes through the major cities, on one side of the center line or the other.
 
 ## Alama and Sectors
 
-Positions along the arc are given in **alama** ("marks"): kilometers along the main Whisper Road, counted from Bundok-Kuu in the north (alama 0) to Hamada-Kuu in the south (alama 6,000). The Bahari, the lake at the heart of the arc, is at alama 3,000.
+Positions along the arc are given in **alama** ("marks"): kilometers along the main Whisper Road, counted from Bundok-Kuu in the north (alama 0) to Hamada-Kuu in the south (alama 6,000). The Bahari, the lake at the heart of the arc, is centered on alama 3,000.
 
 The Accord surveys divide the arc into twelve **sectors** of 500 kilometers, numbered from north to south. Each sector has twenty blocks of 25 kilometers, lettered A to T. "Sector 9" is alama 4,000 to 4,500. "Sector 4-K", where the Heirloom Crystal of the Codex was recovered, is near alama 1,760.
 
@@ -141,32 +153,32 @@ Daily Creole is mostly Swahili in its vocabulary. Place names are more mixed, be
 
 Every named place, from north to south.
 
-| Alama | Sector | Band | Name | Kind | Population | Status |
-|------:|:------:|:----:|------|------|-----------:|--------|
-| 0 | 1 | all | Bundok-Kuu | Mountain range, northern end of the arc | | Canon |
-| 900 | 2 | C | Cheŋ-Biŋ | Major city | about 600,000 | Canon |
-| 1,200 | 3 | N | Lawa-Biŋ | Sacred geothermal pools | | Canon |
-| 1,700 | 4 | C | Zaŋgo-Iska | Caravan waystation | small | Canon |
-| 2,700 | 6 | N | Cheŋ-Angataa | Frontier city | 80,000 | Canon |
-| 2,780 | 6 | N | Rijiya-Sanyi | Wind-rail platform | small | Canon |
-| 2,850 | 6 | C | Liko-Luŋga | Farming town | 12,000 | Canon |
-| 2,990 | 6 | C | Latian-Haske | Protected wetland | | Canon |
-| 3,000 | 6 | C | Birni | Major city, seat of the Assembly | 500,000 to 2 million | Canon |
-| 3,000 | 6 to 7 | C | Bahari | Lake | | Canon |
-| 3,050 | 7 | C | Lambak-Hanga | Major city | about 500,000 | Canon |
-| 3,300 | 7 | D | Kofa-Joto | Fortified trade outpost | small | Canon |
-| 3,400 | 7 | C | Harmatan | Major city | about 750,000 | Canon |
-| 3,500 to 3,900 | 8 | C | Patag-Bato | Plain of wind-polished stone | | Canon |
-| 4,000 | 8 to 9 | X | Pango-Liwanag | Largest Deepkin city | 150,000 or more | Canon |
-| 4,200 | 9 | C | Motowan | Major city | about 700,000 | Canon |
-| 4,300 | 9 | D | Buŋaŋa-Loŋ | Canyon | | Canon |
-| 4,500 | 9 to 10 | N | Bukal-Mvuke | Frontier settlement | 2,100 | Canon |
-| 4,900 | 10 | D | Bantay-Init | Forward outpost | about 200 | Canon |
-| 5,000 to 5,800 | 11 to 12 | D | Shan-Feŋ | Nomadic community | unknown | Canon |
-| 5,400 | 11 | C | Tafki-Kuu | Major city | about 500,000 | Canon |
-| 6,000 | 12 | all | Hamada-Kuu | Dune sea, southern end of the arc | | Canon |
+| Alama | Sector | Band | Offset | Name | Kind | Population | Status |
+|------:|:------:|:----:|-------:|------|------|-----------:|--------|
+| 0 | 1 | all |  | Bundok-Kuu | Mountain range, northern end of the arc | | Canon |
+| 900 | 2 | C | -30 | Cheŋ-Biŋ | Major city | about 600,000 | Canon |
+| 1,200 | 3 | N | -110 | Lawa-Biŋ | Sacred geothermal pools | | Canon |
+| 1,700 | 4 | C | 0 | Zaŋgo-Iska | Caravan waystation | small | Canon |
+| 2,700 | 6 | N | -120 | Cheŋ-Angataa | Frontier city | 80,000 | Canon |
+| 2,780 | 6 | N | -70 | Rijiya-Sanyi | Wind-rail platform | small | Canon |
+| 2,850 | 6 | C | -15 | Liko-Luŋga | Farming town | 12,000 | Canon |
+| 2,925 to 3,075 | 6 to 7 | C | -17 to +27 | Bahari | Lake | | Canon |
+| 2,990 | 6 | C | -19 | Latian-Haske | Protected wetland | | Canon |
+| 3,000 | 6 | C | -20 | Birni | Major city, seat of the Assembly | 500,000 to 2 million | Canon |
+| 3,050 | 7 | C | +24 | Lambak-Hanga | Major city | about 500,000 | Canon |
+| 3,300 | 7 | D | +140 | Kofa-Joto | Fortified trade outpost | small | Canon |
+| 3,400 | 7 | C | +5 | Harmatan | Major city | about 750,000 | Canon |
+| 3,500 to 3,900 | 8 | C | 0 to +50 | Patag-Bato | Plain of wind-polished stone | | Canon |
+| 4,200 | 9 | C | -30 | Motowan | Major city | about 700,000 | Canon |
+| 4,200 | 9 | X | -300 | Pango-Liwanag | Largest Deepkin city | 150,000 or more | Canon |
+| 4,300 | 9 | D | +70 to +150 | Buŋaŋa-Loŋ | Canyon | | Canon |
+| 4,500 | 9 to 10 | N | -110 | Bukal-Mvuke | Frontier settlement | 2,100 | Canon |
+| 5,000 to 5,800 | 11 to 12 | D | +50 to +150 | Shan-Feŋ | Nomadic community | unknown | Canon |
+| 5,100 | 11 | D | +125 | Bantay-Init | Forward outpost | about 200 | Canon |
+| 5,400 | 11 | C | -25 | Tafki-Kuu | Major city | about 500,000 | Canon |
+| 6,000 | 12 | all |  | Hamada-Kuu | Dune sea, southern end of the arc | | Canon |
 
-The Luŋga-Hanga river system runs through the Central band from about alama 2,600 to alama 3,600.
+The Luŋga-Hanga river system runs through the Central band from about alama 2,600 to alama 3,600. Its up-belt branch is about 390 kilometers long: it comes off the ice near alama 2,600, runs dayward, bends at Liko-Luŋga, and flows down-belt into the Bahari. Its down-belt branch is about 640 kilometers long: it leaves the lake, passes Harmatan as a slow lowland river with wide meanders, and ends at the edge of Patag-Bato, near alama 3,600.
 
 # Regions
 
@@ -181,7 +193,7 @@ The Living Edge has four regions. Their borders follow the sectors.
 
 ## Tanga-Barafu, the Ice Land
 
-The north. The glacier tongues are longest here and reach far into the Nightward Edge, so water is less scarce than anywhere else and cold is the main danger. The region lives on ice harvesting and on the water caravans that carry ice south. Five major cities stand along its Whisper Road; only one has an entry so far.
+The north. The glacier tongues are longest here and reach far into the Nightward Edge, so water is less scarce than anywhere else and cold is the main danger. Cold, not water, limits farming: the wind off the ice chills the land, and crops grow in the open only in the dayward half of the Central band. The region lives on ice harvesting and on the water caravans that carry ice south. Five major cities stand along its Whisper Road; only one has an entry so far.
 
 ### Bundok-Kuu
 
@@ -191,79 +203,79 @@ The mountain range that ends the arc. Its passes are closed by storm walls that 
 
 ### Cheŋ-Biŋ
 
-*Alama 900. Central band. Major city, about 600,000. Canon.*
+*Alama 900. Central band, offset -30. Major city, about 600,000. Canon.*
 
 The capital of the ice trade. Its name means "ice city". Cheŋ-Biŋ cuts, stores and ships glacier ice, and its guild of ice harvesters sets the price of water for the whole north.
 
 ### Lawa-Biŋ
 
-*Alama 1,200. Nightward Edge. Canon.*
+*Alama 1,200. Nightward Edge, offset -110. Canon.*
 
 Pools fed by geothermal springs at the foot of the ice. They are sacred to the people who live near them, as a sign that life persists in the hardest places.
 
 ### Zaŋgo-Iska
 
-*Alama 1,700. Central band. Canon.*
+*Alama 1,700. Central band, offset 0. Canon.*
 
 A waystation on the northern trade routes, between the cities of the heartland and the outposts of the north. It keeps large shelters and emergency supply caches under mutual-aid agreements with several settlements.
 
 ## Tanga-Bahari, the Sea Land
 
-The heartland. The Bahari, the only large lake on the arc, lies at its center, and the Luŋga-Hanga rivers water the plains around it. The first settlement was founded on the lake in Cycle 127. Nine of the twenty-five major cities are here, and the Wind and Water Assembly meets near the lake.
+The heartland. The Bahari, the only large lake on the arc, lies at its center. The Luŋga-Hanga rivers water the plains on both sides of it: one branch flows into the lake from up-belt, the other flows out of it down-belt. The first settlement was founded on the lake in Cycle 127. Nine of the twenty-five major cities are here, and the Wind and Water Assembly meets near the lake.
 
 ### Cheŋ-Angataa
 
-*Alama 2,700. Nightward Edge. Frontier city, 80,000. Canon.*
+*Alama 2,700. Nightward Edge, offset -120. Frontier city, 80,000. Canon.*
 
 A city on rocky plateaus where geothermal activity softens the cold. It harvests ice and runs Deep Roads logistics for the heartland. A Warden administers it, with more authority than a normal council. Geological shifts recently contaminated its aquifer: the city lost 60% of its water supply over eight Cycles, thirty-two children were poisoned, and its vertical farms failed. Its petition to the Assembly is the case behind the Modified Gradient Compact.
 
 ### Rijiya-Sanyi
 
-*Alama 2,780. Nightward Edge. Canon.*
+*Alama 2,780. Nightward Edge, offset -70. Canon.*
 
 A wind-rail platform between Cheŋ-Angataa and the central settlements. It keeps emergency shelters and serves as neutral ground for negotiations, mostly those that involve frontier communities and Deepkin traders who come up to the surface routes.
 
 ### Liko-Luŋga
 
-*Alama 2,850. Central band. Farming town, 12,000. Canon.*
+*Alama 2,850. Central band, offset -15. Farming town, 12,000. Canon.*
 
 A town at a curve of the Luŋga-Hanga river network, about 150 kilometers up-belt of Birni and 200 kilometers up-belt of Lambak-Hanga. It was founded as an agricultural outpost of Lambak-Hanga, grows wind-resistant grains, and links the northern outposts to the main caravan routes. Its council has one representative for each key sector (farmers, merchants, water management).
 
 ### Latian-Haske
 
-*Alama 2,990. Central band. Canon.*
+*Alama 2,990. Central band, offset -19. Canon.*
 
-A geothermal wetland a short walk up-belt of Birni, known for its bioluminescent moss and fungi. It is protected by the Accord and guarded by a Warden. Entry without permission is a serious offense.
+A geothermal wetland on the lake shore, a short walk up-belt of Birni, known for its bioluminescent moss and fungi. It is protected by the Accord and guarded by a Warden. Entry without permission is a serious offense.
 
 ### Birni
 
-*Alama 3,000. Central band. Major city, 500,000 to 2 million. Canon.*
+*Alama 3,000. Central band, offset -20. Major city, 500,000 to 2 million. Canon.*
 
-The largest city of Duskara and the hub of its trade and governance. It rises in terraces from the shore of the Bahari toward a central geothermal cluster. A five-member Council of Windkeepers guides it by consensus. Its cliffs are home to wind serpents and to the Beastwalkers who bond with them. Its name means "walled city"; the full form, Birni-Bahari, is used in treaties.
+The largest city of Duskara and the hub of its trade and governance. It rises in terraces from the nightward shore of the Bahari, at the middle of its length, toward a central geothermal cluster. A five-member Council of Windkeepers guides it by consensus. Its cliffs are home to wind serpents and to the Beastwalkers who bond with them. Its name means "walled city"; the full form, Birni-Bahari, is used in treaties.
 
 ### Bahari
 
-*Alama 3,000. Central band. Canon.*
+*Alama 2,925 to 3,075. Central band, offset -17 to +27. Canon.*
 
-A large freshwater lake fed by storm runoff and underground springs. Its name is the old word for sea, and it is the only sea that Duskarans know. The Bahari Compact, which ended the Thirst Wars, takes its name from it.
+A freshwater lake about 150 kilometers long and 45 kilometers wide, with its long side along the belt. It lies in the rift of the heartland, and its surface is about 5,000 square kilometers. The nightward shore is almost straight, under the scarp of the rift. The dayward shore is low, with bays. Both ends are narrow. It is fed by storm runoff, by underground springs, and by the up-belt branch of the Luŋga-Hanga, which enters at its up-belt end. The down-belt branch leaves at the other end. Its name is the old word for sea, and it is the only sea that Duskarans know. The Bahari Compact, which ended the Thirst Wars, takes its name from it.
 
 ### Lambak-Hanga
 
-*Alama 3,050. Central band. Major city, about 500,000. Canon.*
+*Alama 3,050. Central band, offset +24. Major city, about 500,000. Canon.*
 
-A city of atmospheric condensers and hydroponic towers on the down-belt side of the lake. It produces much of the food of the region. Power sits with the Water Guild and the Weatherworking Guild, and the city argues constantly about how far psychic abilities should be regulated.
+A city of atmospheric condensers and hydroponic towers on the dayward shore of the lake, across the water from Birni and 50 kilometers down-belt of it. The wind blows from the night side over the lake, and the condensers stand where the damp air arrives. It produces much of the food of the region. Power sits with the Water Guild and the Weatherworking Guild, and the city argues constantly about how far psychic abilities should be regulated.
 
 ### Kofa-Joto
 
-*Alama 3,300. Dayward Edge. Canon.*
+*Alama 3,300. Dayward Edge, offset +140. Canon.*
 
 A fortified trade outpost at the limit of the habitable zone. It lives on the minerals that robotic mines bring out of the day side.
 
 ### Harmatan
 
-*Alama 3,400. Central band. Major city, about 750,000. Canon.*
+*Alama 3,400. Central band, offset +5. Major city, about 750,000. Canon.*
 
-A wealthy city on fertile plains, near several wind-rail junctions and several natural wind focal points. It houses the weatherworking guilds, trains most weatherworkers, and trades in thermal regulation equipment and geothermal crystals. Status follows psychic ability and lineage. Its position puts it in the path of severe storms, and its defensive architecture is the best on the arc.
+A wealthy city on fertile plains, near several wind-rail junctions and several natural wind focal points. The down-belt branch of the Luŋga-Hanga passes a few kilometers dayward of it. It houses the weatherworking guilds, trains most weatherworkers, and trades in thermal regulation equipment and geothermal crystals. Status follows psychic ability and lineage. Its position puts it in the path of severe storms, and its defensive architecture is the best on the arc.
 
 ## Tanga-Moto, the Fire Land
 
@@ -271,55 +283,55 @@ The south-central region. The crust is thin here: hot springs, vents and the can
 
 ### Patag-Bato
 
-*Alama 3,500 to 3,900. Central band, dayward side. Canon.*
+*Alama 3,500 to 3,900. Central band, dayward side, offset 0 to +50. Canon.*
 
-A plain of wind-polished stone. Travel is fast in stable weather and there is no shelter in a storm. Caravan routes are marked by cairns at intervals of one kilometer, each topped with reflective material. Fissures and caves give emergency shelter, and caravan leaders keep their locations as trade secrets.
-
-### Pango-Liwanag
-
-*Alama 4,000. Night side, about 150 kilometers beyond the Nightward Edge. Deepkin city, 150,000 or more. Canon.*
-
-The largest Deepkin settlement, built around several stable geothermal vents. A Warmth Circle of seven elders governs it by consensus. It is known for glowcap cultivation, for bioluminescent murals, and for its archives of data crystals from Earth.
+A plain of wind-polished stone. The down-belt branch of the Luŋga-Hanga ends at its up-belt edge. Travel is fast in stable weather and there is no shelter in a storm. Caravan routes are marked by cairns at intervals of one kilometer, each topped with reflective material. Fissures and caves give emergency shelter, and caravan leaders keep their locations as trade secrets.
 
 ### Motowan
 
-*Alama 4,200. Central band. Major city, about 700,000. Canon.*
+*Alama 4,200. Central band, offset -30. Major city, about 700,000. Canon.*
 
 The chief city of the Fire Land and the surface end of the Deep Road to Pango-Liwanag. Its name means "fire place". It runs on geothermal power and is the main market where Deepkin and Twilight Belters trade.
 
+### Pango-Liwanag
+
+*Alama 4,200. Night side, about 150 kilometers beyond the Nightward Edge, offset -300. Deepkin city, 150,000 or more. Canon.*
+
+The largest Deepkin settlement, built around several stable geothermal vents. A Warmth Circle of seven elders governs it by consensus. It is known for glowcap cultivation, for bioluminescent murals, and for its archives of data crystals from Earth.
+
 ### Buŋaŋa-Loŋ
 
-*Alama 4,300, Sector 9. Dayward Edge. Canon.*
+*Alama 4,300, Sector 9. Dayward Edge, offset +70 to +150. Canon.*
 
 A canyon several kilometers wide that storm hunters call a "direct thermal channel to the sun-face". It is a tectonic fault, deepened by thermal stress and wind erosion, that opens straight onto the day side. It funnels heat and stellar radiation toward the belt. Its floor is a geothermal hotspot, with gas eruptions and magma flows hot enough to vitrify rock. Superheated wind roars through it and disturbs the weather far beyond its rim. Unprotected exposure is lethal within minutes, and most maps mark it as a place to avoid. Its mineral deposits tempt robotic mining operations; few machines return.
 
 ### Bukal-Mvuke
 
-*Alama 4,500. Nightward Edge. Frontier settlement, 2,100. Canon.*
+*Alama 4,500. Nightward Edge, offset -110. Frontier settlement, 2,100. Canon.*
 
-A small settlement among geothermal springs that keep the air misty and humid. Its dwellings are carved into the rock. Its vents are cooling, and the community fears for its future. A Council of Elders governs it. By wind-rail it is about ten days from Harmatan.
+A small settlement among geothermal springs that keep the air misty and humid. Its dwellings are carved into the rock. Its vents are cooling, and the community fears for its future. A Council of Elders governs it. By wind-rail it is about seven days from Harmatan.
 
 ## Tanga-Kavu, the Dry Land
 
 The south. The glaciers are short here and the rivers thin, and each city depends on what it can store. Beyond the last cisterns the land turns to dunes. Four major cities stand along its Whisper Road; only one has an entry so far.
 
-### Bantay-Init
-
-*Alama 4,900. Dayward Edge. Forward outpost, about 200. Canon.*
-
-A waystation for the salvage crews and robotic mining operations that go into the day side, built into the badlands for shelter. Its vertical farms use redundant cooling and strict water recapture. It has no formal council: leadership passes to whoever has the relevant expertise, and decisions are made by consensus.
-
 ### Shan-Feŋ
 
-*Alama 5,000 to 5,800. Dayward Edge. Nomadic community. Canon.*
+*Alama 5,000 to 5,800. Dayward Edge, offset +50 to +150. Nomadic community. Canon.*
 
 A community that moves with the winds along the dry Dayward Edge, among the rock spires that give it its name. Its weatherworking rituals honor and predict the wind patterns that rule its life.
 
+### Bantay-Init
+
+*Alama 5,100. Dayward Edge, offset +125. Forward outpost, about 200. Canon.*
+
+A waystation for the salvage crews and robotic mining operations that go into the day side, built into the badlands for shelter. Its vertical farms use redundant cooling and strict water recapture. It has no formal council: leadership passes to whoever has the relevant expertise, and decisions are made by consensus.
+
 ### Tafki-Kuu
 
-*Alama 5,400. Central band. Major city, about 500,000. Canon.*
+*Alama 5,400. Central band, offset -25. Major city, about 500,000. Canon.*
 
-The city of the Great Reservoir. It stores the runoff of each rain in reservoirs cut into the rock, and its water judges are the strictest on the arc.
+The city of the Great Reservoir. It stands at the mouth of a rock bowl of about 4,000 square kilometers, on its nightward side, where the runoff of each storm comes together. The city stores this water in reservoirs cut into the rock, and its water judges are the strictest on the arc. No river reaches it. Tafki-Kuu is also the chief market of the Dry Land: the minerals and the salvage of the day side come to it through Bantay-Init, the nomads of Shan-Feŋ trade there, and the expeditions into Hamada-Kuu start from it.
 
 ### Hamada-Kuu
 
@@ -368,6 +380,15 @@ The names that these replace in older texts are listed in CANON_REMAPPING.md, in
 - 0.2.1: Name list confirmed. The two ends of the arc (Bundok-Kuu, Hamada-Kuu) and the cities Cheŋ-Biŋ, Motowan and Tafki-Kuu are canon.
 - 0.2.2: Origins stated: African settlers, a Chinese and Filipino crew, English as the working language.
 - 1.0.0: First public release. No change of content from 0.2.2.
+- 1.1.0: Cartographic check, positions across the belt, the lake and its rivers, and the maps.
+  - Corrections from the first cartographic check: The Bahari is about 150 kilometers long (alama 2,925 to 3,075), and Lambak-Hanga is on its shore, not at its down-belt end. The up-belt branch of the Luŋga-Hanga flows into the lake and the down-belt branch flows out. Pango-Liwanag takes the alama of Motowan, where its Deep Road begins (4,200, was 4,000). Bantay-Init is at alama 5,100 (was 4,900), inside Tanga-Kavu. Bukal-Mvuke is about seven days from Harmatan by wind-rail (was ten).
+  - Positions across the belt: New Offset section and Offset column: each place has an offset in kilometers from the center line of the belt. Birni is on the nightward shore of the Bahari and Lambak-Hanga on the dayward shore. The lake is about 45 kilometers wide. The down-belt branch of the Luŋga-Hanga ends at the up-belt edge of Patag-Bato. The data and the map made from this Gazetteer are in the geodata folder beside it.
+  - Width of the belt: On the Living Edge the belt is 300 kilometers wide, and each of the three bands is 100 kilometers wide. The Bands table gives the offset limits of each band.
+  - The slope and the rift: New section: the ground falls from the night side to the day side, and a rift along the belt in the heartland holds the Bahari and both branches of the Luŋga-Hanga.
+  - Lake and rivers: Lengths and courses of the two branches of the Luŋga-Hanga (about 390 and 640 kilometers); surface and shores of the Bahari. The outline and the courses are in the geodata folder.
+  - Tanga-Barafu: cold limits farming, and crops grow in the open only in the dayward half of the Central band.
+  - Tafki-Kuu: the rock bowl that gives the city its water, and its place as the chief market of the Dry Land.
+  - Maps and data: the strip map, the terrain, the climate and the biomes in the geodata folder are confirmed, with the outline of the lake, the courses of the rivers, the course of the main Whisper Road and its branch lines.
 
 # License
 
