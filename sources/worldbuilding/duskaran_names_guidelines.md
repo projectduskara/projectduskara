@@ -213,7 +213,7 @@ Names are given in infancy and can be amended or expanded when a person shows a 
 
 # Pitfalls
 
-- No English-style or invented fantasy names (Aelira, Korvan, Thornvale, Stormridge). `CANON_REMAPPING.md` lists replacements for the characters of the existing stories.
+- No English-style or invented fantasy names (Aelira, Korvan, Thornvale, Stormridge). CANON_REMAPPING.md lists replacements for the characters of the existing stories.
 - No endings that mark gender.
 - No match between a name and a look. Names and appearance separated long ago.
 - No apostrophes and no doubled consonants for effect.

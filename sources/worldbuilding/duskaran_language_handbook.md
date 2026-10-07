@@ -1379,7 +1379,7 @@ Evidentials are expected in reports to a council and in storm warnings. A warnin
 
 # English to Duskaran Index
 
-Generated from the vocabulary above by `scripts/build_handbook_index.py`. It gives the first sense of each entry.
+Generated from the vocabulary above. It gives the first sense of each entry.
 
 ## A
 

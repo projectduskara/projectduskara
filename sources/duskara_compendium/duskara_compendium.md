@@ -2181,7 +2181,7 @@ Names are given in infancy and can be amended or expanded when a person shows a 
 
 ## Pitfalls
 
-- No English-style or invented fantasy names (Aelira, Korvan, Thornvale, Stormridge). `CANON_REMAPPING.md` lists replacements for the characters of the existing stories.
+- No English-style or invented fantasy names (Aelira, Korvan, Thornvale, Stormridge). CANON_REMAPPING.md lists replacements for the characters of the existing stories.
 - No endings that mark gender.
 - No match between a name and a look. Names and appearance separated long ago.
 - No apostrophes and no doubled consonants for effect.
@@ -2209,11 +2209,11 @@ Names are given in infancy and can be amended or expanded when a person shows a 
   - Chapter 05: Added "Deepkin Psychic Adaptations" covering Shadow Sight, Dark Bonding, Echo Empathy, Geothermal Communion, and Void Attunement.
   - Chapter 07: Added contextual cross-references to related chapters for culture, abilities, and technology.
   - Chapter 09: Added "Deepkin-Specific Infrastructure" subsection detailing geothermal systems, bioluminescent farming, and specialized mining.
-- 2.0.0: Second edition. A consistency pass across all chapters, with the corrections to canon that it required. This version is not compatible with 1.x: dates, the star, the geography, place names, the origins of the people, the language and personal names changed. `CANON_REMAPPING.md` in the repository maps every old name and value to the new one.
+- 2.0.0: Second edition. A consistency pass across all chapters, with the corrections to canon that it required. This version is not compatible with 1.x: dates, the star, the geography, place names, the origins of the people, the language and personal names changed. CANON_REMAPPING.md in the repository maps every old name and value to the new one.
   - Timeline (Chapters 00, 10): Landfall moved to about 2200 CE and departure to 2137 CE, so that Cycle 8,430 falls in 3000 CE, some eight hundred Ancestor Cycles after landfall. Cycle numbers are unchanged; CE dates are recomputed from them and marked as approximate. Deep Roads (6,182) and Accord (7,306) dates aligned between chapters. The Cycle 127 founding on the lake now precedes the wider settlement of Cycle 562.
   - Star and orbit (Chapters 00, 01, 10): HD Xanthea is now an M0–M1 red dwarf (0.55 Solar masses, 0.05–0.06 Solar luminosities). Duskara orbits at 0.17 AU in 34.7 Earth days and receives about twice Earth's stellar flux. Day-side temperatures lowered from 350–450°C to 150–220°C. New section "Why the Twilight Belt Is Habitable". The belt follows the meridian, not the equator.
   - Geography (Chapters 00, 01, 02): The belt is 40,000 km long, but all settlement is on one arc of about 6,000 km, Daŋa-Hai (the Living Edge), between the mountains of Bundok-Kuu and the dunes of Hamada-Kuu. Positions are counted in alama; the arc has twelve sectors and four regions. Travel times rescaled: ten to twelve days by caravan and about two by Whisper Road between adjacent major cities. Chapter 02 is shorter; the place entries moved to the new Duskaran Gazetteer.
-  - Place names (all chapters): The English-style place names are superseded by names in Duskaran Creole, drawn from Swahili, Tagalog, Mandarin and Hausa (Birni for Aetherion, the Bahari for Lake Auran, Pango-Liwanag for Lumina Caverns, and fifteen more). The Auran Compact is now the Bahari Compact. Chapter 02 has the table; `CANON_REMAPPING.md` in the repository maps each old name to the new one.
+  - Place names (all chapters): The English-style place names are superseded by names in Duskaran Creole, drawn from Swahili, Tagalog, Mandarin and Hausa (Birni for Aetherion, the Bahari for Lake Auran, Pango-Liwanag for Lumina Caverns, and fifteen more). The Auran Compact is now the Bahari Compact. Chapter 02 has the table; CANON_REMAPPING.md in the repository maps each old name to the new one.
   - Origins (Chapters 00, 03, 06, 18): The *Stellar Horizon* carried some thousands of African settlers (most from East Africa, with Swahili as their common language; a West African minority that spoke Hausa) and an Asian crew of a few hundred (Chinese officers and engineers, Filipino ratings), with English as the working language between them. Duskaran Creole is a restructured Swahili: adult learners dropped its inflection and kept its words.
   - Language (Chapter 18), second pass with the Language Handbook 1.4.0: long vowels (a doubled vowel is long: *taa*, *ta*), the hyphen and apostrophe rule, a new section "Sentence Patterns" (commands, wishes, *ja su* for "have", *kama*, *sababu*, *amba*, *kuliko*, evidential words, numbers above ten), and the storm register.
   - Cultural roots (Chapters 03, 06, 11): New section "What Came from Earth" in Chapter 06: the inheritance of the settlers, the legacy of the crew and the early conflict between them, and the old faiths and what remains of them (the five bells, *saumu*, *sadaka*). Staple foods are *sima*, flatbread and steamed buns instead of bread; the shared cup of *chai* is added.
@@ -2232,7 +2232,7 @@ Names are given in infancy and can be amended or expanded when a person shows a 
   - Style (all chapters): Em dashes replaced with commas, colons, semicolons or parentheses. "Solar" replaced with "stellar" for HD Xanthea (the units Solar masses and Solar luminosities stay).
   - Wrap-up paragraphs removed (Chapters 02, 07, 08, 12, 13, 15, 17). The Thirst Wars sentence of Chapter 12 moved under "Violence as Taboo".
   - Governance (Chapter 08): Small frontier settlements such as Bukal-Mvuke keep a Council of Elders.
-  - Tooling: `duskara_compendium.md` is now built by `scripts/build_compendium.py`; `scripts/check_compendium.py` checks time units, tidal lock wording, em dashes, "solar" and Cycle dates against `canon_dates.json`. It also covers the Language Handbook, the Gazetteer, the quickstart, the glossary, the RPG books and the Codex, and reports superseded place names.
+  - Tooling: duskara_compendium.md is now built by scripts/build_compendium.py; scripts/check_compendium.py checks time units, tidal lock wording, em dashes, "solar" and Cycle dates against canon_dates.json. It also covers the Language Handbook, the Gazetteer, the quickstart, the glossary, the RPG books and the Codex, and reports superseded place names.
 
 # License
 

@@ -12,10 +12,10 @@ The Compendium describes how Duskara works. This Gazetteer says where things are
 
 Each entry carries a status:
 
-- **Canon**: the place appears in the Compendium, a published story, or a file in `worldbuilding/`.
+- **Canon**: the place appears in the Compendium, a published story, or a file in worldbuilding/.
 - **Proposed**: the place is new in this Gazetteer and waits for confirmation. No entry has this status at present.
 
-The detailed settlement profiles stay in `worldbuilding/settlements/`.
+The detailed settlement profiles stay in worldbuilding/settlements/.
 
 # The Shape of the Settled World
 
@@ -359,11 +359,11 @@ About seventy major Deepkin communities, with 50,000 to 150,000 people each, lie
 | Tafki-Kuu | Great Reservoir | Hausa, Swahili |
 | Zaŋgo-Iska | Wind Halt | Hausa |
 
-The names that these replace in older texts are listed in `CANON_REMAPPING.md`, in the root of the repository.
+The names that these replace in older texts are listed in CANON_REMAPPING.md, in the root of the repository.
 
 # Changelog
 
-- 0.1.0: First draft. Settled arc of 6,000 kilometers (Daŋa-Hai), alama and sector reference, travel table, four regions, an entry for each of the eighteen places named in the Compendium and in `worldbuilding/`, and five proposed places: the two ends of the arc and three cities.
+- 0.1.0: First draft. Settled arc of 6,000 kilometers (Daŋa-Hai), alama and sector reference, travel table, four regions, an entry for each of the eighteen places named in the Compendium and in worldbuilding/, and five proposed places: the two ends of the arc and three cities.
 - 0.2.0: Place names revised. The second layer of English-style names is removed: the settlers were African and Asian, and all names are Creole. Names now draw on Swahili, Tagalog, Mandarin and Hausa. The lake is the Bahari, the capital is Birni (Birni-Bahari), and the Thirst Wars ended with the Bahari Compact.
 - 0.2.1: Name list confirmed. The two ends of the arc (Bundok-Kuu, Hamada-Kuu) and the cities Cheŋ-Biŋ, Motowan and Tafki-Kuu are canon.
 - 0.2.2: Origins stated: African settlers, a Chinese and Filipino crew, English as the working language.
