@@ -1,9 +1,9 @@
 ---
 title: Duskaran Gazetteer
 subtitle: Places of the Living Edge
-version: 1.2.0
+version: 1.3.0
 date: 2026-10-07
-latest_update: "The nineteen major cities that had no entry: sites, names and full entries. All twenty-five major cities are now in the Gazetteer."
+latest_update: "Wind and storms: the storm walls, the hot gates and the storm path of Harmatan. The night side: seventy Deepkin communities, the Deep Roads and their gates, and names for the largest communities."
 ---
 
 # Introduction
@@ -39,7 +39,7 @@ The Living Edge exists because of water. Night-side glaciers reach the belt only
 
 ## What Lies Beyond
 
-Old satellite images, most of them degraded, show that the belt continues past both ends. A few expeditions went a short way and came back. The Archivists hold recordings which suggest that the *Stellar Horizon* was not the only ship, and that other landings were possible elsewhere on Duskara. Nobody has found one. The Far Edge is the largest open question of the setting.
+Old satellite images, most of them degraded, show that the belt continues past both ends. A few expeditions went a short way and came back. The Archivists hold recordings which suggest that the *Stellar Horizon* was not the only ship, and that other landings were possible elsewhere on Duskara. Nobody has found one. The Far Edge is the largest open question of the setting. The chapter The Far Edge gives what the images show.
 
 ## Directions
 
@@ -105,7 +105,7 @@ Daily Creole is mostly Swahili in its vocabulary. Place names are more mixed, be
 - The general word comes first and the specific word second: *Pango-Liwanag*, "caves of radiance"; *Rijiya-Sanyi*, "cold well".
 - The two parts are joined with a hyphen and both are capitalized.
 - A name describes what is there: water, wind, heat, stone, or what people do in the place.
-- A few names are one word: *Birni*, *Harmatan*, *Motowan*, *Ngomawan*, *Chumawan*, *Mbeguwan*.
+- A few names are one word: *Birni*, *Harmatan*, *Motowan*, *Ngomawan*, *Chumawan*, *Mbeguwan*, *Mvukewan*.
 - The capital is *Birni* in daily speech and *Birni-Bahari* in treaties. The lake is "the Bahari".
 - All words are in the Language Handbook.
 
@@ -168,6 +168,18 @@ Daily Creole is mostly Swahili in its vocabulary. Place names are more mixed, be
 | *amani* | peace | Swahili |
 | *hanaŋa* | stormroot tree | core |
 | *njia* | path, road | Swahili |
+| *giza* | darkness | Swahili |
+| *kuvu* | fungus | Swahili |
+| *samaki* | fish | Swahili |
+| *wimbo* | song | Swahili |
+| *siri* | secret | Swahili |
+| *chemchemi* | spring | Swahili |
+| *pumua* | breathe | Swahili |
+| *duara* | circle | Swahili |
+| *kengele* | bell | Swahili |
+| *chini* | below | Swahili |
+| *majivu* | ash | Swahili |
+| *ŋokado* | veins | core |
 
 # Strip Table
 
@@ -368,13 +380,13 @@ The city of drums, on the nightward bank of the down-belt branch of the Luŋga-H
 
 *Alama 3,300. Dayward Edge, offset +140. Canon.*
 
-A fortified trade outpost at the limit of the habitable zone. It lives on the minerals that robotic mines bring out of the day side.
+A fortified trade outpost at the limit of the habitable zone. It stands in a gap of the dayward rim, where hot air from the day side comes into the belt: this is the heat gate of its name. It lives on the minerals that robotic mines bring out of the day side.
 
 ### Harmatan
 
 *Alama 3,400. Central band, offset +5. Major city, about 750,000. Canon.*
 
-A wealthy city on fertile plains, near several wind-rail junctions and several natural wind focal points. The down-belt branch of the Luŋga-Hanga passes a few kilometers dayward of it. It houses the weatherworking guilds, trains most weatherworkers, and trades in thermal regulation equipment and geothermal crystals. Status follows psychic ability and lineage. Its position puts it in the path of severe storms, and its defensive architecture is the best on the arc.
+A wealthy city on fertile plains, near several wind-rail junctions and several natural wind focal points. The hot air of Kofa-Joto meets the cold wind over the city. The down-belt branch of the Luŋga-Hanga passes a few kilometers dayward of it. It houses the weatherworking guilds, trains most weatherworkers, and trades in thermal regulation equipment and geothermal crystals. Status follows psychic ability and lineage. Its position puts it in the path of severe storms, and its defensive architecture is the best on the arc.
 
 ## Tanga-Moto, the Fire Land
 
@@ -492,9 +504,198 @@ The last city of the arc. Its name means "last cistern". No stream reaches it: i
 
 The dune sea that ends the arc. No glacier reaches the belt beyond this point.
 
+# Wind and Storms
+
+## The Wind
+
+The warm air of the day side crosses the terminator high above the ground, and the cold air returns beneath it. So the wind at the ground blows across the belt, from the night side to the day side. Duskara turns once in a Cycle, and this is too slow to bend the wind: a storm on Duskara is a long line, not a spiral.
+
+Three things change the wind.
+
+- **The ground.** The wind goes around high ground and is weak behind it. The rift of the heartland is the largest shelter on the arc: the usual wind on its floor is about 20 kilometers an hour, against 30 to 40 on open ground.
+- **The ice.** A glacier tongue inside the belt sends a cold, fast wind off its front. This is why Tanga-Barafu is the windiest region.
+- **The hot gates.** In two places the dayward rim is open, and hot air from the day side comes into the belt against the cold wind: at Kofa-Joto and at Buŋaŋa-Loŋ.
+
+The rift also has a current of its own: cold air that drains down-belt along its floor.
+
+## The Storm Walls
+
+The two storm walls stand at the edges of the belt.
+
+- The **night wall** stands over the ice, about 30 kilometers behind its front. In Tanga-Barafu the ice front is inside the belt, so the wall stands inside the Nightward Edge there. Where the ice stops outside the belt, the wall stands just outside the edge.
+- The **day wall** stands about 20 kilometers outside the dayward edge.
+
+At the northern end, Bundok-Kuu holds the storms of both walls against its slopes.
+
+## The Storm Path of Harmatan
+
+The hot air that comes in at Kofa-Joto does not go straight across the belt. The current of the rift turns it down-belt, and it meets the cold wind about 100 kilometers farther on, over Harmatan. Most of the severe storms of the heartland start on this line.
+
+## Storm Exposure
+
+The classes show how often and how hard the storms strike a place, from the two walls, from the hot gates and from the places where the currents meet.
+
+| Class | Places |
+|-------|--------|
+| Storm wall | Kofa-Joto, Buŋaŋa-Loŋ |
+| Severe | Lawa-Biŋ, Harmatan |
+| High | Cheŋ-Angataa, Latian-Haske |
+| Moderate | Cheŋ-Jiwe, Kofa-Sanyi, Liko-Luŋga, Birni, Ngomawan, Mnara-Bato, Chumawan, Bantay-Init |
+| Low | Cheŋ-Njia, Cheŋ-Biŋ, Jiko-Biŋ, Soko-Barafu, Zaŋgo-Iska, Shamba-Kuu, Hanaŋa-Kuukuu, Rijiya-Sanyi, Mdomo-Luŋga, Lambak-Hanga, Mlango-Bahari, Isha-Luŋga, Motowan, Bantay-Loŋ, Bukal-Mvuke, Bukal-Amani, Rijiya-Refu, Soko-Chumvi, Tafki-Kuu, Mbeguwan, Bwawa-Isha |
+
+## Wind Focal Points
+
+A wind focal point is a place where three wind currents come together. Wind Temples stand at such places. The strongest ones in the Central band are below; most are on the floor of the rift, where the cold wind, the current of the rift and the air off the slopes meet.
+
+| Alama | Offset | Nearest place |
+|------:|-------:|---------------|
+| 2,796 | -52 | Rijiya-Sanyi, 24 km |
+| 2,876 | -26 | Liko-Luŋga, 28 km |
+| 2,958 | -26 | Latian-Haske, 33 km |
+| 3,026 | -24 | Birni, 26 km |
+| 3,112 | -12 | Mlango-Bahari, 31 km |
+| 3,226 | -14 | Ngomawan, 18 km |
+| 3,332 | -14 | Harmatan, 71 km |
+| 3,416 | -12 | Harmatan, 23 km |
+| 3,580 | 0 | Isha-Luŋga, 34 km |
+| 3,610 | -58 | Isha-Luŋga, 95 km |
+| 3,628 | -2 | Isha-Luŋga, 56 km |
+| 3,704 | -2 | Isha-Luŋga, 124 km |
+| 3,708 | -68 | Isha-Luŋga, 160 km |
+| 3,880 | -2 | Mnara-Bato, 15 km |
+| 4,306 | -38 | Bantay-Loŋ, 102 km |
+| 4,732 | -62 | Bukal-Amani, 117 km |
+
 # The Night Side
 
-About seventy major Deepkin communities, with 50,000 to 150,000 people each, lie under the night side beside the Living Edge. Most are within 300 kilometers of the Nightward Edge and are reached by the Deep Roads. An entry gives the alama of the surface point where its Deep Road begins. Pango-Liwanag is the only Deepkin city with an entry so far.
+## The Communities
+
+Seventy major Deepkin communities, with 50,000 to 150,000 people each, lie under the night side beside the Living Edge. All are within 300 kilometers of the Nightward Edge, and most are 50 to 200 kilometers beyond it. Each stands on geothermal vents. Together they hold about 7 million people; about one million more Deepkin live in smaller outposts.
+
+The heat under the ground decides where they are. It is greatest in Tanga-Moto, where the crust is thin, along the nightward fault of the heartland rift, and along the fault of Buŋaŋa-Loŋ, which goes on under the night side. Pango-Liwanag stands on that fault.
+
+| Region | Major communities | People, millions |
+|--------|------:|------:|
+| Tanga-Barafu | 12 | 0.8 |
+| Tanga-Bahari | 16 | 1.6 |
+| Tanga-Moto | 30 | 3.6 |
+| Tanga-Kavu | 12 | 1.0 |
+
+## The Deep Roads
+
+The Deep Roads join every community to its neighbors and to the surface: 88 tunnels, about 10,200 kilometers in all. A tunnel is 116 kilometers long on average, and the longest is 680 kilometers. No community is more than 435 kilometers from a gate along the tunnels.
+
+A **gate** is the surface end of a Deep Road. Most gates are in the major cities on the nightward side of the Central band.
+
+| Gate | Alama | Community at the other end | Tunnel, km |
+|------|------:|----------------------------|------:|
+| Cheŋ-Jiwe | 175 | a community without a name | 320 |
+| Cheŋ-Njia | 515 | a community without a name | 265 |
+| Cheŋ-Biŋ | 900 | a community without a name | 271 |
+| Jiko-Biŋ | 1,295 | a community without a name | 285 |
+| Kofa-Sanyi | 2,175 | a community without a name | 269 |
+| Hanaŋa-Kuukuu | 2,630 | a community without a name | 217 |
+| Cheŋ-Angataa | 2,700 | a community without a name | 142 |
+| Birni | 3,000 | a community without a name | 208 |
+| Chumawan | 4,010 | a community without a name | 265 |
+| Motowan | 4,200 | Pango-Liwanag | 270 |
+| Bukal-Mvuke | 4,500 | Chemchemi-Giza | 133 |
+| Bukal-Amani | 4,620 | a community without a name | 202 |
+| Tafki-Kuu | 5,400 | a community without a name | 238 |
+| Mbeguwan | 5,665 | a community without a name | 370 |
+
+Five more entrances are on the Nightward Edge, at about alama 1,820, 3,645, 4,310, 4,905 and 5,120. They are small frontier posts and have no names yet.
+
+In the Strip Table, a Deepkin community takes the alama of its gate. The table below gives the place where each community lies under the night side.
+
+## The Named Communities
+
+The largest communities of each region have names. The other fifty-five have none in this Gazetteer yet.
+
+| Name | Meaning | Region | Under alama | Offset | Gate | People | Known for |
+|------|---------|--------|------:|-------:|------|-------:|-----------|
+| Jiko-Giza | Hearth in the Dark | Tanga-Barafu | 418 | -294 | Cheŋ-Jiwe | 85,000 | One great Warmth Hearth, where the communities of the north meet |
+| Pango-Kuvu | Fungus Caves | Tanga-Barafu | 1,926 | -220 | an entrance | 75,000 | Glow farms; it gives glowcap strains to other communities |
+| Lawa-Samaki | Fish Pools | Tanga-Barafu | 1,940 | -298 | an entrance | 80,000 | Blind fish from warm pools |
+| Pango-Wimbo | Singing Caves | Tanga-Bahari | 2,936 | -236 | Cheŋ-Angataa | 115,000 | Caves that sing in the wind of the vents; the practice of Echo Empathy is taught here |
+| Mvukewan | Steam Place | Tanga-Bahari | 3,130 | -228 | Birni | 115,000 | Steam condensers that give water to its neighbors |
+| Pango-Angataa | Aurora Caves | Tanga-Bahari | 3,450 | -220 | an entrance | 110,000 | Aurora Arrays on the ice above it, and the largest Aurora Veil Festival |
+| Pango-Liwanag | Caves of Radiance | Tanga-Moto | 4,200 | -300 | Motowan | 150,000 | The largest community. See its entry. |
+| Ŋokado-Chuma | Iron Veins | Tanga-Moto | 4,228 | -264 | an entrance | 130,000 | Mines, and the makers of magnetic drills |
+| Pango-Siri | Secret Caves | Tanga-Moto | 4,310 | -262 | an entrance | 135,000 | It keeps apart, and few outsiders have been inside |
+| Chemchemi-Giza | Springs in the Dark | Tanga-Moto | 4,514 | -242 | Bukal-Mvuke | 130,000 | Hot springs and baths under the ground |
+| Pango-Pumua | Breathing Caves | Tanga-Moto | 4,566 | -254 | Bukal-Mvuke | 135,000 | Vents that rise and fall like breath; rites of the Earth's Breath |
+| Duara-Moto | Circle of Fire | Tanga-Moto | 4,864 | -264 | an entrance | 140,000 | A ring of vents; the largest community after Pango-Liwanag |
+| Kengele-Chini | Bells Below | Tanga-Kavu | 5,026 | -270 | an entrance | 100,000 | Stone bells that carry signals through the tunnels |
+| Pango-Majivu | Ash Caves | Tanga-Kavu | 5,070 | -302 | an entrance | 105,000 | Old ash beds that make the soil of its growing chambers |
+| Bwawa-Haske | Glowing Pool | Tanga-Kavu | 5,160 | -266 | an entrance | 95,000 | A pool of glowing water, and the painters of living murals |
+
+# The Far Edge
+
+Nobody has been on Daŋa-Mbali and come back with a survey. All that follows is from the old satellite images that the Archivists hold. The images are old and degraded. The satellites still orbit, but nobody knows how to make them take new images.
+
+## The Ring
+
+The alama scale goes on round the ring past Hamada-Kuu: alama 40,000 is alama 0. The belt crosses the south pole at alama 13,000 and the north pole at alama 33,000. The point opposite the Bahari, on the other terminator, is at alama 23,000.
+
+The old satellites fly low over the equator and do not see the ground near the poles. There is no image beyond about 60 degrees of latitude, so two arcs of the belt are blind.
+
+| Arc | From alama | To alama | Length, km | Latitude | Images | Note |
+|-----|------:|------:|------:|-------|-------|------|
+| Living Edge (Daŋa-Hai) | 0 | 6,000 | 6,000 | 27° north to 27° south | Canon | Settled and surveyed. All forty million Duskarans. |
+| Down-belt of Hamada-Kuu | 6,000 | 9,667 | 3,667 | 27° south to 60° south | Seen in old images | Expeditions went a short way and came back. |
+| South blind arc | 9,667 | 16,333 | 6,667 | beyond 60° south | No image | The belt crosses the south pole at alama 13,000. |
+| Opposite side | 16,333 | 29,667 | 13,333 | 60° south to 60° north | Seen in old images | The other terminator. The point opposite the Bahari is at alama 23,000. |
+| North blind arc | 29,667 | 36,333 | 6,667 | beyond 60° north | No image | The belt crosses the north pole at alama 33,000. |
+| Up-belt of Bundok-Kuu | 36,333 | 40,000 | 3,667 | 60° north to 27° north | Seen in old images | Behind the range that nobody has crossed. |
+
+## The Ground
+
+| From alama | To alama | Length, km | Kind | Note |
+|------:|------:|------:|------|------|
+| 6,000 | 7,400 | 1,400 | Dune sea | Hamada-Kuu. The canon gives its start; the images show dunes for about 1,400 km. |
+| 7,400 | 9,667 | 2,267 | Stone desert | Bare, pale ground with no water that the images show. |
+| 16,333 | 18,200 | 1,867 | Stone desert | The same pale ground as south of the Living Edge. |
+| 18,200 | 18,900 | 700 | Mountain range | A range that crosses the belt, like Bundok-Kuu. No name: nobody has been there. |
+| 18,900 | 21,400 | 2,500 | Dark plain | Flat, dark ground. Old lava, or dark sand. |
+| 21,400 | 24,600 | 3,200 | Stone desert | The ground opposite the Living Edge, at the same latitudes. See mark 1. |
+| 24,600 | 27,800 | 3,200 | Stone desert | Pale ground, with one round feature. See mark 4. |
+| 27,800 | 29,667 | 1,867 | Dune sea | A second dune sea, about as long as Hamada-Kuu and its desert together. |
+| 36,333 | 39,300 | 2,967 | High plateau | High, cold and dry ground behind Bundok-Kuu. |
+| 39,300 | 40,000 | 700 | Mountain range | The far slope of Bundok-Kuu. The range is about 700 km across. |
+
+The images show no open water and no green ground on the Far Edge.
+
+## The Six Marks
+
+The images show six things that nobody can explain. Each has two or three readings among the Archivists. This Gazetteer does not say which reading is true, and no other canon text will: a story or a game can choose a reading for itself. The names of the marks are the descriptions of the Archivists, given here in translation.
+
+| Mark | Alama | Where | What the images show | Readings |
+|------|------:|-------|----------------------|----------|
+| 1. The Pale Arc | 21,400 to 24,600 | night side, beside the belt | Pale ground along the night side for 3,200 km, opposite the Living Edge and at the same latitudes. | (a) Ice that reaches the belt. Then there is water, and the Living Edge is not the only place where people can live. (b) Salt, or pale rock. (c) A fault of the old images: the pale band is in the same place in each of them. |
+| 2. The Straight Line | 22,450 | across the belt | A dark line about 40 km long, with no bend, across the belt inside the Pale Arc. | (a) The scarp of a fault. (b) Something that people made: a road, a wall or a track. (c) A line of bad data in one scan. |
+| 3. The Warm Point | 8,900 | night side, about 120 km from the belt | A point that is warm in two images, made many Cycles apart. | (a) A field of vents, like those that the Deepkin live on. (b) Heat that something makes. |
+| 4. The Ring | 26,300 | in the belt | A circle about 12 km across, with a clear edge. | (a) A crater. (b) The top of an old volcano. (c) A wall. |
+| 5. The Mark that Moved | 37,800 | in the belt, behind Bundok-Kuu | A small dark mark that is in two places, 9 km apart, in two images. | (a) The shadow of a dust storm. (b) A dune that the wind moved. (c) Something that travels. |
+| 6. The Light | 19,700 | night side, beside the dark plain | One point of light on the night side, in one image only. | (a) Lightning. (b) Molten rock. (c) Lamps. |
+
+Reading (a) of the Pale Arc is against what every Duskaran learns: that the glaciers reach the belt only along the Living Edge. Most Archivists hold reading (b) or (c) for that reason.
+
+## Distances
+
+| From | To | Distance, km | By caravan, with rest |
+|------|----|------:|------|
+| Hamada-Kuu | the south pole | 7,000 | 9 Cycles (0.9 Ancestor Cycles) |
+| Bundok-Kuu | the north pole | 7,000 | 9 Cycles (0.9 Ancestor Cycles) |
+| Hamada-Kuu | the point opposite the Bahari | 17,000 | 23 Cycles (2.1 Ancestor Cycles) |
+| Hamada-Kuu | mark 1, The Pale Arc | 17,000 | 23 Cycles (2.1 Ancestor Cycles) |
+| Hamada-Kuu | mark 2, The Straight Line | 16,450 | 22 Cycles (2.0 Ancestor Cycles) |
+| Hamada-Kuu | mark 3, The Warm Point | 2,900 | 4 Cycles (0.4 Ancestor Cycles) |
+| Bundok-Kuu | mark 4, The Ring | 13,700 | 18 Cycles (1.7 Ancestor Cycles) |
+| Bundok-Kuu | mark 5, The Mark that Moved | 2,200 | 3 Cycles (0.3 Ancestor Cycles) |
+| Hamada-Kuu | mark 6, The Light | 13,700 | 18 Cycles (1.7 Ancestor Cycles) |
+
+The caravan times use the rule of the Gazetteer: 25 km in a day of travel, and one day of rest in seven. They do not count water: nobody knows of any on the Far Edge.
 
 # Index of Names
 
@@ -508,22 +709,28 @@ About seventy major Deepkin communities, with 50,000 to 150,000 people each, lie
 | Bukal-Mvuke | Steam Springs | Tagalog, Swahili |
 | Bundok-Kuu | Great Mountain | Tagalog, Swahili |
 | Buŋaŋa-Loŋ | Dragon's Maw | Tagalog, Mandarin |
+| Bwawa-Haske | Glowing Pool | Swahili, Hausa |
 | Bwawa-Isha | Last Cistern | Swahili |
+| Chemchemi-Giza | Springs in the Dark | Swahili |
 | Cheŋ-Angataa | Aurora Fortress | Mandarin, core |
 | Cheŋ-Biŋ | Ice City | Mandarin |
 | Cheŋ-Jiwe | Stone Fortress | Mandarin, Swahili |
 | Cheŋ-Njia | Path Fortress | Mandarin, Swahili |
 | Chumawan | Iron Place | Swahili, core |
+| Duara-Moto | Circle of Fire | Swahili |
 | Hamada-Kuu | Great Desert | Hausa, Swahili |
 | Hanaŋa-Kuukuu | Old Stormroots | core, Swahili |
 | Harmatan | The Harmattan, a dry wind of West Africa | Hausa and its neighbors |
 | Isha-Luŋga | River's End | Swahili, core |
 | Jiko-Biŋ | Hearth in the Ice | Swahili, Mandarin |
+| Jiko-Giza | Hearth in the Dark | Swahili |
+| Kengele-Chini | Bells Below | Swahili |
 | Kofa-Joto | Heat Gate | Hausa, Swahili |
 | Kofa-Sanyi | Cold Gate | Hausa |
 | Lambak-Hanga | Wind Valley | Tagalog, core |
 | Latian-Haske | Marsh of Light | Tagalog, Hausa |
 | Lawa-Biŋ | Ice Pools | Tagalog, Mandarin |
+| Lawa-Samaki | Fish Pools | Tagalog, Swahili |
 | Liko-Luŋga | River Bend | Tagalog, core |
 | Luŋga-Hanga | Wind River | core |
 | Mbeguwan | Seed Place | Swahili, core |
@@ -531,8 +738,16 @@ About seventy major Deepkin communities, with 50,000 to 150,000 people each, lie
 | Mlango-Bahari | Door of the Sea | Swahili |
 | Mnara-Bato | Stone Tower | Swahili, Tagalog |
 | Motowan | Fire Place | Swahili, core |
+| Mvukewan | Steam Place | Swahili, core |
+| Ŋokado-Chuma | Iron Veins | core, Swahili |
 | Ngomawan | Place of Drums | Swahili, core |
+| Pango-Angataa | Aurora Caves | Swahili, core |
+| Pango-Kuvu | Fungus Caves | Swahili |
 | Pango-Liwanag | Caves of Radiance | Swahili, Tagalog |
+| Pango-Majivu | Ash Caves | Swahili |
+| Pango-Pumua | Breathing Caves | Swahili |
+| Pango-Siri | Secret Caves | Swahili |
+| Pango-Wimbo | Singing Caves | Swahili |
 | Patag-Bato | Stone Flat | Tagalog |
 | Rijiya-Refu | Long Well | Hausa, Swahili |
 | Rijiya-Sanyi | Cold Well | Hausa |
@@ -564,6 +779,10 @@ The names that these replace in older texts are listed in CANON_REMAPPING.md, in
 - 1.2.0: The nineteen major cities that had no entry now have a site, a name and a full entry: four in Tanga-Barafu, six in Tanga-Bahari, six in Tanga-Moto and three in Tanga-Kavu. The main Whisper Road passes through each of them. Small changes in the entries of Zaŋgo-Iska, Liko-Luŋga and Tafki-Kuu follow from the new cities.
   - Travel: a caravan rests about one day in seven, and the caravan times in the travel table include this rest.
   - Latitude: the Bahari lies on the equator, and the Living Edge runs from about 27 degrees north to about 27 degrees south.
+- 1.3.0: Wind and storms, the night side, and the Far Edge.
+  - New chapter Wind and Storms: the direction of the wind, the two storm walls, the hot gates at Kofa-Joto and Buŋaŋa-Loŋ, the storm path of Harmatan, storm exposure of each place, and wind focal points. Changes in the entries of Kofa-Joto and Harmatan follow.
+  - The Night Side: the seventy major Deepkin communities by region, the Deep Roads and their gates, five entrances without a name, and names for the fourteen largest communities after Pango-Liwanag.
+  - New chapter The Far Edge: the ring and its alama, the two blind arcs, the ground that the old images show, and six unexplained marks with open readings.
 
 # License
 
