@@ -40,6 +40,8 @@ jobs:
               - 'sources/worldbuilding/duskaran_names_guidelines.md'
             duskaran_language_handbook:
               - 'sources/worldbuilding/duskaran_language_handbook.md'
+            duskaran_gazetteer:
+              - 'sources/worldbuilding/duskaran_gazetteer.md'
 
   build-and-release:
     needs: detect-changes
@@ -96,7 +98,11 @@ jobs:
             duskaran_language_handbook)
               echo "source_dir=sources/worldbuilding" >> $GITHUB_OUTPUT
               echo "source_file=duskaran_language_handbook.md" >> $GITHUB_OUTPUT
-              ;;              
+              ;;
+            duskaran_gazetteer)
+              echo "source_dir=sources/worldbuilding" >> $GITHUB_OUTPUT
+              echo "source_file=duskaran_gazetteer.md" >> $GITHUB_OUTPUT
+              ;;
           esac
       
       - name: Set up Quarto
