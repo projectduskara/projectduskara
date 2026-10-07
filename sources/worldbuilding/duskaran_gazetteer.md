@@ -1,9 +1,9 @@
 ---
 title: Duskaran Gazetteer
 subtitle: Places of the Living Edge
-version: 0.2.2
+version: 1.0.0
 date: 2026-10-07
-latest_update: "Place names revised: one layer of names, drawn from Swahili, Tagalog, Mandarin and Hausa. The lake is the Bahari and the capital is Birni."
+latest_update: "First release, with Compendium 2.0.0: the settled arc, positions and distances, and an entry for every named place."
 ---
 
 # Introduction
@@ -367,6 +367,7 @@ The names that these replace in older texts are listed in CANON_REMAPPING.md, in
 - 0.2.0: Place names revised. The second layer of English-style names is removed: the settlers were African and Asian, and all names are Creole. Names now draw on Swahili, Tagalog, Mandarin and Hausa. The lake is the Bahari, the capital is Birni (Birni-Bahari), and the Thirst Wars ended with the Bahari Compact.
 - 0.2.1: Name list confirmed. The two ends of the arc (Bundok-Kuu, Hamada-Kuu) and the cities Cheŋ-Biŋ, Motowan and Tafki-Kuu are canon.
 - 0.2.2: Origins stated: African settlers, a Chinese and Filipino crew, English as the working language.
+- 1.0.0: First public release. No change of content from 0.2.2.
 
 # License
 
