@@ -1,593 +1,222 @@
 ---
-date: 2025-11-18
+date: 2026-10-07
 title: Duskaran Names Guidelines
-version: 1.0.0
-latest_update: "First release"
+version: 2.0.0
+latest_update: "New naming system: personal names and line names from Swahili, Hausa, Mandarin, Tagalog and Duskaran Creole. The English-style names of 1.0.0 are superseded."
 ---
 
 # Overview
 
-Duskaran names reflect the harsh beauty of a tidally locked world, blending the cultural heritage of African and Asian Earth origins with eight centuries of adaptation to extreme environments. Names carry echoes of wind, twilight, thermal gradients, and the psychic abilities that define human survival on Duskara.
+A Duskaran name says where a person comes from. The *Stellar Horizon* carried some thousands of African settlers in cryogenic stasis, most from East Africa and a minority from West Africa, and a crew of a few hundred from Asia: Chinese officers and engineers, with Filipino ratings. English was the working language between them. Eight hundred Ancestor Cycles later, the names of all these peoples are still in use, worn down by the Creole and joined by new names made of Creole words.
+
+There are no names in the English style. English gave the Creole a few working words (*kin*, *go*, *dok*), but nobody on the ship carried an English name into the new world.
 
 # Name Structure
 
-Duskaran names follow a hierarchical structure that has developed over eight centuries:
-
-**Personal name + kin-\[Wind-Kin\] + Surname** (full formal)  
-**Personal name + Surname** (common formal)  
+**Personal name + kin-[Wind-Kin] + line name** (full formal)  
+**Personal name + line name** (common formal)  
 **Personal name** (casual)
 
-## Examples
+- **Full formal**: Amira kin-Hanga Wekesa
+- **Common formal**: Amira Wekesa
+- **Casual**: Amira
 
-- **Full Formal**: Aelira kin-Hanga Thornvale
-- **Common Formal**: Aelira Thornvale
-- **Casual**: Aelira
+The **line name** (*ukoo*) is the family name. It follows the personal name. A few old crew lines still put it first in ceremonies, as on Earth (*Wu An*); this sounds archaic.
 
 # Wind-Kin Designations
 
-Wind-Kin affiliation denotes extended family clan membership and is part of formal naming. These designations represent major cultural-environmental lineages that have developed on Duskara:
+Wind-Kin affiliation denotes extended family clan membership and is part of formal naming:
 
-- **kin-Hanga** – of the Wind clan (surface dwellers, weatherworkers)
-- **kin-Moto** – of the Fire/Geothermal clan (thermal specialists, day-side workers)
-- **kin-Maji** – of the Water clan (water managers, conservationists)
-- **kin-Babu** – of the Elder lineage (knowledge keepers, traditional families)
-- **kin-Kivuli** – of the Shadow clan (Deepkin, night-side cave dwellers)
+- **kin-Hanga**: of the Wind clan (surface dwellers, weatherworkers)
+- **kin-Moto**: of the Fire clan (thermal specialists, day-side workers)
+- **kin-Maji**: of the Water clan (water managers, conservationists)
+- **kin-Babu**: of the Elder lineage (knowledge keepers, traditional families)
+- **kin-Kivuli**: of the Shadow clan (Deepkin, night-side cave dwellers)
 
-Wind-Kin designations are used:
+The designation is used in formal introductions, ceremonies, official records and negotiations between settlements. It is omitted in daily speech and in most writing.
 
-- In formal introductions and ceremonies
-- In official documents and records
-- When emphasizing clan affiliation or heritage
-- During negotiations between settlements
+# Sound and Spelling
 
-They are omitted in:
+Names follow the sounds of Duskaran Creole (see the Language Handbook).
 
-- Casual daily interactions
-- Most written communication
-- Contexts where clan affiliation is irrelevant
+- Five vowels: *a, e, i, o, u*. No *y* as a vowel, no *ae*.
+- Simple syllables: consonant plus vowel, with an optional final consonant (*Tan-ko*, *Mei-lin*, *Ka-li-naw*).
+- *ŋ* is the sound of "si**ng**". *j* is the sound of "**j**ar". *sh* and *ch* as in English.
+- No *th*, *kh*, *zh*, *x*, *q*, and no clusters such as *thr* or *vy*.
+- Old Mandarin names are respelled: *zh* becomes *j* (Zhang: *Jaŋ*), *x* becomes *sh* (Xu: *Shu*), final *ng* becomes *ŋ* (Wang: *Waŋ*).
+- Two to four syllables for names of the settler stocks; one or two for names of the crew stocks.
 
-# Phonetic Foundation
+Names are not marked for gender. The Creole has no grammatical gender, and any name can belong to anyone. Heritage names keep a loose traditional leaning that a writer may follow or ignore.
 
-## Consonants
+# Personal Names
 
-- **Common clusters**: zh, kh, sh, th, ry, ly, ny, vy, kr, br, dr, tr, vr, sr
-- **Initial consonants**: K, Z, L, Th, V, A, S, R, M, F, Kh, Zh, Sh, N, T, X, Y
-- **Hard sounds**: k, t, th, r emphasize resilience
-- **Soft sounds**: sh, zh, v, l suggest adaptability
+A personal name comes from one of three stocks.
 
-## Vowels
+## Settler Names
 
-- **Primary**: a, e, i, o
-- **Y as vowel**: Common in endings and middle syllables
-- **Diphthongs**: ae, ai, ey, ay, or
+Names from Swahili and Hausa, the languages of the settlers. They are the most common stock on the surface.
 
-## Syllable Structure
+**From Swahili**: Alia, Amani, Amira, Asha, Bakari, Baraka, Daraja, Eshe, Faraji, Furaha, Hamisi, Imani, Jabari, Jafari, Jelani, Juma, Kesho, Kesi, Kibo, Kibwe, Kito, Kombo, Makame, Makena, Malaika, Mara, Mila, Mosi, Naima, Neema, Nia, Omari, Raia, Rashidi, Rehema, Riziki, Saida, Sanaa, Sefu, Shani, Siti, Subira, Taraji, Tarishi, Tausi, Tumaini, Zawadi, Zuberi, Zuri
 
-- **Length**: 2-4 syllables
-- **Patterns**: CV (consonant-vowel), CVC, CVCC
-- **Stress**: Usually on first or second syllable
+**From Hausa**: Amina, Audu, Bala, Dabo, Dauda, Delu, Dogo, Gambo, Garba, Hadiza, Idi, Jummai, Kande, Ladi, Mairo, Sani, Shehu, Tahiru, Talatu, Tanimu, Tanko, Tijani, Tukur, Turaki, Yaro, Zainabu
 
-# First Names
+Many of these were once names for the day of birth in the old count of days of Earth (Juma, Hamisi, Ladi, Talatu). Duskara has no such count. The names pass down as ancestor names, and few people know what they once meant.
 
-## Female Names
+## Crew Names
 
-**Typical endings**:
+Names from Mandarin and Tagalog, the languages of the crew. They are most frequent in the old technical lines, among Archivists, and in the fortified cities of the north.
 
-- **-a**: Aelira, Zorathi, Vynara (most common)
-- **-ra/-ara**: Zihara, Isarra, Luminara
-- **-na**: Shavina, Kalienna
-- **-ssa/-sa**: Eryssa, Alyris
-- **-elle/-el**: Rhyelle, Saryndel
-- **-yne/-yn**: Zorayne, Varilynn
-- **-is**: Nerielle, Ellari
-- **-e**: Melise, Feynith
-- **-i**: Khyanni, Alyri
-- **-th/-ith**: Feynith, Sonith, Ceriveth
+**From Mandarin**: An, Bo, Feŋ, Hua, Jiŋ, Jun, Kai, Lan, Lian, Lin, Mei, Meilin, Min, Piŋ, Ren, Shan, Shu, Tao, Wei, Wen, Yun
 
-**Construction patterns**:
+**From Tagalog**: Amihan, Bayani, Dalisay, Diwa, Hiraya, Kalinaw, Lakan, Ligaya, Malaya, Mayumi, Tala
 
-1. Start with strong consonant or cluster (Kh-, Zh-, Sh-, Th-, Z-, V-, L-)
-2. Add 1-2 syllables with flowing vowels
-3. End with feminine suffix
-4. Examples: Kh + ya + nni = Khyanni, Z + ih + ara = Zihara
+## Duskaran Names
 
-## Male Names
+Names made of Creole words. They are the newest stock and the one that grows. A Duskaran name records a circumstance of birth or a wish for the child.
 
-**Typical endings**:
+| Name | Meaning | Given when |
+|------|---------|------------|
+| Tufani | storm | born in a storm shelter |
+| Angataa | aurora | born under a strong aurora |
+| Sori | start of the waking period | born at the first bell |
+| Safari | journey | born on the road or in a caravan |
+| Honga | survive | born after a hard birth or a lost sibling |
+| Mitu | gift | a child long awaited |
+| Salama | safe | born after a danger passed |
+| Tana | strong | a wish |
+| Kara | bright | a wish |
+| Nala | honor | a wish |
+| Shimu | song | a wish; common in families of wind-singers |
+| Zika | together | a wish; common for twins |
+| Sura | flow | born when the water returned |
+| Kasi | speed | a wish; also common for bonded animals |
+| Sora | sun | born on the Dayward Edge |
+| Hangapole | gentle wind | born in a calm |
+| Majitamu | sweet water | born when a new source was found |
 
-- **-or/-ar**: Khoran, Lysander, Torik, Althar
-- **-ic/-ric**: Dalric, Valric, Tharic, Faedric
-- **-el/-en**: Arlan, Enith, Ulren
-- **-yn/-in**: Moryn, Sorin, Kyren
-- **-os**: Mykos, Kyos, Levos
-- **-as**: Tyras
-- **-th/-eth**: Kaleth, Korveth, Kaelith
+A longer name is shortened in daily use: *Hangapole* to *Pole*, *Majitamu* to *Tamu*.
 
-**Construction patterns**:
+## Bonded Animals
 
-1. Begin with hard consonants (K-, Th-, Z-, B-, D-, X-)
-2. Use 2-3 syllables with clear, strong sounds
-3. End with masculine suffix
-4. Examples: Th + al + yon = Thalyon, Ky + ren = Kyren
+A bonded animal has one short name, nearly always a Creole word: Kasi, Wimbi, Taa, Shimu.
 
-## Gender-Neutral Names
+# Line Names
 
-**Typical endings**:
+A line name passes from parent to child. Either parent's line may be chosen. There are three kinds.
 
-- **-yn**: Zoryn, Taryn, Myrin
-- **-el/-en**: Arlen, Lynel, Toren
-- **-th**: Aelith, Thalith, Eryth, Feyth
-- **-is**: Lioris, Kaelis, Saeris
-- **-ar**: Velthar, Vythar
-- **-os**: Kyros, Oris
+## Ship Lines
 
-**Construction patterns**:
+Family names that came from Earth. They no longer show what a person looks like or where a person lives: after eight hundred Ancestor Cycles, every Duskaran has ancestors from all the peoples of the ship.
 
-1. Balance hard and soft consonants
-2. Use neutral endings that avoid strong gender markers
-3. 2-3 syllables preferred
-4. Examples: Ae + lith = Aelith, Ky + ros = Kyros
+**Chinese**: Chen, Gao, Hu, Jao, Jaŋ, Li, Lin, Lu, Shen, Shu, Sun, Tan, Waŋ, Wu, Yaŋ
 
-# Surnames
+**Filipino**: Bayani, Dalisay, Dimasupil, Gatdula, Katigbak, Lualhati, Magtaŋol, Sumuloŋ
 
-## Structure Types
+**East African**: Hamisi, Kamau, Kiprono, Makame, Mbwana, Mutua, Mwangi, Omondi, Otieno, Wambua, Wanyama, Wekesa
 
-**Compound descriptive** (Earth-influenced):
+**West African**: Bello, Danjuma, Danladi, Garba, Gwarzo, Idris, Lawan, Maigari, Makera, Sani, Shehu, Tanimu, Zaŋgo
 
-- Environmental: Thornvale, Ashenfall, Emberlyn
-- Pattern: \[descriptor\] + \[natural feature\]
+## Craft Lines
 
-**Duskaran native**:
+Names taken from the work of a founding ancestor. They are Creole words.
 
-- Consonant-heavy: Kethri, Vyraska, Rynthar, Kryther
-- Vowel-rich: Luyareh, Orvalis, Loraketh
-- Balanced: Velkara, Zhayran, Daemir
+| Line name | Meaning |
+|-----------|---------|
+| Bahariji | fisher |
+| Majitunga | water finder |
+| Motokazi | geothermal engineer |
+| Tulanga | builder |
+| Shandaji | trader |
+| Siriji | keeper of secrets, Archivist |
+| Kinaji | teacher |
+| Tibaji | healer |
+| Nondoji | farmer |
+| Shimuji | singer, maker of songs |
+| Korasha | scout |
+| Bantay | watch, warden |
+| Hangakuta | windbreak (a line of wall builders) |
+| Hanaŋa | stormroot (a line that plants shelter belts) |
 
-## Typical endings
+Some craft lines describe the founder or the home ground, not the work: Majivu (ash), Vumbi (dust), Chuma (iron), Jiko (hearth), Mkono (hand), Mzizi (root), Majisafi (clean water), Mawingu (mist), Tufani (storm), Hangapole (gentle wind), Hangabaridi (nightward wind), Lawa (pool), Tazama (watch), Haraka (quick), Alama (mark).
 
-- **-eth/-ith**: Loraketh, Fenorith, Zorathis, Shaerith
-- **-ar/-or**: Zyltar, Vorien, Vosir
-- **-yn/-yn**: Telynn, Brynthe
-- **-is/-os**: Myralis, Xenros, Velathis
-- **-vale/-fall**: Thornvale, Ashenfall
-- **-orne/-thar**: Kaelthorne, Arlithar
+## Place Lines
 
-## Construction patterns
+Names that mark the home of the line. They use *Dan-*, from the Hausa word for "child of". It does not change with gender.
 
-1. **Compound**: \[Environmental/thermal term\] + \[geographical feature\]
-    - Ash + fall = Ashenfall, Thorn + vale = Thornvale
-2. **Native**: 2-3 syllables, mixed consonant clusters
-    - Vy + rask + a = Vyraska, Kae + lir + is = Kaeliris
-3. **Hybrid**: Blend Earth and Duskaran elements
-    - Fen + or + ith = Fenorith
+Dan-Bahari, Dan-Birni, Dan-Harmatan, Dan-Liko, Dan-Bukal, Dan-Patag, Dan-Angataa, Dan-Liwanag
 
-# Name Assembly Process
+Nomads and people of small settlements often have no line name. They use the place itself: *Mosi of Shan-Feŋ*.
 
-## Step 1: Choose Gender Expression
+## Joined Lines
 
-Determine if the name should be feminine, masculine, or neutral
-
-## Step 2: Select Starting Sound
-
-Pick an initial consonant or cluster that fits the character's nature:
-
-- Hard survivors: K-, Th-, Z-, Kr-, Dr-
-- Adaptable types: L-, V-, S-, Sh-, Zh-
-- Psychic/spiritual: Ae-, Ny-, Ry-
-
-## Step 3: Build Core Syllables
-
-Add 1-2 middle syllables using:
-
-- Common patterns: ya, ra, el, or, yn, is, ar
-- Vowel sequences: ae, ai, ey, or
-- Consonant clusters: ry, ly, th, sh
-
-## Step 4: Apply Appropriate Ending
-
-Choose from gender-appropriate endings listed above
-
-## Step 5: Test Pronunciation
-
-- Say it aloud—should flow smoothly
-- Avoid awkward consonant collisions
-- Ensure 2-4 syllables maximum
-
-## Step 6: Add Surname
-
-Select or create a surname using compound or native patterns
+A few families keep the lines of both parents, joined with a hyphen: *Kamau-Chen*. This is most common in the Elder lineage.
 
 # Cultural Considerations
 
-## Regional Variations
+## Regional Tendencies
 
-**Twilight Belt settlements**:
+- **Heartland (Tanga-Bahari)**: all stocks, evenly mixed. Place lines with *Dan-* are common.
+- **North (Tanga-Barafu)**: more crew names and Chinese ship lines.
+- **Harmatan and the caravan roads**: more Hausa names and West African lines.
+- **Deepkin**: short names of one or two syllables, from any stock (Kai, Lian, Tala, Shani). Craft lines are common, because a cave community counts its founders by their work.
+- **Dayward Edge**: Duskaran names of heat and light (Sora, Kara), and often no line name.
 
-- Tend toward wind/storm-related sounds
-- Harder consonants, reflecting environmental harshness
-- Examples: Thryne Stormridge, Zade Thornvale
+## Naming and Psychic Ability
 
-**Night-side cave dwellers**:
-
-- Softer sounds, more vowel-rich
-- Names often shorter, more whispered
-- Examples: Lyanne Velseris, Feryn Loraketh
-
-**Day-side workers** (rare):
-
-- Sharp, heat-evocative sounds
-- Strong emphasis on harsh consonants
-- Examples: Khoran Ashenfall, Zhyrin Ryshar
-
-## Psychic Ability Influences
-
-**Weatherworkers**:
-
-- Names often contain wind-like sibilants (sh, zh, s)
-- Examples: Shavina, Zhayrin, Saeris
-
-**Thermal Sensors**:
-
-- Names with hard stops and thermal associations
-- Examples: Kaleth, Tyras, Ferith
-
-**Deep Bonders**:
-
-- Flowing, connected sounds
-- Examples: Luyana, Elorin, Velathis
+A name does not predict an ability. A person who manifests an ability may take a second name at the Rite of the Winds or later, and a Duskaran name is the usual choice: a weatherworker may add *Hangapole*, a water finder *Sura*.
 
 ## Naming Ceremonies
 
-Names are typically given in infancy but can be amended or expanded upon demonstrating psychic abilities or achieving significant milestones. Some individuals earn additional names reflecting their roles or accomplishments.
-
-# Examples of Name Construction
-
-1. **Female weatherworker from twilight belt**:
-
-    - Start: Sh- (wind sound)
-    - Core: -av-in- (flowing)
-    - End: -a (feminine)
-    - Wind-Kin: kin-Hanga (Wind clan)
-    - Surname: Thornvale (compound)
-    - **Full formal**: Shavina kin-Hanga Thornvale
-    - **Common formal**: Shavina Thornvale
-
-2. **Male thermal sensor from cave settlement**:
-
-    - Start: Ky- (sharp)
-    - Core: -r-eth (thermal)
-    - End: (built into core)
-    - Wind-Kin: kin-Moto (Fire clan)
-    - Surname: Velseris (native)
-    - **Full formal**: Kyreth kin-Moto Velseris
-    - **Common formal**: Kyreth Velseris
-
-3. **Gender-neutral deep bonder**:
-
-    - Start: Ae- (mystical)
-    - Core: -l- (flowing)
-    - End: -ith (neutral)
-    - Wind-Kin: kin-Maji (Water clan)
-    - Surname: Loraketh (native)
-    - **Full formal**: Aelith kin-Maji Loraketh
-    - **Common formal**: Aelith Loraketh
-
-4. **Cave dweller from night-side**:
-
-    - Start: L- (soft)
-    - Core: -uy-an- (vowel-rich)
-    - End: -a (feminine)
-    - Wind-Kin: kin-Kivuli (Shadow clan)
-    - Surname: Ashenfall (compound)
-    - **Full formal**: Luyana kin-Kivuli Ashenfall
-    - **Common formal**: Luyana Ashenfall
-
-# Quick Reference Tables
-
-## Common Prefixes
-
-| Prefix  | Sound | Usage                 |
-|---------|-------|-----------------------|
-| Ae-     | /eɪ/  | Mystical, psychic     |
-| Kh-     | /x/   | Strong, resilient     |
-| Zh-     | /ʒ/   | Adaptable, flowing    |
-| Th-     | /θ/   | Traditional, grounded |
-| Zy-/Zy- | /zi/  | Sharp, quick          |
-| Ly-     | /li/  | Graceful, bonding     |
-
-## Common Suffixes
-
-**Feminine**: -a, -ra, -na, -ssa, -elle, -yne, -is, -e, -i, -th
-
-**Masculine**: -or, -ic, -el, -yn, -os, -ar, -en, -eth
-
-**Neutral**: -yn, -el, -th, -is, -en, -ar, -os
-
-## Surname Components
-
-**First elements**: Thorn, Ash, Ember, Storm, Frost, Shadow, Dusk, Wind, Flame
-
-**Second elements**: -vale, -fall, -ridge, -crest, -thorn, -lyn
-
-**Native forms**: -eth, -ith, -ar, -or, -yn, -is, -os, -orne, -thar
-
-# Duskaran Naming Examples
-
-This document provides examples of Duskaran names in various contexts and formats.
-
-## Name Structure
-
-Duskaran names follow a three-part structure established over eight centuries:
-
-1. **Personal name** (given at birth)
-2. **Wind-Kin designation** (clan affiliation, optional in casual use)
-3. **Surname** (family name)
-
-## Usage Contexts
-
-### Full Formal (All three parts)
-
-Used in official documents, ceremonies, formal introductions, and when clan affiliation matters.
-
-**Examples:**
-
-- Aelira kin-Hanga Thornvale
-- Korvan kin-Moto Vyraska
-- Shavina kin-Maji Loraketh
-- Thane kin-Babu Daemir
-- Luyana kin-Kivuli Ashenfall
-- Kaelen kin-Hanga Rynthar
-
-### Common Formal (Personal + Surname)
-
-Used in most written communication, professional contexts, and daily interactions where formality is expected but clan emphasis is unnecessary.
-
-**Examples:**
-
-- Aelira Thornvale
-- Korvan Vyraska
-- Shavina Loraketh
-- Thane Daemir
-- Luyana Ashenfall
-- Kaelen Rynthar
-
-### Casual (Personal name only)
-
-Used among friends, family, and in informal settings.
-
-**Examples:**
-
-- Aelira
-- Korvan
-- Shavina
-- Thane
-- Luyana
-- Kaelen
-
-## Wind-Kin Clans
-
-### kin-Hanga (Wind Clan)
-
-Surface dwellers, weatherworkers, those who work with wind patterns.
-
-**Example characters:**
-
-- Zorathi kin-Hanga Stormridge (female weatherworker)
-- Darian kin-Hanga Emberlyn (male wind engineer)
-- Miren kin-Hanga Velkara (neutral atmospheric monitor)
-
-### kin-Moto (Fire/Geothermal Clan)
-
-Thermal specialists, geothermal engineers, day-side workers.
-
-**Example characters:**
-
-- Zihara kin-Moto Kryther (female thermal sensor)
-- Ravik kin-Moto Ashenfall (male day-side salvager)
-- Soren kin-Moto Zhayran (neutral geothermal technician)
-
-### kin-Maji (Water Clan)
-
-Water managers, conservationists, hydroponic farmers.
-
-**Example characters:**
-
-- Manya kin-Maji Loraketh (female water systems manager)
-- Orin kin-Maji Thornvale (male hydroponic specialist)
-- Lyris kin-Maji Orvalis (neutral moisture harvester)
-
-### kin-Babu (Elder Lineage)
-
-Knowledge keepers, historians, traditional families, cultural preservationists.
-
-**Example characters:**
-
-- Luminara kin-Babu Daemir (female data crystal keeper)
-- Thane kin-Babu Rynthar (male oral historian)
-- Kaelen kin-Babu Luyareh (neutral memory specialist)
-
-### kin-Kivuli (Shadow Clan)
-
-Deepkin, night-side cave dwellers, those who live in permanent darkness.
-
-**Example characters:**
-
-- Luyana kin-Kivuli Ashenfall (female cave community leader)
-- Zayne kin-Kivuli Velkara (male deep bonder)
-- Miren kin-Kivuli Kethri (neutral geothermal monitor)
-
-## Dialogue Examples
-
-### Formal Introduction
-
-"I present Aelira kin-Hanga Thornvale, weatherworker of the Northern Reach settlements."
-
-### Casual Meeting
-
-"Have you met Aelira? She's the new weatherworker."
-
-### Official Document
-
-"Requisition approved by Korvan kin-Moto Vyraska, Chief Thermal Engineer, Dayward Mining Operations."
-
-### Letter Salutation
-
-"Dear Shavina Loraketh,
-
-Thank you for your inquiry regarding water allocation..."
-
-### Between Friends
-
-"Thane says the storm's going to hit us harder than expected."
-
-## Character Sheet Examples
-
-### Full Character Sheet Header
-
-**Name:** Zorathi kin-Hanga Stormridge  
-**Clan:** Wind (kin-Hanga)  
-**Role:** Senior Weatherworker  
-**Settlement:** Northern Reach
-
-### Simplified Character Sheet
-
-**Name:** Zorathi Stormridge  
-**Role:** Weatherworker  
-**Settlement:** Northern Reach
-
-### Quick Reference
-
-**Name:** Zorathi  
-**Clan:** Wind  
-**Role:** Weatherworker
-
-## Multi-Cultural Examples
-
-### Mixed Clan Family
-
-When individuals from different clans marry, children typically take one parent's clan affiliation but may reference both informally:
-
-- Ravik kin-Moto Thornvale (father from kin-Hanga, mother from kin-Moto)
-- "Ravik of Thornvale, born to the Wind but walks with Fire"
-
-### Clan Transition
-
-Some individuals change clan affiliation due to life circumstances or professional specialization:
-
-- Formerly: Kaelen kin-Hanga Rynthar
-- Now: Kaelen kin-Kivuli Rynthar (moved to night-side caves)
-- Referred to as: "Kaelen Windborn of the Shadow clan"
-
-### No Clan Affiliation
-
-Some individuals, particularly those from isolated settlements or mixed backgrounds, may not claim a clan:
-
-- Personal name + Surname only
-- Example: Miren Velkara (no clan designation)
-- Referred to with settlement name instead: "Miren of Deephollow"
-
-## Generational Examples
-
-### Family Lineage
-
-**Grandfather:** Thoran kin-Hanga Thornvale  
-**Mother:** Aelira kin-Hanga Thornvale  
-**Daughter:** Zorathi kin-Hanga Thornvale
-
-Surnames pass through generations, Wind-Kin affiliations typically do as well, but personal names are unique within immediate family.
-
-### Compound Family Names
-
-Some prestigious families maintain both parents' surnames:
-
-- Korvan kin-Moto Vyraska-Thornvale
-- More common in Elder lineage (kin-Babu)
-
-## Regional Variations
-
-### Twilight Belt Settlements
-
-Tend toward full formal names in official contexts, common formal in daily use.
-
-- Written: Aelira kin-Hanga Thornvale
-- Spoken: Aelira Thornvale
-
-### Night-Side Caves
-
-More casual, clan often implied by location rather than stated.
-
-- Written: Luyana Ashenfall of Deephollow
-- Spoken: Luyana (clan assumed to be kin-Kivuli)
-
-### Nomadic Groups
-
-Some groups don't use fixed surnames, instead use settlement names:
-
-- Miren of Windcross
-- Soren of the Moving Camps
-
-## Honorifics and Titles
-
-When combined with names, titles precede the full name:
-
-- Weathermaster Aelira kin-Hanga Thornvale
-- Chief Engineer Korvan kin-Moto Vyraska
-- Elder Thane kin-Babu Daemir
-- Deepguide Luyana kin-Kivuli Ashenfall
-
-Casual with title:
-
-- Weathermaster Aelira
-- Chief Korvan
-- Elder Thane
-- Guide Luyana
-
-## Names in Different Media
-
-### On wind-songs (oral tradition)
-
-"Listen to the tale of Aelira of Thornvale, who tamed the great storm..."
-
-### On data crystals (formal records)
-
-"Record: Aelira kin-Hanga Thornvale, Weatherworker Third Class, certified Cycle 8,429..."
-
-### On settlement rosters
-
-"Thornvale, Aelira (kin-Hanga) - Weatherworker"
-
-### In casual letters
-
-"Dear Aelira,
-
-Hope this finds you well..."
-
-## Common Mistakes to Avoid
-
-❌ Using clan designation in casual conversation between friends  
-✅ Use personal name only: "Aelira says the storm will pass soon"
-
-❌ Omitting clan in official documents  
-✅ Always use full formal: "Approved by Aelira kin-Hanga Thornvale"
-
-❌ Adding unnecessary complexity  
-✅ Match formality to context
-
-❌ Mixing Earth and Duskaran conventions incorrectly  
-✅ Follow established patterns for surnames
-
-## Quick Reference Chart
+Names are given in infancy and can be amended or expanded when a person shows a psychic ability or reaches a significant milestone. Some people earn additional names for their role in the community, such as "Windweaver" or "Deepguide". These are titles and are spoken in the common tongue of the text.
+
+# Examples
+
+| Full formal | Who |
+|-------------|-----|
+| Amira kin-Hanga Wekesa | weatherworker of the heartland |
+| Meilin kin-Kivuli Motokazi | Deepkin thermal engineer |
+| Tanko kin-Kivuli Dalisay | shadow walker and caravan guide |
+| Mairo kin-Hanga Bello | senior water judge, born in Harmatan |
+| Kalinaw kin-Kivuli Lawan | apprentice Lorekeeper of a cave community |
+| Tao kin-Moto Gao | resource coordinator of Cheŋ-Angataa |
+| Neema kin-Babu Siriji | archivist of a guild house |
+| Kito kin-Hanga Zaŋgo | caravan leader |
+| Sora Danjuma | caravan guard, no clan stated |
+| Mosi of Shan-Feŋ | nomad, no line name |
+
+## Usage
 
 | Context | Format | Example |
 |---------|--------|---------|
-| Official ceremony | Full formal | Aelira kin-Hanga Thornvale |
-| Legal document | Full formal | Aelira kin-Hanga Thornvale |
-| Professional intro | Common formal | Aelira Thornvale |
-| Written letter | Common formal | Aelira Thornvale |
-| Daily conversation | Common formal | Aelira Thornvale |
-| Among friends | Casual | Aelira |
-| Family | Casual | Aelira |
-| Wind-songs | Varies | Aelira of Thornvale |
+| Ceremony, legal document | Full formal | Amira kin-Hanga Wekesa |
+| Professional introduction, letter | Common formal | Amira Wekesa |
+| Friends and family | Casual | Amira |
+| Settlement roster | Line first | Wekesa, Amira (kin-Hanga) |
+| Wind-song | Varies | Amira of the Wekesa |
+| With a title | Title first | Weathermaster Amira kin-Hanga Wekesa; Elder Juma |
+
+## Family and Clan
+
+- **Lineage**: Tahiru kin-Hanga Wekesa (grandparent), Amira kin-Hanga Wekesa (parent), Zuri kin-Hanga Wekesa (child). The line name and usually the Wind-Kin pass down. A personal name is not repeated inside the close family while its bearer lives.
+- **Mixed clans**: a child takes the clan of one parent. *Idi kin-Moto Kamau* may be "born to the Wind and walking with Fire".
+- **Clan change**: a person who moves to the caves may become *kin-Kivuli* and keep the line name.
+- **No clan**: personal name and line name only (*Neema Lin*), or personal name and place.
+
+# Building a Name
+
+1. Choose the stock of the personal name. Let the family and the region guide the choice, not the appearance of the character.
+2. Take a name from the lists, or make a Duskaran name from one or two Creole words of the Language Handbook, with the modifier second (*Hanga* + *pole*).
+3. Check the sounds against "Sound and Spelling".
+4. Choose a line name: ship, craft or place. A mix is normal (*Meilin Kamau*, *Juma Chen*).
+5. Add the Wind-Kin for formal use.
+6. Check the name against the other names in the same story. Avoid two names that begin with the same syllable.
+
+# Pitfalls
+
+- No English-style or invented fantasy names (Aelira, Korvan, Thornvale, Stormridge). `CANON_REMAPPING.md` lists replacements for the characters of the existing stories.
+- No endings that mark gender.
+- No match between a name and a look. Names and appearance separated long ago.
+- No apostrophes and no doubled consonants for effect.
 
 # License
 

@@ -15,31 +15,31 @@ Before you start, define lines that should not be crossed. Pause or rewind the g
 
 ## Welcome to the Twilight
 
-Eight hundred years ago, the colony ship *Stellar Horizon* limped into orbit around an unknown world. Navigation systems shattered by a solar storm, life support failing, the crew had no choice but to land on the only marginally habitable planet they could reach: Duskara.
+Eight hundred Ancestor Cycles ago, the colony ship *Stellar Horizon* limped into orbit around an unknown world. Navigation systems shattered by a stellar storm, life support failing, the crew had no choice but to land on the only marginally habitable planet they could reach: Duskara.
 
 This was not the promised world of Kepler-442b. This was something else entirely.
 
-Duskara is **tidally locked**—one face forever scorched by its sun, the other frozen in eternal night. Between these extremes lies the **twilight belt**, a narrow band 200-300 kilometers wide where temperatures allow liquid water and human survival. Here, in perpetual dusk, humanity has not merely survived—it has adapted, evolved, and thrived.
+Duskara is **tidally locked**: one face forever scorched by its sun, the other frozen in eternal night. Between these extremes lies the **twilight belt**, a narrow band 200-300 kilometers wide where temperatures allow liquid water and human survival. Here, in perpetual twilight, humanity has not merely survived; it has adapted, evolved, and thrived.
 
 ## A World of Extremes
 
-**The Day Side:** Temperatures exceed 400°C. Radiation scours the rock. No human can survive unshielded. Robotic mining operations push into this hellscape, extracting rare alloys and crystals while fighting constant equipment failure. Salvage crews—"daywalkers" with exceptional thermal resistance—venture to the margins when machines fail, risking their lives for premium compensation.
+**The Day Side:** Temperatures exceed 200°C. Radiation scours the rock. No human can survive unshielded. Robotic mining operations push into this hellscape, extracting rare alloys and crystals while fighting constant equipment failure. Salvage crews, "daywalkers" with exceptional thermal resistance, venture to the margins when machines fail, risking their lives for premium compensation.
 
 **The Twilight Belt:** Home to 80% of humanity. Linear cities stretch along the habitable zone, their architecture harmonizing with the eternal wind. Temperatures range from temperate to moderately warm. Vertical farms grow crops in controlled microclimates. Every settlement is fortress and garden both, resilient and beautiful. But the wind never stops, and where hot meets cold, superstorms rage.
 
-**The Night Side:** Frozen darkness broken only by auroras and geothermal vents. Cave-dwelling communities of 50,000 to 150,000 cluster around warmth sources, developing distinct cultures and psychic abilities tied to resonance and vibration. Ice harvesting sustains the twilight belt. The Deep Roads—ancient tunnel networks of uncertain origin—connect scattered outposts through kilometers of stone.
+**The Night Side:** Frozen darkness broken only by auroras and geothermal vents. Cave-dwelling communities of 50,000 to 150,000 cluster around warmth sources, developing distinct cultures and psychic abilities tied to resonance and vibration. Ice harvesting sustains the twilight belt. The Deep Roads, ancient tunnel networks of uncertain origin, connect scattered outposts through kilometers of stone.
 
 ## The Awakening
 
-Duskara's harsh conditions and unknown radiations awakened latent abilities in humanity. These psychic gifts—thermal sensing, weather working, deep bonding with native fauna—represent evolutionary communion with a new home.
+Duskara's harsh conditions and unknown radiations awakened latent abilities in humanity. These psychic gifts (thermal sensing, weather working, deep bonding with native fauna) represent evolutionary communion with a new home.
 
-**Weather workers** shape wind to guide ships and protect settlements. **Thermal sensitives** navigate day-side margins where others would perish. **Deep-cave dwellers** communicate through resonance, voices carrying through stone. **Beastwalkers** bond with wind serpents and thermal lizards. These abilities are celebrated, taught, and integrated into daily life—but overuse leads to psychic burnout.
+**Weather workers** shape wind to guide ships and protect settlements. **Thermal sensitives** navigate day-side margins where others would perish. **Deep-cave dwellers** communicate through resonance, voices carrying through stone. **Beastwalkers** bond with wind serpents and thermal lizards. These abilities are celebrated, taught, and integrated into daily life, but overuse leads to psychic burnout.
 
-## Eight Centuries of Adaptation
+## Eight Hundred Ancestor Cycles of Adaptation
 
-The *Stellar Horizon* carried perhaps a few thousand survivors. Now, 40 million descendants live across the twilight belt and caves. Population is tightly regulated—birth quotas maintain balance with carrying capacity. Superstorms, resource wars, and auroral disruptions have prevented unchecked growth.
+The *Stellar Horizon* carried perhaps a few thousand survivors. Now, 40 million descendants live across the twilight belt and caves. Population is tightly regulated: birth quotas maintain balance with carrying capacity. Superstorms, resource wars, and auroral disruptions have prevented unchecked growth.
 
-Culture blends Earth traditions with Duskaran innovations. Time is measured in wind cycles, not day and night. Architecture flows with environmental forces. Festivals celebrate the Storm Seasons, Thermal Shifts, and Geothermal Awakenings. Ancient Earth satellites still orbit, their data streams partially decoded but fragmentary.
+Culture blends Earth traditions with Duskaran innovations. Time is measured in wind cycles, not day and night. Architecture flows with environmental forces. Festivals celebrate the Storm Phases, Thermal Shifts, and Geothermal Awakenings. Ancient Earth satellites still orbit, their data streams partially decoded but fragmentary.
 
 Technology is sophisticated but sustainable: wind turbines, thermal exchangers, water reclamation systems. Every drop of water is precious. Every settlement depends on its neighbors. When one falters, the entire chain feels it.
 
@@ -56,7 +56,7 @@ In **Duskara: Stormtide**, you'll navigate this world of scarcity and wonder. Yo
 - Explore alien structures that predate humanity's arrival
 - Protect settlements from bandits exploiting resource crises
 
-Survival requires more than strength—it demands ingenuity, cooperation, and the willingness to catch your breath and face complications head-on.
+Survival requires more than strength; it demands ingenuity, cooperation, and the willingness to catch your breath and face complications head-on.
 
 # Core Mechanics
 
@@ -64,7 +64,7 @@ Survival requires more than strength—it demands ingenuity, cooperation, and th
 
 ## Checks
 
-When you attempt something risky or challenging, you make a **check** to see how it plays out. If an action isn't risky, you simply succeed—no roll needed.
+When you attempt something risky or challenging, you make a **check** to see how it plays out. If an action isn't risky, you simply succeed: no roll needed.
 
 **The GM telegraphs the risk** before you roll. Then:
 
@@ -97,7 +97,7 @@ Complications escalate tension and often lead to **stress**.
 
 ## Catch Your Breath
 
-To reset all your **skills** to their original ratings, you can **catch your breath**. This is a brief respite in tension—finding shelter during a storm, taking cover in ruins, resting at a settlement.
+To reset all your **skills** to their original ratings, you can **catch your breath**. This is a brief respite in tension: finding shelter during a storm, taking cover in ruins, resting at a settlement.
 
 **Catching your breath can be done at any time, even during combat or crisis.**
 
@@ -114,7 +114,7 @@ When you catch your breath, the GM looks at the scene and introduces a **new com
 
 ## Loot Checks
 
-When the fiction allows it—scavenging ruins, salvaging day-side mining drones, looting abandoned settlements—you can make a **loot check**.
+When the fiction allows it (scavenging ruins, salvaging day-side mining drones, looting abandoned settlements) you can make a **loot check**.
 
 You start with a **d12 loot die**, which steps down after each use. You may continue using it at d4, but at your own risk. To reset your loot die, you must **catch your breath**.
 
@@ -133,11 +133,11 @@ You start with a **d12 loot die**, which steps down after each use. You may cont
 
 When an item is reduced to **d4**, it either breaks, gets lost, or becomes irrelevant to the fiction. You can carry **3 items** and **1 med kit** at a time.
 
-**Med kits** are special items that clear **2 stress** when used. They don't degrade—they're consumed entirely.
+**Med kits** are special items that clear **2 stress** when used. They don't degrade; they're consumed entirely.
 
 ## Stunts
 
-When you attempt something extraordinary—a **stunt**—you roll a **d12** instead of your skill rating.
+When you attempt something extraordinary, a **stunt**, you roll a **d12** instead of your skill rating.
 
 Stunts represent heroic psychic feats, desperate gambits, or acts of ingenuity under pressure:
 
@@ -152,7 +152,7 @@ Stunts represent heroic psychic feats, desperate gambits, or acts of ingenuity u
 
 When you face complications, you may take **stress**. Stress represents physical exhaustion, psychic burnout, environmental exposure, or psychological strain.
 
-Track stress with boxes or tally marks. If you reach **4 stress**, your character becomes **vulnerable**—failing a dangerous check could mean being taken out or sudden death.
+Track stress with boxes or tally marks. If you reach **4 stress**, your character becomes **vulnerable**: failing a dangerous check could mean being taken out or sudden death.
 
 **Clearing Stress:**
 
@@ -216,13 +216,13 @@ You have **6 skills** that represent your capabilities. By default, all skills s
 
 Psychic abilities are common on Duskara but not universal. If you want one, choose from the list below or roll randomly.
 
-**Overuse causes psychic burnout**—represented by stress or skill degradation. The GM decides when you've pushed too hard.
+**Overuse causes psychic burnout**: represented by stress or skill degradation. The GM decides when you've pushed too hard.
 
 ### Psychic Abilities
 
 **1. Thermal Sensing:** Perceive heat signatures and temperature gradients with precision. Navigate day-side margins, detect hidden life, sense geothermal activity.
 
-**2. Weather Working:** Sense and subtly influence atmospheric patterns—wind speed, pressure changes, storm formation. Guide caravans, protect settlements, predict superstorms.
+**2. Weather Working:** Sense and subtly influence atmospheric patterns: wind speed, pressure changes, storm formation. Guide caravans, protect settlements, predict superstorms.
 
 **3. Deep Bonding:** Psychic connection to native fauna (wind serpents, thermal lizards, shadow stalkers). Communicate, command, and share senses with bonded creatures.
 
@@ -277,7 +277,7 @@ You also start with **1 med kit** (clears 2 stress).
 
 # Equipment & Resources
 
-Duskaran equipment blends Earth technology with eight centuries of adaptation. Everything is designed for durability, sustainability, and function in extreme environments.
+Duskaran equipment blends Earth technology with eight hundred Ancestor Cycles of adaptation. Everything is designed for durability, sustainability, and function in extreme environments.
 
 ## Weapons
 
@@ -393,14 +393,14 @@ Roll or choose when players catch their breath or checks produce complications:
 6. **Route is blocked.** Collapse, debris, or territorial creature cuts off your path.
 7. **You're running low.** Water, food, or thermal cells depleting faster than expected.
 8. **Unstable ground.** Tremors, crumbling stone, or shifting sand threatens footing.
-9. **Unwanted company.** Another group arrives—traders, scavengers, or faction agents.
+9. **Unwanted company.** Another group arrives: traders, scavengers, or faction agents.
 10. **Something feels wrong.** Psychic unease, unusual silence, or environmental oddity.
 11. **You left something behind.** Dropped item, forgotten cache, or visible tracks.
 12. **Local complication.** Adapt to current location (ruins = structural damage, caves = echo attracts creatures, settlement = authority questions you).
 
 **Using Complications Dynamically:**
 
-These complications are intentionally generic—interpret them based on current context:
+These complications are intentionally generic: interpret them based on current context:
 
 - **"You've attracted attention"** in ruins = thermal lizard. In settlement = suspicious guard. In Deep Roads = crevice eel senses vibrations.
 - **"Equipment malfunction"** = whatever makes sense. Wind compass in storm. Thermal suit near day side. Comm crystal underground.
@@ -459,8 +459,8 @@ Largest twilight belt city. Built around the *Stellar Horizon* crash site. Centr
 **Hooks:**
 
 - Rival factions vie for control of Earth archives
-- Storm season threatens to overwhelm defenses
-- Mysterious signal from *Stellar Horizon* wreckage activates after 800 years
+- Storm phase threatens to overwhelm defenses
+- Mysterious signal from *Stellar Horizon* wreckage activates after eight hundred Ancestor Cycles
 
 ### Khal-Rim (Population: 500,000)
 
@@ -585,7 +585,7 @@ Militant settlement positioned at the most volatile storm corridor in the twilig
 
 - The Tempest Wall: massive reinforced barrier system
 - Elite weatherworker corps trained in emergency storm deflection
-- Storm Archive: centuries of weather pattern data
+- Storm Archive: generations of weather pattern data
 - Early warning system serving entire twilight belt
 
 **Hooks:**
@@ -853,7 +853,7 @@ Duskara's native fauna has evolved to thrive in extreme conditions. Some species
 - Fragile wings (easily damaged)
 - Predictable (drawn to lichen blooms)
 
-**Encounter Notes:** Domesticated by night-side communities. Wings used for decorative purposes and ceremonial garments. Wild migrations signal seasonal ice shifts. Poaching is illegal in most settlements.
+**Encounter Notes:** Domesticated by night-side communities. Wings used for decorative purposes and ceremonial garments. Wild migrations signal ice shifts between wind phases. Poaching is illegal in most settlements.
 
 ## Thermal Bloom
 
@@ -861,7 +861,7 @@ Duskara's native fauna has evolved to thrive in extreme conditions. Some species
 
 **Size:** 1-2 meters diameter
 
-**Behavior:** Semi-mobile plant that migrates toward heat sources. Roots can detach and re-establish. Absorbs thermal energy for sustenance. Neither predator nor prey—environmental hazard.
+**Behavior:** Semi-mobile plant that migrates toward heat sources. Roots can detach and re-establish. Absorbs thermal energy for sustenance. Neither predator nor prey: environmental hazard.
 
 **Abilities:**
 
@@ -974,7 +974,7 @@ One of Duskara's strengths is its adaptability. GMs should feel empowered to cre
 - Bondable: requirements for psychic connection
 
 **Example:**
-**Pressure Slug** - Twilight belt creature (size: 20-50 cm). Feeds on atmospheric pressure differentials. Appears before superstorms, frantically feeding on pressure changes. Vibrates rapidly, producing audible hum. Domesticated by weatherworkers as storm warning system—hum frequency indicates storm intensity. Harvested mucus used in barometric instruments. Weird trait: explodes if exposed to stable pressure for more than 48 hours. Neutral to humans unless threatened.
+**Pressure Slug** - Twilight belt creature (size: 20-50 cm). Feeds on atmospheric pressure differentials. Appears before superstorms, frantically feeding on pressure changes. Vibrates rapidly, producing audible hum. Domesticated by weatherworkers as storm warning system: hum frequency indicates storm intensity. Harvested mucus used in barometric instruments. Weird trait: explodes if exposed to stable pressure for more than 48 hours. Neutral to humans unless threatened.
 
 ## Developing Psychic Abilities
 
@@ -1008,11 +1008,11 @@ One of Duskara's strengths is its adaptability. GMs should feel empowered to cre
 
 # GM Guidance
 
-Running **Duskara: Stormtide** is about balancing resource depletion with narrative tension. Breathless's mechanics—skills that degrade, complications that escalate, the need to catch your breath—mirror Duskara's scarcity-driven survival.
+Running **Duskara: Stormtide** is about balancing resource depletion with narrative tension. Breathless's mechanics (skills that degrade, complications that escalate, the need to catch your breath) mirror Duskara's scarcity-driven survival.
 
 ## Core GM Principles
 
-**1. Telegraph Risk:** Always tell players what they're risking before they roll. "If you fail, the superstorm will catch you before you reach shelter—that's 1 stress per hour exposed."
+**1. Telegraph Risk:** Always tell players what they're risking before they roll. "If you fail, the superstorm will catch you before you reach shelter: that's 1 stress per hour exposed."
 
 **2. Fail Forward:** Failure shouldn't stop the story. Complications create new challenges: "You don't find water, but you notice tracks leading deeper into the ruins. Something else is looking for water too."
 
@@ -1102,7 +1102,7 @@ Running **Duskara: Stormtide** is about balancing resource depletion with narrat
 
 **Rising Action:** Players make checks, skills degrade, complications arise. Let them decide when to catch their breath.
 
-**Complication (Catch Your Breath):** When players reset skills, introduce new threat from complication table. Don't punish them—escalate tension.
+**Complication (Catch Your Breath):** When players reset skills, introduce new threat from complication table. Don't punish them: escalate tension.
 
 **Climax:** Major challenge that resolves immediate threat but opens new questions or long-term consequences.
 
@@ -1110,7 +1110,7 @@ Running **Duskara: Stormtide** is about balancing resource depletion with narrat
 
 ## Using Complications Effectively
 
-Complications aren't predetermined events—they're prompts you interpret based on what's happening right now.
+Complications aren't predetermined events; they're prompts you interpret based on what's happening right now.
 
 **Roll "You've attracted attention":**
 
@@ -1121,18 +1121,18 @@ Complications aren't predetermined events—they're prompts you interpret based 
 **Roll "Equipment malfunction":**
 
 - During combat? Weapon jams, forcing tactical improvisation.
-- Extreme environment? Thermal suit regulator fails—take stress or retreat.
+- Extreme environment? Thermal suit regulator fails: take stress or retreat.
 - Critical moment? Comm crystal dies mid-transmission, losing vital intel.
 
 **Roll "Route is blocked":**
 
 - Pursuing bandits? They collapsed tunnel behind them.
 - Escaping superstorm? Debris avalanche cuts off shelter path.
-- Routine travel? Territorial creatures nest across your route—detour or confront.
+- Routine travel? Territorial creatures nest across your route: detour or confront.
 
 **Key Principle:** Let context shape complications. Don't introduce superstorms in caves or predators in settlements unless it makes fictional sense. The complication table is a springboard, not a script.
 
-**Frequency:** Complications happen often in Breathless—multiple per session. Keep them quick and tactical. Save major plot events (settlement disputes, ancient reactivations, faction wars) for deliberate story moments, not random complication rolls.
+**Frequency:** Complications happen often in Breathless: multiple per session. Keep them quick and tactical. Save major plot events (settlement disputes, ancient reactivations, faction wars) for deliberate story moments, not random complication rolls.
 
 ## Balancing Resource Depletion
 
@@ -1156,33 +1156,33 @@ Complications aren't predetermined events—they're prompts you interpret based 
 
 ## Responding to Player Actions
 
-RPG storytelling emerges from player choices and system interactions. Don't plan outcomes—respond dynamically using Breathless mechanics and Duskaran context.
+RPG storytelling emerges from player choices and system interactions. Don't plan outcomes: respond dynamically using Breathless mechanics and Duskaran context.
 
 ### Players Track Bandits Into Ruins
 
 **Player Action:** "We follow the bandit tracks into the abandoned settlement."
 
-**GM Thinking:** *They're pursuing actively. Risk is moderate—bandits might be waiting, ruins might be unstable. I'll use complications to add texture without blocking progress.*
+**GM Thinking:** *They're pursuing actively. Risk is moderate: bandits might be waiting, ruins might be unstable. I'll use complications to add texture without blocking progress.*
 
 **GM Response:** "Make a Navigate check to follow the tracks through the debris."
 
 **Player Rolls:** 3-4 (success with complication)
 
-**GM Improvises Complication:** "You follow the tracks to a collapsed building. The bandits definitely went inside, but you hear movement—could be them, could be something else nesting in there. Also, your wind compass is acting erratic. Metallic interference from the ruins, maybe?"
+**GM Improvises Complication:** "You follow the tracks to a collapsed building. The bandits definitely went inside, but you hear movement: could be them, could be something else nesting in there. Also, your wind compass is acting erratic. Metallic interference from the ruins, maybe?"
 
-**Key Principle:** Let the check result tell you what happens next. Don't pre-plan the bandit ambush—let complications build toward it organically.
+**Key Principle:** Let the check result tell you what happens next. Don't pre-plan the bandit ambush; let complications build toward it organically.
 
 ### Players Repair Geothermal System
 
 **Player Action:** "I want to jury-rig the regulator with parts from our thermal lance."
 
-**GM Thinking:** *Creative solution. Resolve check, but risky—one mistake and the vent could destabilize faster.*
+**GM Thinking:** *Creative solution. Resolve check, but risky: one mistake and the vent could destabilize faster.*
 
 **GM Response:** "Love it. Make a Resolve check. If you fail, the lance is destroyed and the vent becomes more unstable."
 
 **Player Rolls:** 1-2 (fail with complication)
 
-**GM Improvises Complication:** "The lance shatters from thermal stress. Molten components spray—everyone take 1 stress from heat exposure. The vent's pressure is building faster now. You've got maybe hours instead of days."
+**GM Improvises Complication:** "The lance shatters from thermal stress. Molten components spray; everyone take 1 stress from heat exposure. The vent's pressure is building faster now. You've got maybe hours instead of days."
 
 **What Happens Next:** Let players respond. Do they evacuate? Find another solution? Call for outside help? The story emerges from their choices under pressure.
 
@@ -1192,7 +1192,7 @@ RPG storytelling emerges from player choices and system interactions. Don't plan
 
 **Player Action:** "I offer them half our water tokens to let us pass."
 
-**GM Thinking:** *Reasonable offer. But these aren't reasonable people—they're desperate. Commune check.*
+**GM Thinking:** *Reasonable offer. But these aren't reasonable people; they're desperate. Commune check.*
 
 **GM Response:** "Make a Commune check to see if they accept."
 
@@ -1220,11 +1220,11 @@ RPG storytelling emerges from player choices and system interactions. Don't plan
 
 **GM Thinking:** *Not what I expected, but it's cool and uses their ability. How does this work in the fiction?*
 
-**GM Response:** "Interesting. The serpent's been with you—it might have sensed them. Make a Commune check, and if you succeed, it can show you impressions of their scent trail."
+**GM Response:** "Interesting. The serpent's been with you; it might have sensed them. Make a Commune check, and if you succeed, it can show you impressions of their scent trail."
 
 **Player Rolls:** Success
 
-**GM Response:** "Through the bond, you feel the serpent's predatory focus. It detected multiple human scents moving underground. There's an entrance to the Deep Roads you hadn't noticed—partially hidden."
+**GM Response:** "Through the bond, you feel the serpent's predatory focus. It detected multiple human scents moving underground. There's an entrance to the Deep Roads you hadn't noticed: partially hidden."
 
 **Key Principle:** Say yes to creative ideas. Use checks to see how well they work. Let complications emerge from the fiction, not from blocking player agency.
 
@@ -1261,7 +1261,7 @@ RPG storytelling emerges from player choices and system interactions. Don't plan
 
 ## Managing Multiple Storylines
 
-**Main Plot:** Overarching campaign goal (stop rogue faction, decode ancient mystery, survive mega-storm season)
+**Main Plot:** Overarching campaign goal (stop rogue faction, decode ancient mystery, survive mega-storm phase)
 
 **Subplot A:** Character-driven personal goal (find lost family, master psychic ability, build reputation)
 
@@ -1275,7 +1275,7 @@ RPG storytelling emerges from player choices and system interactions. Don't plan
 
 **Player:** "Can I use weather working to create a localized fog to hide our approach?"
 
-**GM Response:** "That's awesome. This isn't a standard use, so it'll be a Stunt—roll d12 for Commune. If you succeed, you'll need to catch your breath before attempting another stunt, and the psychic effort will be draining."
+**GM Response:** "That's awesome. This isn't a standard use, so it'll be a Stunt: roll d12 for Commune. If you succeed, you'll need to catch your breath before attempting another stunt, and the psychic effort will be draining."
 
 **Player:** "Can my thermal sensitive detect if someone's lying by reading micro-temperature changes in their face?"
 
@@ -1283,7 +1283,7 @@ RPG storytelling emerges from player choices and system interactions. Don't plan
 
 **Player:** "Can we befriend this wind serpent instead of fighting it?"
 
-**GM Response:** "Maybe. It's territorial and aggressive, but if one of you has Deep Bonding, you could attempt to establish a connection. That would be a series of Commune checks over time. Without that ability, you'd need to find another way to earn its trust—offering food, protecting its nest, proving you're not a threat."
+**GM Response:** "Maybe. It's territorial and aggressive, but if one of you has Deep Bonding, you could attempt to establish a connection. That would be a series of Commune checks over time. Without that ability, you'd need to find another way to earn its trust: offering food, protecting its nest, proving you're not a threat."
 
 **Key Principle:** Say yes to creative solutions. Use Risk Oracle to assess difficulty. Let complications emerge naturally from bold choices.
 
@@ -1382,7 +1382,7 @@ Ask a yes/no question. Imagine the outcome. Roll a die based on the **likelihood
 
 **Context:** You're lost in the twilight belt after your caravan was ambushed.
 
-**Likelihood:** Likely (d8) — settlements are common along routes
+**Likelihood:** Likely (d8), settlements are common along routes
 
 **Roll:** 3 → "Yes, but…"
 
@@ -1453,15 +1453,15 @@ Roll a die based on control level:
 
 **Intent:** "I want to navigate through the dust storm to reach Aurora Bastion before the gates close."
 
-**Assessment:** Precarious (d6) — dust storm reduces visibility, but you know the general direction.
+**Assessment:** Precarious (d6), dust storm reduces visibility, but you know the general direction.
 
 **Roll:** 4 → "Risky. Make a check."
 
 **Check:** You roll your **Navigate** skill (currently d8). Result: 5 → Success!
 
-**Interpretation:** "You push through the dust storm, wind compass guiding you. As the settlement walls loom through the haze, you hear the warning bells—gates closing in minutes. You sprint the last hundred meters and slip through just as the heavy doors grind shut."
+**Interpretation:** "You push through the dust storm, wind compass guiding you. As the settlement walls loom through the haze, you hear the warning bells: gates closing in minutes. You sprint the last hundred meters and slip through just as the heavy doors grind shut."
 
-**Consequence:** Reduce Navigate skill to d6. You're exhausted—mark 1 stress.
+**Consequence:** Reduce Navigate skill to d6. You're exhausted: mark 1 stress.
 
 ## Solo-Specific Tables
 
@@ -1563,7 +1563,7 @@ Choose one framework or blend elements to create your own.
 - Use Complication Tables to generate crises
 - Each session, roll d6: 1-2 = resource depletes 1 point, 3-4 = stays same, 5-6 = improves 1 point
 - Morale changes based on how you resolve crises
-- Catch your breath = one week passes, resources shift
+- Catch your breath = one wind phase passes, resources shift
 
 ### 3. Caravan Escort
 
@@ -1628,7 +1628,7 @@ Solo play benefits from journaling. After each session, answer one or two prompt
 
 **Question Oracle:** "Are there caves within half a day's travel?" Context suggests it's the twilight belt with some cave access, so "Likely" = d8. Roll: 6 = "Yes, and…"
 
-**Interpretation:** "My resonance picks up extensive cavern networks just below the surface—larger than expected. They connect to the Deep Roads. There's shelter, but also potential danger."
+**Interpretation:** "My resonance picks up extensive cavern networks just below the surface: larger than expected. They connect to the Deep Roads. There's shelter, but also potential danger."
 
 **Update:** Note cave location on mental map.
 
@@ -1638,7 +1638,7 @@ Solo play benefits from journaling. After each session, answer one or two prompt
 
 **Frame Intent:** "I want to navigate to those caves before the storm hits."
 
-**Risk Oracle:** "How dangerous is this?" The storm is approaching but you know where caves are—"Manageable" = d8. Roll: 4 = "Risky. Make a check."
+**Risk Oracle:** "How dangerous is this?" The storm is approaching but you know where caves are: "Manageable" = d8. Roll: 4 = "Risky. Make a check."
 
 **Check:** Roll Navigate d10. Result: 7 = Success! "I guide the caravan to the cave entrance just as the first gusts hit. We descend into darkness."
 
@@ -1650,11 +1650,11 @@ Solo play benefits from journaling. After each session, answer one or two prompt
 
 **Frame Intent:** "I want to explore deeper to ensure no predators are near."
 
-**Risk Oracle:** "How safe is exploration?" Unknown cave, possible threats—"Precarious" = d6. Roll: 2 = "Very risky. Make a perilous check."
+**Risk Oracle:** "How safe is exploration?" Unknown cave, possible threats: "Precarious" = d6. Roll: 2 = "Very risky. Make a perilous check."
 
 **Perilous Check:** Roll Perceive d8. Result: 3 = "Success, but complication."
 
-**Interpretation:** "I detect no immediate threats, but my resonance picks up something else—rhythmic vibrations from deep below. Not natural. Not predator. Something mechanical."
+**Interpretation:** "I detect no immediate threats, but my resonance picks up something else: rhythmic vibrations from deep below. Not natural. Not predator. Something mechanical."
 
 **Consequence:** Reduce Perceive to d6. Mark 1 stress (perilous check complication).
 
@@ -1664,13 +1664,13 @@ Solo play benefits from journaling. After each session, answer one or two prompt
 
 **Frame Intent:** "I want to locate the source of the mechanical vibrations."
 
-**Risk Oracle:** "Can I reach it safely?" Deeper caves, unknown danger—"Precarious" = d6. Roll: 5 = "Not risky. You simply do it."
+**Risk Oracle:** "Can I reach it safely?" Deeper caves, unknown danger: "Precarious" = d6. Roll: 5 = "Not risky. You simply do it."
 
-**Interpretation:** "Following vibrations, I discover a chamber with ancient machinery—Earth tech from the *Stellar Horizon* era. Lights flicker weakly. A control panel shows partial functionality."
+**Interpretation:** "Following vibrations, I discover a chamber with ancient machinery: Earth tech from the *Stellar Horizon* era. Lights flicker weakly. A control panel shows partial functionality."
 
 **Action:** You decide to investigate the panel. "Can I interface with it?" Question Oracle: "Likely" = d8. Roll: 4 = "Yes, but…"
 
-**Interpretation:** "The panel responds to touch. A holographic display activates showing a map—but it's in a code you don't recognize. You'll need an Archivist to decode it."
+**Interpretation:** "The panel responds to touch. A holographic display activates showing a map, but it's in a code you don't recognize. You'll need an Archivist to decode it."
 
 **Loot Check:** You search the chamber. Roll d12 loot die: 9 = "You find a d10 item."
 
@@ -1688,7 +1688,7 @@ Solo play benefits from journaling. After each session, answer one or two prompt
 
 **GM Complication Roll:** (Using General Complications table, d12): 9 = "Unwanted company. Another group arrives."
 
-**Contextual Interpretation:** *We're in twilight belt near cave exit. Who would be here? Aurora Bastion is nearby—probably a patrol.*
+**Contextual Interpretation:** *We're in twilight belt near cave exit. Who would be here? Aurora Bastion is nearby: probably a patrol.*
 
 **Interpretation:** "As you emerge from caves, you encounter an Aurora Bastion patrol. Three guards block your path. The leader steps forward: 'These caves fall under our territory. You're carrying commercial cargo. That requires inspection and access fees.'"
 
@@ -1698,11 +1698,11 @@ Solo play benefits from journaling. After each session, answer one or two prompt
 
 **Frame Intent:** "I want to negotiate, pointing out we only used the caves for storm shelter, which is traditional right-of-passage."
 
-**Risk Oracle:** "How receptive are they?" Guards are rigid but not hostile—"Precarious" = d6. Roll: 3 = "Risky. Make a check."
+**Risk Oracle:** "How receptive are they?" Guards are rigid but not hostile: "Precarious" = d6. Roll: 3 = "Risky. Make a check."
 
 **Check:** You don't have good Commune, but you could use Perceive to read their body language and find the sympathetic guard. Roll Perceive d8: 6 = Success!
 
-**Interpretation:** "One guard—younger, less rigid—nods slightly when you mention traditional rights. You direct your argument to them. After tense discussion, they convince their commander to let you pass with reduced fee."
+**Interpretation:** "One guard (younger, less rigid) nods slightly when you mention traditional rights. You direct your argument to them. After tense discussion, they convince their commander to let you pass with reduced fee."
 
 **Consequence:** Pay 2 water tokens. Reduce Perceive to d6.
 
@@ -1720,7 +1720,7 @@ Solo play benefits from journaling. After each session, answer one or two prompt
 
 **Question Oracle:** "Do they agree?" "Very likely" = d10. Roll: 8 = "Yes, and…"
 
-**Interpretation:** "The Archivist agrees enthusiastically and offers bonus payment. They also promise to put in a good word with the Weatherworking Guild—your reputation grows."
+**Interpretation:** "The Archivist agrees enthusiastically and offers bonus payment. They also promise to put in a good word with the Weatherworking Guild: your reputation grows."
 
 ### Session End: Update Character
 
@@ -1742,7 +1742,7 @@ Solo play benefits from journaling. After each session, answer one or two prompt
 - Climbing kit (d8)
 - Med kit (unused)
 
-**Journal Entry:** *"Found ancient Earth machinery in caves below twilight belt. Data crystal recovered—Archivists extremely interested. Guards tried to shake us down but negotiated through. Storm nearly caught us but instincts saved the day. Beginning to wonder how much old tech is hidden beneath our feet. The Archivist mentioned the machinery's code might be similar to *Stellar Horizon* systems. Could there be a connection?"*
+**Journal Entry:** *"Found ancient Earth machinery in caves below twilight belt. Data crystal recovered: Archivists extremely interested. Guards tried to shake us down but negotiated through. Storm nearly caught us but instincts saved the day. Beginning to wonder how much old tech is hidden beneath our feet. The Archivist mentioned the machinery's code might be similar to *Stellar Horizon* systems. Could there be a connection?"*
 
 **Next Session Hook:** The Archivist proposes accompanying you back to the chamber for full investigation. But Deep Roads are dangerous, and someone else might have noticed your discovery...
 
@@ -1791,7 +1791,7 @@ These tables supplement GM-led and solo play, providing quick inspiration for lo
 14. Water Judge accused of hoarding resources. Investigate and deliver verdict.
 15. Night-side aurora intensifies, disrupting all communications. Deliver urgent message manually.
 16. Settlement elder dies, leaving succession dispute. Mediate or support candidate.
-17. Beastwalker's bond inverted—creature becomes aggressive. Diagnose and fix.
+17. Beastwalker's bond inverted: creature becomes aggressive. Diagnose and fix.
 18. Day-side salvage crew discovers functioning structure. Secure it before rivals arrive.
 19. Thermal inversion causes ecological chaos. Protect crops and livestock.
 20. Mysterious signal from uncharted Deep Roads section. Investigate with scout team.
@@ -1801,25 +1801,25 @@ These tables supplement GM-led and solo play, providing quick inspiration for lo
 Use these when players catch their breath, fail checks, or you need sudden drama.
 
 1. Superstorm intensifies; wind speed doubles, visibility drops to zero.
-2. Water cache you were relying on has been sabotaged—poisoned or stolen.
+2. Water cache you were relying on has been sabotaged: poisoned or stolen.
 3. Weather Wraith manifests, causing fear and disorientation.
 4. Wind serpent pack circles overhead, territorial and aggressive.
-5. Thermal lizard ambush—heat-seekers attracted to your campfire.
+5. Thermal lizard ambush: heat-seekers attracted to your campfire.
 6. Equipment failure: critical item breaks (wind compass, comm crystal, thermal suit).
 7. Geothermal vent destabilizes; ground tremors, heat spikes, eruption imminent.
-8. Bandit ambush—raiders demand supplies, information, or toll.
+8. Bandit ambush: raiders demand supplies, information, or toll.
 9. You're out of water tokens at the worst possible moment.
-10. Ancient structure reactivates—lights, sounds, unknown purpose.
-11. Inter-settlement dispute escalates—you're caught in the middle.
+10. Ancient structure reactivates: lights, sounds, unknown purpose.
+11. Inter-settlement dispute escalates; you're caught in the middle.
 12. Auroral disruption causes electromagnetic interference; comm crystals fail.
-13. Deep Roads section collapses behind you—must find alternate exit.
+13. Deep Roads section collapses behind you: must find alternate exit.
 14. Shadow stalker tracks your group through night-side caves.
-15. Psychic burnout wave—area of residual psychic feedback causes stress.
+15. Psychic burnout wave: area of residual psychic feedback causes stress.
 16. Dust storm from day side reduces visibility and lacerates exposed skin.
 17. Ice storm from night side threatens to freeze water sources and crops.
-18. Feral bonded creature attacks—former mount gone rogue.
+18. Feral bonded creature attacks: former mount gone rogue.
 19. Faction agent arrives with demands, threats, or inconvenient timing.
-20. Silent zone—wind stops inexplicably, precedes catastrophic storm.
+20. Silent zone: wind stops inexplicably, precedes catastrophic storm.
 
 ## Weather Events (d12)
 
@@ -1842,7 +1842,7 @@ When you loot ruins or salvage day-side operations, you might find:
 
 1. **Data Crystal Fragment** (corrupted Earth archives, requires decryption)
 2. **Medical Nanites** (heal 3 stress, one-time use, unstable)
-3. **Portable Solar Charger** (powers equipment, fragile)
+3. **Portable Photovoltaic Charger** (powers equipment, fragile)
 4. **Cryo-Preserved Seeds** (Earth crops, potential agriculture revolution)
 5. **AI Core Fragment** (partial *Stellar Horizon* AI, personality intact)
 6. **Atmospheric Analyzer** (detects environmental hazards, battery low)
@@ -1883,7 +1883,7 @@ When you loot ruins or salvage day-side operations, you might find:
 
 **Shadow Walking:** Psychic ability to move unseen in low-light environments.
 
-***Stellar Horizon*:** Colony ship that brought humanity to Duskara in ~2250 CE.
+***Stellar Horizon*:** Colony ship that brought humanity to Duskara in ~2200 CE.
 
 **Superstorm:** Catastrophic weather event with winds exceeding 150 km/h. Common where hot and cold air masses collide.
 
@@ -1895,7 +1895,7 @@ When you loot ruins or salvage day-side operations, you might find:
 
 **Weather Wraith:** Psychic manifestation in storm fronts. Echoes of dead weather workers.
 
-**Weather Working:** Psychic ability to sense and influence atmospheric patterns—wind, pressure, storms.
+**Weather Working:** Psychic ability to sense and influence atmospheric patterns: wind, pressure, storms.
 
 **Wind-Kin:** Alliance of Beastwalker communities and bonded creature populations.
 

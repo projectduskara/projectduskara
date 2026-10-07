@@ -7,27 +7,27 @@ last_update: First release
 
 # Introduction
 
-You are a lineage of **Archivists**, custodians of Duskaran history who chronicle the shifting tides of civilization across generations. Your ancestors built wind-cities along the twilight belt, carved sanctuaries in geothermal caverns, and survived where they were never meant to thrive. Eight centuries after the *Stellar Horizon* crashed on this tidally locked world, their descendants struggle to preserve what matters.
+You are a lineage of **Archivists**, custodians of Duskaran history who chronicle the shifting tides of civilization across generations. Your ancestors built wind-cities along the twilight belt, carved sanctuaries in geothermal caverns, and survived where they were never meant to thrive. Eight hundred Ancestor Cycles after the *Stellar Horizon* crashed on this tidally locked world, their descendants struggle to preserve what matters.
 
 The past is fluid. Some histories are lost, others reinterpreted, and each Archivist must decide what to remember, what to alter, and what to let fade into silence. Through your lineage, the evolving identity of Duskaran civilization will be told.
 
-This is a game about **recording history**, **interpreting change**, and **shaping memory** across the span of centuries.
+This is a game about **recording history**, **interpreting change**, and **shaping memory** across the span of generations.
 
 # The World of Duskara
 
-Duskara is a tidally locked planet where one face eternally burns under a K-class star while the other freezes in perpetual darkness. Only the **twilight belt**—a narrow band 200-300 kilometers wide—supports human life.
+Duskara is a tidally locked planet where one face eternally burns under a K-class star while the other freezes in perpetual darkness. Only the **twilight belt**, a narrow band 200-300 kilometers wide, supports human life.
 
 ## The Three Faces
 
-**The Day Side**: A radiation-scorched wasteland where temperatures exceed 400°C. Robotic mining operations extract rare materials from the margins, but human presence is impossible. The extreme heat drives the planetary winds that define all life in the twilight belt.
+**The Day Side**: A radiation-scorched wasteland where temperatures exceed 200°C. Robotic mining operations extract rare materials from the margins, but human presence is impossible. The extreme heat drives the planetary winds that define all life in the twilight belt.
 
 **The Twilight Belt**: The habitable zone where 80% of Duskara's population lives. Linear cities stretch along this narrow band, their architecture shaped by constant winds. Settlements cluster around geothermal vents, underground aquifers, and wind-harvesting arrays. Temperatures range from -5°C to 40°C depending on proximity to day or night. Superstorms are frequent. Water is precious.
 
-**The Night Side**: A frozen abyss where ice sheets kilometers thick cover the surface. Temperatures plunge below -100°C. Life exists only in deep caverns warmed by geothermal activity, where cave-dwelling communities have developed their own distinct culture, trading with twilight settlements through the Deep Roads—ancient tunnel networks that span the dark.
+**The Night Side**: A frozen abyss where ice sheets kilometers thick cover the surface. Temperatures plunge below -100°C. Life exists only in deep caverns warmed by geothermal activity, where cave-dwelling communities have developed their own distinct culture, trading with twilight settlements through the Deep Roads: ancient tunnel networks that span the dark.
 
 ## Human Adaptation
 
-Eight centuries of exposure to Duskara's environment have awakened latent psychic abilities in its people:
+Eight hundred Ancestor Cycles of exposure to Duskara's environment have awakened latent psychic abilities in its people:
 
 - **Thermal sensing**: Reading temperature gradients and heat signatures
 - **Weather working**: Limited influence over local wind patterns
@@ -61,7 +61,7 @@ Some Archivists maintain all forms. Others specialize. Records are incomplete, c
 
 ## Time Scale
 
-Each turn represents **one generation** (approximately 20-30 Earth years). The dating system uses **cycles**—a Duskaran orbital period of roughly 30-35 Earth days. By the present era (3000 CE), Duskara has experienced approximately 8,430 cycles since the crash (Cycle 0).
+Each turn represents **one generation** (approximately 20 to 30 Ancestor Cycles). The dating system uses **cycles**: a Duskaran orbital period of about 35 Earth days. By the present era (3000 CE), Duskara has experienced approximately 8,430 cycles since the crash (Cycle 0).
 
 ## What Changes Matter?
 
@@ -90,7 +90,7 @@ Each Archivist interprets events through their own perspective, biases, and the 
 
 Each generation experiences different levels of change:
 
-- **1-2**: A quiet period—only **one** major event occurs
+- **1-2**: A quiet period, only **one** major event occurs
 - **3-4**: **Two** significant events shape this era
 - **5-6**: **Three** events mark a time of upheaval or transformation
 
@@ -105,7 +105,7 @@ Each generation experiences different levels of change:
 
 - Shift to the next Archivist generation
 - Note how records were preserved, altered, or damaged in the transition
-- Update the date (add ~20-30 years or ~250-400 cycles)
+- Update the date (add ~20-30 Ancestor Cycles, or ~220-330 cycles)
 - Consider: What knowledge passed down? What was lost?
 
 ## Step 5: Continue Until the End
@@ -127,7 +127,7 @@ Each entry should include:
 
 **1. Date & Archivist**  
 *Format: "Archivist \[Name\], Cycle \[Number\], \[Era/Location\]"*  
-Example: "Archivist Kael Thornvale, Cycle 5,200, Third Deep Roads Era"
+Example: "Archivist Kai Shen, Cycle 5,200, Third Deep Roads Era"
 
 **2. Event Summary**  
 *1-3 sentences describing what occurred, influenced by d66 roll and card interpretation*
@@ -142,11 +142,11 @@ Example: "Archivist Kael Thornvale, Cycle 5,200, Third Deep Roads Era"
 
 > **Archivist Maren Zephyros, Cycle 7,845, Late Consolidation Era**
 >
-> The settlement of Windward Spire collapsed during a superstorm, its foundations undermined by decades of erosion. Survivors fled to neighboring cities, carrying what records they could salvage. *(d66 = 42, 10 of Diamonds)*
+> The settlement of Windward Spire collapsed during a superstorm, its foundations undermined by generations of erosion. Survivors fled to neighboring cities, carrying what records they could salvage. *(d66 = 42, 10 of Diamonds)*
 >
 > **Reflection:** I interviewed three families who escaped. Each told different stories about why the warnings were ignored. The ruling council's archives were lost. We will never know if they knew the danger and chose silence, or if they were as blind as everyone else.
 >
-> **Changed:** Windward Spire is now abandoned. Its population absorbed into three settlements—each of which now claims to be the "true heir" to its legacy. Already, the stories diverge. In twenty years, there will be three separate histories of what happened, and no way to reconcile them.
+> **Changed:** Windward Spire is now abandoned. Its population absorbed into three settlements, each of which now claims to be the "true heir" to its legacy. Already, the stories diverge. In twenty Ancestor Cycles, there will be three separate histories of what happened, and no way to reconcile them.
 
 # Card Suit Interpretations
 
@@ -158,19 +158,19 @@ When you draw a card, use these Duskara-specific interpretations to add depth to
 
 | Card | Prompt |
 |----|----|
-| **A** | This event will echo through generations—wind-songs will be composed, oral traditions will preserve it |
+| **A** | This event will echo through generations: wind-songs will be composed, oral traditions will preserve it |
 | **2** | An old Earth custom is revived, or a new Duskaran tradition is established |
 | **3** | A bond forms between settlements, families, or psychically linked individuals |
 | **4** | A child is born with remarkable abilities, or new arrivals join a settlement |
-| **5** | A celebration occurs—wind festivals, treaty signings, or remembrance gatherings |
+| **5** | A celebration occurs: wind festivals, treaty signings, or remembrance gatherings |
 | **6** | Knowledge passes to the next generation through formal apprenticeship or sacred ritual |
 | **7** | Reconciliation between cave dwellers and twilight settlers, or healing of old feuds |
 | **8** | Nostalgia for Earth's lost world, or longing for abandoned settlements |
-| **9** | A rift opens—settlements fracture, families divide over ideology or resource claims |
-| **10** | Isolation deepens—a settlement cuts communication, an Archivist is shunned, communities drift apart |
+| **9** | A rift opens: settlements fracture, families divide over ideology or resource claims |
+| **10** | Isolation deepens: a settlement cuts communication, an Archivist is shunned, communities drift apart |
 | **J** | A charismatic weatherworker, settlement leader, or visionary emerges |
-| **Q** | Elder wisdom guides decisions—council matriarchs, experienced Archivists, or psychic advisors |
-| **K** | A beloved figure shapes the era—a respected Accord mediator, settlement founder, or revered keeper |
+| **Q** | Elder wisdom guides decisions: council matriarchs, experienced Archivists, or psychic advisors |
+| **K** | A beloved figure shapes the era: a respected Accord mediator, settlement founder, or revered keeper |
 
 ## ♦ Diamonds (Resources & Survival)
 
@@ -178,19 +178,19 @@ When you draw a card, use these Duskara-specific interpretations to add depth to
 
 | Card | Prompt |
 |----|----|
-| **A** | A major discovery—new aquifer, intact Earth tech, rich mineral deposits in day-side margins |
+| **A** | A major discovery: new aquifer, intact Earth tech, rich mineral deposits in day-side margins |
 | **2** | Trade routes open between settlements, or barter agreements stabilize supply chains |
 | **3** | Salvage teams recover valuable materials from the *Stellar Horizon* or abandoned sites |
-| **4** | Basic survival needs are secured—water reclamation succeeds, crops yield surplus, geothermal vents stabilize |
+| **4** | Basic survival needs are secured: water reclamation succeeds, crops yield surplus, geothermal vents stabilize |
 | **5** | Wind turbine efficiency improves, thermal exchangers are refined, or construction techniques advance |
-| **6** | Abundance is achieved—grain stores overflow, water is plentiful, energy production exceeds demand |
-| **7** | Resources must be carefully rationed—drought threatens supplies, equipment wears down, reserves dwindle |
-| **8** | Something essential runs low—water sources diminish, replacement parts fail, food stores deplete |
-| **9** | Scarcity forces brutal choices—who receives water rations, which settlements to abandon, what knowledge to preserve |
-| **10** | Catastrophic loss—aquifer collapses, wind farm destroyed in superstorm, entire harvest ruined |
-| **J** | An opportunity appears—untapped geothermal site, salvageable satellite technology, new Deep Roads passage |
-| **Q** | Careful planning is required—engineers calculate infrastructure needs, Archivists determine what tech to preserve |
-| **K** | Major investment or expenditure—building new settlements, massive salvage operations, irrigation megaprojects |
+| **6** | Abundance is achieved: grain stores overflow, water is plentiful, energy production exceeds demand |
+| **7** | Resources must be carefully rationed: drought threatens supplies, equipment wears down, reserves dwindle |
+| **8** | Something essential runs low: water sources diminish, replacement parts fail, food stores deplete |
+| **9** | Scarcity forces brutal choices: who receives water rations, which settlements to abandon, what knowledge to preserve |
+| **10** | Catastrophic loss: aquifer collapses, wind farm destroyed in superstorm, entire harvest ruined |
+| **J** | An opportunity appears: untapped geothermal site, salvageable satellite technology, new Deep Roads passage |
+| **Q** | Careful planning is required: engineers calculate infrastructure needs, Archivists determine what tech to preserve |
+| **K** | Major investment or expenditure: building new settlements, massive salvage operations, irrigation megaprojects |
 
 ## ♣ Clubs (Conflict & Challenge)
 
@@ -198,19 +198,19 @@ When you draw a card, use these Duskara-specific interpretations to add depth to
 
 | Card | Prompt |
 |----|----|
-| **A** | A new threat emerges—superstorm intensifies, day-side mining operation turns hostile, disease spreads |
-| **2** | Settlements must unite—against environmental disaster, external pressure, or mutual enemy |
-| **3** | Rivalry develops—between weatherworker guilds, Archivist lineages, competing settlements |
-| **4** | Defenses are tested—windbreaks fail in storms, Deep Roads collapse, settlement walls crack |
-| **5** | Minor conflict erupts—trade disputes, border skirmishes, ideological arguments within councils |
-| **6** | Suspicion spreads—psychic abilities blamed for disasters, Archivists accused of falsification, strangers mistrusted |
-| **7** | A difficult decision divides opinion—whether to abandon a failing settlement, how to interpret ancient records |
-| **8** | External pressure intensifies—environmental conditions worsen, neighboring settlements make demands |
-| **9** | Internal rebellion—cave dwellers challenge twilight authority, factions dispute Accord leadership |
-| **10** | Major confrontation—settlements go to war over water, violent uprising against corrupt leaders |
-| **J** | An agitator appears—radical weatherworker challenging traditions, revolutionary questioning the Accord |
-| **Q** | Strategic resistance—guerrilla tactics in Deep Roads, careful preservation of forbidden knowledge |
-| **K** | Authority is challenged or asserted—Accord dissolves or strengthens, tyrants rise or fall |
+| **A** | A new threat emerges: superstorm intensifies, day-side mining operation turns hostile, disease spreads |
+| **2** | Settlements must unite: against environmental disaster, external pressure, or mutual enemy |
+| **3** | Rivalry develops: between weatherworker guilds, Archivist lineages, competing settlements |
+| **4** | Defenses are tested: windbreaks fail in storms, Deep Roads collapse, settlement walls crack |
+| **5** | Minor conflict erupts: trade disputes, border skirmishes, ideological arguments within councils |
+| **6** | Suspicion spreads: psychic abilities blamed for disasters, Archivists accused of falsification, strangers mistrusted |
+| **7** | A difficult decision divides opinion: whether to abandon a failing settlement, how to interpret ancient records |
+| **8** | External pressure intensifies: environmental conditions worsen, neighboring settlements make demands |
+| **9** | Internal rebellion: cave dwellers challenge twilight authority, factions dispute Accord leadership |
+| **10** | Major confrontation: settlements go to war over water, violent uprising against corrupt leaders |
+| **J** | An agitator appears: radical weatherworker challenging traditions, revolutionary questioning the Accord |
+| **Q** | Strategic resistance: guerrilla tactics in Deep Roads, careful preservation of forbidden knowledge |
+| **K** | Authority is challenged or asserted: Accord dissolves or strengthens, tyrants rise or fall |
 
 ## ♠ Spades (Endings & Transitions)
 
@@ -218,23 +218,23 @@ When you draw a card, use these Duskara-specific interpretations to add depth to
 
 | Card | Prompt |
 |----|----|
-| **A** | Something ends irrevocably—this event will reshape Duskaran civilization permanently |
-| **2** | A cycle completes—generational transition, settlement lifecycle, technological phase ends |
-| **3** | A departure—settlers leave for unexplored territories, cave dwellers seal themselves away, exodus begins |
-| **4** | Rest and respite—a quiet period after turmoil, time to consolidate and reflect |
-| **5** | Transformation begins—society shifts, technology evolves, beliefs change fundamentally |
-| **6** | A generation passes—the elders who remember Earth die, original settlers fade from living memory |
-| **7** | Acceptance of loss—settlements learn to live without what's gone, people adapt to new reality |
-| **8** | Something fades gradually—language loses words, traditions drift, knowledge slowly erodes |
-| **9** | Irrevocable change—psychic abilities manifest widely, environment shifts permanently, no return to old ways |
-| **10** | Total loss—settlement destroyed completely, knowledge erased beyond recovery, irreplaceable figure dies |
-| **J** | A harbinger appears—someone who sees the end coming, warnings of coming transformation |
-| **Q** | Wisdom in letting go—Archivists decide what not to preserve, settlements choose graceful decline |
-| **K** | A cycle ends with authority—Accord formally dissolves, last of a bloodline dies, era concludes definitively |
+| **A** | Something ends irrevocably: this event will reshape Duskaran civilization permanently |
+| **2** | A cycle completes: generational transition, settlement lifecycle, technological phase ends |
+| **3** | A departure: settlers leave for unexplored territories, cave dwellers seal themselves away, exodus begins |
+| **4** | Rest and respite: a quiet period after turmoil, time to consolidate and reflect |
+| **5** | Transformation begins: society shifts, technology evolves, beliefs change fundamentally |
+| **6** | A generation passes: the elders who remember Earth die, original settlers fade from living memory |
+| **7** | Acceptance of loss: settlements learn to live without what's gone, people adapt to new reality |
+| **8** | Something fades gradually: language loses words, traditions drift, knowledge slowly erodes |
+| **9** | Irrevocable change: psychic abilities manifest widely, environment shifts permanently, no return to old ways |
+| **10** | Total loss: settlement destroyed completely, knowledge erased beyond recovery, irreplaceable figure dies |
+| **J** | A harbinger appears: someone who sees the end coming, warnings of coming transformation |
+| **Q** | Wisdom in letting go: Archivists decide what not to preserve, settlements choose graceful decline |
+| **K** | A cycle ends with authority: Accord formally dissolves, last of a bloodline dies, era concludes definitively |
 
 ## Special Card: Ace of Spades
 
-When this card is drawn, the chronicle approaches its conclusion. Continue playing for 1-3 more generations, then write your final entry. The lineage of Archivists is reaching the end of its recorded history—for better or worse.
+When this card is drawn, the chronicle approaches its conclusion. Continue playing for 1-3 more generations, then write your final entry. The lineage of Archivists is reaching the end of its recorded history, for better or worse.
 
 # Event Tables
 
@@ -277,7 +277,7 @@ When this card is drawn, the chronicle approaches its conclusion. Continue playi
 | **63** | First contact occurs with a previously isolated community. |
 | **64** | A massive salvage operation recovers Earth technology from the *Stellar Horizon*. |
 | **65** | Philosophical debate erupts over humanity's purpose on Duskara. |
-| **66** | Evidence suggests the tidal lock may not be permanent—but the science is unclear. |
+| **66** | Evidence suggests the tidal lock may not be permanent: but the science is unclear. |
 
 ## Archivist Names (d66)
 
@@ -357,22 +357,22 @@ Pair with a surname from the Duskara Compendium for full names.
 | **16** | Woven tapestries depicting historical events in symbolic form |
 | **21** | Carved bone fragments inscribed with compressed text |
 | **22** | Glass plates etched with acid, stored in humidity-controlled vaults |
-| **23** | Living archives—psychically bonded organisms that retain memories |
+| **23** | Living archives: psychically bonded organisms that retain memories |
 | **24** | Metal sheets pressed with information, resistant to wind erosion |
 | **25** | Illuminated manuscripts on precious paper, illustrated elaborately |
 | **26** | Sound recordings on ancient magnetic tape, barely functional |
 | **31** | Stone circles with engraved rings marking generational events |
 | **32** | Crystal lattices that store information in molecular structure |
-| **33** | Shadow archives—records hidden in plain sight as architectural features |
+| **33** | Shadow archives: records hidden in plain sight as architectural features |
 | **34** | Thermal plates that reveal text only at specific temperatures |
 | **35** | Encoded star charts mapping historical events to celestial positions |
 | **36** | Layered murals painted in geothermal caverns |
-| **41** | Chain-link memory—physical chains where each link records one event |
+| **41** | Chain-link memory: physical chains where each link records one event |
 | **42** | Wind chimes tuned to produce historical data through sound patterns |
 | **43** | Preserved biological samples with genetic markers encoding information |
 | **44** | Resonance chambers where specific sound frequencies reveal knowledge |
 | **45** | Braided cords using colors and knots as information encoding |
-| **46** | Fossilized records—information sealed in artificial amber |
+| **46** | Fossilized records: information sealed in artificial amber |
 | **51** | Rotating cylinders etched with spiraling text |
 | **52** | Sand paintings in sealed chambers, photographed for preservation |
 | **53** | Psychically imprinted objects that share memories when touched |
@@ -384,7 +384,7 @@ Pair with a surname from the Duskara Compendium for full names.
 | **63** | Thermal-reactive paint that only shows text in specific conditions |
 | **64** | Brailled surfaces readable by touch in complete darkness |
 | **65** | Encrypted digital fragments scattered across multiple failing systems |
-| **66** | The Archivist's own memories—no external record exists |
+| **66** | The Archivist's own memories: no external record exists |
 
 ## A Truth They Preserve (d66)
 
@@ -407,11 +407,11 @@ Pair with a surname from the Duskara Compendium for full names.
 | **33** | The Duskaran Accord was founded through violent conflict, not diplomacy. |
 | **34** | Weather working was initially feared and persecuted. |
 | **35** | Early Archivists were executed for recording unpopular truths. |
-| **36** | Entire settlements vanished without explanation in the early centuries. |
+| **36** | Entire settlements vanished without explanation in the early generations. |
 | **41** | Native Duskaran life forms show signs of rudimentary intelligence. |
 | **42** | The satellites still receive signals from an unknown source. |
 | **43** | Some psychic abilities allow glimpses of alternative timelines. |
-| **44** | The tidal lock occurred gradually over centuries, not instantaneously. |
+| **44** | The tidal lock occurred gradually over many generations, not instantaneously. |
 | **45** | Deep Roads were partially built by something other than humans. |
 | **46** | Genetic engineering was practiced extensively in the first generations. |
 | **51** | The true purpose of the *Stellar Horizon* mission was never disclosed. |
@@ -442,7 +442,7 @@ Pair with a surname from the Duskara Compendium for full names.
 | **23** | They deciphered a warning in ancient Earth language: "Do not wake it." |
 | **24** | They discovered their predecessor Archivist was murdered, not naturally deceased. |
 | **25** | They have been bribed to omit specific events from the chronicle. |
-| **26** | They possess a device that could restore Earth communication—but it would destroy a settlement's power supply. |
+| **26** | They possess a device that could restore Earth communication: but it would destroy a settlement's power supply. |
 | **31** | They have psychic visions of the future but cannot prove their accuracy. |
 | **32** | They know who deliberately caused a major disaster. |
 | **33** | They are recording events that never happened to cover up what truly occurred. |
@@ -451,14 +451,14 @@ Pair with a surname from the Duskara Compendium for full names.
 | **36** | They know the exact date when the satellites will fail permanently. |
 | **41** | They possess pre-crash Earth music that contradicts official historical narrative. |
 | **42** | They discovered their own birth was part of a genetic engineering program. |
-| **43** | They know which settlements will survive and which will fall—but cannot warn them. |
+| **43** | They know which settlements will survive and which will fall: but cannot warn them. |
 | **44** | They intercepted an encoded message from someone claiming to be off-world. |
 | **45** | They have been ordered to destroy specific records but have secretly preserved them. |
 | **46** | They know the Duskaran Accord is preparing for civil war. |
 | **51** | They possess a substance from the day side that grants temporary psychic enhancement. |
 | **52** | They discovered their settlement was built atop a mass grave. |
 | **53** | They have been recording in a language only they can read. |
-| **54** | They know the true purpose of the Deep Roads—and it terrifies them. |
+| **54** | They know the true purpose of the Deep Roads: and it terrifies them. |
 | **55** | They possess a functioning Earth weapon that could devastate multiple settlements. |
 | **56** | They are dying and have no successor to pass their knowledge to. |
 | **61** | They have proof that some psychic abilities are artificially induced through technology. |
@@ -475,20 +475,20 @@ Pair with a surname from the Duskara Compendium for full names.
 | D66 | Legacy |
 |----|----|
 | **11** | Their most important work was immediately accepted and widely distributed. |
-| **12** | They died before finishing their chronicle—their successor must interpret fragments. |
+| **12** | They died before finishing their chronicle: their successor must interpret fragments. |
 | **13** | Their records were deemed heretical and ordered destroyed (some copies survive in secret). |
 | **14** | They trained three successors, each with a different interpretation of their methods. |
-| **15** | Their personal journals contradict their official archive—which is true? |
+| **15** | Their personal journals contradict their official archive: which is true? |
 | **16** | They were celebrated as the most truthful Archivist of their age. |
-| **21** | They defaced previous archives to "correct" history—how much did they alter? |
+| **21** | They defaced previous archives to "correct" history: how much did they alter? |
 | **22** | They hid their most important discovery where future Archivists might find it. |
 | **23** | They were exiled but continued recording from the margins. |
 | **24** | Their successor burned everything they wrote and started fresh. |
 | **25** | They encoded secrets into their chronicle that took generations to decipher. |
-| **26** | They became a legend—their actual work is now buried beneath myth. |
+| **26** | They became a legend: their actual work is now buried beneath myth. |
 | **31** | They preserved knowledge that saved a settlement from catastrophe. |
 | **32** | They falsified records so convincingly that no one will ever know. |
-| **33** | They were assassinated for what they knew—the archive was scattered. |
+| **33** | They were assassinated for what they knew: the archive was scattered. |
 | **34** | They deliberately created contradictory accounts to prevent any single truth from dominating. |
 | **35** | They vanished without explanation, leaving only cryptic final notes. |
 | **36** | Their work was ignored during their lifetime but later rediscovered as prophetic. |
@@ -496,20 +496,20 @@ Pair with a surname from the Duskara Compendium for full names.
 | **42** | They destroyed their own work in despair, believing all record-keeping to be futile. |
 | **43** | They maintained multiple secret archives, each containing different "truths." |
 | **44** | They were the last Archivist of their settlement before it fell. |
-| **45** | Their successor discovered they had been systematically lying for decades. |
+| **45** | Their successor discovered they had been systematically lying for most of their life. |
 | **46** | They became a political figure, using the archive as a tool of power. |
-| **51** | They spent their final years trying to destroy knowledge they regretted preserving. |
+| **51** | They spent their final Cycles trying to destroy knowledge they regretted preserving. |
 | **52** | They recorded events so accurately that later Archivists use their work as the definitive source. |
-| **53** | They went mad and wrote incomprehensible entries—or did they see something others could not? |
+| **53** | They went mad and wrote incomprehensible entries: or did they see something others could not? |
 | **54** | They achieved what they set out to preserve, but at a terrible personal cost. |
 | **55** | They were revealed to be working for an enemy faction the entire time. |
-| **56** | Their physical archive survived them by centuries, still legible and consulted. |
+| **56** | Their physical archive survived them by generations, still legible and consulted. |
 | **61** | They merged their consciousness with their archive through psychic means. |
 | **62** | They trained a successor who revolutionized the entire practice of record-keeping. |
-| **63** | They were forgotten—only their work remains, attribution lost. |
+| **63** | They were forgotten: only their work remains, attribution lost. |
 | **64** | They recorded knowledge that should never have been preserved. |
 | **65** | They became the subject of chronicles themselves, written by those who followed. |
-| **66** | They were the last of their lineage—the tradition ended with them. |
+| **66** | They were the last of their lineage: the tradition ended with them. |
 
 # Playing with the End
 
@@ -532,13 +532,13 @@ When the **Ace of Spades** is drawn, the chronicle enters its final phase. Play 
 
 > **Archivist Helion Valeris, Cycle 9,200, The Age of Reckoning**
 >
-> Seven generations of my lineage have recorded the rise and fracture of Duskaran civilization. We watched settlements flourish and fall. We preserved knowledge that saved lives and truths that destroyed faith. We were keepers, not judges—but every choice to record or omit was judgment nonetheless.
+> Seven generations of my lineage have recorded the rise and fracture of Duskaran civilization. We watched settlements flourish and fall. We preserved knowledge that saved lives and truths that destroyed faith. We were keepers, not judges, but every choice to record or omit was judgment nonetheless.
 >
-> The great archives are fragmenting. Cave dwellers no longer recognize twilight authority. Settlements rewrite their own histories to justify isolation. What we built—a shared chronicle of our species on this world—may not survive another generation intact.
+> The great archives are fragmenting. Cave dwellers no longer recognize twilight authority. Settlements rewrite their own histories to justify isolation. What we built, a shared chronicle of our species on this world, may not survive another generation intact.
 >
 > I have trained no successor. Perhaps that is wisdom. Let the next age find its own voice, unburdened by our certainties and compromises. I leave this final entry not as ending, but as threshold.
 >
-> The archive remains. It will outlast us all. Whether it is found, understood, or believed—that is no longer ours to control.
+> The archive remains. It will outlast us all. Whether it is found, understood, or believed, that is no longer ours to control.
 >
 > The wind remembers everything. Let it speak.
 

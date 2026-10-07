@@ -9,17 +9,17 @@ last_update: First release
 
 **Duskara: Children of the Twilight** is a GMless tabletop RPG for 1+ players about building community in the twilight between worlds. You are settlers in a linear city stretched across Duskara's habitable band, descendants of a lost colony ship learning to thrive on a tidally locked world that was never meant to be home.
 
-Eight centuries after landfall, your people have adapted—developing psychic abilities, mastering wind and thermal systems, forging bonds with native life. But adaptation is ongoing. Every cycle brings storms that test your infrastructure, questions about how to balance Earth traditions with Duskaran realities, and the choice between mere survival and building something worth passing forward.
+Eight hundred Ancestor Cycles after landfall, your people have adapted, developing psychic abilities, mastering wind and thermal systems, forging bonds with native life. But adaptation is ongoing. Every cycle brings storms that test your infrastructure, questions about how to balance Earth traditions with Duskaran realities, and the choice between mere survival and building something worth passing forward.
 
-This is planetary romance in the tradition of Le Guin—thoughtful, cultural, exploring what it means to become native to a place. Through cycles of nurturing (cradle) and protection (ward), you'll guide your community through challenges both practical and philosophical, creating a living story of people learning to belong to their world.
+This is planetary romance in the tradition of Le Guin: thoughtful, cultural, exploring what it means to become native to a place. Through cycles of nurturing (cradle) and protection (ward), you'll guide your community through challenges both practical and philosophical, creating a living story of people learning to belong to their world.
 
 ## Philosophy
 
-You are the wind-shaped people, keepers of memory and makers of new traditions. Your settlement clings to the twilight belt, that narrow band where life can flourish between scorching day and frozen night. The eternal wind howls at your walls, storms gather where temperature extremes collide, and every drop of water is precious. Yet you have not just survived—you have adapted, evolved, created beauty in your communion with this world's fierce rhythms.
+You are the wind-shaped people, keepers of memory and makers of new traditions. Your settlement clings to the twilight belt, that narrow band where life can flourish between scorching day and frozen night. The eternal wind howls at your walls, storms gather where temperature extremes collide, and every drop of water is precious. Yet you have not just survived; you have adapted, evolved, created beauty in your communion with this world's fierce rhythms.
 
-Through cycles of nurturing (cradle) and protection (ward), you face the questions that define any culture: How do we remember Earth while becoming children of Duskara? What technologies serve life, and which merely delay reckoning? How do we balance individual gifts—the thermal sensors, weather workers, bonded ones—with collective needs? Do we preserve the old ways, or embrace transformation?
+Through cycles of nurturing (cradle) and protection (ward), you face the questions that define any culture: How do we remember Earth while becoming children of Duskara? What technologies serve life, and which merely delay reckoning? How do we balance individual gifts (the thermal sensors, weather workers, bonded ones) with collective needs? Do we preserve the old ways, or embrace transformation?
 
-This is not a game of apocalyptic survival. It is a story of people learning to live well in a place that demands everything and gives back strange gifts. Your settlement will grow, struggle, adapt, and transform. Whether it thrives or fractures depends on your choices—not heroics, but the daily work of building something worth continuing.
+This is not a game of apocalyptic survival. It is a story of people learning to live well in a place that demands everything and gives back strange gifts. Your settlement will grow, struggle, adapt, and transform. Whether it thrives or fractures depends on your choices, not heroics, but the daily work of building something worth continuing.
 
 **The framework prioritizes:**
 
@@ -47,12 +47,12 @@ Choose or create a name that reflects your community's character. Duskaran settl
 
 Choose one that establishes your settlement's fundamental character:
 
-- **Agricultural Hub** — Vertical farms and hydroponics; you feed surrounding settlements and pride yourselves on making things grow despite Duskara's harshness
-- **Trading Crossroads** — Located where multiple Deep Road tunnels meet the surface; you're cosmopolitan, dealing with both twilight and cave dwellers
-- **Research Outpost** — Founded by those seeking to understand Duskara's mysteries; you maintain ancient Earth equipment and study native phenomena
-- **Refugee Gathering** — Recently formed by those displaced by catastrophic storms; diverse traditions clash and blend
-- **Frontier Watch** — On the edge of the habitable zone; you push boundaries, test limits, venture where others won't
-- **Elder City** — One of the first settlements; you carry deep memory but struggle with ossified traditions
+- **Agricultural Hub**: Vertical farms and hydroponics; you feed surrounding settlements and pride yourselves on making things grow despite Duskara's harshness
+- **Trading Crossroads**: Located where multiple Deep Road tunnels meet the surface; you're cosmopolitan, dealing with both twilight and cave dwellers
+- **Research Outpost**: Founded by those seeking to understand Duskara's mysteries; you maintain ancient Earth equipment and study native phenomena
+- **Refugee Gathering**: Recently formed by those displaced by catastrophic storms; diverse traditions clash and blend
+- **Frontier Watch**: On the edge of the habitable zone; you push boundaries, test limits, venture where others won't
+- **Elder City**: One of the first settlements; you carry deep memory but struggle with ossified traditions
 
 **Where along the twilight belt?**
 
@@ -66,17 +66,17 @@ Your position affects daily life:
 
 Choose 1-2 cultural touchstones:
 
-- **Earth Rememberers** — You carefully preserve customs, languages, and traditions from the homeworld
-- **Duskara-Born** — You embrace full adaptation, seeing yourselves as native to this world
-- **Psychic Traditions** — Weather workers, thermal sensors, and bonded ones hold formal status and training
-- **Techno-Preservationists** — You maintain and revere the old Earth technology
-- **Wind Singers** — Your culture centers on music, poetry, and oral traditions shaped by the constant wind
-- **Collective Governance** — Decisions made through consensus and careful deliberation
-- **Guild Structure** — Specialized roles (weather workers, engineers, farmers) organized into formal guilds
+- **Earth Rememberers**: You carefully preserve customs, languages, and traditions from the homeworld
+- **Duskara-Born**: You embrace full adaptation, seeing yourselves as native to this world
+- **Psychic Traditions**: Weather workers, thermal sensors, and bonded ones hold formal status and training
+- **Techno-Preservationists**: You maintain and revere the old Earth technology
+- **Wind Singers**: Your culture centers on music, poetry, and oral traditions shaped by the constant wind
+- **Collective Governance**: Decisions made through consensus and careful deliberation
+- **Guild Structure**: Specialized roles (weather workers, engineers, farmers) organized into formal guilds
 
 ## Time Scale: The Cycle System
 
-Each turn represents **one cycle**—approximately 15-20 Duskaran days, or roughly one-third of Duskara's 30-35 day orbital period around HD Xanthea. Three turns equal one full orbital period.
+Each turn represents **one cycle**, approximately 12 Duskaran days, or roughly one-third of Duskara's 35-day orbital period around HD Xanthea. Three turns equal one full orbital period.
 
 A cycle is long enough for:
 
@@ -94,31 +94,31 @@ This pacing balances immediate needs (food, water, storm preparation) with longe
 
 What does your settlement have in abundance or reliable access to?
 
-- **Wind Turbine Array** — Stable power generation from the eternal winds; lights stay on, systems run smoothly
-- **Deep Aquifer Access** — Reliable underground water source; you're never thirsty, can afford irrigation
-- **Vertical Farm Complex** — Multi-level agricultural system; food security and surplus for trade
-- **Thermal Exchange Network** — Sophisticated heating/cooling using temperature differentials; comfortable living spaces
-- **Storm Shelters** — Reinforced deep structures; your people weather superstorms safely
-- **Data Crystal Archive** — Extensive preserved knowledge from Earth; technical and cultural information
-- **Psychic Talent Pool** — Unusually high number of thermal sensors, weather workers, or bonded individuals
-- **Deep Road Connection** — Direct tunnel access to cave settlements; regular trade and cultural exchange
-- **Native Life Sanctuary** — Protected area where Duskaran creatures thrive; potential for bonding and study
-- **Salvage Stockpile** — Recovered components from the *Stellar Horizon* or ancient mining equipment
+- **Wind Turbine Array**: Stable power generation from the eternal winds; lights stay on, systems run smoothly
+- **Deep Aquifer Access**: Reliable underground water source; you're never thirsty, can afford irrigation
+- **Vertical Farm Complex**: Multi-level agricultural system; food security and surplus for trade
+- **Thermal Exchange Network**: Sophisticated heating/cooling using temperature differentials; comfortable living spaces
+- **Storm Shelters**: Reinforced deep structures; your people weather superstorms safely
+- **Data Crystal Archive**: Extensive preserved knowledge from Earth; technical and cultural information
+- **Psychic Talent Pool**: Unusually high number of thermal sensors, weather workers, or bonded individuals
+- **Deep Road Connection**: Direct tunnel access to cave settlements; regular trade and cultural exchange
+- **Native Life Sanctuary**: Protected area where Duskaran creatures thrive; potential for bonding and study
+- **Salvage Stockpile**: Recovered components from the *Stellar Horizon* or ancient mining equipment
 
 **Starting Challenges** (choose 1-2)
 
 What problems or tensions already exist?
 
-- **Failing Infrastructure** — Critical systems (water pumps, power grid, storm barriers) showing age and wear
-- **Resource Rationing** — One essential resource (water, food, power) insufficient for current population
-- **Superstorm Damage** — Recent massive storm destroyed part of the settlement; rebuilding ongoing
-- **Cultural Fracture** — Deep disagreement between Earth Rememberers and Duskara-Born about the community's direction
-- **Psychic Unrest** — Gifted individuals (sensors, workers, bonded) feeling marginalized or exploited
-- **Isolation** — Cut off from other settlements by broken Deep Roads or political tensions
-- **Ancient Mystery** — Discovery of inexplicable structure or phenomenon nearby; some want to investigate, others fear it
-- **Population Pressure** — Too many people for available resources; decisions about who can stay becoming urgent
-- **Generational Divide** — Young and old unable to agree on settlement priorities
-- **Boundary Dispute** — Conflict with neighboring settlement over territory, resources, or jurisdiction
+- **Failing Infrastructure**: Critical systems (water pumps, power grid, storm barriers) showing age and wear
+- **Resource Rationing**: One essential resource (water, food, power) insufficient for current population
+- **Superstorm Damage**: Recent massive storm destroyed part of the settlement; rebuilding ongoing
+- **Cultural Fracture**: Deep disagreement between Earth Rememberers and Duskara-Born about the community's direction
+- **Psychic Unrest**: Gifted individuals (sensors, workers, bonded) feeling marginalized or exploited
+- **Isolation**: Cut off from other settlements by broken Deep Roads or political tensions
+- **Ancient Mystery**: Discovery of inexplicable structure or phenomenon nearby; some want to investigate, others fear it
+- **Population Pressure**: Too many people for available resources; decisions about who can stay becoming urgent
+- **Generational Divide**: Young and old unable to agree on settlement priorities
+- **Boundary Dispute**: Conflict with neighboring settlement over territory, resources, or jurisdiction
 
 **The First Question**
 
@@ -137,10 +137,10 @@ Sample questions:
 
 Select how you'll record your settlement's evolution:
 
-1. **Map** — Draw the linear city stretched along the twilight belt; add structures, farms, wind turbines
-2. **Timeline** — Chronicle the settlement's story cycle by cycle with dates and events
-3. **Character Web** — Focus on emerging individuals and their relationships
-4. **Combined Approach** — Use multiple methods as needed
+1. **Map**: Draw the linear city stretched along the twilight belt; add structures, farms, wind turbines
+2. **Timeline**: Chronicle the settlement's story cycle by cycle with dates and events
+3. **Character Web**: Focus on emerging individuals and their relationships
+4. **Combined Approach**: Use multiple methods as needed
 
 Record this somewhere all players can see and modify.
 
@@ -152,13 +152,13 @@ Record this somewhere all players can see and modify.
 
 # Turn Structure
 
-Each turn follows this sequence. Don't skip steps—each serves a purpose.
+Each turn follows this sequence. Don't skip steps; each serves a purpose.
 
 ## 1. Draw
 
 The active player draws one card from the deck and places it face-up. This is the **Prompt Card**.
 
-**If the deck runs out:** Reshuffle all non-milestone cards (2-10) and continue. Queens and Kings stay in the discard—they've already triggered their phase transitions.
+**If the deck runs out:** Reshuffle all non-milestone cards (2-10) and continue. Queens and Kings stay in the discard; they've already triggered their phase transitions.
 
 ## 2. Interpret
 
@@ -168,28 +168,28 @@ The card provides the raw prompt through its suit and rank. The table brings it 
 
 **Suit determines the domain:**
 
-- **Hearts** (♥) — Community & Culture: bonds, traditions, celebrations, conflicts, memory
-- **Diamonds** (♦) — Resources & Technology: water, power, food, infrastructure, Earth-tech
-- **Spades** (♠) — Environment & Adaptation: wind, storms, native life, psychic abilities, Duskara's beauty and harshness
-- **Clubs** (♣) — Mysteries & Change: ancient structures, lost knowledge, transformation, the unknown
+- **Hearts** (♥): Community & Culture: bonds, traditions, celebrations, conflicts, memory
+- **Diamonds** (♦): Resources & Technology: water, power, food, infrastructure, Earth-tech
+- **Spades** (♠): Environment & Adaptation: wind, storms, native life, psychic abilities, Duskara's beauty and harshness
+- **Clubs** (♣): Mysteries & Change: ancient structures, lost knowledge, transformation, the unknown
 
 **Rank determines intensity and type:**
 
-**2-5: Everyday Realities** — Normal challenges and opportunities
+**2-5: Everyday Realities**, Normal challenges and opportunities
 
 - 2: Minor obstacle or need requiring attention
 - 3: Small opportunity or positive development
 - 4: Modest challenge with clear stakes
 - 5: Noticeable shift or emerging situation
 
-**6-9: Significant Developments** — Substantial situations demanding decisions
+**6-9: Significant Developments**, Substantial situations demanding decisions
 
 - 6: Important opportunity that could improve things
 - 7: Serious challenge testing the community
 - 8: Major development requiring immediate action
 - 9: Complex situation with competing interests
 
-**10: Critical Event** — Urgent, high-stakes situations
+**10: Critical Event**, Urgent, high-stakes situations
 
 - The settlement faces a crucial moment
 - Multiple people or systems affected
@@ -197,17 +197,17 @@ The card provides the raw prompt through its suit and rank. The table brings it 
 
 **Face Cards (J, Q, K, A): Special Functions**
 
-**Jack: Wild Card** — Table chooses any suit interpretation
+**Jack: Wild Card**, Table chooses any suit interpretation
 
 - Useful for addressing neglected areas
 - Can combine elements from multiple suits
 - Opportunity to spotlight overlooked aspects
 
-**Queen: Milestone (Growth Phase)** — See Phases section
+**Queen: Milestone (Growth Phase)**, See Phases section
 
-**King: Milestone (Crisis Phase)** — See Phases section
+**King: Milestone (Crisis Phase)**, See Phases section
 
-**Ace: Character Emerges** — See Characters section
+**Ace: Character Emerges**, See Characters section
 
 **The First Queen and King of each suit trigger phase transitions the first time they appear.**
 
@@ -219,33 +219,33 @@ The card provides the raw prompt through its suit and rank. The table brings it 
 
 *10 of Diamonds (Resources & Technology, critical event):* "The aquifer shows alarming signs of depletion. Emergency measures needed immediately or rationing becomes permanent."
 
-*Jack (Wild Card):* "We haven't dealt with any mysteries lately. Let's make this about the strange lights some scouts reported seeing in the scorched lands at dawn."
+*Jack (Wild Card):* "We haven't dealt with any mysteries lately. Let's make this about the strange lights some scouts reported seeing in the scorched lands."
 
 ## 3. Choose Action
 
-After interpreting the prompt, the table discusses which of the four actions fits best. Sometimes it's obvious; sometimes there's debate. That discussion is valuable—it reveals what the community prioritizes.
+After interpreting the prompt, the table discusses which of the four actions fits best. Sometimes it's obvious; sometimes there's debate. That discussion is valuable; it reveals what the community prioritizes.
 
 **The Four Actions:**
 
-**CRADLE** — Nurture resources, knowledge, culture, or infrastructure
+**CRADLE**: Nurture resources, knowledge, culture, or infrastructure
 
 - Plant crops, repair equipment, preserve traditions, teach skills
 - Building for the future; sustainability over quick gains
 - Proactive care and maintenance
 
-**WARD** — Defend against immediate threats or dangers
+**WARD**: Defend against immediate threats or dangers
 
 - Fight storms, repel hazards, protect people, secure resources
 - Reactive response to danger
 - Prevention and protection
 
-**PROJECT** — Undertake major initiatives requiring time and coordination
+**PROJECT**: Undertake major initiatives requiring time and coordination
 
 - Multi-phase endeavors: new infrastructure, expeditions, cultural reforms
 - Can't be completed in one turn
 - See Projects section for details
 
-**DELIBERATE** — Discuss, decide, and set community direction
+**DELIBERATE**: Discuss, decide, and set community direction
 
 - Resolve open questions, make policy, address internal conflicts
 - Pure social/philosophical work
@@ -307,7 +307,7 @@ These abilities emerged from Duskaran radiation and environmental pressures. The
 
 **Example Resolution:**
 
-*Action: Cradle — Host gatherings to build understanding between factions* *Base: 1d6* *+1d6: Mara, a respected Elder (Mediator tag)* *+1d6: Community Hall (relevant resource)* *+1d6: Recent shared triumph during storm (favorable conditions)* *Total: 4d6*
+*Action: Cradle, Host gatherings to build understanding between factions* *Base: 1d6* *+1d6: Mara, a respected Elder (Mediator tag)* *+1d6: Community Hall (relevant resource)* *+1d6: Recent shared triumph during storm (favorable conditions)* *Total: 4d6*
 
 *Roll: 5, 4, 3, 2 = 2 successes* *Result: Success with minor cost. The gatherings build bridges, but some hardliners on both sides feel betrayed and withdraw from community life. Progress, but not perfect.*
 
@@ -329,7 +329,7 @@ The next player becomes active and draws a new card. Play continues clockwise (o
 
 # Actions in Detail
 
-## CRADLE — Nurture and Build
+## CRADLE: Nurture and Build
 
 Cradle actions invest in the settlement's future: growing food, repairing infrastructure, teaching skills, preserving culture, building relationships. These are proactive, generative actions that create capacity and sustainability.
 
@@ -374,7 +374,7 @@ Cradle actions invest in the settlement's future: growing food, repairing infras
 - **Success:** Solid foundation built with minor limitations
 - **Overwhelming:** Major advancement, surplus generated, new opportunities created; **-1 Tension** possible
 
-## WARD — Defend and Protect
+## WARD: Defend and Protect
 
 Ward actions respond to immediate threats: storms, equipment failures, conflicts, external dangers. These are reactive, protective actions ensuring the settlement survives to continue building.
 
@@ -419,7 +419,7 @@ Ward actions respond to immediate threats: storms, equipment failures, conflicts
 - **Success:** Danger averted with minor losses
 - **Overwhelming:** Threat eliminated completely, lessons learned, community strengthened; **-1 Tension**
 
-## PROJECT — Major Initiatives
+## PROJECT: Major Initiatives
 
 Projects are substantial undertakings requiring multiple cycles and coordination. They represent the settlement's ambitious plans for growth, exploration, or transformation.
 
@@ -445,35 +445,35 @@ Mark a **Project Track** with segments. Each successful Cradle action toward the
 
 **Infrastructure Projects (3-4 segments):**
 
-- **New Settlement Wing** — Expand the linear city into newly temperate territory
-- **Deep Road Extension** — Tunnel connection to neighboring settlement or cave network
-- **Storm Research Station** — Observatory platform to study and predict superstorms
-- **Geothermal Tap** — Drill deep to access additional heat/power from night-side vents
-- **Orbital Beacon** — Restore and upgrade ancient satellites for communication
+- **New Settlement Wing**: Expand the linear city into newly temperate territory
+- **Deep Road Extension**: Tunnel connection to neighboring settlement or cave network
+- **Storm Research Station**: Observatory platform to study and predict superstorms
+- **Geothermal Tap**: Drill deep to access additional heat/power from night-side vents
+- **Orbital Beacon**: Restore and upgrade ancient satellites for communication
 
 **Exploration Projects (4-5 segments):**
 
-- **Scorched Lands Expedition** — Mount properly equipped journey into the day-side margins
-- **Cave System Mapping** — Chart and secure the deeper tunnel networks
-- **Ancient Structure Investigation** — Study mysterious pre-human ruins
-- **Native Life Preserve** — Establish protected zones for Duskaran ecology study
-- **Horizon Search** — Seek other potential settlement sites along the belt
+- **Scorched Lands Expedition**: Mount properly equipped journey into the day-side margins
+- **Cave System Mapping**: Chart and secure the deeper tunnel networks
+- **Ancient Structure Investigation**: Study mysterious pre-human ruins
+- **Native Life Preserve**: Establish protected zones for Duskaran ecology study
+- **Horizon Search**: Seek other potential settlement sites along the belt
 
 **Cultural Projects (3-4 segments):**
 
-- **Cultural Synthesis Festival** — Year-long series of events blending Earth and Duskaran traditions
-- **Psychic Academy** — Formal institution for training and supporting gifted individuals
-- **Oral History Archive** — Systematic recording of elder memories and stories
-- **Inter-Settlement Exchange** — Regular visiting program between communities
-- **New Governance Structure** — Redesign how collective decisions are made
+- **Cultural Synthesis Festival**: A series of events across a full Ancestor Cycle, blending Earth and Duskaran traditions
+- **Psychic Academy**: Formal institution for training and supporting gifted individuals
+- **Oral History Archive**: Systematic recording of elder memories and stories
+- **Inter-Settlement Exchange**: Regular visiting program between communities
+- **New Governance Structure**: Redesign how collective decisions are made
 
 **Technological Projects (4-5 segments):**
 
-- **Atmospheric Processor** — Develop system to improve local air quality
-- **Genetic Archive Lab** — Facilities to preserve and study biological diversity
-- **Sustainable Synthesis** — Create closed-loop recycling for critical materials
-- **Enhanced Thermal Suits** — Develop equipment for longer day-side expeditions
-- **Data Crystal Restoration** — Recover lost technical information from damaged archives
+- **Atmospheric Processor**: Develop system to improve local air quality
+- **Genetic Archive Lab**: Facilities to preserve and study biological diversity
+- **Sustainable Synthesis**: Create closed-loop recycling for critical materials
+- **Enhanced Thermal Suits**: Develop equipment for longer day-side expeditions
+- **Data Crystal Restoration**: Recover lost technical information from damaged archives
 
 **Project Completion:** When all segments are filled, describe the Project's success and its impacts. Completed Projects often:
 
@@ -483,11 +483,11 @@ Mark a **Project Track** with segments. Each successful Cradle action toward the
 - Generate new opportunities
 - **Reduce Tension by 2**
 
-**Project Failure:** Projects can be abandoned if circumstances change or the settlement decides to prioritize differently. This isn't necessarily bad—it reflects shifting needs. But invested resources are lost, and abandoned Projects may leave complications.
+**Project Failure:** Projects can be abandoned if circumstances change or the settlement decides to prioritize differently. This isn't necessarily bad; it reflects shifting needs. But invested resources are lost, and abandoned Projects may leave complications.
 
-## DELIBERATE — Discuss and Decide
+## DELIBERATE: Discuss and Decide
 
-Deliberate actions focus on collective decision-making, resolving internal tensions, and defining community values. These are purely social and philosophical—you're not building or defending, you're deciding **who you are** as a people.
+Deliberate actions focus on collective decision-making, resolving internal tensions, and defining community values. These are purely social and philosophical; you're not building or defending, you're deciding **who you are** as a people.
 
 **When to Deliberate:**
 
@@ -509,7 +509,7 @@ Unlike other actions, Deliberate **doesn't use dice**. Instead, the table engage
 4. **Make a decision:** Consensus, vote, elder ruling, or other method appropriate to your culture
 5. **Record the outcome:** Document the decision and its implications
 
-**Important:** The settlement's decision doesn't need to be unanimous among players—that's often unrealistic. But the **choice to use Deliberate should be unanimous** among players. If the table agrees this issue demands community attention, then you Deliberate. The in-setting outcome can reflect disagreement, compromise, or even bitter splits.
+**Important:** The settlement's decision doesn't need to be unanimous among players: that's often unrealistic. But the **choice to use Deliberate should be unanimous** among players. If the table agrees this issue demands community attention, then you Deliberate. The in-setting outcome can reflect disagreement, compromise, or even bitter splits.
 
 **Duskara-Specific Deliberate Examples:**
 
@@ -562,7 +562,7 @@ Unlike other actions, Deliberate **doesn't use dice**. Instead, the table engage
 - No agreement possible
 - **+1 Tension** as the split deepens
 - Community may divide into factions
-- This is valid drama—not a "failure"
+- This is valid drama, not a "failure"
 
 **Example Deliberate:**
 
@@ -654,7 +654,7 @@ Most games organically develop 4-8 significant characters. Too many dilutes focu
 
 The game unfolds in four phases, each with distinct tone and mechanical emphasis. Phase transitions occur when specific milestone cards (Queens and Kings) appear.
 
-**Important:** The first Queen and King of each suit trigger phase transitions. After that, subsequent Queens and Kings of the same suit no longer trigger transitions—they function as the prompt indicates.
+**Important:** The first Queen and King of each suit trigger phase transitions. After that, subsequent Queens and Kings of the same suit no longer trigger transitions; they function as the prompt indicates.
 
 ## Phase 1: Establishment
 
@@ -679,7 +679,7 @@ The game unfolds in four phases, each with distinct tone and mechanical emphasis
 
 **Tone:** Expansive, confident, ambitious
 
-**Focus:** The settlement thrives. Projects advance, population grows, relationships with neighbors develop. There's momentum and optimism, but also growing complexity. Success brings new challenges—managing abundance, dealing with growth pains, exploring beyond safe boundaries.
+**Focus:** The settlement thrives. Projects advance, population grows, relationships with neighbors develop. There's momentum and optimism, but also growing complexity. Success brings new challenges: managing abundance, dealing with growth pains, exploring beyond safe boundaries.
 
 **Mechanical Notes:**
 
@@ -690,10 +690,10 @@ The game unfolds in four phases, each with distinct tone and mechanical emphasis
 
 **Queen Effects (when first drawn):**
 
-- **Queen of Hearts** — A celebration or cultural triumph; community bonds strengthen
-- **Queen of Diamonds** — Resource abundance or technological breakthrough; new capacity unlocked
-- **Queen of Spades** — Deeper understanding of Duskara emerges; adaptation accelerates
-- **Queen of Clubs** — A mystery revealed or transformation embraced; the settlement evolves
+- **Queen of Hearts**: A celebration or cultural triumph; community bonds strengthen
+- **Queen of Diamonds**: Resource abundance or technological breakthrough; new capacity unlocked
+- **Queen of Spades**: Deeper understanding of Duskara emerges; adaptation accelerates
+- **Queen of Clubs**: A mystery revealed or transformation embraced; the settlement evolves
 
 **Phase Ends:** When any King appears, read that suit's Crisis Phase entry below, then transition to Phase 3.
 
@@ -703,7 +703,7 @@ The game unfolds in four phases, each with distinct tone and mechanical emphasis
 
 **Tone:** Tested, strained, consequential
 
-**Focus:** The settlement faces existential challenges. Growth has created vulnerabilities; success has attracted attention or exhausted reserves. Core questions about identity, sustainability, and survival demand answers. Not all challenges can be solved—some require difficult choices and sacrifice.
+**Focus:** The settlement faces existential challenges. Growth has created vulnerabilities; success has attracted attention or exhausted reserves. Core questions about identity, sustainability, and survival demand answers. Not all challenges can be solved: some require difficult choices and sacrifice.
 
 **Mechanical Notes:**
 
@@ -715,12 +715,12 @@ The game unfolds in four phases, each with distinct tone and mechanical emphasis
 
 **King Effects (when first drawn):**
 
-- **King of Hearts** — Community fractures or someone important leaves; internal crisis
-- **King of Diamonds** — Critical resource failure or technological breakdown; infrastructure crisis
-- **King of Spades** — Environmental catastrophe or dangerous native phenomenon; Duskara strikes back
-- **King of Clubs** — A terrible truth revealed or irreversible change occurs; transformation crisis
+- **King of Hearts**: Community fractures or someone important leaves; internal crisis
+- **King of Diamonds**: Critical resource failure or technological breakdown; infrastructure crisis
+- **King of Spades**: Environmental catastrophe or dangerous native phenomenon; Duskara strikes back
+- **King of Clubs**: A terrible truth revealed or irreversible change occurs; transformation crisis
 
-**Design Note on Crisis:** This isn't about punishing the players. It's about creating stakes that matter. The settlement may emerge stronger, transformed, or fractured—all are valid outcomes. The key is that choices during Crisis define who the community becomes.
+**Design Note on Crisis:** This isn't about punishing the players. It's about creating stakes that matter. The settlement may emerge stronger, transformed, or fractured: all are valid outcomes. The key is that choices during Crisis define who the community becomes.
 
 **Phase Ends:** When the Resolution deck exhausts, or the settlement collapses (15 Tension), or the table unanimously agrees the story is complete.
 
@@ -730,7 +730,7 @@ The game unfolds in four phases, each with distinct tone and mechanical emphasis
 
 **Tone:** Reflective, conclusive, weighted with accumulated history
 
-**Focus:** The settlement's fate crystallizes. Earlier choices bear fruit or haunt decisions. Questions receive answers, though not always the ones hoped for. The community's character—what it built, what it sacrificed, what it became—is revealed through how it handles these final challenges.
+**Focus:** The settlement's fate crystallizes. Earlier choices bear fruit or haunt decisions. Questions receive answers, though not always the ones hoped for. The community's character (what it built, what it sacrificed, what it became) is revealed through how it handles these final challenges.
 
 **Mechanical Notes:**
 
@@ -767,51 +767,51 @@ Tension tracks accumulating stress, unresolved problems, and strain on community
 
 **Tension Thresholds:**
 
-**0-2 Tension — Stable:**
+**0-2 Tension, Stable:**
 
 - Normal operations
 - Challenges feel manageable
 - Community cohesion strong
 
-**3-4 Tension — Strained:**
+**3-4 Tension, Strained:**
 
 - Noticeable stress
 - People short-tempered, tired
 - Systems running near capacity
 
-**5 Tension — Minor Crisis:**
+**5 Tension, Minor Crisis:**
 
 - Something breaks: infrastructure fails, key person collapses, factional split erupts
 - Draw an additional card immediately and interpret as a complication
 - Must be addressed before play can continue normally
 
-**6-9 Tension — Dangerous:**
+**6-9 Tension, Dangerous:**
 
 - Multiple problems cascade
 - Community morale low
 - Collapse feels possible
 
-**10 Tension — Major Crisis:**
+**10 Tension, Major Crisis:**
 
 - Existential threat to settlement
 - Draw an additional card immediately and interpret as worst-case scenario
 - Must be addressed with full community effort before normal play resumes
 
-**15 Tension — Collapse:**
+**15 Tension, Collapse:**
 
 - Settlement fractures, fails, or dissolves
 - Game ends immediately
 - Proceed to Final Reflection on what caused the fall
 
-**Design Philosophy:** Tension creates pressure to address problems actively rather than ignoring them. It's not a countdown to inevitable doom—settlements can stabilize and reduce Tension through good decisions. But it ensures consequences accumulate if problems are neglected.
+**Design Philosophy:** Tension creates pressure to address problems actively rather than ignoring them. It's not a countdown to inevitable doom: settlements can stabilize and reduce Tension through good decisions. But it ensures consequences accumulate if problems are neglected.
 
 # Prompt Cards: Suits Detailed
 
 These descriptions help interpret what each suit represents in Duskara's context. Use them to ground prompts in the setting's specific elements.
 
-## Hearts (♥) — Community & Culture
+## Hearts (♥): Community & Culture
 
-Hearts represent the human element: relationships, traditions, celebrations, conflicts, memory. This is the internal social life of the settlement—how people connect, clash, remember, and create meaning together.
+Hearts represent the human element: relationships, traditions, celebrations, conflicts, memory. This is the internal social life of the settlement: how people connect, clash, remember, and create meaning together.
 
 **Typical prompts involve:**
 
@@ -830,9 +830,9 @@ Hearts represent the human element: relationships, traditions, celebrations, con
 - 8♥: A beloved community member considers leaving for another settlement
 - 10♥: A marriage ceremony between Earth Rememberer and Duskara-Born becomes flashpoint for wider tensions
 
-## Diamonds (♦) — Resources & Technology
+## Diamonds (♦): Resources & Technology
 
-Diamonds represent the material and technical aspects of survival: water, power, food, infrastructure, maintained technology. This is the practical side of life on Duskara—the systems that keep people alive and thriving.
+Diamonds represent the material and technical aspects of survival: water, power, food, infrastructure, maintained technology. This is the practical side of life on Duskara: the systems that keep people alive and thriving.
 
 **Typical prompts involve:**
 
@@ -851,9 +851,9 @@ Diamonds represent the material and technical aspects of survival: water, power,
 - 9♦: The aquifer shows concerning signs of mineral contamination
 - 10♦: Main power grid fails during a critical moment
 
-## Spades (♠) — Environment & Adaptation
+## Spades (♠): Environment & Adaptation
 
-Spades represent Duskara itself: the wind, storms, temperature extremes, native life, and the psychic abilities humans developed to survive here. This is the interface between humanity and the planet—both the challenges and the gifts of adaptation.
+Spades represent Duskara itself: the wind, storms, temperature extremes, native life, and the psychic abilities humans developed to survive here. This is the interface between humanity and the planet, both the challenges and the gifts of adaptation.
 
 **Typical prompts involve:**
 
@@ -872,7 +872,7 @@ Spades represent Duskara itself: the wind, storms, temperature extremes, native 
 - 8♠: Native creatures usually docile become agitated and dangerous
 - 10♠: The twilight belt's temperature bands shift suddenly; the settlement is now too warm
 
-## Clubs (♣) — Mysteries & Change
+## Clubs (♣): Mysteries & Change
 
 Clubs represent the unknown, transformation, and deep questions: ancient structures, lost knowledge, philosophical dilemmas, internal evolution. This is about the settlement grappling with what it doesn't understand and who it's becoming.
 
@@ -895,16 +895,16 @@ Clubs represent the unknown, transformation, and deep questions: ancient structu
 
 ## Complete Card Prompts
 
-This table provides specific prompts for each card. These are starting points—interpret them through your settlement's current situation, history, and needs. As you become familiar with the game and setting, you're encouraged to create your own prompts based on the suit themes and rank intensities described above.
+This table provides specific prompts for each card. These are starting points: interpret them through your settlement's current situation, history, and needs. As you become familiar with the game and setting, you're encouraged to create your own prompts based on the suit themes and rank intensities described above.
 
 **Special Cards:**
 
 - **Aces:** A character emerges (see Characters section)
-- **Jacks:** Wild card—table chooses any suit interpretation
+- **Jacks:** Wild card: table chooses any suit interpretation
 - **Queens:** First of each suit triggers Growth Phase; subsequent Queens use prompt below
 - **Kings:** First of each suit triggers Crisis Phase; subsequent Kings use prompt below
 
-### Hearts (♥) — Community & Culture
+### Hearts (♥): Community & Culture
 
 | Card | Prompt                                                                                                                                  |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -922,7 +922,7 @@ This table provides specific prompts for each card. These are starting points—
 | Q    | **Growth Phase Milestone** (first time) / A major cultural achievement brings the whole settlement together in celebration (subsequent) |
 | K    | **Crisis Phase Milestone** (first time) / Someone important to community cohesion dies, leaves, or betrays trust (subsequent)           |
 
-### Diamonds (♦) — Resources & Technology
+### Diamonds (♦): Resources & Technology
 
 | Card | Prompt                                                                                                                            |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -940,7 +940,7 @@ This table provides specific prompts for each card. These are starting points—
 | Q    | **Growth Phase Milestone** (first time) / A technological breakthrough or resource abundance transforms capabilities (subsequent) |
 | K    | **Crisis Phase Milestone** (first time) / Essential infrastructure collapses or critical resource is exhausted (subsequent)       |
 
-### Spades (♠) — Environment & Adaptation
+### Spades (♠): Environment & Adaptation
 
 | Card | Prompt                                                                                                               |
 | ---- | -------------------------------------------------------------------------------------------------------------------- |
@@ -953,12 +953,12 @@ This table provides specific prompts for each card. These are starting points—
 | 7    | A superstorm forms on the horizon, larger than normal                                                                |
 | 8    | The day-side's heat begins creeping closer to the settlement's boundaries                                            |
 | 9    | A psychic talented individual's abilities spiral unexpectedly                                                        |
-| 10   | Environmental catastrophe strikes—choose: temperature spike, wind shear, atmospheric event                           |
+| 10   | Environmental catastrophe strikes; choose: temperature spike, wind shear, atmospheric event                           |
 | J    | Wild Card (table chooses any suit)                                                                                   |
 | Q    | **Growth Phase Milestone** (first time) / Deep harmony with Duskara is achieved; adaptation bears fruit (subsequent) |
 | K    | **Crisis Phase Milestone** (first time) / Duskara itself turns hostile in unprecedented ways (subsequent)            |
 
-### Clubs (♣) — Mysteries & Change
+### Clubs (♣): Mysteries & Change
 
 | Card | Prompt                                                                                                                             |
 | ---- | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -1010,7 +1010,7 @@ The game concludes when one of three conditions is met:
 
 **Alternative End: Story Complete** The table unanimously agrees the narrative has reached a satisfying conclusion before the deck exhausts. This requires consensus and should only happen when key questions are answered and the settlement's fate feels clear.
 
-**Early End: Collapse** Tension reaches 15 and the settlement fractures, fails, or dissolves. This is a valid and meaningful ending—not a "loss." Communities sometimes cannot hold together under strain. It's honest to the premise.
+**Early End: Collapse** Tension reaches 15 and the settlement fractures, fails, or dissolves. This is a valid and meaningful ending, not a "loss." Communities sometimes cannot hold together under strain. It's honest to the premise.
 
 ## Final Reflection
 
@@ -1052,7 +1052,7 @@ After the game ends, spend 20-30 minutes in reflection using these prompts. This
 - **Collapsed:** The settlement failed, but individuals escaped to tell the story
 - **Ambiguous:** The outcome is uncertain; perhaps another game continues the tale
 
-All endings are valid. What matters is that they feel earned—that they emerged from the choices made, the dice rolled, and the story told together.
+All endings are valid. What matters is that they feel earned, that they emerged from the choices made, the dice rolled, and the story told together.
 
 # License & Credits
 

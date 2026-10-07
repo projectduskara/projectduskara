@@ -44,7 +44,7 @@ In simple terms, role-playing is when you and your friends get together to creat
 
 - **Fiction precedes mechanics:** Before thinking about checking stats or rolling dice, let yourself be carried away by the story and the environment you are creating together. The characters' adventurous decisions and the world's responses bring the game to life. The dice only come into play when things become uncertain or dangerous, and it's our stories that call them into action, not the other way around.
 
-- **The setting is an invisible ruleset:** The world where your adventures take place silently guides the game, suggesting and limiting actions based on its unique characteristics. The twilight belt's eternal wind, the day side's killing heat, the night side's frozen depths—these shape what's possible as much as any written rule. In a world where psychic abilities manifest through environmental adaptation, reaching out to sense thermal patterns becomes natural, just as understanding wind currents does.
+- **The setting is an invisible ruleset:** The world where your adventures take place silently guides the game, suggesting and limiting actions based on its unique characteristics. The twilight belt's eternal wind, the day side's killing heat, the night side's frozen depths; these shape what's possible as much as any written rule. In a world where psychic abilities manifest through environmental adaptation, reaching out to sense thermal patterns becomes natural, just as understanding wind currents does.
 
 - **Play honestly:** Building a game on trust means that players collaborate without hindrance. There's no need to cheat or check every move because you trust each other. This trust encourages bold ideas and creative contributions, making the story a true team effort.
 
@@ -102,7 +102,7 @@ The GM is also a player, but with specific tasks:
 
 ### Safety and Accessibility
 
-In a game like *Duskara*, the well-being of all participants is fundamentally important. This is not about protecting players from challenge or consequence—the fiction is real and sometimes harsh. It's about communication and ensuring everyone can play authentically.
+In a game like *Duskara*, the well-being of all participants is fundamentally important. This is not about protecting players from challenge or consequence: the fiction is real and sometimes harsh. It's about communication and ensuring everyone can play authentically.
 
 All safety tools in *Duskara* are built on **transparency and conversation.** There are no silent signals or hidden discomfort. When something surfaces that doesn't work, we talk about it.
 
@@ -131,8 +131,8 @@ This is **explicit and communicative.** Everyone at the table understands what c
 
 Lines & Veils are **not** established before play. They emerge when play surfaces something uncomfortable:
 
-- **A Line:** Something you won't play. The facilitator hears "that's a Line for me" and the scene moves away from it entirely. No details, no fade-to-black—just: we don't go there.
-- **A Veil:** Something that happens but you don't detail. "That's a Veil for me" means the scene plays out, but we fade to black or gloss over the specifics. "The negotiation becomes hostile. We skip past the difficult parts—they come to an agreement, shaken."
+- **A Line:** Something you won't play. The facilitator hears "that's a Line for me" and the scene moves away from it entirely. No details, no fade-to-black, just: we don't go there.
+- **A Veil:** Something that happens but you don't detail. "That's a Veil for me" means the scene plays out, but we fade to black or gloss over the specifics. "The negotiation becomes hostile. We skip past the difficult parts; they come to an agreement, shaken."
 
 Lines & Veils **require communication.** Someone has to speak up when they emerge. This is honest and collaborative.
 
@@ -161,35 +161,35 @@ This is why every tool requires speaking up. Silence doesn't help anyone. Only c
 
 ### A World Between Light and Dark
 
-In the year 2187, the colony ship *Stellar Horizon* departed Earth bound for Kepler-442b. After a critical malfunction during a solar storm, the ship drifted off course for decades while its passengers slept in cryogenic stasis. When emergency systems finally initiated revival protocols, they found themselves approaching an unknown star system. With failing life support and no way to correct their course, they were forced to land on Duskara—a tidally locked world that barely met the minimum requirements for human survival.
+In the year 2137, the colony ship *Stellar Horizon* departed Earth bound for Kepler-442b. After a critical malfunction during a stellar storm, the ship drifted off course for decades while its passengers slept in cryogenic stasis. When emergency systems finally initiated revival protocols, they found themselves approaching an unknown star system. With failing life support and no way to correct their course, they were forced to land on Duskara: a tidally locked world that barely met the minimum requirements for human survival.
 
-Now, eight centuries later, their descendants have not merely survived—they have adapted and thrived. This is not a story of desperate scarcity, but of ingenious harmony with a challenging world.
+Now, some eight hundred Ancestor Cycles later, their descendants have not merely survived; they have adapted and thrived. This is not a story of desperate scarcity, but of ingenious harmony with a challenging world.
 
 ### The Twilight Belt
 
-Humanity's home is a narrow band 200-300 kilometers wide that circles Duskara's meridian, caught between the scorching day side (where temperatures exceed 400°C) and the frozen night side (where the darkness is broken only by auroras and geothermal vents). Here, in perpetual twilight, temperatures range from temperate to moderately warm, and liquid water flows.
+Humanity's home is a narrow band 200-300 kilometers wide that circles Duskara's meridian, caught between the scorching day side (where temperatures exceed 200°C) and the frozen night side (where the darkness is broken only by auroras and geothermal vents). Here, in perpetual twilight, temperatures range from temperate to moderately warm, and liquid water flows.
 
-The eternal wind—born from the collision of extreme temperatures—shapes everything. Linear cities stretch along the habitable zone, their architecture harmonizing with the wind rather than fighting it. Soaring towers capture wind energy while deep foundations tap geothermal power. Vertical farms grow crops in precisely controlled microclimates. Every settlement is both fortress and garden, resilient and beautiful.
+The eternal wind, born from the collision of extreme temperatures, shapes everything. Linear cities stretch along the habitable zone, their architecture harmonizing with the wind rather than fighting it. Soaring towers capture wind energy while deep foundations tap geothermal power. Vertical farms grow crops in precisely controlled microclimates. Every settlement is both fortress and garden, resilient and beautiful.
 
 ### The Awakening
 
-The harsh conditions and unknown radiations of Duskara awakened latent abilities in its human inhabitants. These psychic gifts—thermal sensing, weather working, deep bonding with native life—are not supernatural but evolutionary. They represent humanity's communion with their new home.
+The harsh conditions and unknown radiations of Duskara awakened latent abilities in its human inhabitants. These psychic gifts (thermal sensing, weather working, deep bonding with native life) are not supernatural but evolutionary. They represent humanity's communion with their new home.
 
 Weather workers shape the wind to guide ships and protect settlements. Thermal sensitives navigate the day side margins where others would perish. Deep-cave dwellers on the night side communicate through resonance, their voices carrying through kilometers of stone. These abilities are celebrated, taught, and integrated into daily life.
 
 ### A Culture of Adaptation
 
-Duskaran culture blends ancestral Earth traditions with innovations born of necessity. They measure time in wind cycles rather than day and night. Their architecture flows with environmental forces. Their festivals celebrate the planet's rhythms—the Storm Seasons, the Thermal Shifts, the Geothermal Awakenings.
+Duskaran culture blends ancestral Earth traditions with innovations born of necessity. They measure time in wind cycles rather than day and night. Their architecture flows with environmental forces. Their festivals celebrate the planet's rhythms: the Storm Phases, the Thermal Shifts, the Geothermal Awakenings.
 
 Technology here is sophisticated but sustainable. Wind turbines and thermal exchangers provide abundant clean energy. Water reclamation systems make every drop count. Ancient satellites still orbit overhead, their data streams partially decoded. Some customs echo Earth's past; others are unique to this world of eternal twilight and harsh extremes.
 
-Governance varies between regions. Twilight belt cities operate under Councils of Windkeepers—representatives from resource guilds, Wind-Kin leaders, and elected delegates. Cave settlements are governed by Warmth Circles centered around geothermal hubs, often with hereditary leadership subject to communal approval. The Duskaran Accord binds these communities in a loose confederation focused on mutual survival.
+Governance varies between regions. Twilight belt cities operate under Councils of Windkeepers: representatives from resource guilds, Wind-Kin leaders, and elected delegates. Cave settlements are governed by Warmth Circles centered around geothermal hubs, often with hereditary leadership subject to communal approval. The Duskaran Accord binds these communities in a loose confederation focused on mutual survival.
 
-Approximately 80% of the population lives in twilight belt surface settlements. The remaining 20% dwell in cave systems on the night side, developing distinct cultures around geothermal warmth. Trade caravans and explorers traverse established routes and dangerous margins, but they are not a separate population category—they draw from settled communities across both zones.
+Approximately 80% of the population lives in twilight belt surface settlements. The remaining 20% dwell in cave systems on the night side, developing distinct cultures around geothermal warmth. Trade caravans and explorers traverse established routes and dangerous margins, but they are not a separate population category; they draw from settled communities across both zones.
 
 ### Mysteries and Wonders
 
-Duskara holds secrets. Strange structures of unknown origin appear in the Deep Roads and night-side caverns—are they remnants of ancient Earth technology from the *Stellar Horizon*, natural geological formations, or something else entirely? The Twilight Codex, a collection of data fragments from the *Stellar Horizon*, remains partially encrypted. Unexplained phenomena occur in the Deep Roads, where tunnels seem to shift and strange echoes answer questions never asked. Some explorers report mechanisms that activate without explanation, creating both hazards and opportunities.
+Duskara holds secrets. Strange structures of unknown origin appear in the Deep Roads and night-side caverns: are they remnants of ancient Earth technology from the *Stellar Horizon*, natural geological formations, or something else entirely? The Twilight Codex, a collection of data fragments from the *Stellar Horizon*, remains partially encrypted. Unexplained phenomena occur in the Deep Roads, where tunnels seem to shift and strange echoes answer questions never asked. Some explorers report mechanisms that activate without explanation, creating both hazards and opportunities.
 
 Explorers push into the day side margins to recover pre-landing artifacts. Cave divers descend into night-side chasms seeking geothermal sites. Archivists work to unlock Earth's lost knowledge. Each discovery adds another piece to the puzzle of humanity's place on this world.
 
@@ -205,7 +205,7 @@ Stories in Duskara can explore:
 - **Community resilience:** How settlements cooperate and occasionally conflict
 - **Heroic exploration:** Pushing boundaries in hostile but magnificent landscapes
 
-This is planetary romance in the tradition of Burroughs and Brackett, updated with solarpunk sensibilities. Characters are competent, heroic, and resourceful. The planet is harsh but not cruel—it rewards understanding and cooperation. Technology serves human flourishing rather than dominating it.
+This is planetary romance in the tradition of Burroughs and Brackett, updated with solarpunk sensibilities. Characters are competent, heroic, and resourceful. The planet is harsh but not cruel; it rewards understanding and cooperation. Technology serves human flourishing rather than dominating it.
 
 Your stories will be of wonder and discovery, ingenuity and courage, community and connection. Duskara is home, and humanity has learned to thrive here.
 
@@ -222,7 +222,7 @@ Your character's **Concept** is a brief phrase that captures their core identity
 - Wind-Blessed Navigator
 - Thermal Prospector from the Day Margins
 - Deep Roads Archive Keeper
-- Storm Season Festival Organizer
+- Storm Phase Festival Organizer
 - Geothermal Engineer
 - Weather Worker Apprentice
 - Nomadic Water Trader
@@ -271,7 +271,7 @@ Each Skill can add a Chance Die when you use it.
 
 ### Step 3: Frailty
 
-Every character has a **Frailty**—something that challenges them or makes certain situations more difficult. This isn't a flaw that weakens your character, but a human vulnerability that adds depth.
+Every character has a **Frailty**, something that challenges them or makes certain situations more difficult. This isn't a flaw that weakens your character, but a human vulnerability that adds depth.
 
 **Examples:**
 
@@ -341,7 +341,7 @@ Your Motive can add a Chance Die when it's directly relevant.
 
 ### Step 7: Nemesis
 
-Choose a **Nemesis**—a person, organization, force, or concept that opposes your character or complicates their life. This creates built-in drama and conflict.
+Choose a **Nemesis**: a person, organization, force, or concept that opposes your character or complicates their life. This creates built-in drama and conflict.
 
 **Examples:**
 
@@ -375,7 +375,7 @@ Relationships can add Chance Dice or Risk Dice depending on the situation and ho
 
 ### Character Trait Reference Lists
 
-The examples below are a comprehensive reference for creating your character's Concept, Skills, Frailties, and Gear. These traits emerge from Duskaran culture, professions, and the challenges of living on a tidally locked world. You're not required to choose from these lists—you can create your own traits anytime—but these examples show the range of possibilities.
+The examples below are a comprehensive reference for creating your character's Concept, Skills, Frailties, and Gear. These traits emerge from Duskaran culture, professions, and the challenges of living on a tidally locked world. You're not required to choose from these lists (you can create your own traits anytime) but these examples show the range of possibilities.
 
 #### Concept Examples (36 Options)
 
@@ -384,7 +384,7 @@ Choose or adapt one of these to define your character's role and place in Duskar
 1. Wind-Blessed Navigator
 2. Thermal Prospector from the Day Margins
 3. Deep Roads Archive Keeper
-4. Storm Season Festival Organizer
+4. Storm Phase Festival Organizer
 5. Geothermal Engineer
 6. Weather Worker Apprentice
 7. Nomadic Water Trader
@@ -545,13 +545,13 @@ Choose or create two pieces of Gear that your character carries:
 
 ### Psychic Abilities (Likely for Duskaran Characters)
 
-Most Duskaran characters will have manifested psychic abilities—a product of the planet's evolutionary pressures. If your character has such abilities, choose one to start. More can be developed through play. (Not all characters need them, but they're normal and common on Duskara.)
+Most Duskaran characters will have manifested psychic abilities: a product of the planet's evolutionary pressures. If your character has such abilities, choose one to start. More can be developed through play. (Not all characters need them, but they're normal and common on Duskara.)
 
 See the **Psychic Abilities** section for details on how these work mechanically.
 
 ### A Note on Conditions
 
-During play, your character might gain temporary **Conditions** from harm, exhaustion, fear, or psychic strain. Examples include Injured, Exhausted, Frightened, or Psychically Drained. Conditions add Risk Dice when relevant and persist until you recover (through rest, medical attention, or narrative resolution). You don't define these during character creation—they emerge during play based on what happens to your character. See the **Conditions** section (p. 663) for full details.
+During play, your character might gain temporary **Conditions** from harm, exhaustion, fear, or psychic strain. Examples include Injured, Exhausted, Frightened, or Psychically Drained. Conditions add Risk Dice when relevant and persist until you recover (through rest, medical attention, or narrative resolution). You don't define these during character creation; they emerge during play based on what happens to your character. See the **Conditions** section (p. 663) for full details.
 
 ### Example Character
 
@@ -583,7 +583,7 @@ This is fundamentally different from mechanical progression systems, and it matt
 
 ### How Character Evolution Works
 
-There are no hard rules for *when* Tags change—it emerges from play. But here are common patterns:
+There are no hard rules for *when* Tags change; it emerges from play. But here are common patterns:
 
 #### Skills and Expertise
 
@@ -591,7 +591,7 @@ When you use a Skill repeatedly and it becomes central to your story, you can:
 
 - **Deepen it:** Rewrite it to reflect deeper mastery or specialization
   - *Before:* "Wind Pattern Reading"
-  - *After:* "Can read wind patterns weeks in advance"
+  - *After:* "Can read wind patterns several phases in advance"
 - **Add new context:** Expand what the skill lets you do
   - *Before:* "Thermal Suit Operation"
   - *After:* "Thermal Suit Operation, including emergency repairs under extreme conditions"
@@ -651,7 +651,7 @@ Psychic abilities progress naturally through use and crisis:
 
 #### Nemeses
 
-Nemeses don't just fade—they transform:
+Nemeses don't just fade; they transform:
 
 - **Resolved:** A Nemesis might be defeated, reconciled with, or simply bypassed
 - **Replaced:** As one conflict resolves, new opposition can emerge
@@ -684,13 +684,13 @@ This approach has profound implications:
 
 Character evolution isn't scheduled. It happens:
 
-- **After major story arcs** — When a significant challenge is resolved
-- **Following traumatic moments** — When a character faces something that fundamentally shakes them
-- **When relationships shift** — When bonds deepen, break, or transform
-- **When Goals are achieved or abandoned** — Creating space for new direction
-- **When the player and facilitator feel it's right** — Trust your instincts about when a character has grown
+- **After major story arcs**: When a significant challenge is resolved
+- **Following traumatic moments**: When a character faces something that fundamentally shakes them
+- **When relationships shift**: When bonds deepen, break, or transform
+- **When Goals are achieved or abandoned**: Creating space for new direction
+- **When the player and facilitator feel it's right**: Trust your instincts about when a character has grown
 
-And sometimes, characters *don't* change. A character can play through an entire campaign without modifying their core Tags. That's fine—not every experience transforms a person. The point is that change happens because it's narratively appropriate, not because a clock ticked.
+And sometimes, characters *don't* change. A character can play through an entire campaign without modifying their core Tags. That's fine, not every experience transforms a person. The point is that change happens because it's narratively appropriate, not because a clock ticked.
 
 ### Example of Evolution
 
@@ -700,11 +700,11 @@ Let's say Kaelen, the salvage specialist, survives a catastrophic day-side missi
 
 **Facilitator:** "Yes. What does it look like now?"
 
-**Player:** "Maybe something like: 'Haunted by a Near-Disaster—second-guesses themselves now, sometimes to the point of paralysis.'"
+**Player:** "Maybe something like: 'Haunted by a Near-Disaster: second-guesses themselves now, sometimes to the point of paralysis.'"
 
 **Facilitator:** "I like that. It's more specific and captures what we just saw. Does that feel true?"
 
-**Player:** "Yeah. And maybe they develop a new relationship tag: something about Zhiren. Like 'Zhiren saved my life—I'm responsible for theirs now.'"
+**Player:** "Yeah. And maybe they develop a new relationship tag: something about Zhiren. Like 'Zhiren saved my life; I'm responsible for theirs now.'"
 
 **Facilitator:** "Perfect. Let's update the sheet."
 
@@ -740,10 +740,10 @@ Then the facilitator and table move forward.
 
 Even though the character is gone, what they did matters:
 
-- **Relationships persist** — Other characters remember them, grieve them, or carry obligations they left behind
-- **Consequences continue** — Projects the character started affect the world. Promises made shape what comes next
-- **Legacy** — The settlement remembers them. They changed people. They left marks on Duskara
-- **Unfinished business** — Other characters might pursue the dead character's Goals, or struggle with their unresolved Nemeses
+- **Relationships persist**: Other characters remember them, grieve them, or carry obligations they left behind
+- **Consequences continue**: Projects the character started affect the world. Promises made shape what comes next
+- **Legacy**: The settlement remembers them. They changed people. They left marks on Duskara
+- **Unfinished business**: Other characters might pursue the dead character's Goals, or struggle with their unresolved Nemeses
 
 The character may be absent, but their presence in the story doesn't disappear.
 
@@ -785,7 +785,7 @@ Then add:
 
 **Chance and Risk Dice cancel each other out 1:1.** Only roll the remaining dice after cancellation.
 
-If all Chance and Risk Dice cancel each other out completely, you roll only the Action Die. This represents pure chance—no advantage or disadvantage, just the uncertainty of the moment.
+If all Chance and Risk Dice cancel each other out completely, you roll only the Action Die. This represents pure chance: no advantage or disadvantage, just the uncertainty of the moment.
 
 **Step 3: Roll and Read the Dice**
 
@@ -841,7 +841,7 @@ Choose the approach that serves the story and creates the most engaging play.
 
 ### Tags as Tools
 
-Tags are short phrases that describe anything important in the game—characters, objects, locations, situations. They're the primary way advantages and disadvantages are determined.
+Tags are short phrases that describe anything important in the game: characters, objects, locations, situations. They're the primary way advantages and disadvantages are determined.
 
 **Using Tags:**
 
@@ -858,7 +858,7 @@ Tags are short phrases that describe anything important in the game—characters
 
 ### Conditions
 
-When something happens that temporarily affects your character—injury, exhaustion, fear—you gain a **Condition** Tag.
+When something happens that temporarily affects your character (injury, exhaustion, fear) you gain a **Condition** Tag.
 
 **Examples:**
 
@@ -896,7 +896,7 @@ Major NPCs might have their own Concept, Skills, and Gear, which function like p
 
 ### Solo Play  
 
-*Duskara* is designed for emergent, collaborative storytelling—but the wind speaks even when no one else is listening. This chapter offers guidance for playing the game solo, exploring personal stories of pilgrimage, loss, resilience, or ritual purpose.
+*Duskara* is designed for emergent, collaborative storytelling, but the wind speaks even when no one else is listening. This chapter offers guidance for playing the game solo, exploring personal stories of pilgrimage, loss, resilience, or ritual purpose.
 
 The solo rules use the **Loner engine** as their base, adapted to match Duskara's tone. You’ll use oracles to answer questions, a twist system to escalate tension, and light prompts to track changes to your character.
 
@@ -904,7 +904,7 @@ These rules assume you are playing a single character. Simply scale narrative fo
 
 #### Consulting the Oracle
 
-When you want to test your expectations, ask the Oracle a **closed question**—one that can be answered Yes or No.
+When you want to test your expectations, ask the Oracle a **closed question**: one that can be answered Yes or No.
 
 Roll:
 
@@ -930,7 +930,7 @@ This gives you combinations like “Yes, and…”, “No, but…”, etc.
 
 Use **context, not math**. If a tag, Trait, or situation favors you narratively, grant yourself Advantage. If a complication or flaw applies, take Disadvantage.
 
-This should feel intuitive and fast—not like bookkeeping.
+This should feel intuitive and fast, not like bookkeeping.
 
 #### The Twist Counter
 
@@ -948,7 +948,7 @@ When the **Twist Counter** reaches **3**, a twist occurs. Reset the counter to 0
 | 5  | An emotional event   | Changes the goal    |
 | 6  | An object            | Ends the scene      |
 
-Interpret this two-part phrase in the context of your current scene. Don’t overthink—follow the wind.
+Interpret this two-part phrase in the context of your current scene. Don’t overthink: follow the wind.
 
 #### Mood of the Next Scene
 
@@ -1023,7 +1023,7 @@ You’re writing wind-memory. It will return later, in another game, with differ
 
 ## Psychic Abilities
 
-The harsh environment and unknown radiations of Duskara awakened latent psychic abilities in its human inhabitants. These aren't supernatural powers, but evolutionary adaptations—humanity's communion with the planet that has become their home.
+The harsh environment and unknown radiations of Duskara awakened latent psychic abilities in its human inhabitants. These aren't supernatural powers, but evolutionary adaptations: humanity's communion with the planet that has become their home.
 
 ### How Psychic Abilities Work
 
@@ -1039,37 +1039,37 @@ This index helps you navigate all psychic-related mechanics throughout the docum
 
 **Character Creation & Awakening:**
 
-- The Awakening (line 167) — How characters discover psychic abilities
-- Starting as a Novice psychic (line 355) — Initial ability selection during character creation
-- Awakening New Abilities (line 1175) — How characters learn new psychic abilities during play
+- The Awakening (line 167): How characters discover psychic abilities
+- Starting as a Novice psychic (line 355): Initial ability selection during character creation
+- Awakening New Abilities (line 1175): How characters learn new psychic abilities during play
 
 **Understanding Psychic Mechanics:**
 
-- Core Psychic Abilities (this section) — Five primary ability types with applications and progressions
-- Psychic Costs & Conditions (each ability) — Risk/reward mechanics for each ability type
+- Core Psychic Abilities (this section): Five primary ability types with applications and progressions
+- Psychic Costs & Conditions (each ability): Risk/reward mechanics for each ability type
 
 **Progression & Advancement:**
 
-- Advancing Psychic Abilities (line 1186) — Triggers and mechanical changes for Novice → Adept → Master progression
-- Psychic Cost progression (line 1186) — How costs increase with advancement
-- Psychic Burnout & Degradation (line 1186) — Consequences of overuse
+- Advancing Psychic Abilities (line 1186): Triggers and mechanical changes for Novice → Adept → Master progression
+- Psychic Cost progression (line 1186): How costs increase with advancement
+- Psychic Burnout & Degradation (line 1186): Consequences of overuse
 
 **Using Psychic Abilities in Play:**
 
-- Using Psychic Abilities in Play (line 1262) — Practical guidance for narrative integration
-- Psychic Ability examples in conflicts (line 1262) — How to include psychic mechanics in scenes
-- Psychic phenomena as complications (Adventure Tables, line 3119+) — Table for random psychic events
+- Using Psychic Abilities in Play (line 1262): Practical guidance for narrative integration
+- Psychic Ability examples in conflicts (line 1262): How to include psychic mechanics in scenes
+- Psychic phenomena as complications (Adventure Tables, line 3119+): Table for random psychic events
 
 **Creatures & Environments:**
 
-- Psychic Interference (Creatures section, line 1366+) — How some creatures affect psychic abilities
-- Storm interactions with Weather Working (line 1873+) — How weather mechanics interact with Weather Working
-- Deep Roads psychic hazards (line 1950+) — Psychic interference and disruptions in caves
+- Psychic Interference (Creatures section, line 1366+): How some creatures affect psychic abilities
+- Storm interactions with Weather Working (line 1873+): How weather mechanics interact with Weather Working
+- Deep Roads psychic hazards (line 1950+): Psychic interference and disruptions in caves
 
 **Quick Reference:**
 
-- Psychic Abilities summary (Quick Reference Card, line ~3565) — One-page summary of all abilities
-- Psychic Ability costs quick reference (line ~3565) — Costs and associated Conditions
+- Psychic Abilities summary (Quick Reference Card, line ~3565): One-page summary of all abilities
+- Psychic Ability costs quick reference (line ~3565): Costs and associated Conditions
 
 **Navigation Tip:** Use this index to quickly jump to specific psychic topics. Each entry includes a line number for direct reference.
 
@@ -1077,7 +1077,7 @@ This index helps you navigate all psychic-related mechanics throughout the docum
 
 #### Weather Working
 
-The ability to sense and subtly influence atmospheric patterns—wind speed, pressure changes, storm formation.
+The ability to sense and subtly influence atmospheric patterns: wind speed, pressure changes, storm formation.
 
 **Applications:**
 
@@ -1134,7 +1134,7 @@ The ability to form psychic connections with Duskara's native life forms and, at
 
 #### Shadow Walking
 
-The ability to navigate complete darkness using psychic awareness—an intuitive sense of surroundings without relying on sight.
+The ability to navigate complete darkness using psychic awareness: an intuitive sense of surroundings without relying on sight.
 
 **Applications:**
 
@@ -1154,7 +1154,7 @@ The ability to navigate complete darkness using psychic awareness—an intuitive
 
 #### Water Finding
 
-Perhaps the most critical ability in Duskara's resource-scarce environment, water finding allows individuals to detect psychic vibrations from water sources—underground streams, reservoirs, or even moisture in the air.
+Perhaps the most critical ability in Duskara's resource-scarce environment, water finding allows individuals to detect psychic vibrations from water sources: underground streams, reservoirs, or even moisture in the air.
 
 **Applications:**
 
@@ -1206,7 +1206,7 @@ A specialized form of Deep Bonding that creates profound telepathic connections 
 - Coordinate complex actions telepathically with multiple bonded creatures
 - Experience the world through non-human sensory systems
 
-**Cost:** Stronger than standard Deep Bonding but with greater risk—losing a Dark Bonded partner creates the **Soul-Scarred** Condition, which can take months to heal.
+**Cost:** Stronger than standard Deep Bonding but with greater risk: losing a Dark Bonded partner creates the **Soul-Scarred** Condition, which can take several Cycles to heal.
 
 #### Geothermal Communion
 
@@ -1252,7 +1252,7 @@ Psychic abilities don't improve through points or mechanical progression. Instea
 - **Burden and sacrifice:** Suffering serious consequences (permanent Condition, physical toll) but mastering the ability through that hardship
 - **Teaching others:** Successfully training other psychics in the ability
 - **Deep understanding:** A moment of profound communion with the planet/environment, revealing new dimensions of the ability
-- **Decades of practice:** In extreme cases, natural progression after many years (20+ Cycles) of constant use
+- **A lifetime of practice:** In extreme cases, natural progression after 200+ Cycles of constant use
 
 **What Changes When Abilities Advance:**
 
@@ -1301,7 +1301,7 @@ When a character approaches ability advancement, the player and GM should discus
 3. **What changes mechanically?** How does the ability description update?
 4. **What's the cost?** What does this advancement cost the character beyond mechanical improvement?
 
-Example: After the player describes Kaelen surviving a near-death experience using Thermal Sense to navigate blindly through a collapsing thermal structure, the GM says, "That moment—where you trusted your sense completely and survived—that's a threshold. Kaelen's Thermal Sense is shifting. You're becoming Adept."
+Example: After the player describes Kaelen surviving a near-death experience using Thermal Sense to navigate blindly through a collapsing thermal structure, the GM says, "That moment, where you trusted your sense completely and survived, that's a threshold. Kaelen's Thermal Sense is shifting. You're becoming Adept."
 
 The player updates the character sheet, describes what Thermal Sense now feels like to Kaelen, and determines if there's a lasting change (some scars? Nightmares? New respect from thermal specialists?).
 
@@ -1343,7 +1343,7 @@ Zhiren wants to calm the winds around their settlement as a superstorm approache
 
 ## Environmental Zones
 
-Duskara's three zones—the Day Side, the Twilight Belt, and the Night Side—are more than scenery. They actively shape gameplay by modifying dice pools and creating narrative constraints.
+Duskara's three zones (the Day Side, the Twilight Belt, and the Night Side) are more than scenery. They actively shape gameplay by modifying dice pools and creating narrative constraints.
 
 ### Zone-Based Dice Modifiers
 
@@ -1387,10 +1387,10 @@ Whenever a character takes action in a specific zone, automatically apply the zo
 
 **Dynamic Conditions:**
 
-- Storm Season: +1 Risk Die to outdoor activity
+- Storm Phase: +1 Risk Die to outdoor activity
 - Wind Turbine Maintenance: +1 Chance Die to power-dependent actions
 - Water Rationing: +1 Risk Die to resource-intensive activity
-- Festival Season: +1 Chance Die to social interactions
+- Festival Phase: +1 Chance Die to social interactions
 
 #### Night Side
 
@@ -1459,13 +1459,13 @@ Kaelen is attempting to salvage technology from day side wreckage.
   - Thermal Suit Operation (Skill): +1 Chance Die
   - Survival (Day Side) (Skill): +1 Chance Die
 - **Situational:**
-  - Solar storm incoming (scene Tag): +1 Risk Die
+  - Stellar storm incoming (scene Tag): +1 Risk Die
   - Ancient salvage site (scene Tag): +1 Chance Die
 - **Final Pool:**
   - 1 Action Die
   - +4 Chance Dice
   - +2 Risk Dice (zone baseline, reduced by thermal suit)
-  - +1 Risk Die (solar storm)
+  - +1 Risk Die (stellar storm)
   - Net: 1 Action Die + 1 Chance Die
 
 ### Zone-Specific Challenges
@@ -1498,7 +1498,7 @@ Different zones naturally create different types of stories:
 
 ## Creatures and Enemies
 
-Duskara's native life has adapted to extreme conditions over centuries of evolution, creating unique organisms that range from harmless to catastrophically dangerous. Most are not inherently hostile, but conflicts arise when territories overlap, creatures defend young or territory, or humans encroach on critical ecosystems. This section provides frameworks for creating creatures and detailed examples of native life and hostile forces.
+Duskara's native life has adapted to extreme conditions over ages of evolution, creating unique organisms that range from harmless to catastrophically dangerous. Most are not inherently hostile, but conflicts arise when territories overlap, creatures defend young or territory, or humans encroach on critical ecosystems. This section provides frameworks for creating creatures and detailed examples of native life and hostile forces.
 
 ### Creature Creation Framework
 
@@ -1592,7 +1592,7 @@ Massive, slug-like organisms that dwell in the deepest caverns, communicating th
 - **Opposition Strength:** Major (+3 Risk Dice) if provoked, though provocation is rare
 - **Zone:** Deep Night Side, far below habitation
 - **Behavior:** Migrations through deep network, mostly indifferent to human activity unless disrupted
-- **In Play:** Resonance whales are rarely encountered but are deeply significant to Resonance users, who view them as semi-sacred. Disturbing a resonance whale can cause seismic instability. Some believe they may have existed before human settlement (impossible to prove given lifespan). Their intelligence level is unknown—they could equally be native fauna that evolved in parallel with humanity's adaptation to Duskara. Encountering one is a momentous occasion, not an enemy encounter.
+- **In Play:** Resonance whales are rarely encountered but are deeply significant to Resonance users, who view them as semi-sacred. Disturbing a resonance whale can cause seismic instability. Some believe they may have existed before human settlement (impossible to prove given lifespan). Their intelligence level is unknown; they could equally be native fauna that evolved in parallel with humanity's adaptation to Duskara. Encountering one is a momentous occasion, not an enemy encounter.
 
 #### Frost Creepers
 
@@ -1604,7 +1604,7 @@ Arthropod-like scavengers native to the night side, surviving on geothermal heat
 - **Opposition Strength:** Negligible to Minor (+0-1 Risk Dice) individually, Moderate (+2 Risk Dice) in large swarms
 - **Zone:** Night Side
 - **Behavior:** Scavengers, colonial, attracted to dead organic matter and decomposition
-- **In Play:** Frost creepers are more nuisance than threat unless encountered in large swarms. They infest poorly maintained night-side outposts. Their exoskeletons are used in crafting insulated clothing and cold-weather gear. Large infestations are environmental problems, not enemy encounters—handled through pest control and resource management.
+- **In Play:** Frost creepers are more nuisance than threat unless encountered in large swarms. They infest poorly maintained night-side outposts. Their exoskeletons are used in crafting insulated clothing and cold-weather gear. Large infestations are environmental problems, not enemy encounters: handled through pest control and resource management.
 
 #### Shadow Serpents
 
@@ -1644,11 +1644,11 @@ Reptilian creatures native to Deep Roads with exceptional ability to sense and m
 
 #### Day-Side Drones (Rogue)
 
-Malfunctioning mining or exploration robots from early settlement days, now operating on corrupted programming. Some have been abandoned for centuries, others are still active.
+Malfunctioning mining or exploration robots from early settlement days, now operating on corrupted programming. Some have been abandoned for generations, others are still active.
 
 - **Concept:** Corrupted Autonomous System
 - **Skills:** Thermal Resistance, Mining/Salvage Tools, Pattern Recognition
-- **Frailty:** Dependent on Solar Power (vulnerable at night or in storms, operational during day only)
+- **Frailty:** Dependent on Photovoltaic Power (vulnerable on the night side or in storms, operational during day only)
 - **Opposition Strength:** Moderate (+2 Risk Dice) individually, Major (+3 Risk Dice) in coordinated groups
 - **Zone:** Day Side primarily
 - **Behavior:** Repeating programmed tasks, may misidentify humans as threats or resources, highly unpredictable
@@ -1700,7 +1700,7 @@ Competing communities with conflicting interests, goals, or ideologies, sometime
 - **Opposition Strength:** Moderate to Major (+2-3 Risk Dice) depending on settlement size and resources
 - **Zone:** Variable (wherever the settlement is located)
 - **Behavior:** Politically motivated, organized, capable of negotiation or escalation
-- **In Play:** Rival settlements aren't inherently "enemies," but conflicts over water rights, geothermal claims, or Accord violations create tension. Diplomacy, sabotage, or cooperation are all possible approaches. A settlement is a complex opponent—attacking one militarily has consequences, as does supporting one politically. The most interesting rival settlement conflicts are those with legitimate competing interests and room for negotiation.
+- **In Play:** Rival settlements aren't inherently "enemies," but conflicts over water rights, geothermal claims, or Accord violations create tension. Diplomacy, sabotage, or cooperation are all possible approaches. A settlement is a complex opponent: attacking one militarily has consequences, as does supporting one politically. The most interesting rival settlement conflicts are those with legitimate competing interests and room for negotiation.
 
 ### Hostile NPC Templates
 
@@ -1747,7 +1747,7 @@ Three resources matter on Duskara:
 
 **Water:** Precious, carefully recycled, never wasted
 **Power:** Generated by wind and geothermal, distributed through networks
-**Provisions:** Food, medicine, equipment—anything consumed or expended
+**Provisions:** Food, medicine, equipment, anything consumed or expended
 
 ### Resource Tags
 
@@ -1848,7 +1848,7 @@ These conflicts create excellent adventure frameworks without requiring detailed
 
 ## Wind and Storm Conditions
 
-The eternal wind is more than scenery—it's a living presence that shapes every moment on Duskara. This section provides mechanical structure for wind's influence on play.
+The eternal wind is more than scenery; it's a living presence that shapes every moment on Duskara. This section provides mechanical structure for wind's influence on play.
 
 ### Wind Intensity Levels
 
@@ -1907,18 +1907,18 @@ Wind conditions are represented by **Scene Tags** that apply modifiers to action
 - Settlements go into emergency lockdown
 - Storm may last hours or days
 
-### Storm Season
+### Storm Phase
 
 Duskara's storm patterns follow predictable cycles based on thermal differentials:
 
-**Peak Storm Season:** Several times per local year, when day-night thermal contrast is maximal
+**Peak Storm Phase:** Several times per Ancestor Cycle, when day-night thermal contrast is maximal
 
 - Superstorms occur more frequently
 - Settlements prepare with reinforcement and stockpiling
 - Travel between settlements becomes extremely dangerous
 - Weather workers are in high demand
 
-**Quiet Season:** Periods of relatively stable atmospheric conditions
+**Quiet Phase:** Periods of relatively stable atmospheric conditions
 
 - Strong winds are less common
 - Optimal time for day-side salvage operations
@@ -1956,7 +1956,7 @@ A superstorm approaches Aetherion settlement. The wind shifts from "Strong Wind"
 - **Thalen's Pool:**
   - Weather Working (Skill): +1 Chance Die
   - Positioned on Weather Spire (optimal location): +1 Chance Die
-  - Storm Season (opposing force): +1 Risk Die
+  - Storm Phase (opposing force): +1 Risk Die
   - Goal is to protect settlement: +1 Chance Die
 - **Net Pool:** 1 Action Die + 1 Chance Die
 - **Roll:** Thalen rolls two dice (Action + 1 Chance), gets a 5 and a 3
@@ -1964,9 +1964,9 @@ A superstorm approaches Aetherion settlement. The wind shifts from "Strong Wind"
 
 ## The Deep Roads
 
-The Deep Roads are a vast network of tunnels begun by early human settlers to connect twilight belt settlements to night-side geothermal zones. During the consolidation period of Duskaran civilization, many sections were abandoned due to resource constraints and structural instability. Centuries later, these ancient passages were rediscovered and expanded, incorporating natural cave systems and new excavations. Some sections follow geological formations—underground rivers, lava tubes, fault lines—while others are clearly the work of human engineering.
+The Deep Roads are a vast network of tunnels begun by early human settlers to connect twilight belt settlements to night-side geothermal zones. During the consolidation period of Duskaran civilization, many sections were abandoned due to resource constraints and structural instability. Generations later, these ancient passages were rediscovered and expanded, incorporating natural cave systems and new excavations. Some sections follow geological formations (underground rivers, lava tubes, fault lines) while others are clearly the work of human engineering.
 
-Exploring the Deep Roads is one of Duskara's signature experiences—equal parts discovery, danger, and mystery.
+Exploring the Deep Roads is one of Duskara's signature experiences: equal parts discovery, danger, and mystery.
 
 ### Navigation in the Deep Roads
 
@@ -2071,7 +2071,7 @@ The characters are traveling from Aetherion (twilight belt) to Khoros Deep (nigh
 
 ## Encounters and Conflicts
 
-*Duskara* is not a combat-focused game, but conflicts—physical, social, or environmental—are inevitable. This section provides structure for resolving meaningful confrontations.
+*Duskara* is not a combat-focused game, but conflicts (physical, social, or environmental) are inevitable. This section provides structure for resolving meaningful confrontations.
 
 ### Conflict Types
 
@@ -2202,7 +2202,7 @@ Conflicts should have lasting impacts:
 
 ## Facilitating Duskara Games
 
-As the Game Master (or "Facilitator" in GM-less play), your role is to voice the world—its settlements, dangers, mysteries, and inhabitants. You're not the author imposing a predetermined narrative. You're the steward of a living world that responds to player choices and reveals itself through shared play.
+As the Game Master (or "Facilitator" in GM-less play), your role is to voice the world: its settlements, dangers, mysteries, and inhabitants. You're not the author imposing a predetermined narrative. You're the steward of a living world that responds to player choices and reveals itself through shared play.
 
 This section consolidates principles, practical guidance, and specific scenarios for running *Duskara* effectively.
 
@@ -2212,7 +2212,7 @@ This section consolidates principles, practical guidance, and specific scenarios
 
 Nothing on Duskara stays fixed. Weather patterns shift. Settlements face new crises. NPCs evolve their goals and positions. People remember what the characters did.
 
-**In Practice:** When characters complete a mission, let it reshape the world. A successful salvage operation improves the settlement's Water Status. A failed negotiation creates new enemies. A rescue creates bonds of loyalty. Make the world responsive—not punishing, but honest about consequences.
+**In Practice:** When characters complete a mission, let it reshape the world. A successful salvage operation improves the settlement's Water Status. A failed negotiation creates new enemies. A rescue creates bonds of loyalty. Make the world responsive, not punishing, but honest about consequences.
 
 #### 2. Ask, Don't Tell
 
@@ -2241,7 +2241,7 @@ Pay attention to what players created:
 - **Goals and Motives:** Introduce complications or opportunities that press on these directly. Make characters feel like their driving ambitions matter.
 - **Nemeses:** Bring them back. When a character's Nemesis appears, raise the stakes.
 - **Relationships:** Use relationships to create drama. A character's mentor might ask for something that conflicts with another character's Goal. A bonded partner might be threatened.
-- **Frailties:** When a character's Frailty is relevant to the situation, remind them it exists—and let it matter without punishing them unfairly.
+- **Frailties:** When a character's Frailty is relevant to the situation, remind them it exists, and let it matter without punishing them unfairly.
 
 **Example:** Kaelen's Goal is "Recover the *Stellar Horizon*'s navigation core," and their Nemesis is "The Day Side Trading Consortium." Create situations where these intersect: perhaps the Consortium has discovered the same salvage site, or they control access to the day-side margins. This makes Kaelen feel seen and gives their choices real weight.
 
@@ -2266,7 +2266,7 @@ Plant mysteries early. Duskara is vast, and humanity doesn't understand it fully
 - Whispered rumors about pre-human civilizations
 - Fragments of encrypted data that hint at bigger secrets
 
-Don't explain these immediately. Let them grow. Some mysteries might never be fully resolved—that's okay. The mystery itself is part of the world.
+Don't explain these immediately. Let them grow. Some mysteries might never be fully resolved: that's okay. The mystery itself is part of the world.
 
 **Critical: Let mysteries evolve based on player engagement.** A mystery you plant is not a story you'll tell. It's a seed. If players ignore it, it remains in the background. If they investigate, it becomes a story thread they're driving forward. If they solve it, what they discover should surprise you as much as them. The mysteries serve the players' emergent story, not the other way around.
 
@@ -2284,7 +2284,7 @@ Define each settlement by:
 
 #### 2. Maps and Weather
 
-Sketch the territory where play might happen. Don't make it detailed—rough is fine. But know:
+Sketch the territory where play might happen. Don't make it detailed: rough is fine. But know:
 
 - Where's the nearest storm wall?
 - What direction does the wind blow?
@@ -2328,7 +2328,7 @@ That's it. You don't need a full character sheet. You need enough to know how th
 
 **Example:** A merchant appears. Concept: salvage trader. Visible trait: scarred hands. Complication: desperate to offload cursed salvage before anyone realizes it's defective. Now you can play them honestly.
 
-**On NPCs and Emergent Play:** The key to letting NPCs drive emergent play is this: **don't predetermine how they'll respond to player actions.** Create them with a concept, trait, and complication, then let them react authentically to what players do. Their contradictions will naturally create interesting moments without requiring scripting. If an NPC is "friendly but hiding something," let the players' questions and actions determine what gets revealed and when. You're not protecting a secret—you're playing a person who has one.
+**On NPCs and Emergent Play:** The key to letting NPCs drive emergent play is this: **don't predetermine how they'll respond to player actions.** Create them with a concept, trait, and complication, then let them react authentically to what players do. Their contradictions will naturally create interesting moments without requiring scripting. If an NPC is "friendly but hiding something," let the players' questions and actions determine what gets revealed and when. You're not protecting a secret; you're playing a person who has one.
 
 #### NPC Archetypes (Quick Reference)
 
@@ -2418,7 +2418,7 @@ Below are profession-based NPC templates you can adapt in seconds. Each includes
 - **Hidden Fault:** Discomfort on surface / cultural bias / protective of cave territories
 - **Hook:** Offering guide service OR protecting night-side secrets
 
-Use any of these as a starting point, then add your character's unique voice. The archetype is just scaffolding—player interaction will define them.
+Use any of these as a starting point, then add your character's unique voice. The archetype is just scaffolding: player interaction will define them.
 
 ### Running Without Prep
 
@@ -2507,7 +2507,7 @@ That's a complete session. No outline needed. No prepared story. Just you descri
 
 This works because:
 
-- **The setting guides play:** Duskara's harsh reality shapes what's possible. You don't need to script outcomes—the world does
+- **The setting guides play:** Duskara's harsh reality shapes what's possible. You don't need to script outcomes: the world does
 - **Character Tags drive conflict:** Players bring drama through their Goals, Nemeses, Relationships. You don't need to create it
 - **Failure and complication fuel adventure:** When rolls fail, the tables give you ideas. Things get interesting without your planning
 - **The table is collaborative:** Not in world-building (that's your job), but in responding to outcomes. You're not alone in interpreting what happens
@@ -2569,7 +2569,7 @@ You won't need them.
 
 #### Character Creation (30-45 minutes)
 
-Walk players through character creation together. Don't rush it—this is where players invest in their characters.
+Walk players through character creation together. Don't rush it; this is where players invest in their characters.
 
 **Structure:**
 
@@ -2600,7 +2600,7 @@ Don't overthink this. It's just alignment.
 
 2. **Listen to responses:** Let each character answer. You're learning what they care about.
 
-3. **Describe the world:** "The settlement is busy with repairs. People are worried but moving with purpose. The wind is still strong—the storm might return."
+3. **Describe the world:** "The settlement is busy with repairs. People are worried but moving with purpose. The wind is still strong: the storm might return."
 
 4. **Ask what they do:** "What does your character do right now?"
 
@@ -2638,7 +2638,7 @@ Pick one that feels right:
 #### Pacing Tips
 
 - **Don't explain all the rules at once.** Teach mechanics as they come up. "When you try something uncertain, we'll roll."
-- **After each roll, move the scene forward.** Don't explain outcomes extensively—just say what happens and ask what they do next.
+- **After each roll, move the scene forward.** Don't explain outcomes extensively, just say what happens and ask what they do next.
 - **A first session has 3-5 scenes maximum.** Each scene is usually one rolled question. That's enough.
 - **End when energy drops.** A good first session might wrap after 2-2.5 hours. Leaving people wanting more is better than overstaying.
 
@@ -2696,11 +2696,11 @@ You're done. You've run Duskara.
 
 *Duskara* emphasizes:
 
-- **Wonder and discovery** — The world is vast and mysterious
-- **Competence** — Characters are skilled, resourceful, and capable
-- **Community** — Settlements and relationships matter more than individual glory
-- **Consequence** — Actions ripple outward; nothing is truly isolated
-- **Respect for the environment** — Duskara is harsh but not malicious
+- **Wonder and discovery**: The world is vast and mysterious
+- **Competence**: Characters are skilled, resourceful, and capable
+- **Community**: Settlements and relationships matter more than individual glory
+- **Consequence**: Actions ripple outward; nothing is truly isolated
+- **Respect for the environment**: Duskara is harsh but not malicious
 
 When facilitating, lean into these. Describe the world with sensory detail. Show how character choices reshape communities. Make NPCs care about the larger world, not just the immediate conflict.
 
@@ -2712,7 +2712,7 @@ When facilitating, lean into these. Describe the world with sensory detail. Show
 
 **A player is hogging spotlight:** Use side conversations. Pull focus to quieter characters with questions: "Thalen, while Kaelen is talking with the Council, what are you doing?" Give each character scenes where they're the center.
 
-**Dice results aren't going the way you expected:** Trust the dice. "Yes, and..." and "No, but..." often create better stories than your plan. Follow the fiction—that's where the story lives.
+**Dice results aren't going the way you expected:** Trust the dice. "Yes, and..." and "No, but..." often create better stories than your plan. Follow the fiction: that's where the story lives.
 
 #### Keeping Notes
 
@@ -2724,7 +2724,7 @@ Track:
 - **Character Conditions** that persist between sessions
 - **Plot threads** left unresolved
 
-You don't need a formal ledger—a few bullet points per NPC and location are enough. The players will remind you of what they care about.
+You don't need a formal ledger: a few bullet points per NPC and location are enough. The players will remind you of what they care about.
 
 ## Example of Play
 
@@ -2732,7 +2732,7 @@ This extended example demonstrates how *Duskara* plays at the table, showcasing 
 
 ### The Setup
 
-**GM:** "You're standing on the observation platform at the top of Aetherion' central spire. The wind is strong—steady at about 60 kilometers per hour—and you can see storm clouds gathering on the day-side horizon. Kaelen, you've been scanning the thermal signatures all morning. What do you see?"
+**GM:** "You're standing on the observation platform at the top of Aetherion' central spire. The wind is strong, steady at about 60 kilometers per hour, and you can see storm clouds gathering on the day-side horizon. Kaelen, you've been scanning the thermal signatures all morning. What do you see?"
 
 **Kaelen's Player:** "I'm using my Thermal Sense to check if the mining drones are still operational out in the day margins. Have they sent back any signals?"
 
@@ -2742,7 +2742,7 @@ This extended example demonstrates how *Duskara* plays at the table, showcasing 
 
 **Kaelen's Player:** "Okay, so one Action Die and one Chance Die minus one Risk Die. That's just the Action Die." *(rolls a 4)* "I got a 4."
 
-**GM:** "Yes, but... You do pick up the drones' signatures—three of them are still active and broadcasting their positions. But the fourth one, the deep-salvage unit, has gone dark. Either it's offline, buried, or something else is interfering. What do you do?"
+**GM:** "Yes, but... You do pick up the drones' signatures: three of them are still active and broadcasting their positions. But the fourth one, the deep-salvage unit, has gone dark. Either it's offline, buried, or something else is interfering. What do you do?"
 
 **Kaelen's Player:** "That's the one with the high-value salvage. I need to go out there and check on it. I'll gear up and head out."
 
@@ -2752,21 +2752,21 @@ This extended example demonstrates how *Duskara* plays at the table, showcasing 
 
 **Zhiren's Player:** "I'm going to stop them. 'Kaelen, you know what day-side conditions are like right now. The storm's about to hit, and you've already been Psychically Drained from yesterday's Weather Working. You need rest, not a suicide mission.'"
 
-**Kaelen's Player:** "I look at Zhiren and say, 'The salvage contract pays enough to keep our water systems running for three months. We can't afford to lose that drone. I'll be quick.'"
+**Kaelen's Player:** "I look at Zhiren and say, 'The salvage contract pays enough to keep our water systems running for three Cycles. We can't afford to lose that drone. I'll be quick.'"
 
 **GM:** "Okay, this sounds like a social question. Zhiren, are you trying to convince Kaelen to stay? Frame it as a closed question."
 
 **Zhiren's Player:** "Can I convince Kaelen that this mission is too dangerous right now?"
 
-**GM:** "Let's build the pool. You've got a Relationship with Kaelen—you taught them thermal sensing—so that's a Chance Die. But Kaelen's Goal is tied to proving humanity can reclaim what was lost, and their Motive is strong. That's a Risk Die representing their determination. Also, the settlement's water situation is a factor—that's another Risk Die. Roll it."
+**GM:** "Let's build the pool. You've got a Relationship with Kaelen (you taught them thermal sensing) so that's a Chance Die. But Kaelen's Goal is tied to proving humanity can reclaim what was lost, and their Motive is strong. That's a Risk Die representing their determination. Also, the settlement's water situation is a factor: that's another Risk Die. Roll it."
 
 ### Social Conflict
 
 **Zhiren's Player:** *(rolls 1 Action Die + 1 Chance Die - 2 Risk Dice = just the Action Die)* "I got a 2."
 
-**GM:** "No... Kaelen, Zhiren's argument doesn't sway you. You're too focused on the mission and what it means for the settlement. Zhiren, you see the determination in their eyes—they're going."
+**GM:** "No... Kaelen, Zhiren's argument doesn't sway you. You're too focused on the mission and what it means for the settlement. Zhiren, you see the determination in their eyes; they're going."
 
-**Kaelen's Player:** "I nod to Zhiren. 'I'll be back before the storm hits. Keep the weather spire active—I might need you to clear a path home.' Then I head into the airlock."
+**Kaelen's Player:** "I nod to Zhiren. 'I'll be back before the storm hits. Keep the weather spire active; I might need you to clear a path home.' Then I head into the airlock."
 
 ### Day-Side Expedition
 
@@ -2790,7 +2790,7 @@ This extended example demonstrates how *Duskara* plays at the table, showcasing 
 
 **Kaelen's Player:** *(rolls three dice: 5, 4, 3)* "I got a 5."
 
-**GM:** "Yes... You locate the drone. It's half-buried in a thermal vent collapse, about 200 meters ahead. The salvage container is intact, and you can extract it. But the heat is intensifying—you estimate you have maybe thirty minutes before your suit's cooling system is overwhelmed. What do you do?"
+**GM:** "Yes... You locate the drone. It's half-buried in a thermal vent collapse, about 200 meters ahead. The salvage container is intact, and you can extract it. But the heat is intensifying; you estimate you have maybe thirty minutes before your suit's cooling system is overwhelmed. What do you do?"
 
 **Kaelen's Player:** "I move toward it and start digging it out. Can I recover the salvage container before my suit fails?"
 
@@ -2804,7 +2804,7 @@ This extended example demonstrates how *Duskara* plays at the table, showcasing 
 
 **Kaelen's Player:** *(rolls three dice: 6, 3, 2)* "A 6!"
 
-**GM:** "Yes, and... You not only reach the drone, but you find a thermal shadow—a small outcrop that shields you from the worst of the heat. You can work from there, which removes the extra Risk Die. Now, can you extract the salvage container?"
+**GM:** "Yes, and... You not only reach the drone, but you find a thermal shadow: a small outcrop that shields you from the worst of the heat. You can work from there, which removes the extra Risk Die. Now, can you extract the salvage container?"
 
 **Kaelen's Player:** "Let's do it. Can I free the salvage container before the storm hits?"
 
@@ -2819,13 +2819,13 @@ This extended example demonstrates how *Duskara* plays at the table, showcasing 
 
 **Kaelen's Player:** *(rolls two dice: 4, 4)* "Two 4s!"
 
-**GM:** "Two of the same highest value—that shifts the result one step better. You got 'Yes...' which becomes 'Yes, and...' You free the salvage container, and as you pull it loose, you notice something else—a data crystal embedded in the wreckage, partially intact. It looks like it might be from the *Stellar Horizon* itself. Do you take it?"
+**GM:** "Two of the same highest value, that shifts the result one step better. You got 'Yes...' which becomes 'Yes, and...' You free the salvage container, and as you pull it loose, you notice something else: a data crystal embedded in the wreckage, partially intact. It looks like it might be from the *Stellar Horizon* itself. Do you take it?"
 
 **Kaelen's Player:** "Absolutely. I grab both and start heading back."
 
 ### The Return
 
-**GM:** "Back in Aetherion, Zhiren, you're on the weather spire watching the storm roll in. The wind has jumped to gale force—that's +2 Risk Dice to outdoor actions. You can see Kaelen's heat signature through your comm link, moving toward the settlement, but the storm is closing fast. If they don't get inside soon, they'll be caught in it."
+**GM:** "Back in Aetherion, Zhiren, you're on the weather spire watching the storm roll in. The wind has jumped to gale force: that's +2 Risk Dice to outdoor actions. You can see Kaelen's heat signature through your comm link, moving toward the settlement, but the storm is closing fast. If they don't get inside soon, they'll be caught in it."
 
 **Zhiren's Player:** "I'm using Weather Working to push back the storm front, just enough to give Kaelen a window to get through. Can I redirect the worst of the storm for a few minutes?"
 
@@ -2836,13 +2836,13 @@ This extended example demonstrates how *Duskara* plays at the table, showcasing 
 - Positioned on Weather Spire: +1 Chance Die
 - Relationship with Kaelen (you trained them): +1 Chance Die
 - Gale Force Winds (scene Tag): +2 Risk Dice
-- Storm Season: +1 Risk Die
+- Storm Phase: +1 Risk Die
 - Psychically Drained (from yesterday): +1 Risk Die
 - Net pool: 1 Action Die + 0 Chance Dice (everything cancels)"
 
 **Zhiren's Player:** *(rolls the Action Die: 5)* "Just a 5."
 
-**GM:** "Yes... You manage it. The storm front hesitates, pushed back just long enough for Kaelen to sprint through the outer gates. But the effort costs you—you collapse on the spire platform, utterly exhausted. You're gaining the Condition 'Severely Psychically Drained,' which will take days of rest to clear. Kaelen makes it inside as the storm slams into Aetherion' shields."
+**GM:** "Yes... You manage it. The storm front hesitates, pushed back just long enough for Kaelen to sprint through the outer gates. But the effort costs you; you collapse on the spire platform, utterly exhausted. You're gaining the Condition 'Severely Psychically Drained,' which will take days of rest to clear. Kaelen makes it inside as the storm slams into Aetherion' shields."
 
 ### Resolution
 
@@ -2852,7 +2852,7 @@ This extended example demonstrates how *Duskara* plays at the table, showcasing 
 
 **Zhiren's Player:** "I take it, too tired to even smile. 'Next time, listen when I tell you something's too dangerous. But... good work.'"
 
-**GM:** "The salvage contract will keep Aetherion' water systems running, improving the settlement's Water Status from 'Water Rationing' to 'Water Adequate.' And the data crystal—well, that's a mystery for another session. For now, you've both earned some rest."
+**GM:** "The salvage contract will keep Aetherion' water systems running, improving the settlement's Water Status from 'Water Rationing' to 'Water Adequate.' And the data crystal: well, that's a mystery for another session. For now, you've both earned some rest."
 
 **What This Example Demonstrates:**
 
@@ -2864,7 +2864,7 @@ This extended example demonstrates how *Duskara* plays at the table, showcasing 
 - **Collaborative storytelling:** Players and GM build the scene together
 - **Emergent narrative:** The data crystal discovery came from rolling well, opening new story threads
 
-**A Note on Scene Narration:** In the Scene Transition, the GM said, "Zhiren, you notice Kaelen preparing for a day-side run." This is a common and effective way to present the world. But Zhiren retained full agency—they could have ignored Kaelen, done something else entirely, or reacted differently. The GM describes the world; players decide how their characters engage with it. Alternatively, Zhiren's player could have declared what they were doing first, and the GM would respond. The point is: describing what a character notices is not the same as narrating what they do. Narration of the world is the GM's job. Agency to respond is the player's.
+**A Note on Scene Narration:** In the Scene Transition, the GM said, "Zhiren, you notice Kaelen preparing for a day-side run." This is a common and effective way to present the world. But Zhiren retained full agency; they could have ignored Kaelen, done something else entirely, or reacted differently. The GM describes the world; players decide how their characters engage with it. Alternatively, Zhiren's player could have declared what they were doing first, and the GM would respond. The point is: describing what a character notices is not the same as narrating what they do. Narration of the world is the GM's job. Agency to respond is the player's.
 
 ## Adventure Design
 
@@ -2874,7 +2874,7 @@ This extended example demonstrates how *Duskara* plays at the table, showcasing 
 
 #### Player Choice and Consequence
 
-Your role is not to railroad players toward a predetermined narrative. Instead, establish a world full of opportunities and tensions, then let player choices determine what happens. Consequences should flow naturally from their decisions—not as punishment, but as honest reflection of how the world responds.
+Your role is not to railroad players toward a predetermined narrative. Instead, establish a world full of opportunities and tensions, then let player choices determine what happens. Consequences should flow naturally from their decisions, not as punishment, but as honest reflection of how the world responds.
 
 Adventures work best when they arise from:
 
@@ -2889,7 +2889,7 @@ The Duskaran Accord is a loose confederation of settlements established in Cycle
 
 **Accord Structure:**
 
-- **The Wind and Water Assembly:** Annual gathering of settlement delegates to address shared concerns
+- **The Wind and Water Assembly:** Gathering of settlement delegates, held once each Ancestor Cycle, to address shared concerns
 - **Wayseers:** Neutral psychic adepts who mediate disputes
 - **Wind Riders:** Couriers and envoys traveling between settlements
 - **Resource Arbitrators:** Specialists adjudicating conflicts over shared resources
@@ -2922,7 +2922,7 @@ Not every settlement honors the Accord equally. Common conflicts include:
 
 ### Settlement Creation
 
-Settlements are the anchors of *Duskara* play. They provide context, resources, conflicts, and consequences. You don't need extensive detail—a simple template is enough.
+Settlements are the anchors of *Duskara* play. They provide context, resources, conflicts, and consequences. You don't need extensive detail: a simple template is enough.
 
 #### Settlement Template
 
@@ -2955,7 +2955,7 @@ Settlements are the anchors of *Duskara* play. They provide context, resources, 
 
 - What's the deeper problem beneath the immediate crisis?
 - *Example: The geothermal vents have cooled over the past generation. No one admits it publicly.*
-- **On Implicit Pressure:** This is not a hidden secret you're protecting. It's a world condition that might emerge through play if players investigate the settlement's problems or if circumstances naturally reveal it. If players never dig into the settlement's history or politics, the implicit pressure stays in the background. If they do investigate, let them uncover this reality honestly. The pressure creates interesting drama when it surfaces—not because you're revealing a plot twist, but because it makes the world feel real and consequential.
+- **On Implicit Pressure:** This is not a hidden secret you're protecting. It's a world condition that might emerge through play if players investigate the settlement's problems or if circumstances naturally reveal it. If players never dig into the settlement's history or politics, the implicit pressure stays in the background. If they do investigate, let them uncover this reality honestly. The pressure creates interesting drama when it surfaces, not because you're revealing a plot twist, but because it makes the world feel real and consequential.
 
 **Relationships to Other Settlements:**
 
@@ -2972,7 +2972,7 @@ Settlements are the anchors of *Duskara* play. They provide context, resources, 
 
 **Name & Location:** Aetherion, Twilight Belt (central position, day-side margins accessible)
 
-**Character:** A vertical spire city built around geothermal vents. Architecture emphasizes height—towers reach into the wind currents, deep foundations tap heat. Water is precious but available; power abundant. Politics are hierarchical but fair.
+**Character:** A vertical spire city built around geothermal vents. Architecture emphasizes height: towers reach into the wind currents, deep foundations tap heat. Water is precious but available; power abundant. Politics are hierarchical but fair.
 
 **Key NPCs:**
 
@@ -3038,14 +3038,14 @@ Settlements are the anchors of *Duskara* play. They provide context, resources, 
 
 Create a settlement in minutes:
 
-1. **Give it a name and location** — Where is it? What zone?
-2. **Describe its character** — One or two sentences capturing its feel
-3. **Add 1-2 NPCs** — Name, role, one complication each
-4. **Set Resource Status** — Simple tags showing current scarcity
-5. **Define the tension** — What's happening now?
-6. **Name the pressure** — What's the underlying issue?
-7. **Add relationships** — How does it connect to other places?
-8. **Add details** — A few lines about what it's like
+1. **Give it a name and location**: Where is it? What zone?
+2. **Describe its character**: One or two sentences capturing its feel
+3. **Add 1-2 NPCs**: Name, role, one complication each
+4. **Set Resource Status**: Simple tags showing current scarcity
+5. **Define the tension**: What's happening now?
+6. **Name the pressure**: What's the underlying issue?
+7. **Add relationships**: How does it connect to other places?
+8. **Add details**: A few lines about what it's like
 
 That's a complete, playable settlement. You have enough to facilitate scenes there and improvise what happens. You don't need detailed histories, complete NPC rosters, or maps. You need enough to know what's at stake when the characters arrive.
 
@@ -3135,7 +3135,7 @@ Every adventure needs clear structure:
 
 **Resolve with Consequences:** Outcomes should change the world. Success improves settlement status or advances a character's Goal. Failure creates new obstacles or reveals dangers.
 
-This structured approach works well for designed scenes. Alternatively, you can facilitate more organically—see "Running Without Prep" in the Facilitating section for a completely improvisational style where the world responds to player choices without predetermined session structures. Both approaches honor the core principle: player choices drive the story.
+This structured approach works well for designed scenes. Alternatively, you can facilitate more organically: see "Running Without Prep" in the Facilitating section for a completely improvisational style where the world responds to player choices without predetermined session structures. Both approaches honor the core principle: player choices drive the story.
 
 ### Campaign Frameworks
 
@@ -3325,7 +3325,7 @@ Use these tables to generate quick adventure seeds, complications, or random ele
 
 | D66 | Event |
 |-----|-------|
-| 11  | Festival celebrating successful storm season survival |
+| 11  | Festival celebrating successful storm phase survival |
 | 12  | Water system malfunction; rationing begins |
 | 13  | Refugee caravan arrives seeking shelter |
 | 14  | Rival settlement sends delegation with demands |
@@ -3349,11 +3349,11 @@ Use these tables to generate quick adventure seeds, complications, or random ele
 | 44  | Technological breakthrough offers new opportunities |
 | 45  | Settlement animal (storm-beast, wind-runner) escapes |
 | 46  | Neighboring settlement requests emergency assistance |
-| 51  | Storm season arrives early and intense |
+| 51  | Storm phase arrives early and intense |
 | 52  | Young people agitate for greater exploration rights |
 | 53  | Religious or philosophical schism divides community |
 | 54  | Evidence of sabotage discovered |
-| 55  | Satellite begins transmitting after decades of silence |
+| 55  | Satellite begins transmitting after generations of silence |
 | 56  | Settlement votes on controversial policy |
 | 61  | Psychic prodigy emerges but struggles to control abilities |
 | 62  | Construction project uncovers unexpected hazard |
@@ -3369,7 +3369,7 @@ Use these tables to generate quick adventure seeds, complications, or random ele
 | 11  | Intact data crystal with fragmentary Earth records |
 | 12  | Advanced thermal suit prototype |
 | 13  | Medical supplies (rare pharmaceuticals) |
-| 14  | Functional power cell with years of charge remaining |
+| 14  | Functional power cell with many Cycles of charge remaining |
 | 15  | Navigation equipment from *Stellar Horizon* |
 | 16  | Personal logs of crew member |
 | 21  | Seeds from Earth (possibly still viable) |
@@ -3487,7 +3487,7 @@ Use these tables to generate quick adventure seeds, complications, or random ele
 
 ## Inspirational Media
 
-These works capture the spirit of *Duskara*—planetary romance, environmental adaptation, psychic evolution, and the struggle to thrive in extreme conditions.
+These works capture the spirit of *Duskara*: planetary romance, environmental adaptation, psychic evolution, and the struggle to thrive in extreme conditions.
 
 ### Books
 
@@ -3516,36 +3516,36 @@ These works capture the spirit of *Duskara*—planetary romance, environmental a
 
 ### Films & TV
 
-- *Dune* (1984, 2021) — environmental adaptation, psychic abilities, planetary survival
-- *The Expanse* (TV series) — resource scarcity, inter-settlement politics, realistic sci-fi
-- *Nausicaä of the Valley of the Wind* (1984) — environmental harmony, psychic connection to life
-- *Avatar* (2009) — psychic bonding, indigenous resistance, environmental themes
-- *Interstellar* (2014) — survival, sacrifice, exploration
-- *The Mandalorian* (TV series) — frontier life, isolated communities, resilience
+- *Dune* (1984, 2021): environmental adaptation, psychic abilities, planetary survival
+- *The Expanse* (TV series): resource scarcity, inter-settlement politics, realistic sci-fi
+- *Nausicaä of the Valley of the Wind* (1984): environmental harmony, psychic connection to life
+- *Avatar* (2009): psychic bonding, indigenous resistance, environmental themes
+- *Interstellar* (2014): survival, sacrifice, exploration
+- *The Mandalorian* (TV series): frontier life, isolated communities, resilience
 
 ### Games
 
-- *Journey* — wordless cooperation, environmental storytelling, pilgrimage
-- *Subnautica* — exploration, survival, environmental adaptation
-- *Sable* — open-world exploration, coming-of-age, environmental beauty
-- *Outer Wilds* — discovery, mystery, interconnected systems
-- *Citizen Sleeper* — resource management, survival, community bonds
-- *Terra Nil* — environmental restoration, ecological balance
+- *Journey*: wordless cooperation, environmental storytelling, pilgrimage
+- *Subnautica*: exploration, survival, environmental adaptation
+- *Sable*: open-world exploration, coming-of-age, environmental beauty
+- *Outer Wilds*: discovery, mystery, interconnected systems
+- *Citizen Sleeper*: resource management, survival, community bonds
+- *Terra Nil*: environmental restoration, ecological balance
 
 ### Comics & Graphic Novels
 
-- *Prophet* by Brandon Graham — strange worlds, evolution, exploration
-- *Saga* by Brian K. Vaughan and Fiona Staples — multi-species societies, cultural conflict
-- *Invisible Republic* by Gabriel Hardman and Corinna Bechko — frontier settlements, political intrigue
-- *The Wicked + The Divine* by Kieron Gillen — psychic powers, cultural mythology
+- *Prophet* by Brandon Graham: strange worlds, evolution, exploration
+- *Saga* by Brian K. Vaughan and Fiona Staples: multi-species societies, cultural conflict
+- *Invisible Republic* by Gabriel Hardman and Corinna Bechko: frontier settlements, political intrigue
+- *The Wicked + The Divine* by Kieron Gillen: psychic powers, cultural mythology
 
 ### Music & Soundscapes
 
-- Brian Eno — *Ambient* series (atmospheric, meditative, environmental)
-- Sigur Rós — expansive, ethereal soundscapes
-- Carbon Based Lifeforms — ambient sci-fi atmospheres
-- Jon Hopkins — immersive, rhythmic, exploratory
-- Stellardrone — space ambient, isolation, wonder
+- Brian Eno: *Ambient* series (atmospheric, meditative, environmental)
+- Sigur Rós: expansive, ethereal soundscapes
+- Carbon Based Lifeforms: ambient sci-fi atmospheres
+- Jon Hopkins: immersive, rhythmic, exploratory
+- Stellardrone: space ambient, isolation, wonder
 
 ## Appendix A: Glossary
 
@@ -3553,104 +3553,104 @@ These works capture the spirit of *Duskara*—planetary romance, environmental a
 
 ### Core Mechanics
 
-**Action Die** — The main die rolled in any uncertain situation. Always a single d6. Present in every roll. (See line 845)
+**Action Die**: The main die rolled in any uncertain situation. Always a single d6. Present in every roll. (See line 845)
 
-**Automatic Success** — If advantages clearly outweigh obstacles, there's no need to roll dice: the action succeeds automatically. (See line 850)
+**Automatic Success**: If advantages clearly outweigh obstacles, there's no need to roll dice: the action succeeds automatically. (See line 850)
 
-**Chance Dice** — Bonus dice added when characters have advantages, help, or favorable conditions. For each advantage, add one d6. (See line 845)
+**Chance Dice**: Bonus dice added when characters have advantages, help, or favorable conditions. For each advantage, add one d6. (See line 845)
 
-**Closed Question** — A question that can only be answered with Yes or No. Used to frame actions and guide dice rolls. (See line 900)
+**Closed Question**: A question that can only be answered with Yes or No. Used to frame actions and guide dice rolls. (See line 900)
 
-**Complication** — A new obstacle that emerges due to the characters' actions, making the situation more complex. (See line 920)
+**Complication**: A new obstacle that emerges due to the characters' actions, making the situation more complex. (See line 920)
 
-**Conditions** — Temporary tags describing physical, mental, or emotional states (e.g., Injured, Frightened, Tired). They can influence actions and must be overcome through narration. (See line 940)
+**Conditions**: Temporary tags describing physical, mental, or emotional states (e.g., Injured, Frightened, Tired). They can influence actions and must be overcome through narration. (See line 940)
 
-**Dice Pool** — The set of dice to be rolled to resolve an action. Always includes the Action Die and then any Chance Dice or Risk Dice (which cancel each other out). (See line 845)
+**Dice Pool**: The set of dice to be rolled to resolve an action. Always includes the Action Die and then any Chance Dice or Risk Dice (which cancel each other out). (See line 845)
 
-**Risk Dice** — Penalty dice added when there are disadvantages, obstacles, or unfavorable conditions. For each disadvantage, add one d6. (See line 845)
+**Risk Dice**: Penalty dice added when there are disadvantages, obstacles, or unfavorable conditions. For each disadvantage, add one d6. (See line 845)
 
-**Tag** — Short words or phrases describing relevant characteristics of characters, places, objects, or situations. Used to activate advantages or disadvantages during play. (See line 300)
+**Tag**: Short words or phrases describing relevant characteristics of characters, places, objects, or situations. Used to activate advantages or disadvantages during play. (See line 300)
 
-**Zoom In / Zoom Out** — Two ways to approach a conflict: (See line 2442)
+**Zoom In / Zoom Out**: Two ways to approach a conflict: (See line 2442)
 
 - **Zoom Out:** A single closed question resolves the entire scene.
 - **Zoom In:** A series of closed questions explores each phase of the action in detail.
 
 ### Character & Traits
 
-**Concept** — A short description of who the character is. Foundation of a character's identity. (See line 280)
+**Concept**: A short description of who the character is. Foundation of a character's identity. (See line 280)
 
-**Cost** — A loss or sacrifice linked to the outcome of an action (time, resources, reputation, psychic energy). (See line 920)
+**Cost**: A loss or sacrifice linked to the outcome of an action (time, resources, reputation, psychic energy). (See line 920)
 
-**Frailty** — Character trait representing a vulnerability or challenge that adds Risk Dice when it comes into play. (See line 325)
+**Frailty**: Character trait representing a vulnerability or challenge that adds Risk Dice when it comes into play. (See line 325)
 
-**Gear** — Equipment carried by characters. Can add Chance Dice when relevant to an action. (See line 360)
+**Gear**: Equipment carried by characters. Can add Chance Dice when relevant to an action. (See line 360)
 
-**Goal** — What a character wants to achieve. Their driving ambition. (See line 370)
+**Goal**: What a character wants to achieve. Their driving ambition. (See line 370)
 
-**Motive** — Why a character pursues their Goal. The emotional or philosophical drive behind their ambition. (See line 370)
+**Motive**: Why a character pursues their Goal. The emotional or philosophical drive behind their ambition. (See line 370)
 
-**Nemesis** — A person, organization, force, or concept that opposes a character or complicates their life. (See line 380)
+**Nemesis**: A person, organization, force, or concept that opposes a character or complicates their life. (See line 380)
 
-**Relationship** — A significant bond with another character (ally, rival, mentor, family, etc.). (See line 390)
+**Relationship**: A significant bond with another character (ally, rival, mentor, family, etc.). (See line 390)
 
-**Skills** — Character traits representing training, expertise, or natural talents. Add Chance Dice when relevant. (See line 310)
+**Skills**: Character traits representing training, expertise, or natural talents. Add Chance Dice when relevant. (See line 310)
 
-**Traits** — Tags related to characters: Concept, Skills, Frailty, Motivation, Goal, and Relationships. Represent what a character is, knows how to do, or desires. (See line 280)
+**Traits**: Tags related to characters: Concept, Skills, Frailty, Motivation, Goal, and Relationships. Represent what a character is, knows how to do, or desires. (See line 280)
 
 ### World Building
 
-**Duskara** — Tidally locked planet where humanity has adapted and thrived for eight centuries after an unplanned landing. (See line 150)
+**Duskara**: Tidally locked planet where humanity has adapted and thrived for eight hundred Ancestor Cycles after an unplanned landing. (See line 150)
 
-**Day Side** — Duskara's scorching hemisphere, facing the star constantly. Temperatures exceed 400°C. Uninhabitable without extreme protection. Adds +2 Risk Dice to all physical actions. (See line 600)
+**Day Side**: Duskara's scorching hemisphere, facing the star constantly. Temperatures exceed 200°C. Uninhabitable without extreme protection. Adds +2 Risk Dice to all physical actions. (See line 600)
 
-**Deep Roads** — Vast network of tunnels and caverns connecting settlements. Contains geothermal sites, ancient structures, and native ecosystems. (See line 1610)
+**Deep Roads**: Vast network of tunnels and caverns connecting settlements. Contains geothermal sites, ancient structures, and native ecosystems. (See line 1610)
 
-**Geothermal Vents** — Sources of heat deep in Duskara's crust. Critical for night-side settlements and power generation. (See line 620)
+**Geothermal Vents**: Sources of heat deep in Duskara's crust. Critical for night-side settlements and power generation. (See line 620)
 
-**Night Side** — Duskara's frozen hemisphere, facing away from the star. Temperatures drop to -150°C. Inhabited primarily in caverns near geothermal vents. Adds +1 Risk Die to navigation and perception. (See line 640)
+**Night Side**: Duskara's frozen hemisphere, facing away from the star. Temperatures drop to -150°C. Inhabited primarily in caverns near geothermal vents. Adds +1 Risk Die to navigation and perception. (See line 640)
 
-**Stellar Horizon** — Colony ship that brought humanity to Duskara in ~2250 CE after navigational failure. (See line 200)
+**Stellar Horizon**: Colony ship that brought humanity to Duskara in ~2200 CE after navigational failure. (See line 200)
 
-**Storm Season** — Periods when atmospheric conditions create frequent superstorms. Settlements prepare and reinforce infrastructure. (See line 1755)
+**Storm Phase**: Periods when atmospheric conditions create frequent superstorms. Settlements prepare and reinforce infrastructure. (See line 1755)
 
-**Superstorm** — Catastrophic weather event with winds exceeding 150 km/h. Adds +3 Risk Dice to outdoor actions, +2 to structures. (See line 1743)
+**Superstorm**: Catastrophic weather event with winds exceeding 150 km/h. Adds +3 Risk Dice to outdoor actions, +2 to structures. (See line 1743)
 
-**Twilight Belt** — Habitable zone 200-300 km wide circling Duskara's meridian. Home to 80% of humanity. Temperatures range from temperate to moderately warm. No base dice modifiers. (See line 180)
+**Twilight Belt**: Habitable zone 200-300 km wide circling Duskara's meridian. Home to 80% of humanity. Temperatures range from temperate to moderately warm. No base dice modifiers. (See line 180)
 
 ### Psychic Abilities
 
-**Deep Bonding** — Psychic ability to form connections with native life forms or, at higher levels, other bonded humans. (See line 1067)
+**Deep Bonding**: Psychic ability to form connections with native life forms or, at higher levels, other bonded humans. (See line 1067)
 
-**Psychic Abilities** — Evolutionary adaptations manifested by Duskarans—Weather Working, Thermal Sense, Deep Bonding, Shadow Walking, Water Finding. (See line 1015)
+**Psychic Abilities**: Evolutionary adaptations manifested by Duskarans: Weather Working, Thermal Sense, Deep Bonding, Shadow Walking, Water Finding. (See line 1015)
 
-**Resonance** — Psychic ability to perceive and manipulate vibrations through solid matter, primarily used in cave systems. (See line 1290)
+**Resonance**: Psychic ability to perceive and manipulate vibrations through solid matter, primarily used in cave systems. (See line 1290)
 
-**Shadow Walking** — Psychic ability to navigate complete darkness using psychic awareness and intuitive sense of surroundings. (See line 1086)
+**Shadow Walking**: Psychic ability to navigate complete darkness using psychic awareness and intuitive sense of surroundings. (See line 1086)
 
-**Thermal Sense** — Psychic ability to perceive heat signatures and temperature gradients with extraordinary precision. (See line 1048)
+**Thermal Sense**: Psychic ability to perceive heat signatures and temperature gradients with extraordinary precision. (See line 1048)
 
-**Water Finding** — Psychic ability to detect water sources through psychic vibrations, critical in resource-scarce environments. (See line 1106)
+**Water Finding**: Psychic ability to detect water sources through psychic vibrations, critical in resource-scarce environments. (See line 1106)
 
-**Weather Working** — Psychic ability to sense and subtly influence atmospheric patterns—wind speed, pressure changes, storm formation. (See line 1029)
+**Weather Working**: Psychic ability to sense and subtly influence atmospheric patterns: wind speed, pressure changes, storm formation. (See line 1029)
 
 ### Settlement & Society
 
-**Duskaran Accord** — Confederation of settlements managing inter-settlement relations, resource distribution, and collective defense. (See line 2801)
+**Duskaran Accord**: Confederation of settlements managing inter-settlement relations, resource distribution, and collective defense. (See line 2801)
 
-**Enemy** — A recurring adversary or force actively hostile to the characters' goals, not just in a physical sense. (See line 1501)
+**Enemy**: A recurring adversary or force actively hostile to the characters' goals, not just in a physical sense. (See line 1501)
 
-**Progress Clock** — Method for tracking progress toward goals in extended challenges, especially Deep Roads navigation. Divided into segments filled by successful rolls. (See line 1718)
+**Progress Clock**: Method for tracking progress toward goals in extended challenges, especially Deep Roads navigation. Divided into segments filled by successful rolls. (See line 1718)
 
-**Resource Status Tags** — Tags representing settlement-level resource availability (Water, Power, Provisions). Range from Abundant to Crisis. (See line 875)
+**Resource Status Tags**: Tags representing settlement-level resource availability (Water, Power, Provisions). Range from Abundant to Crisis. (See line 875)
 
-**Settlement** — Community of humans living in Twilight Belt, Night Side, or transitional zones. Center of play in most campaigns. (See line 2834)
+**Settlement**: Community of humans living in Twilight Belt, Night Side, or transitional zones. Center of play in most campaigns. (See line 2834)
 
-**Wind Riders** — Couriers and envoys of the Duskaran Accord who travel between settlements. (See line 2808)
+**Wind Riders**: Couriers and envoys of the Duskaran Accord who travel between settlements. (See line 2808)
 
 ### Environmental Terms
 
-**Details** — Tags related to the environment or scene, such as "curtains on fire" or "guards alerted." Reflect the transformations of the world following characters' actions. (See line 920)
+**Details**: Tags related to the environment or scene, such as "curtains on fire" or "guards alerted." Reflect the transformations of the world following characters' actions. (See line 920)
 
 ## Appendix B: Quick Reference Card
 
@@ -3707,9 +3707,9 @@ Injured, Exhausted, Frightened, Psychically Drained, Overheating, Disoriented, G
 **CHARACTER TAGS:**
 
 1. Concept (role/identity)
-2. Skills (expertise) — 3 total
+2. Skills (expertise): 3 total
 3. Frailty (vulnerability)
-4. Gear (equipment) — 2 total
+4. Gear (equipment): 2 total
 5. Goal (ambition)
 6. Motive (why)
 7. Nemesis (opposition)
@@ -3840,7 +3840,7 @@ Use this template to create your character. Write your character's name and deta
 
 ### Conditions
 
-(Temporary states that emerge during play—track here as they occur)
+(Temporary states that emerge during play: track here as they occur)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -3850,7 +3850,7 @@ Use this template to create your character. Write your character's name and deta
 
 ### Notes & Additional Details
 
-(Any other details about your character—history, beliefs, secrets, plans)
+(Any other details about your character: history, beliefs, secrets, plans)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -3903,7 +3903,7 @@ Recover the *Stellar Horizon*'s navigation core from the day-side wreckage
 
 ### Motive
 
-To prove that humanity can reclaim what was lost—that we're not just survivors clinging to the margins, but explorers and builders who can venture into the harshest places
+To prove that humanity can reclaim what was lost, that we're not just survivors clinging to the margins, but explorers and builders who can venture into the harshest places
 
 *Adds +1 Chance Die when this motivation directly drives the action*
 
@@ -3929,7 +3929,7 @@ The Day Side Trading Consortium
 
 ### Psychic Ability
 
-(Optional—Kaelen has one)
+(Optional: Kaelen has one)
 
 **Ability:** ☑ Thermal Sense (Weather Working / Deep Bonding / Shadow Walking / Water Finding)
 
@@ -3945,7 +3945,7 @@ The Day Side Trading Consortium
 
 ### Notes & Additional Details
 
-- Scar tissue on left arm from a day-side burn incident—faded but visible
+- Scar tissue on left arm from a day-side burn incident: faded but visible
 - Keeps a fragment of *Stellar Horizon* hull plating as a reminder of the mission
 - Dreams of navigating the day-side expanse where no human has gone before
 - Debates internally whether recovering the navigation core is about hope or obsession
