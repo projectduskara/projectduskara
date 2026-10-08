@@ -1,9 +1,9 @@
 ---
 title: Duskaran Gazetteer
 subtitle: Places of the Living Edge
-version: 1.3.0
-date: 2026-10-07
-latest_update: "Wind and storms: the storm walls, the hot gates and the storm path of Harmatan. The night side: seventy Deepkin communities, the Deep Roads and their gates, and names for the largest communities."
+version: 1.4.0
+date: 2026-10-08
+latest_update: "The surge of the ice nightward of Liko-Luŋga, falling wind in the rift, and the guild house of Bantay-Hanga."
 ---
 
 # Introduction
@@ -201,6 +201,7 @@ Every named place, from north to south.
 | 2,700 | 6 | N | -120 | Cheŋ-Angataa | Frontier city | 80,000 | Canon |
 | 2,780 | 6 | N | -70 | Rijiya-Sanyi | Wind-rail platform | small | Canon |
 | 2,850 | 6 | C | -15 | Liko-Luŋga | Farming town | 12,000 | Canon |
+| 2,852 | 6 | C | -27 | Bantay-Hanga | Weatherworking guild house | small | Canon |
 | 2,920 | 6 | C | 0 | Mdomo-Luŋga | Major city | about 700,000 | Canon |
 | 2,925 to 3,075 | 6 to 7 | C | -17 to +27 | Bahari | Lake | | Canon |
 | 2,990 | 6 | C | -19 | Latian-Haske | Protected wetland | | Canon |
@@ -332,7 +333,13 @@ A wind-rail platform between Cheŋ-Angataa and the central settlements. It keeps
 
 *Alama 2,850. Central band, offset -15. Farming town, 12,000. Canon.*
 
-A town at a curve of the Luŋga-Hanga river network, about 150 kilometers up-belt of Birni and 200 kilometers up-belt of Lambak-Hanga. It was founded as an agricultural outpost of Lambak-Hanga, grows wind-resistant grains, and links the outposts of the Nightward Edge to the main caravan routes. Its council has one representative for each key sector (farmers, merchants, water management).
+A town at a curve of the Luŋga-Hanga river network, about 150 kilometers up-belt of Birni and 200 kilometers up-belt of Lambak-Hanga. It was founded as an agricultural outpost of Lambak-Hanga, grows wind-resistant grains, and links the outposts of the Nightward Edge to the main caravan routes. Its council has one representative for each key sector (farmers, merchants, water management). The town stands on the floor of the rift, in the lee of its nightward scarp, with a halt on the main Whisper Road; the river passes a few kilometers dayward of it, and river fishers work it with weirs and set-lines. Its weatherworkers have their house at Bantay-Hanga, on the scarp above.
+
+### Bantay-Hanga
+
+*Alama 2,852. Central band, offset -27. Weatherworking guild house. Canon.*
+
+The guild house of Liko-Luŋga, on the nightward scarp of the rift, about 12 kilometers nightward of the town and about 110 meters above it: three hours on foot, uphill. Its name means "wind watch". It stands where the lee of the scarp ends. Below it the air of the rift is slack. The usual wind at the house is about 32 kilometers an hour, against 21 in the town, and a few kilometers above the house it is twice that of the town. The lines of the night wall strike this shoulder before they pass over the town, and the house watches for them. It is a minor wind focal point: the cold wind over the shoulder, the current of the rift below and the air that climbs the face of the scarp meet there. The path from the town has iron rings in the rock for a storm line. Each person who climbs carries part of the supplies of the house.
 
 ### Mdomo-Luŋga
 
@@ -531,6 +538,18 @@ At the northern end, Bundok-Kuu holds the storms of both walls against its slope
 
 The hot air that comes in at Kofa-Joto does not go straight across the belt. The current of the rift turns it down-belt, and it meets the cold wind about 100 kilometers farther on, over Harmatan. Most of the severe storms of the heartland start on this line.
 
+## The Surging Ice
+
+Most glacier tongues of the heartland stop outside the belt and move little. The tongue nightward of Liko-Luŋga, the one that feeds the up-belt branch of the Luŋga-Hanga, is different: about once in 200 Ancestor Cycles it surges. For some Cycles the ice front moves forward quickly, tens of kilometers across the nightward plateau, and then it stops for a long time. The last surge was about 200 Ancestor Cycles before the present. It is not known if other tongues of the arc do the same.
+
+The night wall stands about 30 kilometers behind the ice front, so the wall advances with the ice. While the surge lasts, the wall sends line after line of storm across the plateau, each one colder and faster than those of an ordinary Cycle. People of the region call this a Storm Phase. Three settlements of the plateau were lost in the last one.
+
+The first sign of a surge is in the river. The melt water of the moving ice makes the Luŋga-Hanga run high, cold, and pale with rock flour, some days before the wind changes.
+
+## Falling Wind
+
+The rift shelters its floor because the lines of the night wall pass above it. The shelter can fail. When a line is slow or very cold, its air is heavier than the air of the rift: it spills over the shoulder of the nightward scarp, most of all at the notches, and falls to the floor. The cold air then stays there, and the current of the rift carries it down-belt. Wind-grain does not grow in the open below about 12 degrees, so a fall can kill a crop that no wind has touched. A line that is held at the edge of the plateau does not weaken: it piles up, as the walls do against Bundok-Kuu, and falls at once when the hold ends.
+
 ## Storm Exposure
 
 The classes show how often and how hard the storms strike a place, from the two walls, from the hot gates and from the places where the currents meet.
@@ -539,18 +558,18 @@ The classes show how often and how hard the storms strike a place, from the two 
 |-------|--------|
 | Storm wall | Kofa-Joto, Buŋaŋa-Loŋ |
 | Severe | Lawa-Biŋ, Harmatan |
-| High | Cheŋ-Angataa, Latian-Haske |
+| High | Cheŋ-Angataa, Bantay-Hanga, Latian-Haske |
 | Moderate | Cheŋ-Jiwe, Kofa-Sanyi, Liko-Luŋga, Birni, Ngomawan, Mnara-Bato, Chumawan, Bantay-Init |
 | Low | Cheŋ-Njia, Cheŋ-Biŋ, Jiko-Biŋ, Soko-Barafu, Zaŋgo-Iska, Shamba-Kuu, Hanaŋa-Kuukuu, Rijiya-Sanyi, Mdomo-Luŋga, Lambak-Hanga, Mlango-Bahari, Isha-Luŋga, Motowan, Bantay-Loŋ, Bukal-Mvuke, Bukal-Amani, Rijiya-Refu, Soko-Chumvi, Tafki-Kuu, Mbeguwan, Bwawa-Isha |
 
 ## Wind Focal Points
 
-A wind focal point is a place where three wind currents come together. Wind Temples stand at such places. The strongest ones in the Central band are below; most are on the floor of the rift, where the cold wind, the current of the rift and the air off the slopes meet.
+A wind focal point is a place where three wind currents come together. Wind Temples stand at such places. The strongest ones in the Central band are below (weaker ones, such as Bantay-Hanga, are not listed); most are on the floor of the rift, where the cold wind, the current of the rift and the air off the slopes meet.
 
 | Alama | Offset | Nearest place |
 |------:|-------:|---------------|
 | 2,796 | -52 | Rijiya-Sanyi, 24 km |
-| 2,876 | -26 | Liko-Luŋga, 28 km |
+| 2,876 | -26 | Bantay-Hanga, 24 km |
 | 2,958 | -26 | Latian-Haske, 33 km |
 | 3,026 | -24 | Birni, 26 km |
 | 3,112 | -12 | Mlango-Bahari, 31 km |
@@ -702,6 +721,7 @@ The caravan times use the rule of the Gazetteer: 25 km in a day of travel, and o
 | Name | Meaning | Source |
 |------|---------|--------|
 | Bahari | The Sea | Swahili |
+| Bantay-Hanga | Wind Watch | Tagalog, core |
 | Bantay-Init | Heat Watch | Tagalog |
 | Bantay-Loŋ | Dragon Watch | Tagalog, Mandarin |
 | Birni | Walled City | Hausa |
@@ -783,6 +803,10 @@ The names that these replace in older texts are listed in CANON_REMAPPING.md, in
   - New chapter Wind and Storms: the direction of the wind, the two storm walls, the hot gates at Kofa-Joto and Buŋaŋa-Loŋ, the storm path of Harmatan, storm exposure of each place, and wind focal points. Changes in the entries of Kofa-Joto and Harmatan follow.
   - The Night Side: the seventy major Deepkin communities by region, the Deep Roads and their gates, five entrances without a name, and names for the fourteen largest communities after Pango-Liwanag.
   - New chapter The Far Edge: the ring and its alama, the two blind arcs, the ground that the old images show, and six unexplained marks with open readings.
+- 1.4.0: The surging ice, falling wind, and Bantay-Hanga. These come from the novel The Weight of Wind.
+  - Wind and Storms: new section The Surging Ice (the ice tongue nightward of Liko-Luŋga surges about once in 200 Ancestor Cycles, the night wall advances with it, and the river shows the first sign) and new section Falling Wind (cold air that spills over the nightward scarp of the rift and stays on its floor).
+  - New entry Bantay-Hanga, the weatherworking guild house of Liko-Luŋga, on the scarp about 12 kilometers nightward of the town. It is in the Strip Table, the storm exposure classes and the Index of Names.
+  - Liko-Luŋga: its place in the lee of the scarp, its halt on the main Whisper Road and its river fishers.
 
 # License
 
