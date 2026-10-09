@@ -1,9 +1,9 @@
 ---
 title: Duskaran Daybook
 subtitle: Everyday Life on the Living Edge
-version: 0.4.0
+version: 0.5.0
 date: 2026-10-09
-latest_update: "New chapter At the Gate: a trade day at a gate of the Deep Roads."
+latest_update: "New sections The Marriage Caravan and Gender."
 ---
 
 # Introduction
@@ -401,6 +401,15 @@ The Compendium gives the foods (C11). This chapter gives the table.
 - **People point with the chin or the lips.** A finger that points at a person is an accusation.
 - **What is in a pocket:** a knife, a length of cord, a chewing stick, a carved thing, and at council time a wind-token (C04).
 
+## Gender
+
+- **The language does not sort people.** Creole has one pronoun for a third person, *ŋa* (H), and a personal name fits anyone (C19). Only a few kin words carry a gender: *ama*, *bapa*, *bibi* (H).
+- **Work does not sort them either.** The rota looks at skill and at who is free (C04). Clothes, hair and seats on a council are the same for all.
+- **Gender is still there.** People have one, most say it with a kin word or not at all, and a body matters to the healer and in a pregnancy. Some settlements have named roles for people who are neither or both, and each has its own words for them (C04).
+- **Care.** A healer (*tiba-ji*) treats the alignment of a body with the gender of the person as ordinary care (C04). People speak of it as they speak of any cure: the person is coming to *sawa*.
+- **What changes in the house** is one word. The family begins to say *bapa* where it said *ama*, or the reverse, and by custom the youngest says it first, at the meal.
+- A stranger does not ask, and does not guess aloud.
+
 ## Small Ills
 
 - Cracked lips and knuckles. Eyes that run. Ears that ache. A dry cough in dust phases. One stiff shoulder, on the side that takes the wind on the road to work.
@@ -607,7 +616,7 @@ Canon gives the frame. Courtship is informal and personal. People meet at gather
 
 - The lee of a wall on its lit side. The long lanes. The steps of the steam house. A roof, where there is more sun. The walk home from the hall after the fourth bell.
 - Lovers in two towns write by caravan, ten to twelve days each way between neighbor cities (G).
-- The marriage caravan (C04) cuts across all of this. A person who is chosen for it may leave somebody behind.
+- The marriage caravan (C04) cuts across all of this. A person who goes with it may leave somebody behind. See The Marriage Caravan.
 
 # Married Life
 
@@ -645,6 +654,33 @@ Canon gives the frame. Courtship is informal and personal. People meet at gather
 - A bond that is not renewed has ended, and the contract says how the goods and the care are divided (C04).
 - The partner who moved in goes back to the house of their own line, which has kept the place. Each fan goes back to its line.
 - An end that was traded fairly carries no shame. Shame is for the person who left the other one carrying.
+
+## The Marriage Caravan
+
+The *baŋga'sora* joins lines and settlements across the arc (C04). It has a rule, and it has a practice.
+
+**The rule**
+
+- **The roster.** It hangs at the hall. A person writes their own name on it, before the kin leader or the Wayseer, and can strike it with the same hand until the caravan leaves (C04).
+- **The first terms** are fixed with the home council before departure: which settlements, how many Cycles away at most, the right to come home with no bond, and letters carried without charge (C04).
+- **The Wayseer asks each person alone,** at each halt, and asks once.
+- **A pairing** needs two yeses. Each person says it to the Wayseer alone, and then both say it together. A no needs no reason (C04). The Wayseer writes "no alliance" and does not write who refused.
+- **The second terms** are the trade of the two partners (*shanda*): the house, the length of the stay, the letters, the return (C04). Many caravan bonds are made for a stated number of Cycles and renewed like any other.
+- **It is not love, and nobody says that it is.** The bond is a *ndoa* (C04). If the trade allows it, a partner keeps a beloved at home (C04).
+- **Two people of the same sex** pair on the caravan as any others do. Such a bond joins two lines, opens a road between two towns, or makes a house that will raise a child (C04).
+- **A caravan bond brings no birth authorization by itself.** The town that receives the partner says in the terms if its quota has room (C04).
+
+**The practice**
+
+- A place on the roster is called an honor, and in a poor settlement it is often a price (C04). A council that needs water or a weatherworker finds people who will "choose" to go, and they are most often people without an ability (C04).
+- **The signs** are known: a roster where every name comes from the same end of the town; a name in a hand that is not the person's own; a family whose ration improved in the same Cycle.
+- Here the witness has work (C06). A Wayseer who doubts can refuse to take a name.
+
+**The burden**
+
+- The people who leave and the people who stay carry a grief, and it is called by the plain word for a load, *mzigo* (C04). The lane takes the turns of the one who left for one Cycle.
+- **Praise comes after, not before.** Nobody tells a person that it is brave to go, or grown-up, until the name is on the roster by their own hand. Praise before the choice is pressure.
+- A letter between the ends of the arc and the Bahari is about four Cycles on the road by caravan, and about twenty days by Whisper Road (G).
 
 ## Other Shapes
 
@@ -828,6 +864,10 @@ Decide these, and let two or three of them show.
 9. A load is counted aloud at a door.
 10. A speaker says "seen" or "heard" before the news.
 
+## She, He and Ŋa
+
+Creole has one pronoun, *ŋa*, for every person (H). The English of the stories is a translation, and it uses "she", "he" or "they" as the character would say it of themselves (N). Do not make a character notice the gender of a job, a name or a garment: there is none to notice.
+
 ## Where Comparisons Come From
 
 A Duskaran compares things to what they know.
@@ -844,7 +884,7 @@ A Duskaran compares things to what they know.
 
 # Decisions
 
-The author confirmed these statements on 2026-10-09. They are canon. Decisions 1 to 15 come from version 0.1.0, and the others from versions 0.2.0 to 0.4.0.
+The author confirmed these statements on 2026-10-09. They are canon. Decisions 1 to 15 come from version 0.1.0, and the others from versions 0.2.0 to 0.5.0. Decisions 31 to 34 come from a draft of the author, with corrections.
 
 | No. | Statement | Chapter | Basis |
 |----:|-----------|---------|-------|
@@ -878,6 +918,10 @@ The author confirmed these statements on 2026-10-09. They are canon. Decisions 1
 | 28 | Abortion is the choice of the mother. A council can also order one, if it is necessary. | Sex | Author |
 | 29 | A pregnancy without a birth authorization: if the council lets it go on, the household loses rations and another household raises the child. | Sex | Author |
 | 30 | At a gate: the mist at the mouth of a Deep Road, the two lamps and "show it under both lamps", the stone bell that answers the bell house, the thing in dispute on the table of the envoy. | At the Gate | New |
+| 31 | The marriage caravan, the rule: a roster signed by the person's own hand; first terms with the home council and second terms between the partners; two yeses, and a no without a reason; the bond is a *ndoa*, kept apart from love; pairs of the same sex on the same footing; no birth authorization by itself. | Married Life | Author's draft, corrected. Compendium Chapter 04 carries the same rule. |
+| 32 | The marriage caravan, the practice: pressure in poor settlements and its signs; a Wayseer can refuse a name. | Married Life | Keeps the tension of Chapter 04. |
+| 33 | The grief of separation is *mzigo*; the lane takes the turns of the one who left; praise comes after the choice. | Married Life | Author's draft, corrected |
+| 34 | Gender: the language and the rota do not sort people, and gender is still there; alignment of the body is ordinary care toward *sawa*; the kin word changes at the meal. | The Body and Its Cover | Author's draft, corrected. Extends Chapter 04. |
 
 # Words Added to the Handbook
 
@@ -922,6 +966,7 @@ Language Handbook 2.1.0 has a new section, House, Day and Rites, with the words 
   - The English terms that had no Creole word now carry the words of Language Handbook 2.1.0.
 - 0.3.0: The author confirmed decisions 19 to 26. New section Birth Control, from the author's decisions 27 to 29: contraception is a drug, abortion is the choice of the mother and can be ordered by a council, and a child born without a birth authorization is raised by another household. "Leave" for a birth is now "birth authorization".
 - 0.4.0: New chapter At the Gate: a trade day at a gate of the Deep Roads, with Gazetteer 1.5.0. The author confirmed its new statements (decision 30).
+- 0.5.0: New sections The Marriage Caravan (in Married Life) and Gender (in The Body and Its Cover), and a note on pronouns for the writer. The author confirmed their statements (decisions 31 to 34). Compendium 2.3.0 carries the same rule for the caravan.
 
 # License
 

@@ -1,9 +1,9 @@
 ---
 title: Duskara Compendium
 subtitle: Main Setting Book
-version: 2.2.0
+version: 2.3.0
 date: 2026-10-09
-latest_update: "The history of the Awakening, the laws and the scale of penalties, and the three kinds of dispute at the gates of the Deep Roads."
+latest_update: "The marriage caravan reconciled with the consent ethics, and gender in language and in care."
 
 
 ---
@@ -389,9 +389,13 @@ Trade and marriage alliances serve as the bedrock of inter-settlement relations.
 
 ### The Baŋga'sora (Marriage Caravan)
 
-To mitigate genetic isolation and forge political alliances, settlements participate in the *baŋga'sora*, a formal marriage caravan. These organized journeys transport a selection of participants to multiple settlements to evaluate potential partnerships. While ostensibly an honor, the selection process is often political. Individuals from struggling settlements, particularly those without psychic abilities, may be chosen as "offerings" to secure vital resources or expertise from more powerful communities.
+To mitigate genetic isolation and forge political alliances, settlements participate in the *baŋga'sora*, a formal marriage caravan. These organized journeys transport participants to multiple settlements to evaluate potential partnerships. A bond made on the caravan is a formal partnership (*ndoa*): a duty that a person carries for a line and a settlement. Nobody expects it to begin with love, and it is kept apart from the bonds of the heart.
 
-Each caravan is overseen by a neutral Wayseer, who is responsible for documenting proceedings and ensuring the consent of all participants is respected, at least in principle. The *baŋga'sora* serves as a critical mechanism for cultural exchange and political negotiation, though it is often fraught with tension between communal duty and individual autonomy.
+The rule of the caravan agrees with the consent ethics of the Threshold. A person joins the roster by choice, and fixes with the home council, before departure, how far the caravan goes, how long the person can stay away, and the right to come home with no bond. Each pairing needs the consent of both persons, stated before the Wayseer, and either can refuse without a reason: without mutual agreement no alliance is formed. The two partners then trade their own terms (*shanda*): the house, the length of the stay, the letters, the return. Partners of the same sex join on the same footing, because the caravan serves alliance, the joining of lines and shared parenting as well as descent. A caravan bond does not bring a birth authorization by itself; the settlement that receives the partner says in the terms if its quota has room.
+
+The practice is not always the rule. While ostensibly an honor, a place on the roster is often political. In struggling settlements, people, particularly those without psychic abilities, are pressed to "volunteer" as "offerings" that secure vital resources or expertise from more powerful communities. By the ethics of the Accord itself this pressure is a wrong, and it is hard to prove.
+
+Each caravan is overseen by a neutral Wayseer, who is responsible for documenting proceedings and ensuring the consent of all participants is respected, at least in principle. The grief of those who leave and of those who stay is spoken of openly, as a burden (*mzigo*) that the settlement shares. The *baŋga'sora* serves as a critical mechanism for cultural exchange and political negotiation, though it is often fraught with tension between communal duty and individual autonomy.
 
 Life in Duskara is marked by age-graded roles, with each stage of life carrying specific expectations. Children are immersed in survival skills and taught the principles of resource conservation. Adults take on critical responsibilities, including resource management, trade, and defense, while elders serve as teachers and advisors, preserving the cultural and practical knowledge vital to their community’s survival.
 
@@ -457,7 +461,7 @@ Duskaran sexuality is understood as a natural aspect of human existence shaped b
 
 Private spaces for intimate activities exist in most settlements. In larger cities, dedicated structures provide temporary privacy for couples or small groups seeking retreat. In smaller settlements, community understanding of timing and privacy is implicit: when a household indicates they need uninterrupted evening time, neighbors respect that boundary.
 
-Sexual orientation and gender expression show the same diversity as any human population. Same-sex partnerships are fully recognized and carry identical legal and social status to opposite-sex partnerships. Gender roles are less rigid than in some Earth cultures; roles in society are determined more by ability and interest than by gender assignment. Some Duskaran communities have recognized gender-diverse individuals occupying specific social roles, though terminology and specifics vary by settlement.
+Sexual orientation and gender expression show the same diversity as any human population. Same-sex partnerships are fully recognized and carry identical legal and social status to opposite-sex partnerships. Gender roles are less rigid than in some Earth cultures; roles in society are determined more by ability and interest than by gender assignment. Some Duskaran communities have recognized gender-diverse individuals occupying specific social roles, though terminology and specifics vary by settlement. The language itself does not sort people: Duskaran Creole has one pronoun for a third person, *ŋa*, and personal names are not marked for gender; only a few kin words, such as *ama* and *bapa*, are. A healer treats the alignment of a body with the gender of the person as ordinary care, a matter of the balance (*sawa*) of that person, and neither law nor custom attaches a stigma to it.
 
 Intimacy also has a ritual side. In the Wind's Embrace, partners mark a new or renewed bond at a wind-focal point, tying their relationship to the planet's balance. Asexual and aromantic identities are fully integrated, with partnerships that center on shared goals and mutual responsibilities, and multi-partner arrangements often form within Wind-Kin alliances, where they strengthen familial bonds.
 
@@ -2277,6 +2281,9 @@ Names are given in infancy and can be amended or expanded when a person shows a 
   - The Awakening (Chapters 00, 05): new section "From Sickness to Guild" for the hundred Ancestor Cycles between the first cases (Cycle 1,686) and the guilds (Cycle 2,810): the sickness, the disagreement, the shift, the misuse, the answer. The timeline entry for Cycle 1,686 points to it.
   - Taboos and Laws (Chapters 06, 18): the four bullets are replaced by the four named faults (*majimaka*, *hangaboru*, *tangazali*, *kinabara*), the hearing, and a scale of five penalties. Expulsion is for a term, to a settlement that receives the person, and the person can return; exile to the Storm Wall is a tale. The law against sharing settlement secrets ("Knowledge Protection") is removed.
   - Diplomatic Relations (Chapter 08): the three kinds of dispute at the gates of the Deep Roads (maintenance, the ice quota, weatherworking near a gate). The open cases are in Gazetteer 1.5.0.
+- 2.3.0: The marriage caravan and gender (Chapter 04).
+  - The Baŋga'sora: the rule and the practice are now separate. By rule a person joins the roster by choice, each pairing needs the consent of both, and either can refuse; the partners trade their own terms; a caravan bond is a formal partnership (*ndoa*) and is kept apart from love; partners of the same sex join on the same footing; a caravan bond brings no birth authorization by itself. In practice struggling settlements press people to volunteer, as before. The grief of separation is a shared burden (*mzigo*).
+  - Gender: the Creole has one pronoun for a third person and names without gender; care that aligns a body with the gender of the person is ordinary and carries no stigma.
 
 # License
 
