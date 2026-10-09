@@ -1,9 +1,9 @@
 ---
 title: Duskara Compendium
 subtitle: Main Setting Book
-version: 2.3.0
+version: 2.4.0
 date: 2026-10-09
-latest_update: "The marriage caravan reconciled with the consent ethics, and gender in language and in care."
+latest_update: "Content of the retired worldbuilding folders moved into the chapters: storm hunters, thermal flares, the Aurora Veil Festival, Wardens, mediation."
 
 
 ---
@@ -205,7 +205,7 @@ Subterranean networks, known as the Deep Roads, were excavated by the first gene
 
 ## Geographical Features
 
-The Twilight Belt is a strip 200 to 300 kilometers wide where moderate temperatures and light conditions make life possible. It circles the whole planet, about 40,000 kilometers, but people live on only one arc of it (see The Settled Arc below). Across its width the belt has three bands. Closest to the day side lies the Dayward Edge, a sun-blasted and arid frontier. At its heart, the Central Twilight Zone stretches fertile and temperate, serving as the core of human civilization. Farthest from the star, the Nightward Edge approaches the cold and mist-laden frontier of the night side, a realm defined by geothermal warmth and glacial remnants.
+The Twilight Belt is a strip 200 to 300 kilometers wide (300 on the settled arc) where moderate temperatures and light conditions make life possible. It circles the whole planet, about 40,000 kilometers, but people live on only one arc of it (see The Settled Arc below). Across its width the belt has three bands. Closest to the day side lies the Dayward Edge, a sun-blasted and arid frontier. At its heart, the Central Twilight Zone stretches fertile and temperate, serving as the core of human civilization. Farthest from the star, the Nightward Edge approaches the cold and mist-laden frontier of the night side, a realm defined by geothermal warmth and glacial remnants.
 
 ### The Dayward Edge
 
@@ -400,9 +400,11 @@ Each caravan is overseen by a neutral Wayseer, who is responsible for documentin
 Life in Duskara is marked by age-graded roles, with each stage of life carrying specific expectations. Children are immersed in survival skills and taught the principles of resource conservation. Adults take on critical responsibilities, including resource management, trade, and defense, while elders serve as teachers and advisors, preserving the cultural and practical knowledge vital to their community’s survival.
 
 ### Threshold Education and Age-Graded Roles
-The transition to adulthood is formalized through **Threshold Education**, a rigorous rite of passage for adolescents around the age of 190 Cycles. Guided by an elder mentor (often from the *kin-Babu* lineage), this education focuses on the ethical and social responsibilities of adulthood rather than job training. The curriculum covers complex topics such as consent frameworks, partnership negotiation, birth quotas, and the recognition of psychic and emotional coercion.
+The transition to adulthood is formalized through **Threshold Education**, a rigorous rite of passage for adolescents around the age of 190 Cycles. Guided by an elder mentor (often from the *kin-Babu* lineage), this education focuses on the ethical and social responsibilities of adulthood rather than job training. The curriculum covers complex topics such as consent frameworks, partnership negotiation, birth quotas, and the recognition of psychic and emotional coercion. Its first principle is that consent is an ongoing process, which a person can take back at any moment. The mentor teaches in private sessions that join discussion with practical exercises. The lessons are often held in a place with a meaning: a geothermal chamber for the warmth and the biology that sustain life, a wind garden for the forces of society and of the environment.
 
 This period of learning culminates in the **Wind Endurance Trial**, a physically and psychically demanding test where the student must prove they can withstand the planet’s raw environmental forces. Success marks their official entry into adulthood, symbolized by the granting of a ceremonial sash. They are now considered a full member of their kin-group, expected to "carry weight" rather than be carried.
+
+The trial is held at a wind focal point, on a built platform or on a natural outcrop of stone; many settlements call theirs "the Anvil". The students clip safety harnesses to anchor points and step into the full wind (*hanga-kali*), while an elder watches from a sheltered deck. The aim is not to resist by strength. The student reads the currents and moves posture and center of gravity to keep balance, until a weather front passes or a set time ends. The trial teaches that some forces cannot be fought, only navigated, and that an impersonal pressure is not a personal attack. A person who keeps their own "gravity" in the gale can keep it against social and psychic coercion.
 
 ## Resource Management
 
@@ -430,6 +432,8 @@ Oral traditions form the backbone of Duskaran cultural memory. Through stories, 
 
 ### Partnership Ethics and Terminology
 Duskaran culture applies economic and engineering principles to interpersonal relationships to ensure clarity and stability. A partnership is often viewed as a form of ***ushirika*** (cooperation, or 'sharing a burden'), where individuals provide mutual support to maintain the stability of their shared structure. The negotiation of a relationship's terms, from resource sharing to child-rearing responsibilities, is referred to as ***shanda*** (trade), emphasizing that clarity and voluntary agreement are the highest forms of care. A partnership where one individual is forced to carry more weight or has their autonomy compromised is seen as a dangerously unstable "pressure vessel" that will inevitably "torque" and "rupture," threatening the well-being of the individuals and the community.
+
+To interfere directly in the partnership of an adult is taboo, but there are remedies when coercion (*hangakora*) is suspected. Beside the private Intervention of the Witness (see [Duskaran Cultural Heritage](#duskaran-cultural-heritage)), a person can ask a kin-leader or the settlement council for a "structural review" of the partnership. This starts a formal mediation under a neutral Wayseer, who dampens psychic pressure so that both partners speak with full autonomy. If a shared resource token, such as a water token, is used as a tool of control, a kin-leader can hold it in escrow until the mediation ends.
 
 ## Intimate Bonds: Courtship, Partnership, and Child-Rearing
 
@@ -766,9 +770,13 @@ The Deepkin’s society is shaped by their environment, valuing autonomy and pri
 
 Deepkin spirituality revolves around reverence for the Earth’s Breath, the geothermal energy that sustains their existence. This force is seen as a divine gift from ancient ancestors or unknown deities. Their rituals, such as the Aurora Veil Festivals, celebrate the faint glows of geothermal vents through music, bioluminescent art, and psychic displays. Ancestor veneration is equally central, with Bone Lorekeepers preserving relics passed down through generations, connecting the present to the past.
 
+An Aurora Veil Festival has no fixed date. It begins when strong geothermal activity makes the fungi of a settlement glow with unusual brightness, like the auroras of the surface. The whole community takes part, and the festival has four parts. First, a Bone Lorekeeper recites the names of the Deepkin who died to build and to keep the geothermal network of the settlement. Second, in the Earth's Breath Communion, the community gathers at the Warmth Hearth with hands on the stone floor and hums in unison; thermal specialists guide this shared resonance to read the health and the stability of the vent, so the rite is also a check of the most vital system of the settlement. Third, engineers change the temperature around different species of glowcaps, which pulse and shift color as living murals that tell the history of the Deepkin. Last, all share a meal of vent-roasted food and glowcap stew.
+
 Survival in the caves demands a mindset focused on scarcity and conservation. Unlike the trade and diplomacy-driven twilight belters, the Deepkin excel in communal resource management and frugality. Outsiders are treated with cautious hospitality, but trust must be earned through demonstrated respect for their ways.
 
-The art of the Deepkin reflects their environment, with intricate wall carvings and living murals of glowing fungal patterns adorning their settlements. Shadow puppetry and bioluminescent effects bring their myths to life, transforming storytelling into a mesmerizing blend of light and darkness. Leadership is hereditary yet communal, with Warmth Circles, councils of elders and skilled individuals, making decisions collectively. Roles within the community are assigned based on psychic aptitude, survival skills, and contributions to the Hearth’s welfare.
+The art of the Deepkin reflects their environment, with intricate wall carvings and living murals of glowing fungal patterns adorning their settlements. Shadow puppetry and bioluminescent effects bring their myths to life, transforming storytelling into a mesmerizing blend of light and darkness. The inks of the murals are alive: pigments from cultivated bioluminescent fungi and bacteria in a thick medium, which the artist applies with a stylus to prepared stone. Each species gives its own color and strength of light (deep blue, soft green, purple), and the artist controls the glow through the temperature and the nutrients of the surface. Many muralists bond with a Glowmoss Grazer, whose sensitivity to light helps them to make the glow clear and strong (see [Flora and Fauna](#flora-and-fauna) for what else this bond can carry). Master muralists are commissioned for the Aurora Veil Festivals.
+
+Leadership is hereditary yet communal, with Warmth Circles, councils of elders and skilled individuals, making decisions collectively. Roles within the community are assigned based on psychic aptitude, survival skills, and contributions to the Hearth’s welfare.
 
 ## Unique Technologies
 
@@ -902,6 +910,8 @@ Water extraction and purification systems are crucial. Atmospheric condensers pu
 
 To counteract the ever-present threat of the winds, wind domes create stable microclimates over settlements or agricultural zones, while wind stabilizers redirect dangerous gusts along trade routes and protect critical infrastructure. Emergency shelters, known as storm havens, are scattered across the belt, stocked with supplies to support travelers and caravans during extreme weather. Beacon shelters, powered by geothermal energy, emit guiding signals to help those lost in storms find safety.
 
+Thermal flares are signal devices for the worst conditions. A flare, powered by a portable energy cell, gives a short and local spike of very high heat. A person with thermal sensing can read this heat signature at a great distance, through a storm that blinds light and instruments. Storm hunters, frontier explorers and the salvage crews of the Dayward Edge fire them by hand or from a vehicle: as emergency beacons, as waypoints in dangerous ground, and as signals between teams. The flares are dangerous. One that fires by accident can kill the person who carries it and anyone near, its heat can draw predators that hunt by heat, and near a vent it can ignite gas.
+
 # Calendar and Time-Keeping
 
 ## Overview
@@ -916,7 +926,7 @@ The Cycle serves as Duskara's fundamental chronological unit, tracked since the 
 
 For everyday purposes, Duskarans still reference **Wind Phases** (lasting from a few days to most of a Cycle) and the predictable **Auroral Rhythms** of the night side. The Cycle provides the bridge between immediate experience and historical timekeeping, with roughly **11 Cycles comprising an Ancestor Cycle**, the customary span closest to an Earth year. The figure is a rounded convention, not an exact conversion. This longer measure honors the generations that have passed since landfall, connecting each living Duskaran to the legacy of those who came before.
 
-Major events are dated in Cycles: the founding of the first settlement on the Bahari (Cycle 127), the rediscovery of the Deep Roads (Cycle 6,182), the establishment of the Duskaran Accord (Cycle 7,306), the Thirst Wars (Cycle 8,205). This system reinforces Duskaran identity: time is measured not by a distant sun's rise and fall, but by their own world's patient dance through the void.
+Major events are dated in Cycles: the founding of the first settlement on the Bahari (Cycle 127), the rediscovery of the Deep Roads (Cycle 6,182), the establishment of the Duskaran Accord (Cycle 7,306), the Thirst Wars (Cycle 8,205). Ages and contracts are counted in Cycles too. This system reinforces Duskaran identity: time is measured not by a distant sun's rise and fall, but by their own world's patient dance through the void.
 
 ## Major Festivals and Ceremonies
 
@@ -1111,6 +1121,8 @@ The deepest philosophical tension on Duskara emerges from the core conservation 
 
 This principle is absolutely necessary for survival, but it's emotionally devastating. Individuals facing personal tragedy (a bonded companion dying because they cannot spare medicine, a child going cold because heating allocation follows strict protocols) find themselves at odds with Wardens and community leaders enforcing ecological and resource boundaries regardless of empathy.
 
+The Preserve Wardens carry this rule in person. A Warden guards a protected ecological zone and has the authority to refuse entry and harvest, even to a high official or to a desperate person. Wardens are often chosen from the Beastwalkers or from the kin-Maji: people with a proven bond to the environment and the strength for hard choices. The role is respected and lonely. A Warden may have to refuse a medicine that would save one life, in order to save the species or the ecosystem that makes it, and is expected to carry that weight in silence. Tales of Wardens who held the line, and of Wardens who broke it, are common cautionary tales.
+
 These confrontations are among the most painful in Duskaran life. Sometimes councils make exceptions when the situation is genuinely extreme. Sometimes they maintain principle and people die or suffer. There is no resolution that feels right. These struggles are frequent subjects of wind-songs, oral histories, and ethical debate. Communities that handle these situations with compassion (acknowledging the pain, honoring those lost, maintaining both principle and humanity) generally have healthier social cohesion than those that handle them coldly.
 
 ### Generational Perspectives
@@ -1210,6 +1222,20 @@ Fauna specialists train for dozens of Cycles to understand predatory animal beha
 ### Storm Response Coordinators
 
 Individuals with strong spatial reasoning, quick decision-making abilities, and physical stamina train to coordinate emergency response during environmental events. These coordinators must maintain composure under stress, communicate clearly, and understand their settlement's infrastructure well enough to make rapid decisions about safety priorities.
+
+### Storm Hunters
+
+Storm hunters (*tufani-winda*) work in the most dangerous weather of Duskara. They are not a guild. They are a loose fraternity of survivalists, mechanics and navigators, with a seat at Bantay-Loŋ, and they value experience above formal training. Not all are psychic, but many have a latent sense of heat or wind that constant exposure makes sharp. Knowledge passes from one hunter to one apprentice.
+
+Their work is to track and predict the paths of storms for settlements and caravans, to rescue people and recover equipment lost in superstorms, to scout and map dangerous ground such as the dayward transition zone, and to collect minerals and biological samples that only extreme weather exposes. They read instruments (barometers, atmospheric sensors) together with their own senses: the taste of copper in the air before a pressure drop, a change in the harmonics of the wind that most people do not hear. Each hunter keeps a personal log of storm behavior and compares the present conditions with it, and their predictions are often as good as those of the guilds.
+
+A hunter travels in a storm-braced vehicle with a reinforced hull, external tether points and sensor arrays, and wears layered windproof clothing with a built-in harness and an emergency beacon. The signal kit has light flares and thermal flares (see [Technology](#technology)). Three rules govern the work:
+
+- **The tether.** Outside the vehicle in an active storm, a hunter is always tied to the vehicle or to a secure anchor. "The wind takes what isn't tied down."
+- **The count of risk.** A hunter does not start a rescue or a salvage if the risk to their own life is greater than the chance of success. They are known to leave missions that a council calls necessary.
+- **The seams.** A hunter uses the terrain and the dynamics of the storm to find its seams: short lulls and paths of least resistance that allow a quick way in and out.
+
+Dayward hunters know extreme heat, stellar storms and the transition zone of the day side. Nightward hunters know ice storms, white-out conditions and the border of the cold. The role began with the first generations of settlers: as the guilds and the settlements became more careful, there was always a need for people who would work at the edges. Duskarans respect the storm hunters for their skill and their courage, and are a little wary of them, because their independence can set them against a council. Wind-songs about famous hunters are popular and make their deeds larger than they were.
 
 ### Water Judges and Thermal Engineers
 
@@ -2284,6 +2310,16 @@ Names are given in infancy and can be amended or expanded when a person shows a 
 - 2.3.0: The marriage caravan and gender (Chapter 04).
   - The Baŋga'sora: the rule and the practice are now separate. By rule a person joins the roster by choice, each pairing needs the consent of both, and either can refuse; the partners trade their own terms; a caravan bond is a formal partnership (*ndoa*) and is kept apart from love; partners of the same sex join on the same footing; a caravan bond brings no birth authorization by itself. In practice struggling settlements press people to volunteer, as before. The grief of separation is a shared burden (*mzigo*).
   - Gender: the Creole has one pronoun for a third person and names without gender; care that aligns a body with the gender of the person is ordinary and carries no stigma.
+- 2.4.0: Content moved from the folders of worldbuilding/ that are now removed (cultural_practices, technical_systems). The Compendium, the Gazetteer and the Daybook are the only sources for these subjects.
+  - Threshold Education (Chapter 04): how the mentor teaches, and the course of the Wind Endurance Trial (the wind focal point, the harness, balance and not strength).
+  - Partnership Ethics (Chapter 04): the remedies for suspected coercion: a structural review, formal mediation under a Wayseer, and a resource token held in escrow.
+  - Cave-Dwellers (Chapter 07): the four parts of an Aurora Veil Festival, and the living inks of the bioluminescent murals.
+  - Technology (Chapter 09): thermal flares, as signal devices only. A flare gives a spike of very high heat that thermal sensing reads through a storm.
+  - Tensions (Chapter 12): the Preserve Wardens: their authority, how they are chosen, and the weight of the role.
+  - Community Safety (Chapter 13): new section Storm Hunters: a loose fraternity with a seat at Bantay-Loŋ, its work, its gear and its three rules.
+  - The Twilight Belt (Chapter 02): the belt is 300 kilometers wide on the settled arc, as in the Gazetteer.
+  - Calendar (Chapter 10): ages and contracts are counted in Cycles.
+  - Dates: canon_dates.json names the Bahari, not Lake Auran, for Cycle 127.
 
 # License
 

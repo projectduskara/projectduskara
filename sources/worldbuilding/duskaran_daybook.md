@@ -1,9 +1,9 @@
 ---
 title: Duskaran Daybook
 subtitle: Everyday Life on the Living Edge
-version: 0.5.0
+version: 0.5.1
 date: 2026-10-09
-latest_update: "New sections The Marriage Caravan and Gender."
+latest_update: "Source marks updated after the removal of the single-topic folders of worldbuilding/."
 ---
 
 # Introduction
@@ -21,7 +21,7 @@ A statement that repeats canon carries the mark of its source.
 | (C03) | Compendium, with the number of the chapter |
 | (G) | Duskaran Gazetteer |
 | (H) | Duskaran Language Handbook |
-| (W) | A file in worldbuilding/ |
+| (W) | Weatherworking Guilds, in worldbuilding/ |
 | (N) | *The Weight of Wind*: chapters 1 to 3 and the setting file |
 
 A statement with no mark is new in this document. Most new statements are small and follow from canon: the wind always comes from one side, so the door is on the other. The author confirmed all of them, and they are canon. The chapter Decisions lists the ones that bind other texts.
@@ -279,7 +279,7 @@ A settlement rings five bells, and the first is *sori* (C06). The rest period be
 | Fourth of the rest | about 19 | Second sleep. |
 | Fifth of the rest | about 21.5 | Rising: the cloth and the cup, thin porridge, chai, the walk to work. |
 
-The old words survive for the parts of the waking period (W): morning from the first bell to the second, midday to the third, afternoon to the fourth, evening after it.
+The old words survive for the parts of the waking period (C03): morning from the first bell to the second, midday to the third, afternoon to the fourth, evening after it.
 
 ## Sleep
 
@@ -299,7 +299,7 @@ By old custom a person rests one day in seven, as the caravans do (G). The rota 
 
 - No part of the Cycle is warm and no part is cold. The weather has **phases** (C10): the Long Dry (C10), a Storm Phase (G), phases of cold wind and of warm wind (C06, C13). People feel them in the lips, the joints and their sleep.
 - A farming town counts the Cycle by its grain. People say "at this point of the Cycle" of a crop and of a river (N).
-- People date their own lives by storms, by the heading of the grain (N), by festivals and by births. The count of Cycles is for contracts and records (W).
+- People date their own lives by storms, by the heading of the grain (N), by festivals and by births. The count of Cycles is for contracts and records (C10).
 - A child's age is given in Cycles and an adult's in Ancestor Cycles (N).
 
 # The House and the Lane
@@ -513,7 +513,7 @@ The body is dried, so that its water returns to the settlement, and then it is b
 
 - **Mourning.** The house ties an undyed cloth to the ring of its door for one Cycle. It does not light its hearth for seven days, and the neighbors bring cooked food. A parent who loses a child has leave from the rota (C04).
 - **A person whom a storm took and did not give back.** The kin speak the name and open an empty hand.
-- **The Deepkin** have no wind. They burn their dead at a vent. The Bone Lorekeepers (C07) keep one small piece of burned bone from each of the dead in the wall of the Hearth, and they say the names (W).
+- **The Deepkin** have no wind. They burn their dead at a vent. The Bone Lorekeepers (C07) keep one small piece of burned bone from each of the dead in the wall of the Hearth, and they say the names (C07).
 - A bonded animal has its own rite (C05).
 
 ## Rites of the Day
@@ -623,7 +623,7 @@ Canon gives the frame. Courtship is informal and personal. People meet at gather
 ## The Bond
 
 - An everyday partnership needs no rite (C04). Many couples mark it with the Wind's Embrace at a wind focal point (C04).
-- A formal partnership is *ndoa*. Its terms are traded first: this is *shanda* (W). They are written and witnessed when children or resources are part of it (C04). The ceremony waits for a good wind, the partners exchange fans (C06), and the feast is the *arusi*.
+- A formal partnership is *ndoa*. Its terms are traded first: this is *shanda* (C04). They are written and witnessed when children or resources are part of it (C04). The ceremony waits for a good wind, the partners exchange fans (C06), and the feast is the *arusi*.
 - **The trade covers:** which house; the measures of water; the rota; children, and the request for a birth authorization; what each owes to the kin of the other; if others are allowed (C04); how it ends (C04).
 - **An alliance marriage** between settlements is a public act (C04). A Wayseer records the consent of each person (C04). The partners may be near strangers, and they learn each other afterward.
 
@@ -646,7 +646,7 @@ Canon gives the frame. Courtship is informal and personal. People meet at gather
 ## Trouble
 
 - The compound hears everything. The first help is a witness (C06).
-- A partner can ask the kin leader or the council to review the bond. A Wayseer mediates, and a shared token can be held by the kin leader while they talk (W).
+- A partner can ask the kin leader or the council to review the bond. A Wayseer mediates, and a shared token can be held by the kin leader while they talk (C04).
 - People speak of a bond under strain as a vessel under pressure (C04).
 
 ## The End
@@ -693,7 +693,7 @@ Canon gives the frame. It is a need like food and sleep. It carries no shame and
 ## Custom
 
 - **The three truths** (*kweli-tatu*). Before the first time, each person says three things: the state of their health, their agreements with other people, and their contraception. A lie in any of the three is the offense that canon names (C04).
-- **Consent is spoken**, and it can be taken back at any breath (W).
+- **Consent is spoken**, and it can be taken back at any breath (C04).
 - **Nobody gives water or food for it** (C04).
 - **A thermal sensor** reads fear and wanting in the heat of a skin (C05). By custom such a person says that they can, once, at the start.
 - To be exclusive is a term of the trade and is not assumed (C04). People ask.
@@ -967,6 +967,7 @@ Language Handbook 2.1.0 has a new section, House, Day and Rites, with the words 
 - 0.3.0: The author confirmed decisions 19 to 26. New section Birth Control, from the author's decisions 27 to 29: contraception is a drug, abortion is the choice of the mother and can be ordered by a council, and a child born without a birth authorization is raised by another household. "Leave" for a birth is now "birth authorization".
 - 0.4.0: New chapter At the Gate: a trade day at a gate of the Deep Roads, with Gazetteer 1.5.0. The author confirmed its new statements (decision 30).
 - 0.5.0: New sections The Marriage Caravan (in Married Life) and Gender (in The Body and Its Cover), and a note on pronouns for the writer. The author confirmed their statements (decisions 31 to 34). Compendium 2.3.0 carries the same rule for the caravan.
+- 0.5.1: Source marks only. The single-topic folders of worldbuilding/ are removed and their content is in Compendium 2.4.0, so six statements marked (W) now carry the mark of a Compendium chapter. (W) now means Weatherworking Guilds.
 
 # License
 

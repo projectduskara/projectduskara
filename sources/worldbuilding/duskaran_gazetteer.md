@@ -1,9 +1,9 @@
 ---
 title: Duskaran Gazetteer
 subtitle: Places of the Living Edge
-version: 1.5.1
+version: 1.5.2
 date: 2026-10-09
-latest_update: "The main Whisper Road starts at Cheŋ-Jiwe and ends at Bwawa-Isha. The atlas has supporting sheets."
+latest_update: "The Gazetteer replaces the settlement and phenomenon profiles of worldbuilding/. The storm walls as a traveler meets them."
 ---
 
 # Introduction
@@ -12,10 +12,8 @@ The Compendium describes how Duskara works. This Gazetteer says where things are
 
 Each entry carries a status:
 
-- **Canon**: the place appears in the Compendium, a published story, or a file in worldbuilding/.
+- **Canon**: the place appears in the Compendium or in a published story, or it had a profile in worldbuilding/ before this Gazetteer replaced those profiles.
 - **Proposed**: the place is new in this Gazetteer and waits for confirmation. No entry has this status at present.
-
-The detailed settlement profiles stay in worldbuilding/settlements/.
 
 The geodata folder beside this file holds the maps and the data made from this Gazetteer: the strip map, the terrain, the climate and the biomes. They are canon at the scale of the maps, which is 2 kilometers.
 
@@ -583,6 +581,8 @@ The two storm walls stand at the edges of the belt.
 
 At the northern end, Bundok-Kuu holds the storms of both walls against its slopes.
 
+A wall is not one barrier. It is a nearly constant series of superstorms, with rapid pressure shifts, debris that the wind carries at lethal speed, and dust, ice and electrical discharge that blind sight and instruments. The energy of the storms also disturbs untrained psychic senses, so weatherworking and navigation are harder near a wall, and travelers learn simple grounding techniques before a crossing. Experienced travelers know the taste of copper in the air that comes before a pressure shift. The walls give the belt most of its rain. A crossing gives access to the salvage of the Dayward Edge and to the ice of the Nightward Edge, and a person who has made one has standing among traders and explorers. A popular wind-song tells of a caravan that a novice weatherworker saved at a wall. The rules of a crossing are in the Compendium (The Twilight Belt).
+
 ## The Storm Path of Harmatan
 
 The hot air that comes in at Kofa-Joto does not go straight across the belt. The current of the rift turns it down-belt, and it meets the cold wind about 100 kilometers farther on, over Harmatan. Most of the severe storms of the heartland start on this line.
@@ -882,6 +882,8 @@ The names that these replace in older texts are listed in CANON_REMAPPING.md, in
   - New chapter Local Sheets, with the sheet Liko-Luŋga and Bantay-Hanga: the places of the novel The Weight of Wind that are smaller than the scale of the maps (the fisher quarter, the flats, the water works, the Step, the seven storm shelters on the shelf, the notch, the Wind Temple) and the paths between them. The geodata folder has the data and the map of the sheet.
 - 1.5.1: The main Whisper Road starts at Cheŋ-Jiwe (alama 175) and ends at Bwawa-Isha (alama 5,880). The maps drew it to both ends of the arc. The count of alama goes on beyond the two cities along the center line of the belt. Beyond Bwawa-Isha a caravan track, not the Whisper Road, runs to the first dunes.
   - The atlas in the geodata folder has five supporting sheets: the heights, warmth and water, the wind and the storms, the Far Edge, and the local sheet Liko-Luŋga and Bantay-Hanga.
+- 1.5.2: This Gazetteer is now the only source for places. The settlement profiles and the phenomenon profiles of worldbuilding/ (settlements/, natural_phenomena/) are removed, and the sentence that pointed to them is removed from the Introduction.
+  - The Storm Walls: what a wall is for a traveler (pressure shifts, debris, blind instruments, disturbed psychic senses, the taste of copper), what the walls give, and the standing of a crossing. The rules of a crossing stay in the Compendium.
 
 # License
 
