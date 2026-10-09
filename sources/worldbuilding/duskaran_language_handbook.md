@@ -1,9 +1,9 @@
 ---
-date: 2026-10-07
+date: 2026-10-09
 subtitle: A Comprehensive Conlang Reference for the Duskara Setting
 title: Duskaran Language Handbook
-version: 2.0.0
-latest_update: "Second edition, with Compendium 2.0.0. Not compatible with 1.x: origins of the Creole, spelling and long vowels, pronouns and grammar, sentence patterns, storm register, corrected vocabulary, place-name and institution terms, new naming system, English to Duskaran index."
+version: 2.1.0
+latest_update: "New section XIX, House, Day and Rites: words for the lee, the bells, sleep, water in the house, the steam house, partnership, birth control and the rites of the dead, with the Duskaran Daybook. New phrases in the phrasebook."
 ---
 
 # Introduction
@@ -729,7 +729,7 @@ The stories, the games and the Compendium name institutions in English for the r
 ### Faith and Food
 
 - **saumu** /sa.ˈu.mu/ – the fasting Cycle: one Cycle of eating only after the last bell (from Swahili)
-- **kengele** /ke.ˈŋe.le/ – bell; one of the five bells of the day (from Swahili)
+- **kengele** /ke.ˈŋe.le/ – bell; one of the ten bells of a day, five in the waking period and five in the rest period (from Swahili)
 - **sima** /ˈsi.ma/ – stiff grain porridge, the staple food (from Swahili)
 - **uji** /ˈu.dʒi/ – thin fermented porridge (from Swahili)
 - **chapati** /tʃa.ˈpa.ti/ – flatbread (from Swahili)
@@ -913,7 +913,7 @@ Rarely spoken aloud; see the Compendium for the euphemisms that replace them.
 - **rafiki** /ra.ˈfi.ki/ – friend (formal; core *muru*)
 - **reli** /ˈre.li/ – rail (from English)
 - **shamba** /ˈʃam.ba/ – farm, field
-- **simba** /ˈsim.ba/ – lion: the great hunting beast of Earth stories
+- **simba** /ˈsim.ba/ – lion: the great hunting beast of Earth stories; the Lion is a daily name of the sun
 - **siri** /ˈsi.ri/ – secret
 - **songa** /ˈso.ŋa/ – bind, press together
 - **sungura** /su.ˈŋu.ra/ – rabbit: any small grazing animal
@@ -1003,6 +1003,59 @@ The parts *-ji*, *-nga*, *-wan*, *-ya* and *hangan'* are affixes; see the Gramma
 - **uzuri** /u.ˈzu.ri/ – goodness, beauty (from Swahili)
 - **huruma** /hu.ˈru.ma/ – mercy, compassion (from Swahili)
 - **subira** /su.ˈbi.ra/ – patience, forbearance (from Swahili)
+
+## XIX. House, Day and Rites
+
+The words of everyday life. The Duskaran Daybook shows them in use.
+
+### The Wind and the Bells
+
+- **kinga** /ˈki.ŋa/ – lee: shelter from the wind (from Swahili, "protection"). *Toa kinga*, "to give lee", is to stand on the nightward side of a person
+- **kengele-kuu** /ke.ˈŋe.le.kuː/ – day bell: one of the five loud bells of the waking period (lit. "great bell")
+- **kengele-pole** /ke.ˈŋe.le.po.le/ – rest bell: one of the five soft bells of the rest period (lit. "gentle bell")
+- **mnara-kengele** /ˈmna.ra.ke.ŋe.le/ – bell house (lit. "tower-bell")
+- **saa** /ˈsaː/ – hour; clock, watch (from Swahili)
+- **dakika** /da.ˈki.ka/ – minute (from Swahili)
+- **kesha** /ˈke.ʃa/ – middle wake: the waking hour between the first sleep and the second (from Swahili, "vigil")
+- **nje** /ˈndʒe/ – outside (from Swahili)
+- **nje-kengele** /ˈndʒe.ke.ŋe.le/ – out of bell: said of a person whose sleep has left the bells
+- **nguo-lala** /ˈŋu.o.la.la/ – sleep cloth: a cloth tied over the eyes for sleep
+
+### Water and the House
+
+- **kibaba** /ki.ˈba.ba/ – measure: the sweet water due to one person for one day (from Swahili)
+- **mtungi** /ˈmtu.ŋi/ – water jar (from Swahili)
+- **maji-pili** /ˈma.dʒi.pi.li/ – used water (lit. "second water")
+- **ubao** /u.ˈba.o/ – board, tally board (from Swahili)
+- **ubao-maji** /u.ˈba.o.ma.dʒi/ – water tally: the place where a quarter draws and records its measures
+- **hamamu** /ha.ˈma.mu/ – steam house (from Swahili)
+- **mswaki** /ˈmswa.ki/ – chewing stick (from Swahili)
+- **kanga** /ˈka.ŋa/ – wrap cloth: a cloth printed with a saying (from Swahili)
+- **kiunzi** /ki.ˈun.zi/ – load frame (from Swahili)
+- **beba-ji** /ˈbe.ba.dʒi/ – carrier (lit. "carry-person")
+- **kuni** /ˈku.ni/ – hearth fuel: pressed cake of straw, stalk and dung (from Swahili, "firewood")
+- **mgeni** /ˈmge.ni/ – guest (from Swahili)
+
+### Partnership and Rites
+
+- **ndoa** /ˈndo.a/ – formal partnership, marriage (from Swahili)
+- **arusi** /a.ˈru.si/ – wedding feast (from Swahili)
+- **pepeo** /pe.ˈpe.o/ – fan; the ceremonial fan of a partnership (from Swahili)
+- **shanda-upya** /ˈʃan.da.u.pja/ – renewal: the trade of a partnership made again
+- **kweli** /ˈkwe.li/ – truth (from Swahili)
+- **kweli-tatu** /ˈkwe.li.ta.tu/ – three truths: health, agreements with others and contraception, told before two people first lie together
+- **busu** /ˈbu.su/ – kiss (from Swahili)
+- **jina** /ˈdʒi.na/ – name (from Swahili)
+- **mazishi** /ma.ˈzi.ʃi/ – funeral rites (from Swahili)
+- **kausha** /ka.ˈu.ʃa/ – dry; the drying of the dead (from Swahili)
+- **mfupa** /ˈmfu.pa/ – bone (from Swahili)
+- **dawa** /ˈda.wa/ – drug, medicine (from Swahili)
+- **zuia** /zu.ˈi.a/ – prevent, hold back (from Swahili)
+- **dawa-zuia** /ˈda.wa.zu.i.a/ – contraceptive drug (lit. "drug-prevent")
+- **zaa** /ˈzaː/ – bear a child (from Swahili)
+- **ruhusa-zaa** /ru.ˈhu.sa.zaː/ – birth authorization: the permission of a council for a child
+- **mimba** /ˈmim.ba/ – pregnancy (from Swahili)
+- **toa-mimba** /ˈto.a.mim.ba/ – abortion
 
 # Compound Formation Patterns
 
@@ -1150,6 +1203,15 @@ Every phrase below follows the grammar of this handbook: verbs do not change for
 - *Maji ja zi.* – The water is yours. (generous offer)
 - *Lala hapa.* – Rest here.
 - *Hanga-salama.* – Safe winds. (blessing/farewell)
+
+## The House and the Heart
+
+- *Ni toa kinga kwa zi.* – I give you my lee.
+- *Zi ja na hanga ni.* – You are in my wind.
+- *Maji zi ja tamu ke?* – Is your water sweet?
+- *Ni shuka.* – I go down. (I am going to sleep.)
+- *Ŋa ja nje-kengele.* – They are out of bell.
+- *Mi shanda-upya leo.* – We renew our partnership today.
 
 ## Everyday Dialogues
 
@@ -1385,6 +1447,7 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 
 | English | Duskaran |
 |---------|----------|
+| abortion | *toa-mimba* |
 | above | *juu* |
 | accord | *mapatano* |
 | achievement | *ufanisi* |
@@ -1442,6 +1505,7 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | bare rock | *bato* |
 | barrier | *kuta* |
 | barter | *kubadilishana* |
+| bear a child | *zaa* |
 | beast | *mandu*, *mnyama* |
 | beastwalker | *mandu-unga* |
 | beautiful | *nzuri* |
@@ -1450,6 +1514,7 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | before | *kora* |
 | believe | *amini* |
 | bell | *kengele* |
+| bell house | *mnara-kengele* |
 | beloved | *mpenzi* |
 | below | *chini* |
 | bend | *pindi*, *liko* |
@@ -1458,16 +1523,19 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | bind | *songa* |
 | bioluminescent light | *taa-kijani* |
 | bird | *ndege* |
+| birth authorization | *ruhusa-zaa* |
 | black | *nyeusi* |
 | blade | *panga* |
 | bless | *bariki* |
 | blessing | *bara*, *baraka* |
 | blood | *damu* |
 | blue | *buluu* |
+| board | *ubao* |
 | body | *mwili* |
 | body respect | *heshima-mwili* |
 | bond | *unga* |
 | bond-animal | *ushanga* |
+| bone | *mfupa* |
 | border | *daŋa* |
 | break | *vunja* |
 | breathe | *pumua* |
@@ -1494,6 +1562,7 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | capable | *hodari* |
 | capacity | *uwezo* |
 | caravan halt | *zaŋgo* |
+| carrier | *beba-ji* |
 | carry | *beba* |
 | cave | *pango* |
 | cave bat | *ndege-kivuli* |
@@ -1503,6 +1572,7 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | ceremony | *ibada* |
 | change | *badili*, *kubadilika* |
 | channels | *ŋokado* |
+| chewing stick | *mswaki* |
 | chief | *kuu* |
 | child | *baŋa*, *tinda* |
 | children | *tindaya* |
@@ -1534,6 +1604,7 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | consent | *heshima-mwili* |
 | consultation | *shauri* |
 | continuing | *bado* |
+| contraceptive drug | *dawa-zuia* |
 | conversation | *mazungumzo* |
 | cook | *pika* |
 | cool | *sanyi* |
@@ -1569,6 +1640,7 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | data | *data* |
 | data crystal | *kompyu*, *jiwe-data* |
 | day | *siku* |
+| day bell | *kengele-kuu* |
 | day side | *sori-wan* |
 | dayward edge | *Daŋa-Joto* |
 | dead | *maiti* |
@@ -1593,8 +1665,9 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | drink | *kunywa* |
 | drone | *roboti* |
 | drought | *ukame* |
+| drug | *dawa* |
 | drum | *ngoma* |
-| dry | *harmatan*, *kavu* |
+| dry | *harmatan*, *kavu*, *kausha* |
 | dryness | *ukame* |
 | dust | *vumbi* |
 | dust-laden wind | *harmatan* |
@@ -1639,6 +1712,7 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | faith | *dini* |
 | false friend | *murukasi* |
 | family | *wara*, *famili* |
+| fan | *pepeo* |
 | fangs | *meno* |
 | far | *mbali* |
 | far edge | *Daŋa-Mbali* |
@@ -1676,6 +1750,7 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | for | *kwa* |
 | forbearance | *subira* |
 | forgive | *samehe* |
+| formal partnership | *ndoa* |
 | fortified city | *cheŋ* |
 | fortress | *cheŋ* |
 | fortune | *baraka* |
@@ -1690,6 +1765,7 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | frostbloom | *baridi-ua* |
 | frozen hemisphere | *baridi-kanda* |
 | fruit | *matunda* |
+| funeral rites | *mazishi* |
 | fungus | *kuvu* |
 | fur | *manyoya* |
 | future | *tuka* |
@@ -1739,6 +1815,7 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | ground | *nchi* |
 | guard | *linda* |
 | guard post | *bantay* |
+| guest | *mgeni* |
 | guide | *ŋida* |
 | guild | *chama* |
 
@@ -1762,6 +1839,7 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | hear | *sikia* |
 | heart | *moyo* |
 | hearth | *jiko* |
+| hearth fuel | *kuni* |
 | hearth renewal | *moto-upya* |
 | heat | *moto* |
 | heat hound | *mbwa-moto* |
@@ -1774,12 +1852,14 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | high wind | *feŋ* |
 | hill | *mlima* |
 | hoarder | *kinabara* |
+| hold back | *zuia* |
 | hole | *shimo* |
 | home | *nyumba* |
 | honor | *nala*, *heshima* |
 | hope | *matumaini*, *tumaini* |
 | hot spring | *bukal* |
 | hound | *mbwa* |
+| hour | *saa* |
 | house | *kibanda* |
 | humanity | *utu* |
 | humidity | *unyevu* |
@@ -1831,6 +1911,7 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | keeper of secrets | *siri-ji* |
 | kilometer | *kilo-hanga* |
 | kin-group | *wara* |
+| kiss | *busu* |
 | knife | *kisu* |
 | know | *kina* |
 | knowledge system | *elimu* |
@@ -1847,6 +1928,7 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | leaf | *jani* |
 | learn | *shikanga*, *jifunza* |
 | learning circle | *kina-wan* |
+| lee | *kinga* |
 | leg | *mguu* |
 | length | *urefu* |
 | lessons | *masomo* |
@@ -1862,6 +1944,7 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | live | *ishi* |
 | living edge | *Daŋa-Hai* |
 | lizard | *mjusi* |
+| load frame | *kiunzi* |
 | long | *refu* |
 | look | *tazama* |
 | lorekeeper | *lore-baba* |
@@ -1882,13 +1965,15 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | manners | *adabu* |
 | mark | *alama* |
 | market | *soko* |
+| marriage | *ndoa* |
 | marsh | *latian* |
 | maw | *buŋaŋa* |
 | may it be | *heri* |
 | me | *ni* |
+| measure | *kibaba* |
 | measurement | *kipimo* |
 | medical doctor | *dok* |
-| medicine | *tiba* |
+| medicine | *tiba*, *dawa* |
 | meditate | *tafakari* |
 | meet | *kutana* |
 | memory | *kumbukumbu* |
@@ -1897,8 +1982,10 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | merchant | *shanda-ji* |
 | mercy | *huruma* |
 | metal | *chuma* |
+| middle wake | *kesha* |
 | mind | *akili* |
 | mining drone | *chombo-joto* |
+| minute | *dakika* |
 | mist | *mawingu* |
 | moisture | *unyevu* |
 | mole | *fuko* |
@@ -1917,6 +2004,7 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 
 | English | Duskaran |
 |---------|----------|
+| name | *jina* |
 | narrow | *embamba* |
 | new | *mpya* |
 | night | *usiku* |
@@ -1946,7 +2034,9 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | openly | *wazi* |
 | openness | *uwazi* |
 | or | *au* |
+| out of bell | *nje-kengele* |
 | outpost | *kituo* |
+| outside | *nje* |
 
 ## P
 
@@ -1982,7 +2072,9 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | power | *nishati* |
 | power shard | *kipande-nishati* |
 | pray | *omba* |
+| pregnancy | *mimba* |
 | press together | *songa* |
+| prevent | *zuia* |
 | price | *bei* |
 | profit | *faida* |
 | promise | *ahadi* |
@@ -2016,7 +2108,7 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | red | *nyekundu* |
 | relationship negotiation | *shanda-roho* |
 | remember | *kumbuka* |
-| renewal | *upya* |
+| renewal | *upya*, *shanda-upya* |
 | repair | *tengeneza* |
 | repeatedly | *mara kwa mara* |
 | request | *omba* |
@@ -2026,6 +2118,7 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | resources | *mali* |
 | respect | *heshima* |
 | rest | *lala* |
+| rest bell | *kengele-pole* |
 | rice | *mchele* |
 | right | *haki*, *sawa* |
 | ring | *pete* |
@@ -2090,6 +2183,7 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | skin | *ngozi* |
 | sky | *anga* |
 | sleep | *lala* |
+| sleep cloth | *nguo-lala* |
 | slowly | *polepole* |
 | small | *ŋolu*, *ndogo* |
 | small lake | *lawa* |
@@ -2127,6 +2221,7 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | steady | *thabiti* |
 | steady wind | *iska* |
 | steam | *mvuke* |
+| steam house | *hamamu* |
 | steamed bun | *bao* |
 | stiff grain porridge | *sima* |
 | still | *bado* |
@@ -2164,6 +2259,7 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | English | Duskaran |
 |---------|----------|
 | tall | *refu* |
+| tally board | *ubao* |
 | task | *kazi* |
 | teach | *kina*, *funza* |
 | teacher | *kina-ji*, *mwalimu* |
@@ -2191,6 +2287,7 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | thirst | *kiu* |
 | thousand | *elfu*, *kilo* |
 | three | *tatu* |
+| three truths | *kweli-tatu* |
 | thriving | *ustawi* |
 | throat | *koo* |
 | time | *wakati* |
@@ -2206,6 +2303,7 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | travel | *tembea* |
 | tree | *manta* |
 | trust | *amini* |
+| truth | *kweli* |
 | turn | *pindi* |
 | twenty | *ishirini* |
 | twilight belter | *daŋa-jata* |
@@ -2220,6 +2318,7 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | under | *ta* |
 | unity | *umoja* |
 | updraft | *hanga-juu* |
+| used water | *maji-pili* |
 
 ## V
 
@@ -2255,9 +2354,11 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | water finder | *maji-tunga* |
 | water finding | *maji'tunga* |
 | water harvester | *bahari-ji* |
+| water jar | *mtungi* |
 | water judge | *hakimu-maji* |
 | water reservoir | *bwawa-maji* |
 | water rights | *maji-haki* |
+| water tally | *ubao-maji* |
 | water veins | *maji'ŋokado* |
 | water's blessing festival | *bahari-karamu* |
 | water-blessing | *maji'bara* |
@@ -2272,6 +2373,7 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | weatherwork | *hangan'kiya* |
 | weatherworker | *hangan'kiya* |
 | weatherworking | *hangan'kiya* |
+| wedding feast | *arusi* |
 | weight | *uzito* |
 | welcome | *karibu* |
 | well | *rijiya* |
@@ -2309,6 +2411,7 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | work | *shanda*, *kiya*, *kazi* |
 | work quota | *kazi-hesabu* |
 | worship | *ibada* |
+| wrap cloth | *kanga* |
 | write | *andika* |
 
 ## Y

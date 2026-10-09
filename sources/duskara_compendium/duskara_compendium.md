@@ -1,9 +1,9 @@
 ---
 title: Duskara Compendium
 subtitle: Main Setting Book
-version: 2.0.1
-date: 2026-10-07
-latest_update: "Second edition. Not compatible with 1.x: new timeline, star and orbit, settled arc, place names, origins of the settlers and crew, language and personal names."
+version: 2.1.0
+date: 2026-10-09
+latest_update: "Daily life aligned with the Duskaran Daybook: ten bells in a day, the day of Chapter 03 corrected, birth control, the rite of the dead."
 
 
 ---
@@ -313,33 +313,35 @@ Cave dwellers and twilight belters share these same traits. Despite cultural div
 
 ## Daily Life in the Twilight Belt and Deep Roads
 
-### A Twilight Belter's Cycle
+### A Twilight Belter's Day
 
-Life in surface settlements follows rhythms tied to wind patterns, work schedules, and communal obligations rather than the sunrise/sunset cycle that shaped Earth societies. A typical cycle might unfold as follows:
+Life in surface settlements follows rhythms tied to the bells, to work schedules and to communal obligations rather than the sunrise/sunset cycle that shaped Earth societies. A day is one waking period and one rest period. A settlement rings five loud bells in the waking period and five soft ones, for the watch, in the rest period (see [The Old Faiths](#the-old-faiths)). The light and the wind do not follow the bells: they change only with the weather. A typical day might unfold as follows:
 
-**Early morning** (approximately 6-8 hours into the waking period) is often the quietest time in a settlement. Wind speeds tend to be gentler in these hours, making it ideal for outdoor repair work on wind turbines and building maintenance. Agricultural workers move through vertical farms, checking hydroponic systems and tending to fast-growing crops. Water handlers begin their shift, monitoring the geothermal condensers that produce the settlement's most precious resource. Families share simple meals of fermented porridge or flatbread, preserved vegetables, and fermented drink, typically prepared the evening before to conserve fuel.
+**Early morning**, the last hours of the rest period, is the quietest time in a settlement. People rise before the first bell. Families share simple meals of fermented porridge or flatbread, preserved vegetables, and fermented drink, typically prepared the evening before to conserve fuel. At the first bell work begins: crews go out to the wind turbines and to the maintenance of buildings, agricultural workers move through vertical farms, checking hydroponic systems and tending to fast-growing crops, and water handlers begin their shift, monitoring the geothermal condensers that produce the settlement's most precious resource.
 
-**Midday** brings maximum activity. Markets open in wind-protected courtyards where residents exchange goods and information. Children attend education centers where they learn survival skills, resource conservation, and the mechanical principles of their technology. Adults rotate through essential labor: caravan team leaders organize departure of wind-caravans bound for neighboring settlements, engineers oversee the thermal exchangers and wind harvesting systems, and maintenance crews repair damage from previous storm cycles. Water judges monitor distribution in their underground chambers, eyes on the flow rates and atmospheric readings.
+**Midday**, from the second bell, brings maximum activity. Markets open in wind-protected courtyards where residents exchange goods and information. Children attend education centers where they learn survival skills, resource conservation, and the mechanical principles of their technology. Adults rotate through essential labor: caravan team leaders organize departure of wind-caravans bound for neighboring settlements, engineers oversee the thermal exchangers and wind harvesting systems, and maintenance crews repair damage from previous storms. Water judges monitor distribution in their underground chambers, eyes on the flow rates and atmospheric readings.
 
-**Afternoon** is when many Twilight Belters transition to skilled or social work. Artisans craft tools, weave textiles, and construct the specialized equipment needed for survival. Communities hold council meetings, resolving disputes and planning collective responses to resource shortages or threats. Younger people might practice in wind-protected training grounds, drilling storm-response and fauna-deterrence techniques or testing their emerging psychic abilities.
+**Afternoon**, from the third bell, is when many Twilight Belters transition to skilled or social work. Artisans craft tools, weave textiles, and construct the specialized equipment needed for survival. Communities hold council meetings, resolving disputes and planning collective responses to resource shortages or threats. Younger people might practice in wind-protected training grounds, drilling storm-response and fauna-deterrence techniques or testing their emerging psychic abilities.
 
-**Evening** is the time of communal gathering. Most settlements have a central hall or wind-sheltered plaza where residents share a larger meal prepared in collective kitchens; this evening meal is the most substantial of the cycle, often featuring fresh game (when available), fermented foods, prepared vegetables from storage, and *sima* or flatbread made from stored grain or dried algae flour. After eating, people engage in entertainment: storytelling sessions led by Lorekeepers, musical performances, games like wind chess, or simply conversation.
+**Evening**, from the fourth bell, is the time of communal gathering. Most settlements have a central hall or wind-sheltered plaza where residents share a larger meal prepared in collective kitchens; this evening meal is the most substantial of the day, often featuring fermented foods, prepared vegetables from storage, a little goat or fish when the ration allows, and *sima* or flatbread made from stored grain or dried algae flour. After eating, people engage in entertainment: storytelling sessions led by Lorekeepers, musical performances, games like wind chess, or simply conversation. The fifth bell, the last one, ends the public day.
 
-**Late evening/night** is devoted to rest, though "night" on Duskara refers to the time designated for sleep rather than darkness. Sleep cycles are not strictly tied to circadian rhythms (as would be on Earth) but rather to individual fatigue and social convention. Many Duskarans sleep in shorter bursts, perhaps 4-5 hours of deep sleep, with waking periods for personal tasks or intimate time with partners before returning to sleep. Others prefer consolidated sleep periods. This flexibility allows the settlement to maintain essential services continuously while people rotate through work and rest.
+**The rest period** is devoted to sleep, though "night" on Duskara refers to the time designated for sleep rather than darkness. The light outside does not change, so people sleep in the lowest and darkest room of the house or behind shutters. Sleep is tied to the bells, to individual fatigue and to social convention. Many Duskarans sleep in two parts, perhaps 4-5 hours of deep sleep, then a waking hour for personal tasks or intimate time with partners, then a second sleep. Others prefer one consolidated sleep. This flexibility allows the settlement to maintain essential services continuously while people rotate through work and rest.
 
-### A Deepkin's Cycle
+### A Deepkin's Day
 
-Life in cave settlements revolves around geothermal vents, the rhythms of subterranean cultivation, and the unique challenges of the night side.
+Life in cave settlements revolves around geothermal vents, the rhythms of subterranean cultivation, and the unique challenges of the night side. The caves keep the same count of ten bells as the surface, by stone bell and chime.
 
-**Early cycle** begins in the thermal cultivation chambers, where Deepkin farmers tend bioluminescent fungi farms and heat-tolerant crops in soil enriched by geothermal minerals. The constant warmth of the deep vents is untouched by the shifting wind phases, allowing uninterrupted farming, a major advantage. Workers also tend to the thermal vents themselves, carefully maintaining water channels that carry precious heat and minerals throughout the settlement.
+**The early bells** begin in the thermal cultivation chambers, where Deepkin farmers tend bioluminescent fungi farms and heat-tolerant crops in soil enriched by geothermal minerals. The constant warmth of the deep vents is untouched by the shifting wind phases, allowing uninterrupted farming, a major advantage. Workers also tend to the thermal vents themselves, carefully maintaining water channels that carry precious heat and minerals throughout the settlement.
 
-**Mid-cycle** brings communal labor: maintenance of the Deep Roads tunnel systems, harvesting of rare crystals and minerals from surrounding rock, and the processing of geothermal minerals into usable forms. Deepkin miners descend even deeper into the planet's crust, seeking valuable resources and evidence of the mysterious ancient structures that occasionally appear in newly opened caverns. Thermal sensing specialists use their psychic gifts to map new caverns and predict geothermal instability.
+**Midday** brings communal labor: maintenance of the Deep Roads tunnel systems, harvesting of rare crystals and minerals from surrounding rock, and the processing of geothermal minerals into usable forms. Deepkin miners descend even deeper into the planet's crust, seeking valuable resources and evidence of the mysterious ancient structures that occasionally appear in newly opened caverns. Thermal sensing specialists use their psychic gifts to map new caverns and predict geothermal instability.
 
-**Afternoon cycles** include trade preparation: goods destined for the Twilight Belt are packaged and moved toward the Deep Roads. This is also when Deepkin engage in skilled work: crafting bioluminescent art, creating specialized mining equipment, and maintaining the sophisticated water distribution systems that carry both warmth and precious liquid throughout cave settlements.
+**Afternoon** includes trade preparation: goods destined for the Twilight Belt are packaged and moved toward the Deep Roads. This is also when Deepkin engage in skilled work: crafting bioluminescent art, creating specialized mining equipment, and maintaining the sophisticated water distribution systems that carry both warmth and precious liquid throughout cave settlements.
 
 **Evening** is gathering time. Deepkin communities are often more close-knit than surface settlements, partly due to smaller population density in each cavern. They gather in central caverns where bioluminescent fungi casts a perpetual soft glow. Meals here feature foods unique to the deep: pale fungi with a nutty flavor, blind fish cultivated in underground pools, and supplements of algae that require minimal light. Entertainment mirrors surface traditions (storytelling, music, games) but with added acoustic properties of the caverns, sound echoes and resonates, creating distinctive musical qualities.
 
-**Night cycles** are similar to surface settlements: flexible sleep periods, with some Deepkin preferring the deep meditation that thermal pools enable: sitting in naturally heated water while practicing psychic exercises or simply existing in the profound silence below the surface.
+**The rest period** is similar to that of surface settlements: flexible sleep, with some Deepkin preferring the deep meditation that thermal pools enable: sitting in naturally heated water while practicing psychic exercises or simply existing in the profound silence below the surface.
+
+The Duskaran Daybook describes everyday life in detail: the bells, sleep, the house, water in the kitchen, the table, manners, rites and public life.
 
 ## Comparative Cultural Mindsets: Twilight Belters and Deepkin
 
@@ -353,7 +355,7 @@ Both cultures value survival, but Twilight Belters see it through the lens of ne
 
 ### Sensory Signatures of Settlement Life
 
-A Twilight Belt settlement smells of wind-carried dust, cooking fires, and the sharp ozone scent of geothermal vents. The constant wind produces a background hum audible in most spaces. Buildings creak and groan as wind pressure shifts.
+A Twilight Belt settlement smells of wind-carried dust and cooking fires, with sulfur near a geothermal vent and the sharp scent of charge in the air before a storm. The wind always comes from the night side, so a settlement smells the country nightward of it and never its own smoke. The constant wind produces a background hum audible in most spaces. Buildings creak and groan as wind pressure shifts.
 
 A cave settlement smells of mineral-rich water, fungal growth (earthy, sometimes mushroom-like), and the faint sulfur of geothermal vents. The acoustic environment is dramatically different: sounds carry far in tunnels, creating rich echoes. The air is uniformly warm.
 
@@ -465,15 +467,17 @@ Sexual taboos center around the same consent frameworks that govern other relati
 
 Birth quotas are legally and culturally enforced across Duskara, making child-rearing a carefully managed social function. Only partnerships or individuals with demonstrated resource management ability and housing capacity can legally reproduce. This creates a system where child-rearing is prestigious (indicating stability and trustworthiness) but also restricted.
 
+**Birth control** follows from the quotas. Contraception is a drug that any adult can have from a healer, and to take it is the normal state. Abortion is the choice of the mother. A pregnancy without a birth authorization goes before the council, which can grant the authorization late, order an abortion if it is necessary, or let the pregnancy go on: in the last case the household loses rations, and an authorized household raises the child. Duskarans know that this is harsh. It is the price of planned growth, and one of the hardest uses of the rule that makes no exceptions (see [Tensions and Disagreements](#tensions-and-disagreements)).
+
 **Parental roles** are not strictly gendered. Any adult in a legal partnership or approved household can serve as a parent. Biological parenthood carries no special cultural weight; care-givers have equivalent status. Multi-adult households often distribute parenting responsibilities: one adult might handle primary nurturing and education, while others manage resource provisions or skill training.
 
-**Early childhood** (0-55 cycles) is largely managed within the household or through community childcare collectives. Mothers receive nursing leave, though duration varies by settlement wealth. Collective childcare, where multiple families share supervision of young children in safe spaces, is common in most settlements, allowing adults to continue essential labor while children receive supervision and early education in group settings.
+**Early childhood** (0-55 Cycles) is largely managed within the household or through community childcare collectives. Mothers receive nursing leave, though duration varies by settlement wealth. Collective childcare, where multiple families share supervision of young children in safe spaces, is common in most settlements, allowing adults to continue essential labor while children receive supervision and early education in group settings.
 
-**Education and socialization** begin informally in early childhood through observation and play, then formalize around the age of 80-90 cycles when children enter settlement education centers. They learn survival skills (water conservation, wind awareness, basic resource management), practical crafts (textile work, tool maintenance), and the mechanical principles underlying their technology.
+**Education and socialization** begin informally in early childhood through observation and play, then formalize around the age of 80-90 Cycles when children enter settlement education centers. They learn survival skills (water conservation, wind awareness, basic resource management), practical crafts (textile work, tool maintenance), and the mechanical principles underlying their technology.
 
-**Adolescence** (roughly ages 130-190 cycles) involves increasing responsibility and autonomy. Teenagers participate in labor rotations, learning the specific skills their society values. Many develop and test their psychic abilities during this phase. Sexual education is integrated into Threshold Education, emphasizing both mechanics and consent frameworks.
+**Adolescence** (roughly ages 130-190 Cycles) involves increasing responsibility and autonomy. Teenagers participate in labor rotations, learning the specific skills their society values. Many develop and test their psychic abilities during this phase. Sexual education is integrated into Threshold Education, emphasizing both mechanics and consent frameworks.
 
-**Coming-of-age** at approximately 190 cycles is marked by the Wind Endurance Trial and formal entry into adulthood. After passing this trial, young adults are legally recognized as capable of reproduction (if they secure birth authorization), partnership, and independent resource management.
+**Coming-of-age** at approximately 190 Cycles is marked by the Wind Endurance Trial and formal entry into adulthood. After passing this trial, young adults are legally recognized as capable of reproduction (if they secure birth authorization), partnership, and independent resource management.
 
 **Parental authority** is not absolute on Duskara; children are viewed as individuals whose growing autonomy must be respected. Severe physical punishment is culturally discouraged, though discipline through responsibility (assigning difficult tasks, temporary isolation during group activities) is employed. Teenagers can appeal parental decisions to settlement councils if they believe they're being treated unfairly.
 
@@ -485,7 +489,7 @@ Birth quotas are legally and culturally enforced across Duskara, making child-re
 
 Wind-tokens are physical objects central to Duskaran decision-making and spiritual practice. Carved from wind-polished stone or wood, these tokens bear protective symbols and family marks. In communal councils, wind urns serve as voting vessels: participants place smooth stones to vote for maintaining current courses of action, while carved wind-tokens indicate support for change. Items representing proposed actions (maps, tools, water tokens) are placed in the forum circle during deliberations, creating a physical representation of the decision at hand.
 
-Water-blessing rituals employ carved clay cups, each unique to a family or settlement. During ceremonies, water is poured while speaking gratitude, the cup's markings serving as a tactile connection to ancestral practice. The dead are honored by speaking their names to the wind at natural amphitheaters where three wind currents converge, creating harmonics that carry the names into memory.
+Water-blessing rituals employ carved clay cups, each unique to a family or settlement. During ceremonies, water is poured while speaking gratitude, the cup's markings serving as a tactile connection to ancestral practice. The dead give their water back to the settlement: the body is dried, and then it is burned. The kin give the ash to the wind and speak the name at a natural amphitheater where three wind currents converge, creating harmonics that carry the name into memory.
 
 The Gradient Feast marks the optimal temperature window for long-distance travel and serves as a deadline for contract fulfillment. Trade agreements often specify "delivery before Gradient Feast," making it both a celebration and an economic milestone. Warding gestures, specific hand movements paired with breath control, are performed when entering storms or dangerous zones, believed to request protection from wind spirits.
 
@@ -507,7 +511,7 @@ Advanced practitioners can detect emotional states through heat variation patter
 
 Weather working grants its users the ability to influence local atmospheric conditions. These individuals can subtly alter wind patterns, pressure, or precipitation within a limited area. Skilled weatherworkers are pivotal in protecting crops from damaging winds, dispersing storms along trade routes, or even calming turbulent conditions during diplomatic gatherings. The practice often holds symbolic value, as weatherworking rituals signify cooperation and harmony during inter-settlement negotiations.
 
-Mastery of this ability requires dozens of cycles of meditation and wind-listening, fostering a deep sensitivity to atmospheric shifts. Weatherworking guilds pass their techniques down through oral tradition and practical mentorship, ensuring that each generation of practitioners is attuned to the planet’s rhythms.
+Mastery of this ability requires dozens of Cycles of meditation and wind-listening, fostering a deep sensitivity to atmospheric shifts. Weatherworking guilds pass their techniques down through oral tradition and practical mentorship, ensuring that each generation of practitioners is attuned to the planet’s rhythms.
 
 ## Deep Bonding
 
@@ -637,7 +641,7 @@ Most settlers were Christian or Muslim, and so was most of the Filipino crew. Ma
 
 What remains:
 
-- **The five bells.** The prayer calls of the settlers and the watch bells of the ship became one custom. A settlement rings five bells in each waking-and-rest period. They mark the work shifts, and many people stop at each bell for one breath and one word of thanks. The first bell is *sori*.
+- **The five bells.** The prayer calls of the settlers and the watch bells of the ship became one custom. A settlement rings five loud bells in each waking period. They mark the work shifts, and many people stop at each bell for one breath and one word of thanks. The first bell is *sori*, and the fifth is the last bell. Five soft bells follow in the rest period, one stroke each, for the watch: this is the part that came from the ship. A day has ten bells, and a bell is also a span of time, a little less than two and a half hours.
 - **Facing the wind.** Nobody knows the direction of any holy place. A person who prays turns the face to the wind.
 - ***Saumu*.** Once in each Ancestor Cycle, many households keep one Cycle in which they eat only after the last bell. It is a household custom, and no council enforces it.
 - ***Sadaka*.** A gift of water to someone who has less, given without a witness.
@@ -982,7 +986,7 @@ Duskaran cuisine reflects environmental constraints and available ingredients, o
 
 Contract timing often references environmental markers rather than abstract calendars. "Delivery before Gradient Feast" appears frequently in trade agreements, establishing deadlines aligned with optimal travel windows. Partial delivery protocols address the reality that caravans may lose portion of their cargo to weather or predation; most contracts specify minimum acceptable percentages (typically 70-80%) and adjusted payment scales for reduced deliveries.
 
-Salvage rights follow complex hierarchies. Storm-damaged goods abandoned by caravans belong to whoever reaches them first, but "fresh" salvage, items lost within the current wind phase, requires notification to the original owner if known. Communities maintain salvage registries where found goods are logged, and unclaimed items pass to finders after one full wind cycle.
+Salvage rights follow complex hierarchies. Storm-damaged goods abandoned by caravans belong to whoever reaches them first, but "fresh" salvage, items lost within the current wind phase, requires notification to the original owner if known. Communities maintain salvage registries where found goods are logged, and unclaimed items pass to finders after one full wind phase.
 
 Salvage economics have created specialist scavenger caravans that follow major routes after severe weather, recovering and refurbishing damaged goods for resale. These operations walk ethical lines, as determining whether cargo was "abandoned" or simply temporarily sheltered during storms creates frequent disputes. Some settlements view scavenger caravans as vital recycling operations, while others consider them opportunistic vultures preying on others' misfortune.
 
@@ -1059,7 +1063,7 @@ A fundamental philosophical tension runs through Duskaran society: how much shou
 
 **Expansionists** argue that Duskara has capacity for careful growth, that innovation and exploration create opportunities, and that excessive caution leaves resources untapped and settlements underdeveloped. They propose ambitious projects: extending the habitable zone through thermal engineering, establishing new settlements in marginal regions, mounting careful expeditions to the day side for rare materials.
 
-These debates often paralyze councils. A twilight settlement might deadlock for cycles over a proposal to fund a high-risk mining operation. Councils create committees, commission studies, hear both sides repeatedly. Eventually, councils make decisions, sometimes favoring caution, sometimes embracing calculated risk. The losing faction may advocate loudly for reconsideration and often prove right or wrong in hindsight, but they accept the council's decision and participate in implementing it.
+These debates often paralyze councils. A twilight settlement might deadlock for Cycles over a proposal to fund a high-risk mining operation. Councils create committees, commission studies, hear both sides repeatedly. Eventually, councils make decisions, sometimes favoring caution, sometimes embracing calculated risk. The losing faction may advocate loudly for reconsideration and often prove right or wrong in hindsight, but they accept the council's decision and participate in implementing it.
 
 ### Technology and Tradition
 
@@ -1169,7 +1173,7 @@ Dampening field protocols require multiple trained practitioners coordinating to
 
 ### Beast Handlers
 
-Fauna specialists train for dozens of cycles to understand predatory animal behavior, develop psychic bonds with creatures for tracking and communication, and execute safe responses to wildlife encounters. They work with settlements to maintain predator-aware spaces, clear fauna from areas where they threaten human safety, and occasionally bond with creatures for transportation or companionship.
+Fauna specialists train for dozens of Cycles to understand predatory animal behavior, develop psychic bonds with creatures for tracking and communication, and execute safe responses to wildlife encounters. They work with settlements to maintain predator-aware spaces, clear fauna from areas where they threaten human safety, and occasionally bond with creatures for transportation or companionship.
 
 ### Storm Response Coordinators
 
@@ -1565,7 +1569,7 @@ These loan words are often marked as archaic or elevated speech, used primarily 
 
 Storytelling in Duskaran culture transcends simple narrative; it's a multimedia art form that engages voice, movement, and environmental sound. Lorekeepers, the traditional custodians of oral history, perform stories during communal gatherings, their delivery shaped by the ever-present wind. Rather than fighting against the gusts, skilled storytellers incorporate them, allowing natural harmonics created by wind passing through structures or instruments to punctuate dramatic moments.
 
-Epic tales follow rhythmic patterns that mirror wind phases. A story about the Thirst Wars might begin with slow, measured cadences during calm periods, then accelerate as the narrative builds toward conflict, timing the climax to coincide with a particularly strong gust that rattles the assembly hall. This synchronization requires dozens of cycles of practice and deep wind-listening skills.
+Epic tales follow rhythmic patterns that mirror wind phases. A story about the Thirst Wars might begin with slow, measured cadences during calm periods, then accelerate as the narrative builds toward conflict, timing the climax to coincide with a particularly strong gust that rattles the assembly hall. This synchronization requires dozens of Cycles of practice and deep wind-listening skills.
 
 Poetry in Duskaran serves both artistic and mnemonic functions. Technical knowledge (water purification procedures, wind turbine maintenance sequences, medicinal plant identification) is often encoded in verse, making it easier to memorize and transmit across generations. These "survival poems" blend practical instruction with metaphor, ensuring that critical information persists even if data crystals fail.
 
@@ -2234,6 +2238,13 @@ Names are given in infancy and can be amended or expanded when a person shows a 
   - Governance (Chapter 08): Small frontier settlements such as Bukal-Mvuke keep a Council of Elders.
   - Tooling: duskara_compendium.md is now built by scripts/build_compendium.py; scripts/check_compendium.py checks time units, tidal lock wording, em dashes, "solar" and Cycle dates against canon_dates.json. It also covers the Language Handbook, the Gazetteer, the quickstart, the glossary, the RPG books and the Codex, and reports superseded place names.
 - 2.0.1: Waterways (Chapter 02): the up-belt branch of the Luŋga-Hanga flows into the Bahari and the down-belt branch flows out of it. The text said that the rivers flow from the lake. See Gazetteer 1.1.0.
+- 2.1.0: Daily life, aligned with the new Duskaran Daybook.
+  - The bells (Chapters 03, 06): a settlement rings five loud bells in the waking period and five soft bells in the rest period. A day has ten bells, and a bell is also a span of a little less than two and a half hours. The text gave five bells for the whole day.
+  - The day (Chapter 03): "A Twilight Belter's Cycle" and "A Deepkin's Cycle" are now "Day". The word Cycle is kept for the orbit, about 35 days. The parts of the day are tied to the bells. Early morning is the end of the rest period, not "6-8 hours into the waking period". The statement that the wind is gentler in the early hours is removed: on a locked world the light and the wind do not follow the bells. People sleep in a dark lower room or behind shutters. Fresh game is removed from the evening meal (Chapters 11 and 13 give no hunting for food).
+  - Smell (Chapter 03): a vent smells of sulfur, and the sharp scent belongs to the charge before a storm. A settlement smells the country nightward of it.
+  - Birth control (Chapter 04): contraception is a drug; abortion is the choice of the mother and can be ordered by a council; a child born without a birth authorization is raised by another household, and the household of birth loses rations.
+  - The dead (Chapter 04): the body is dried, so that its water returns to the settlement, and then burned. The kin give the ash to the wind where the name is spoken.
+  - Cycle as a unit (Chapters 04, 05, 12, 13, 18): written with a capital letter for ages and durations. "One full wind cycle" is "one full wind phase" (Chapter 11).
 
 # License
 
