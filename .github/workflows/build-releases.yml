@@ -42,6 +42,8 @@ jobs:
               - 'sources/worldbuilding/duskaran_language_handbook.md'
             duskaran_gazetteer:
               - 'sources/worldbuilding/duskaran_gazetteer.md'
+            duskaran_daybook:
+              - 'sources/worldbuilding/duskaran_daybook.md'
 
   build-and-release:
     needs: detect-changes
@@ -102,6 +104,10 @@ jobs:
             duskaran_gazetteer)
               echo "source_dir=sources/worldbuilding" >> $GITHUB_OUTPUT
               echo "source_file=duskaran_gazetteer.md" >> $GITHUB_OUTPUT
+              ;;
+            duskaran_daybook)
+              echo "source_dir=sources/worldbuilding" >> $GITHUB_OUTPUT
+              echo "source_file=duskaran_daybook.md" >> $GITHUB_OUTPUT
               ;;
           esac
       
