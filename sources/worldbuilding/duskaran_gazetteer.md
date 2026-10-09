@@ -1,9 +1,9 @@
 ---
 title: Duskaran Gazetteer
 subtitle: Places of the Living Edge
-version: 1.4.0
-date: 2026-10-08
-latest_update: "The surge of the ice nightward of Liko-Luŋga, falling wind in the rift, and the guild house of Bantay-Hanga."
+version: 1.5.0
+date: 2026-10-09
+latest_update: "Open cases at three gates of the Deep Roads, and the first local sheet: Liko-Luŋga and Bantay-Hanga."
 ---
 
 # Introduction
@@ -511,6 +511,55 @@ The last city of the arc. Its name means "last cistern". No stream reaches it: i
 
 The dune sea that ends the arc. No glacier reaches the belt beyond this point.
 
+# Local Sheets
+
+The maps are canon at a scale of 2 kilometers. A local sheet gives the ground around one place in more detail, for a story that is set there. The places of a sheet are not in the Strip Table.
+
+Each place of a sheet has a status:
+
+- **Canon**: the place is in the Strip Table or in another table of this Gazetteer.
+- **Novel**: a story gives the place and its position or its distance.
+- **Placed**: a story names the place, and the position is chosen for the sheet.
+
+An offset of "river" means that the place is on the Luŋga-Hanga at that alama.
+
+## Liko-Luŋga and Bantay-Hanga
+
+The town, the river below it and the scarp above it, as in the novel *The Weight of Wind*. The town is on the floor of the rift. The scarp rises nightward of it, and a shelf of rock runs along the scarp at the height of the guild house.
+
+| Alama | Offset | Name | Kind | Status | Note |
+|------:|-------:|------|------|--------|------|
+| 2,825 | river | Channel intake | Water works | Placed | The main irrigation channel leaves the river here, a day on foot up-belt of the town |
+| 2,849 | -17 | Settling basin | Water works | Placed | At the foot of the slope, where the main channel comes in. The channel drops its silt here |
+| 2,850 | -15 | Liko-Luŋga | Farming town | Canon | Terraces of wind-grain on the lower slope and on the floor, behind a belt of stormroot |
+| 2,850 | -11 | Fisher quarter | Quarter of the town | Novel | By the river, about 4 km dayward of the center: weirs, set-lines and the fisher hall |
+| 2,850.2 | -24.5 | The Step | Rock shelf on the scarp path | Placed | The path comes out from behind a shoulder of the scarp, and the lee ends. Two hours on foot from the town |
+| 2,852 | -27 | Bantay-Hanga | Weatherworking guild house | Canon | The first of the seven storm shelters is at the house |
+| 2,854 | -27 | Storm shelter 2 | Storm shelter | Novel | On the shelf, 2 km from the house |
+| 2,856 | -27 | Storm shelter 3 | Storm shelter | Novel | On the shelf, 4 km from the house |
+| 2,857 | -28 | The notch | Notch in the scarp | Novel | Between shelters 3 and 4. Cold air that falls here comes down on the down-belt terraces of the town |
+| 2,858 | -27 | Storm shelter 4 | Storm shelter | Novel | On the shelf, 6 km from the house |
+| 2,856 to 2,860 | river | The flats | Low ground by the river | Novel | 6 to 10 km down-belt of the town. The fishers keep their weirs here |
+| 2,860 | -27 | Storm shelter 5 | Storm shelter | Novel | On the shelf, 8 km from the house |
+| 2,862 | -27 | Storm shelter 6 | Storm shelter | Novel | On the shelf, 10 km from the house |
+| 2,864 | -27 | Storm shelter 7 | Storm shelter | Novel | On the shelf, 12 km from the house |
+| 2,876 | -26 | Wind Temple | Wind Temple | Canon | The strong wind focal point of the scarp (see Wind Focal Points), with the old wall record. One day on foot from the house |
+
+A storm shelter is a *hema-tufani*, and a Wind Temple is a *hekalu-hanga*.
+
+Paths of the sheet:
+
+| Name | Kind | Through | Status |
+|------|------|---------|--------|
+| Main channel | Irrigation channel | Channel intake, Settling basin | Placed |
+| Scarp path | Foot path with a storm line | Liko-Luŋga, The Step, Bantay-Hanga | Novel |
+| Shelf path | Foot path with a storm line | Bantay-Hanga, Storm shelter 2, Storm shelter 3, Storm shelter 4, Storm shelter 5, Storm shelter 6, Storm shelter 7 | Novel |
+| Temple path | Foot path | Storm shelter 7, Wind Temple | Novel |
+
+The scarp path is about 12 kilometers long and climbs about 110 meters: one hour of long legs, one more hour to the Step, and then most of an hour on the level shelf. Iron rings in the rock hold the storm line on the scarp path and on the shelf path.
+
+The ice front is about 125 kilometers nightward of the town, and the night wall stands about 30 kilometers behind it. The plateau between the ice and the scarp has outposts of ice harvesters. They have no names and no positions yet, and neither have the three settlements that were lost in the last surge.
+
 # Wind and Storms
 
 ## The Wind
@@ -648,6 +697,28 @@ The largest communities of each region have names. The other fifty-five have non
 | Kengele-Chini | Bells Below | Tanga-Kavu | 5,026 | -270 | an entrance | 100,000 | Stone bells that carry signals through the tunnels |
 | Pango-Majivu | Ash Caves | Tanga-Kavu | 5,070 | -302 | an entrance | 105,000 | Old ash beds that make the soil of its growing chambers |
 | Bwawa-Haske | Glowing Pool | Tanga-Kavu | 5,160 | -266 | an entrance | 95,000 | A pool of glowing water, and the painters of living murals |
+
+## Open Cases at the Gates
+
+The Compendium names three kinds of dispute between the Deepkin and the Twilight Belters: maintenance, the ice quota, and weatherworking near a gate (Chapter 08). Each kind has an open case in the present. Trade goes on at all three gates while the case is open.
+
+### The Cores of Motowan
+
+*Gate of Motowan, alama 4,200. Maintenance. Canon.*
+
+The forges of Chumawan made forty cores for the thermal harvesters of Pango-Liwanag. Eleven cracked in the first Cycle of use. The Warmth Circle says that the alloy was poor, and it holds back the mineral loads that were the price. The forge guild says that it made the cores to the agreed pattern, and that the caves ran them hotter than the pattern allows. Both sides have measurements, and both sets are honest. One cracked core lies on the table of the Wind and Flame Envoy in the gate hall, where everybody can see it. The Deepkin smiths who work in Chumawan and Motowan carry most of the talk between the sides, and each side trusts them a little less with each Cycle.
+
+### The Ice of Cheŋ-Angataa
+
+*Gate of Cheŋ-Angataa, alama 2,700. Ice quota. Canon.*
+
+Cheŋ-Angataa lost 60% of its water and needs more night-side ice than its own crews can cut. The caves of its Deep Road, with Pango-Wimbo as the largest, cut the ice and send it up. The city asks for twice the old quota, and the caves send it: no Warmth Circle refuses water to a city with poisoned children. But the Accord counts a load of ice at a rate that it set before the loss. The caves say that the rate was low then and is an insult now. The first block of each load comes up with a mark cut into it: "given, not owed". The water judges of the city write the mark in the record with the load. The hearings are at Rijiya-Sanyi, 80 kilometers down-belt.
+
+### The Draught of Tafki-Kuu
+
+*Gate of Tafki-Kuu, alama 5,400. Weatherworking near a gate. Canon.*
+
+The weatherworkers of Tafki-Kuu hold each storm over the rock bowl for as long as they can, so that more of its rain reaches the reservoirs. A long hold lowers the pressure at the gate. The Deep Road is 238 kilometers long, and its air moves toward the low pressure: warm air leaves the tunnel at the gate, and cold air from the outer caverns comes in at the far end. During one hold the cold reached a vent hall of the community below while its adepts were in Geothermal Communion. The working broke, and one adept has burnout. The guild of Tafki-Kuu says that no rule asked for a warning and that the city needs every storm. The Warmth Circle says that the Earth's Breath was turned back in its own house, and that this is an offense with or without a rule. The two sides agree on the remedy: a warning before each hold, sent down the tunnel on stone bells of the kind that Kengele-Chini uses. They do not agree on who can answer "not now".
 
 # The Far Edge
 
@@ -807,6 +878,8 @@ The names that these replace in older texts are listed in CANON_REMAPPING.md, in
   - Wind and Storms: new section The Surging Ice (the ice tongue nightward of Liko-Luŋga surges about once in 200 Ancestor Cycles, the night wall advances with it, and the river shows the first sign) and new section Falling Wind (cold air that spills over the nightward scarp of the rift and stays on its floor).
   - New entry Bantay-Hanga, the weatherworking guild house of Liko-Luŋga, on the scarp about 12 kilometers nightward of the town. It is in the Strip Table, the storm exposure classes and the Index of Names.
   - Liko-Luŋga: its place in the lee of the scarp, its halt on the main Whisper Road and its river fishers.
+- 1.5.0: The Night Side: new section Open Cases at the Gates, with one open dispute between Deepkin and Twilight Belters at each of three gates: the cores of Motowan (maintenance), the ice of Cheŋ-Angataa (ice quota) and the draught of Tafki-Kuu (weatherworking near a gate). The author confirmed the three cases. They follow the three kinds of dispute of Compendium 2.2.0, Chapter 08.
+  - New chapter Local Sheets, with the sheet Liko-Luŋga and Bantay-Hanga: the places of the novel The Weight of Wind that are smaller than the scale of the maps (the fisher quarter, the flats, the water works, the Step, the seven storm shelters on the shelf, the notch, the Wind Temple) and the paths between them. The geodata folder has the data and the map of the sheet.
 
 # License
 

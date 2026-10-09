@@ -1,9 +1,9 @@
 ---
 title: Duskara Compendium
 subtitle: Main Setting Book
-version: 2.1.0
+version: 2.2.0
 date: 2026-10-09
-latest_update: "Daily life aligned with the Duskaran Daybook: ten bells in a day, the day of Chapter 03 corrected, birth control, the rite of the dead."
+latest_update: "The history of the Awakening, the laws and the scale of penalties, and the three kinds of dispute at the gates of the Deep Roads."
 
 
 ---
@@ -48,7 +48,7 @@ Yet for all its harshness, Duskara is home. Its people have developed a deep con
 
 - **~2305 CE (Cycle 1,124)**: Settlements stabilize along the 200-300 km-wide twilight band, forming linear cities. A reliance on geothermal and wind energy begins to take root as foundational technology.
 
-- **~2360 CE (Cycle 1,686)**: Genetic and environmental adaptations to Duskara’s radiation emerge, including latent psychic abilities such as weather working and thermal sensing. These abilities gradually become integral to survival and culture.
+- **~2360 CE (Cycle 1,686)**: Genetic and environmental adaptations to Duskara’s radiation emerge, including latent psychic abilities such as weather working and thermal sensing. For about a hundred Ancestor Cycles the settlements disagree about what the abilities are and who should control them (see [From Sickness to Guild](#from-sickness-to-guild)).
 
 - **~2465 CE (Cycle 2,810)**: The concept of "The Awakening" solidifies, recognizing the psychic abilities among Duskarans as both practical tools and spiritual gifts. Weatherworking guilds and other specialized roles are institutionalized.
 
@@ -499,6 +499,18 @@ The Gradient Feast marks the optimal temperature window for long-distance travel
 
 The unique radiation patterns emitted by Duskara’s star and the planet’s extreme environmental conditions have awakened latent psychic abilities within its human inhabitants. Known collectively as “The Awakening,” these abilities are now integral to both survival and culture on Duskara. Each gift reflects an adaptation to the planet’s challenges, blending practicality with an almost mystical connection to the world.
 
+## From Sickness to Guild
+
+The abilities did not come in one generation, and at first they had no name. About a hundred Ancestor Cycles lie between the first recorded cases (Cycle 1,686) and the guilds (Cycle 2,810). The Archivists keep the record of that time and teach it in five steps.
+
+1. **The sickness.** The first signs were read as illness. A child had headaches that no healer could explain, and knew where the warm pipe ran behind a wall. Another wept before a storm that no instrument had seen. Healers called it wind fever. The Archivists counted the cases, and the count showed that these children were right too often for chance.
+2. **The disagreement.** Each settlement decided alone, and the settlements did not decide the same thing. Some households hid a child with an ability. Some councils kept such people away from the valves and the turbines. Other settlements gave them the first cup at the meal. The faith (*dini*) had no teaching for this. In two or three generations it found one: the ancestors are in the wind, and they had begun to answer. The name *Mwamko*, the Awakening, comes from that reading.
+3. **The shift.** The lines that held the old survey maps and the well records had always said where a settlement could dig. Now a water-finder of no family could say it in one afternoon, and say it better. Those lines argued in the councils for a generation and lost. Then they married their children to water-finders. Many of the lineages that have weight in the present began in this way.
+4. **The misuse.** There was no rule and no teacher, and some people with an ability did harm. A water-finder named a source that was not there, and a caravan went into dry country to find it. A person with a strong ability pressed a council toward one decision, and the council did not know. The words *majithiva* and *hangakora* are from this time. So are the first cases of burnout and the first Weather Wraiths, which came from people who worked alone and without training.
+5. **The answer.** The settlements tied the ability to a duty. Weatherworkers of several cities agreed on three rules, and the guilds still keep them: an examination before a person can work for others, numbered grades in the manner of the ship's officers, and an oath. The oath says that the ability serves the settlement, and that nobody uses it on a person who has not agreed. Work in groups became the rule, because work alone had done the damage. In Cycle 2,810 the councils recognized the guilds. The custom that a council has members with an ability and members without one is of the same date.
+
+No settlement expelled its people for an ability, and none made them rulers. Both were proposed in those hundred Ancestor Cycles, and the record keeps the names of the councils that said no.
+
 ## Thermal Sensing
 
 Thermal sensing allows individuals to detect subtle heat variations in their surroundings, even across significant distances or through physical barriers. This ability is indispensable for survival, enabling practitioners to identify safe zones in frigid environments, track the heat signatures of creatures or machinery, and locate geothermal heat sources. In fauna management and search-and-rescue, thermal sensing can reveal hidden predators or missing travelers, while in resource management, it helps optimize energy efficiency in geothermal or wind-based systems.
@@ -713,12 +725,26 @@ While Duskarans hold tightly to their traditions, they adapt them seamlessly to 
 
 ## Taboos and Laws
 
-Duskaran society enforces strict conservation mandates:
+Duskaran law is short. Most of it protects the things that a settlement cannot replace. Four faults have a name that nobody wants to carry (see [Taboo Language](#taboo-language)).
 
-- **Water Waste:** Punished harshly, as water is the lifeblood of civilization.  
-- **Wind Disruption:** Deliberate obstruction of wind patterns is forbidden, viewed as sacrilege.  
-- **Knowledge Protection:** Sharing settlement secrets, particularly regarding resources, with outsiders is a grave offense.  
-- **Conservation Mandates:** Laws ensure sustainable use of resources, enforcing collective responsibility.
+- **Waste of water.** To lose water through carelessness, or to take it out of the loop. The person is *majimaka*, "water-killer". A water judge measures the loss from the tally and the flow records.
+- **Blocking the wind.** To build, plant or stack something that takes wind from the common turbines or from a neighbor, or to damage a turbine. The person is *hangaboru*, "wind-blocker". The Windkeeper for wind energy measures the loss, and the thing that blocks the wind comes down at the cost of the person who put it up. This fault is also an offense against the faith, because the ancestors are in the wind.
+- **Poisoning the land.** To foul soil, a growing tower or an aquifer. The person is *tangazali*, "land-poisoner". The first penalty is the work of cleaning, for as long as the cleaning takes.
+- **Hoarding.** To hold more than the quota. The person is *kinabara*, "hoarder". The surplus goes back to the common store. This is the lightest of the four faults and the most common.
+
+The misuse of an ability (*hangakora*, *majithiva*) goes first before the guild of the person and then before the council (see [Psychic Abilities](#psychic-abilities)).
+
+### Hearing and Penalty
+
+The council of the settlement hears each case in the open. The specialist gives the measurements, the accused person speaks, and any member of the settlement can speak after them. A council goes up the scale of penalties one step at a time, and it says aloud why the lower step was not enough.
+
+1. **Return.** The person gives back what was lost, from their own measure or by their own work.
+2. **Extra turns on the rota.** This is the common penalty for a small fault. The rota board is public, so the penalty is public.
+3. **A smaller ration**, for a number of Cycles that the council sets. The children of the household keep their full ration.
+4. **Loss of office.** A person who holds a water token, a guild grade or a seat gives it up until the council returns it.
+5. **Expulsion.** For the gravest cases, and for a person who repeats a grave fault. Expulsion is always for a term. The council sets the term in Cycles and names a settlement that agrees to receive the person, often one where they have kin. Nobody is sent out with no place to go. At the end of the term the person can come back. They enter at the gate, the council gives them the cup of a guest, and after that it is bad manners to name the fault.
+
+There is no prison and no penalty on the body. The old tales in which a water-killer is sent to wander the Storm Wall are tales: no council sends a person there.
 
 ## Sexuality
 
@@ -793,6 +819,8 @@ Following frontier settlement crises that exposed Assembly processing delays, re
 ## Diplomatic Relations
 
 The relationship between twilight belt cities and cave settlements is symbiotic but fraught with tension. Cave-dwellers depend on twilight cities for processed goods and advanced technologies, while twilight cities rely on the caves for raw materials, including rare minerals and ice from the night side. These interdependencies often lead to disputes, particularly over access to underground water reservoirs or disagreements stemming from cultural differences. Cave-dwellers frequently view the twilight inhabitants as wasteful, while the latter regard the Deepkin as insular and resistant to collaboration.
+
+Three kinds of dispute come back at the gates of the Deep Roads. The first is maintenance: the caves buy forged parts that only the surface cities make, and a part that fails below starts an argument about who must replace it. The second is the ice quota, the amount of night-side ice that the caves send up and the rate at which the Accord counts it. The third is weatherworking near a gate: a change of pressure on the surface moves the air of a tunnel and can disturb a vent at its far end. A Belter calls this an error. A Deepkin calls it an offense against the Earth's Breath. The Gazetteer describes the open cases (The Night Side).
 
 To mediate these differences, Wind and Flame Envoys, diplomatic specialists, navigate the delicate negotiations required to maintain harmony between the two groups. Their work ensures that resource exchanges and alliances remain intact despite the underlying friction.
 
@@ -1638,7 +1666,7 @@ Duskaran culture's obsession with conservation has generated a rich vocabulary o
 
 **Resource Waste Terms**:
 
-- *majimaka* /ma.ˈdʒi.ma.ka/ – "water-killer," the worst insult in Duskaran society. Implies someone who wastes water deliberately or through negligence. Grounds for immediate expulsion from some settlements.
+- *majimaka* /ma.ˈdʒi.ma.ka/ – "water-killer," the worst insult in Duskaran society. Implies someone who wastes water deliberately or through negligence. In the gravest cases a council can expel the person for a term (see [Taboos and Laws](#taboos-and-laws)).
 - *hangaboru* /ˈha.ŋa.bo.ru/ – "wind-blocker," used for those who obstruct communal wind resources or damage turbines. Carries implications of selfishness and anti-social behavior.
 - *tangazali* /ta.ˈŋa.za.li/ – "land-poisoner," reserved for ecological sabotage or contamination of arable soil.
 
@@ -1661,7 +1689,7 @@ Polite Duskarans avoid direct taboo usage through elaborate circumlocution:
 
 **Cultural Context**:
 
-These taboos aren't merely linguistic; they reflect existential threats. A water-waster endangers entire settlements. A wind-blocker threatens energy supplies. The severity of these terms underscores how thinly the line between survival and collapse runs on Duskara. Children learn these words as warnings, told cautionary tales of those who spoke or embodied them, now exiled to wander the Storm Wall.
+These taboos aren't merely linguistic; they reflect existential threats. A water-waster endangers entire settlements. A wind-blocker threatens energy supplies. The severity of these terms underscores how thinly the line between survival and collapse runs on Duskara. Children learn these words as warnings, in old tales of people who were sent out to wander the Storm Wall. The tales are harder than the law: a council expels a person to another settlement, for a term, and the person can return.
 
 ## Sample Text
 
@@ -2245,6 +2273,10 @@ Names are given in infancy and can be amended or expanded when a person shows a 
   - Birth control (Chapter 04): contraception is a drug; abortion is the choice of the mother and can be ordered by a council; a child born without a birth authorization is raised by another household, and the household of birth loses rations.
   - The dead (Chapter 04): the body is dried, so that its water returns to the settlement, and then burned. The kin give the ash to the wind where the name is spoken.
   - Cycle as a unit (Chapters 04, 05, 12, 13, 18): written with a capital letter for ages and durations. "One full wind cycle" is "one full wind phase" (Chapter 11).
+- 2.2.0: Three gaps closed after an outside review.
+  - The Awakening (Chapters 00, 05): new section "From Sickness to Guild" for the hundred Ancestor Cycles between the first cases (Cycle 1,686) and the guilds (Cycle 2,810): the sickness, the disagreement, the shift, the misuse, the answer. The timeline entry for Cycle 1,686 points to it.
+  - Taboos and Laws (Chapters 06, 18): the four bullets are replaced by the four named faults (*majimaka*, *hangaboru*, *tangazali*, *kinabara*), the hearing, and a scale of five penalties. Expulsion is for a term, to a settlement that receives the person, and the person can return; exile to the Storm Wall is a tale. The law against sharing settlement secrets ("Knowledge Protection") is removed.
+  - Diplomatic Relations (Chapter 08): the three kinds of dispute at the gates of the Deep Roads (maintenance, the ice quota, weatherworking near a gate). The open cases are in Gazetteer 1.5.0.
 
 # License
 

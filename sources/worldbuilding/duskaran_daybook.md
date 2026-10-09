@@ -1,9 +1,9 @@
 ---
 title: Duskaran Daybook
 subtitle: Everyday Life on the Living Edge
-version: 0.3.0
+version: 0.4.0
 date: 2026-10-09
-latest_update: "All statements are confirmed. New section Birth Control: the contraceptive drug, abortion, and a pregnancy without birth authorization."
+latest_update: "New chapter At the Gate: a trade day at a gate of the Deep Roads."
 ---
 
 # Introduction
@@ -785,6 +785,22 @@ The life of the Deepkin (*pango-jata*), from the inside.
 
 Each side looks dull and dark in the light of the other.
 
+# At the Gate
+
+A trade day at a gate of the Deep Roads (G), as at Motowan.
+
+- **The mouth.** The air of the tunnel is warm and damp, and the wind of the belt is cooler and drier. Where they meet there is mist. From far off, the mouth of a Deep Road is a white plume that leans dayward.
+- **Smell.** Mineral water, fungus and sulfur come up from below (C03) and meet dust and lamp oil. A Belter smells the caves before the first Deepkin comes into view.
+- **Two lamps.** The gate hall is dim, because the red light is hard on eyes that are made for the dark (C03). Glowcap jars stand on the cave side and oil lamps on the belt side. A color is not the same under each lamp, so a buyer carries cloth or dye across the hall before anybody says a price. "Show it under both lamps" is also what people say when they doubt a story.
+- **Sound.** The Deepkin speak low and slowly (H), and the Belters are too loud for them. Much of the trade is by hand sign (C18). The Deepkin add the glowing marks on their fingers (C06). A deal closes on *nzuri* (H).
+- **The bells.** Both sides keep the same ten bells. The stone bell in the tunnel answers the bell house of the city, one stroke late.
+- **What comes up:** ice packed in straw, minerals, dried fungi and blind fish (C11), glowing dyes (C03), geothermal crystals in double crates (C06).
+- **What goes down:** grain, cloth, tools and forged parts (C08).
+- **The judge.** A water judge tests each load of ice before it goes on (G) and reads the tokens that come with it (C04).
+- **The cup.** Each side gives the cup to the other before trade begins (C11). The Deepkin receive a guest with care and trust late (C07): a trader who has come to the same gate for twenty Cycles still hears the same polite questions.
+- **The envoy's table.** A Wind and Flame Envoy (C08) sits between the two sides. When a dispute is open, the thing in dispute lies on that table, as it would lie in the circle of a council (C04). Trade goes on around it.
+- **How it feels.** Each side finds the other a little rude and does not say so. The Belter thinks that the Deepkin answer too slowly. The Deepkin think that the Belter wastes words and brings dust (C08). The children of both sides stare. After the last bell each side goes home pleased with the price, and sure that the other one was difficult.
+
 # For the Writer
 
 ## Before a Scene
@@ -828,7 +844,7 @@ A Duskaran compares things to what they know.
 
 # Decisions
 
-The author confirmed these statements on 2026-10-09. They are canon. Decisions 1 to 15 come from version 0.1.0, and the others from versions 0.2.0 and 0.3.0.
+The author confirmed these statements on 2026-10-09. They are canon. Decisions 1 to 15 come from version 0.1.0, and the others from versions 0.2.0 to 0.4.0.
 
 | No. | Statement | Chapter | Basis |
 |----:|-----------|---------|-------|
@@ -861,6 +877,7 @@ The author confirmed these statements on 2026-10-09. They are canon. Decisions 1
 | 27 | Contraception is a drug, free to any adult. | Sex | Author |
 | 28 | Abortion is the choice of the mother. A council can also order one, if it is necessary. | Sex | Author |
 | 29 | A pregnancy without a birth authorization: if the council lets it go on, the household loses rations and another household raises the child. | Sex | Author |
+| 30 | At a gate: the mist at the mouth of a Deep Road, the two lamps and "show it under both lamps", the stone bell that answers the bell house, the thing in dispute on the table of the envoy. | At the Gate | New |
 
 # Words Added to the Handbook
 
@@ -904,6 +921,7 @@ Language Handbook 2.1.0 has a new section, House, Day and Rites, with the words 
   - The points to check in the Compendium are corrected in Compendium 2.1.0, and the section is removed.
   - The English terms that had no Creole word now carry the words of Language Handbook 2.1.0.
 - 0.3.0: The author confirmed decisions 19 to 26. New section Birth Control, from the author's decisions 27 to 29: contraception is a drug, abortion is the choice of the mother and can be ordered by a council, and a child born without a birth authorization is raised by another household. "Leave" for a birth is now "birth authorization".
+- 0.4.0: New chapter At the Gate: a trade day at a gate of the Deep Roads, with Gazetteer 1.5.0. The author confirmed its new statements (decision 30).
 
 # License
 
