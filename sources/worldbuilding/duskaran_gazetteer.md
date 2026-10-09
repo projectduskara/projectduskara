@@ -1,9 +1,9 @@
 ---
 title: Duskaran Gazetteer
 subtitle: Places of the Living Edge
-version: 1.5.0
+version: 1.5.1
 date: 2026-10-09
-latest_update: "Open cases at three gates of the Deep Roads, and the first local sheet: Liko-Luŋga and Bantay-Hanga."
+latest_update: "The main Whisper Road starts at Cheŋ-Jiwe and ends at Bwawa-Isha. The atlas has supporting sheets."
 ---
 
 # Introduction
@@ -75,7 +75,7 @@ Positions across the belt are given as an **offset**: kilometers from the center
 
 ## Alama and Sectors
 
-Positions along the arc are given in **alama** ("marks"): kilometers along the main Whisper Road, counted from Bundok-Kuu in the north (alama 0) to Hamada-Kuu in the south (alama 6,000). The Bahari, the lake at the heart of the arc, is centered on alama 3,000.
+Positions along the arc are given in **alama** ("marks"): kilometers along the line of the main Whisper Road, counted from Bundok-Kuu in the north (alama 0) to Hamada-Kuu in the south (alama 6,000). The road itself is shorter than the count: it starts at Cheŋ-Jiwe (alama 175) and ends at Bwawa-Isha (alama 5,880). Beyond the two cities the surveys carry the count on along the center line of the belt. The Bahari, the lake at the heart of the arc, is centered on alama 3,000.
 
 The Accord surveys divide the arc into twelve **sectors** of 500 kilometers, numbered from north to south. Each sector has twenty blocks of 25 kilometers, lettered A to T. "Sector 9" is alama 4,000 to 4,500. "Sector 4-K", where the Heirloom Crystal of the Codex was recovered, is near alama 1,760.
 
@@ -257,7 +257,7 @@ The mountain range that ends the arc. Its passes are closed by storm walls that 
 
 *Alama 175. Central band, offset -14. Major city, about 300,000. Canon.*
 
-The northernmost city, in the foothills of Bundok-Kuu, where the storm walls pile against the range and the rain does not stop for long. Its name means "stone fortress". The prospectors who work the foothills start from here, and the city cuts and ships the ore and the building stone that they find. It is built for water more than for wind: every street is also a drain. A Council of Windkeepers governs it, and the prospectors hold one of its seats.
+The northernmost city, in the foothills of Bundok-Kuu, where the storm walls pile against the range and the rain does not stop for long. Its name means "stone fortress". The prospectors who work the foothills start from here, and the city cuts and ships the ore and the building stone that they find. It is built for water more than for wind: every street is also a drain. A Council of Windkeepers governs it, and the prospectors hold one of its seats. The main Whisper Road starts here.
 
 ### Cheŋ-Njia
 
@@ -503,7 +503,7 @@ The seed city. Its name means "seed place". The air of Tanga-Kavu is dry and its
 
 *Alama 5,880. Central band, offset -10. Major city, about 300,000. Canon.*
 
-The last city of the arc. Its name means "last cistern". No stream reaches it: it lives on stored rain and on the water that the carriages bring. The Accord surveys of the southern end are based here, and expeditions take their last water here. Beyond the city the road runs 120 kilometers to the first dunes of Hamada-Kuu, with no settlement on the way.
+The last city of the arc. Its name means "last cistern". No stream reaches it: it lives on stored rain and on the water that the carriages bring. The Accord surveys of the southern end are based here, and expeditions take their last water here. The main Whisper Road ends here. Beyond the city a caravan track runs 120 kilometers to the first dunes of Hamada-Kuu, with no settlement on the way.
 
 ### Hamada-Kuu
 
@@ -880,6 +880,8 @@ The names that these replace in older texts are listed in CANON_REMAPPING.md, in
   - Liko-Luŋga: its place in the lee of the scarp, its halt on the main Whisper Road and its river fishers.
 - 1.5.0: The Night Side: new section Open Cases at the Gates, with one open dispute between Deepkin and Twilight Belters at each of three gates: the cores of Motowan (maintenance), the ice of Cheŋ-Angataa (ice quota) and the draught of Tafki-Kuu (weatherworking near a gate). The author confirmed the three cases. They follow the three kinds of dispute of Compendium 2.2.0, Chapter 08.
   - New chapter Local Sheets, with the sheet Liko-Luŋga and Bantay-Hanga: the places of the novel The Weight of Wind that are smaller than the scale of the maps (the fisher quarter, the flats, the water works, the Step, the seven storm shelters on the shelf, the notch, the Wind Temple) and the paths between them. The geodata folder has the data and the map of the sheet.
+- 1.5.1: The main Whisper Road starts at Cheŋ-Jiwe (alama 175) and ends at Bwawa-Isha (alama 5,880). The maps drew it to both ends of the arc. The count of alama goes on beyond the two cities along the center line of the belt. Beyond Bwawa-Isha a caravan track, not the Whisper Road, runs to the first dunes.
+  - The atlas in the geodata folder has five supporting sheets: the heights, warmth and water, the wind and the storms, the Far Edge, and the local sheet Liko-Luŋga and Bantay-Hanga.
 
 # License
 
