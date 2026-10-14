@@ -1,9 +1,9 @@
 ---
 title: Duskaran Daybook
 subtitle: Everyday Life on the Living Edge
-version: 0.5.2
+version: 0.5.3
 date: 2026-10-14
-latest_update: "Times given in years in place of Ancestor Cycles; the Storm Wall Festival moves to the first Storm Phase of the year."
+latest_update: "Water as a flow, with Compendium 2.6.0."
 ---
 
 # Introduction
@@ -208,7 +208,7 @@ These are two different things, and people feel them in opposite ways.
 
 # Water in the Hand
 
-Canon gives the frame. Water is the most precious thing, and waste is the worst fault (C03, C06). A Resource Allocation Committee sets the rations (C11). Water tokens belong to the people who have authority over valves (C04). This chapter gives what happens in a kitchen.
+Canon gives the frame. Water is the most precious thing, and waste is the worst fault (C03, C06). The rivers pass through and the wind takes what stands open, so a settlement catches water, cleans it, uses it and gives it back (C00). A Resource Allocation Committee sets the rations (C11). Water tokens belong to the people who have authority over valves (C04). This chapter gives what happens in a kitchen.
 
 ## The Measure
 
@@ -238,6 +238,7 @@ Water goes down this stair and never up it.
 
 ## Drinking and Pouring
 
+- Water from the river is never drunk raw. It comes to the house from the hydroloop (C09).
 - People drink little plain water. Most of the fluid of a day is thin porridge, chai and light grain ferment (C11).
 - The cup is small (C11). A host fills it to two thirds, because a full cup spills.
 - To spill is a fault. To spill and not see it is a worse one. When water is spilled the room is quiet for one breath, and nobody makes a joke until the person who spilled it does.
@@ -783,7 +784,7 @@ The grain is heading. The cistern is full. Nobody at the table is missing. The r
 
 | | Light | Air | Smell | Sound | Table and habit |
 |---|-------|-----|-------|-------|-----------------|
-| **Tanga-Barafu**, the Ice Land | Grey; the night wall stands inside the belt (G) | The coldest and the windiest (G); rain near Bundok-Kuu (G) | Ice, wet wool, steam | Hard wind on fortress walls; ice saws | Food grown under cover (G); steamed buns (C11); name tablets (C06); *biŋ*, *shan*, *cheŋ* in daily speech (H) |
+| **Tanga-Barafu**, the Ice Land | Grey; the night wall stands inside the belt (G) | The coldest and the windiest (G); rain near Bundok-Kuu (G) | Ice, wet wool, steam | Hard wind on thick walls; ice saws | Food grown under cover (G); steamed buns (C11); name tablets (C06); *biŋ*, *shan*, *cheŋ* in daily speech (H) |
 | **Tanga-Bahari**, the Sea Land | Grey; the road of light on the lake | The mildest; the rift gives shelter (G); mist on the water | Mud, fish, wet grain | Soft wind; bells over water; the drums of Ngomawan (G) | Fish, and rice at feasts (G, C11); short greetings and fast speech (H) |
 | **Tanga-Moto**, the Fire Land | Grey, with steam in it | Warm ground; damp near the springs (G) | Sulfur, hot iron, wet rock | Vents, hammers | Baths (G); food cooked on vents; Deepkin faces in the markets (G) |
 | **Tanga-Kavu**, the Dry Land | Brown in dust phases | Dry; each city lives on what it stores (G) | Dust, dry stone, salt, pickle | Grit on the walls; the echo of cisterns | A smaller measure; the strictest judges (G); a cloth over the mouth |
@@ -969,6 +970,7 @@ Language Handbook 2.1.0 has a new section, House, Day and Rites, with the words 
 - 0.5.0: New sections The Marriage Caravan (in Married Life) and Gender (in The Body and Its Cover), and a note on pronouns for the writer. The author confirmed their statements (decisions 31 to 34). Compendium 2.3.0 carries the same rule for the caravan.
 - 0.5.1: Source marks only. The single-topic folders of worldbuilding/ are removed and their content is in Compendium 2.4.0, so six statements marked (W) now carry the mark of a Compendium chapter. (W) now means Weatherworking Guilds.
 - 0.5.2: Compendium 2.5.0: the year (*mwaka*, 365 days) replaces the Ancestor Cycle. The Storm Wall Festival is held at the first Storm Phase after the year begins.
+- 0.5.3: Compendium 2.6.0. Water in the Hand states that water passes through, and that river water is never drunk raw. "Fortress walls" in the Ice Land row are "thick walls". A tone review found nothing else to change: the Daybook already reads as a cooperative society and not a survival society.
 
 # License
 

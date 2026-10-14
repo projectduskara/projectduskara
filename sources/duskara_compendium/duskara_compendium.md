@@ -1,9 +1,9 @@
 ---
 title: Duskara Compendium
 subtitle: Main Setting Book
-version: 2.5.0
+version: 2.6.0
 date: 2026-10-14
-latest_update: "The year (mwaka, 365 days) replaces the Ancestor Cycle."
+latest_update: "Water as a flow; materials and manufacture."
 
 
 ---
@@ -12,17 +12,17 @@ latest_update: "The year (mwaka, 365 days) replaces the Ancestor Cycle."
 
 ## Overview
 
-In the year 2137, the colony ship Stellar Horizon departed Earth bound for Kepler-442b. After a critical malfunction in their navigation systems during a stellar storm, the ship drifted off course for decades while its passengers slept in cryogenic stasis. When the emergency systems finally initiated revival protocols, they found themselves approaching an unknown star system. With failing life support and no way to correct their course, they were forced to land on Duskara - a tidally locked world that barely met the minimum requirements for human survival. Now, some eight hundred years later, their descendants struggle to piece together their past while forging a future on this harsh but beckoning world.
+In the year 2137, the colony ship Stellar Horizon departed Earth bound for Kepler-442b. After a critical malfunction in their navigation systems during a stellar storm, the ship drifted off course for decades while its passengers slept in cryogenic stasis. When the emergency systems finally initiated revival protocols, they found themselves approaching an unknown star system. With failing life support and no way to correct their course, they were forced to land on Duskara - a tidally locked world that barely met the minimum requirements for human life. Now, some eight hundred years later, their descendants piece together their past while they build a future on this hard but beckoning world.
 
-In the narrow band between eternal day and endless night, humanity clings to existence on Duskara. This tidally locked world was never meant to be their home - they are the descendants of a colony ship that went terribly off course generations ago. The exact circumstances of their arrival are lost to time, though fragments of their history persist in shared memories and sacred data crystals.
+In the narrow band between eternal day and endless night, humanity has made a home on Duskara. This tidally locked world was never meant to be their home - they are the descendants of a colony ship that went terribly off course generations ago. The exact circumstances of their arrival are lost to time, though fragments of their history persist in shared memories and sacred data crystals.
 
-Here, in a habitable zone barely 300 kilometers wide that circles the planet's meridian, civilization endures along a single arc, some 6,000 kilometers from end to end. To one side lies the day face - a hellish expanse of radiation-blasted rock where temperatures climb past 200°C. To the other stretches the night face - a frozen wasteland of ice and darkness, broken only by the faint glow of aurora and the dim red light of geothermal vents in deep caverns.
+Here, in a habitable zone barely 300 kilometers wide that circles the planet's meridian, civilization runs along a single arc, some 6,000 kilometers from end to end. To one side lies the day face - an expanse of radiation-blasted rock where temperatures climb past 200°C. To the other stretches the night face - a frozen wasteland of ice and darkness, broken only by the faint glow of aurora and the dim red light of geothermal vents in deep caverns.
 
-The eternal wind howls between these extremes, spawning massive storms where hot and cold air masses clash. Yet humans have not merely survived here - they have adapted and evolved. The harsh conditions and unknown radiations have awakened latent psychic abilities: thermal sensing, weather working, and the deep bonding that connects them to Duskara's native life forms.
+The eternal wind howls between these extremes, spawning massive storms where hot and cold air masses clash. Humans have adapted here, and they have changed. The extreme conditions and unknown radiations have awakened latent psychic abilities: thermal sensing, weather working, and the deep bonding that connects them to Duskara's native life forms.
 
-Their settlements form a chain along the twilight band, each one a fortress against the wind, with soaring towers and deep roots. In the great caves of the night side, other communities huddle around geothermal warmth, developing their own distinct culture. They are all bound together by their mastery of wind and water - every drop precious, every breeze understood.
+Their settlements form a chain along the twilight band, each one built to turn the wind, with soaring towers and deep roots. In the great caves of the night side, other communities gather around geothermal warmth, developing their own distinct culture. They are all bound together by their mastery of wind and water - every drop precious, every breeze understood.
 
-Technology here is a careful balance of preserved knowledge from Earth and innovations born of necessity. Wind turbines and thermal exchangers power their civilization, while ancient satellites still orbit overhead, their purposes largely forgotten. Some customs echo Earth's past, others are unique to this strange world where dawn never comes.
+Technology here is a careful balance of preserved knowledge from Earth and innovations born of necessity. Wind turbines and thermal exchangers power their civilization, while ancient satellites still orbit overhead, their purposes largely forgotten. Energy is plentiful: the wind never stops and the deep rock is warm. Matter is not. Every machine is made to last, and the great works of the cities and the Whisper Roads belong to many generations, kept in repair and never thrown away. Some customs echo Earth's past, others are unique to this strange world where dawn never comes.
 
 This is a world of:
 
@@ -31,10 +31,10 @@ This is a world of:
 - Linear cities stretched along the habitable zone
 - Cave dwellers who have never seen the stars
 - Ancient mysteries from Earth and new enigmas native to Duskara
-- The struggle to maintain civilization in the face of extreme conditions
-- A culture shaped by the need to manage scarce resources
+- A civilization rich in knowledge and energy, and careful with matter
+- A culture shaped by water that passes through and must be held
 
-Yet for all its harshness, Duskara is home. Its people have developed a deep connection to their world's rhythms - the wind patterns, the temperature gradients, the flow of precious water through their carefully maintained systems. They have created beauty in their adaptation, strength in their communion with the planet's forces, and meaning in their struggle to thrive where their ancestors merely hoped to survive.
+For all its extremes, Duskara is home. Its people have developed a deep connection to their world's rhythms - the wind patterns, the temperature gradients, the flow of precious water through their carefully maintained systems. They have created beauty in their adaptation, strength in their communion with the planet's forces, and a good life in a place where their ancestors only hoped to stay alive.
 
 ## Timeline
 
@@ -44,7 +44,7 @@ Yet for all its harshness, Duskara is home. Its people have developed a deep con
 
 - **~2200 CE (Cycle 0)**: The *Stellar Horizon* emergency systems revive the passengers near an unknown star system. With life support failing, the crew redirects the ship to a tidally locked planet, later named Duskara.
 
-- **~2255 CE (Cycle 562)**: Settlement spreads from the first lakeshore communities on the Bahari into the wider twilight zone of Duskara. Early struggles focus on adapting to the hostile environment, resource scarcity, and the extreme conditions of the day and night sides.
+- **~2255 CE (Cycle 562)**: Settlement spreads from the first lakeshore communities on the Bahari into the wider twilight zone of Duskara. The first generations learn the wind, the water, and the extremes of the day and night sides.
 
 - **~2305 CE (Cycle 1,124)**: Settlements stabilize along the 200-300 km-wide twilight band, forming linear cities. A reliance on geothermal and wind energy begins to take root as foundational technology.
 
@@ -58,7 +58,7 @@ Yet for all its harshness, Duskara is home. Its people have developed a deep con
 
 - **~2980 CE (Cycle 8,205)**: The Thirst Wars. Three major cities withhold water exports, and the embargoes and skirmishes that follow nearly dissolve the Accord before Wayseers broker the Bahari Compact.
 
-- **3000 CE (Cycle 8,430):** Present Day. Some eight hundred years after landfall, Duskaran society is a blend of ancestral Earth traditions and unique adaptations. Psychic abilities, resource scarcity, and environmental challenges continue to shape cultural and technological innovations. The mysteries of Duskara, including its ancient structures and unexplained phenomena, remain central to exploration and survival efforts.
+- **3000 CE (Cycle 8,430):** Present Day. Some eight hundred years after landfall, Duskaran society is a blend of ancestral Earth traditions and unique adaptations. Psychic abilities, the care of water and matter, and the extremes of the planet continue to shape its culture and technology. The mysteries of Duskara, including its ancient structures and unexplained phenomena, remain open questions for explorers and scholars.
 
 CE dates are approximate conversions for the reader. Duskarans count only in Cycles (see [Calendar and Time-Keeping](#calendar-and-time-keeping)).
 
@@ -94,7 +94,7 @@ CE dates are approximate conversions for the reader. Duskarans count only in Cyc
 
 - **Day Side**:  
   - Surface Temperatures: ~150–220°C, hottest around the substellar point  
-  - Brutal stellar flux, extreme UV and particle radiation  
+  - Intense stellar flux, extreme UV and particle radiation  
   - Frequent dust storms in transition zone  
   - Minimal or no standing water at the surface  
 - **Night Side**:  
@@ -131,16 +131,17 @@ CE dates are approximate conversions for the reader. Duskarans count only in Cyc
   - Subterranean aquifers, glacial deposits on the night side  
   - Collection of atmospheric moisture in twilight and day-night transition storms  
 - **Surface Water**:  
-  - Present mainly in the form of rivers or small seas in the deeper parts of the twilight belt  
-  - Lake- or river-like bodies fed by precipitation and geothermal springs  
+  - Rivers that run dayward across the belt and end in the salt flats of the Dayward Edge, and the freshwater Bahari in the rift of the heartland  
+  - Fed by glacier melt, storm runoff and geothermal springs; the flow rises and falls with glacier surges and storm phases  
 - **Geology**:  
   - Tectonically active regions produce geothermal vents, crucial for night-side warmth  
-  - Abundant mineral deposits in dayward highlands, mined by robotic systems  
+  - Abundant mineral deposits in dayward highlands, mined by robotic systems; the ores are plentiful, but only robots reach them, and the capacity to refine and work them is small  
 
 #### Why the Twilight Belt Is Habitable
 
 - **A dry world**: Duskara has no oceans. With little water vapor in the air, the greenhouse effect stays weak, and the planet avoids the runaway heating that would sterilize a wetter world at this distance from its star.
-- **Water locked in the night**: Nearly all of Duskara's water sits frozen on the night side, with the carbon dioxide that freezes out beside it. Glaciers creep toward the Nightward Edge and melt there, feeding the rivers, aquifers, and storms of the belt. They reach the belt only along one arc of the ring, which is why the settled world is an arc and not a ring. This is why water is scarce, and why night-side ice matters so much.
+- **Water locked in the night**: Nearly all of Duskara's water sits frozen on the night side, with the carbon dioxide that freezes out beside it. Glaciers creep toward the Nightward Edge and melt there, feeding the rivers, aquifers, and storms of the belt. They reach the belt only along one arc of the ring, which is why the settled world is an arc and not a ring, and why night-side ice matters so much.
+- **Water passes through**: The Living Edge has rivers and a lake, but little water that stays. The ground falls from the ice to the day side, so every river runs dayward and ends in the salt flats. The warm, dry wind takes water from every open surface, most of all in the dayward half of the belt. The melt comes in pulses with glacier surges and storm phases, and a full river can be low two Cycles later. Raw melt water carries dissolved carbon dioxide, rock flour and minerals, and it must be treated before people drink it. Water is least scarce in the Ice Land, where the glacier tongues are longest, and most scarce in the Dry Land, where no river runs. Water on Duskara is not rare; it is brief. A settlement catches it, uses it, cleans it and gives it back. This is what Duskarans mean when they call water scarce.
 - **Wind as heat engine**: The thick atmosphere carries day-side heat across the terminator and returns cold air beneath it. The eternal wind and the storm walls are the visible face of that circulation, and they keep the belt between −5°C and +40°C.
 - **Magnetic shelter**: A strong planetary magnetic field turns aside most of the star's flare radiation. What gets through lights the auroras.
 
@@ -159,7 +160,8 @@ CE dates are approximate conversions for the reader. Duskarans count only in Cyc
 
 - **Tidal Locking** → Eternal day side and perpetual night side  
 - **Severe Wind Patterns** → Massive storms at the day-night interface  
-- **Resource Scarcity** → Especially water, making conservation paramount  
+- **Water as a Flow** → Much passes through, little stays; catching, cleaning and sharing water is the core work of every settlement  
+- **Rich in Energy, Poor in Matter** → Wind and geothermal power are plentiful; metal, parts and the capacity to make them are not  
 - **Radiation** → Day-side flux drives genetic and potential psychic adaptations  
 - **Geothermal Relief** → Vital for warming settlements in night-side caverns  
 
@@ -183,15 +185,15 @@ The most feared feature of the dayward margin is Buŋaŋa-Loŋ, a canyon that op
 
 ## The Twilight Belt (Primary Habitation Zone)
 
-The twilight belt, a narrow band spanning 200 to 300 kilometers, serves as the lifeline of Duskara. People live along one arc of it, about 6,000 kilometers long. This ring, which follows the terminator along the planet's meridian from pole to pole, is the only naturally habitable zone on the planet, with temperatures ranging from temperate near the night side to moderately hot closer to the day side. The constant winds, born from the collision of hot and cold air masses, sweep across the belt, sculpting its landscapes and shaping its ecosystems.
+The twilight belt, a narrow band spanning 200 to 300 kilometers, is the home of Duskaran civilization. People live along one arc of it, about 6,000 kilometers long. This ring, which follows the terminator along the planet's meridian from pole to pole, is the only naturally habitable zone on the planet, with temperatures ranging from temperate near the night side to moderately hot closer to the day side. The constant winds, born from the collision of hot and cold air masses, sweep across the belt, sculpting its landscapes and shaping its ecosystems.
 
-The twilight belt is the center of Duskara’s water cycle, with liquid water flowing through atmospheric precipitation and underground reserves. This region also supports the majority of the planet’s flora and fauna, all of which have evolved to thrive under the challenging conditions of strong winds and fluctuating temperatures. Human civilization has adapted to these extremes, establishing settlements that stretch linearly along the habitable zone. Eighty percent of Duskara’s population resides here, in cities fortified against the relentless winds. Vertical farming provides sustenance, and wind turbines supply energy, but life in the twilight belt is far from easy. Superstorms, resource scarcity, and ongoing battles to maintain infrastructure are constant challenges that test human resilience.
+The twilight belt is the center of Duskara’s water cycle, with liquid water flowing through atmospheric precipitation and underground reserves. This region also supports the majority of the planet’s flora and fauna, all of which have evolved to thrive under the challenging conditions of strong winds and fluctuating temperatures. Human civilization has adapted to these extremes, establishing settlements that stretch linearly along the habitable zone. Eighty percent of Duskara’s population resides here, in cities built against the constant winds. Vertical farming provides food, and wind turbines supply energy. Life in the twilight belt asks for steady work: superstorms must be weathered, water caught and cleaned, and every machine and wall kept in repair.
 
 ## The Night Side
 
 In stark contrast to the blazing day side, Duskara’s night side is a frozen wilderness. Temperatures plummet below -100°C (-148°F), and the landscape is dominated by vast ice sheets and frozen gas deposits. Occasional auroras cast faint, spectral light across the desolate expanse, offering rare glimpses of beauty in the frigid darkness. Beneath the surface, geothermal vents sustain pockets of liquid water and life, creating isolated oases amid the icy wasteland.
 
-Humans have found ways to endure even here. Small communities cluster around geothermal vents, their survival dependent on the heat and resources provided by these underground sanctuaries. Extensive cave systems, shielded from the harsh conditions above, are home to the Deepkin, night-side inhabitants who have developed unique cultural and technological adaptations. These isolated societies mine the caves for minerals, search for underground water sources, and uncover relics of ancient civilizations. The night side fosters a distinct sense of separation, its people embracing self-reliance and traditions forged in the shadow of the endless cold.
+Humans have made homes even here. Communities settle around geothermal vents and live on the heat and resources of these underground sanctuaries. Extensive cave systems, shielded from the harsh conditions above, are home to the Deepkin, night-side inhabitants who have developed unique cultural and technological adaptations. These isolated societies mine the caves for minerals, search for underground water sources, and uncover relics of ancient civilizations. The night side fosters a distinct sense of separation, its people embracing self-reliance and traditions forged in the shadow of the endless cold.
 
 ## Connections Between Zones
 
@@ -209,9 +211,9 @@ The Twilight Belt is a strip 200 to 300 kilometers wide (300 on the settled arc)
 
 ### The Dayward Edge
 
-The Dayward Edge is a rugged landscape of rolling dunes and rocky badlands, sculpted by relentless winds and the searing heat radiating from the day side. Vegetation here is sparse, with resilient plants like sunspires clinging to the arid soil. The desert scrublands are home to creatures such as sand skimmers, small animals adapted to the harsh conditions. Salt flats, shimmering under the perpetual twilight, mark the remnants of ancient evaporated water bodies. Water is a transient luxury here, with ephemeral lakes forming briefly after storms before vanishing into the arid ground.
+The Dayward Edge is a rugged landscape of rolling dunes and rocky badlands, sculpted by relentless winds and the searing heat radiating from the day side. Vegetation here is sparse, with resilient plants like sunspires clinging to the arid soil. The desert scrublands are home to creatures such as sand skimmers, small animals adapted to the heat and the dry. Salt flats, shimmering under the perpetual twilight, mark the remnants of ancient evaporated water bodies. Water is a transient luxury here, with ephemeral lakes forming briefly after storms before vanishing into the arid ground.
 
-Human habitation is scarce but strategic: fortified trade outposts such as Kofa-Joto, forward stations for mining and salvage such as Bantay-Init, and the nomads of Shan-Feŋ, who move with the winds.
+Human habitation is sparse but strategic: walled trade outposts such as Kofa-Joto, forward stations for mining and salvage such as Bantay-Init, and the nomads of Shan-Feŋ, who move with the winds.
 
 ### The Central Twilight Zone
 
@@ -221,7 +223,7 @@ Nearly all cities stand in this band. The largest is Birni, the hub of trade and
 
 ### The Nightward Edge
 
-As the twilight fades into the shadows of the night side, the terrain grows harsher. Rocky expanses give way to icy plateaus and mist-shrouded lowlands, where the chill is tempered only by geothermal springs. These springs sustain the misty wetlands, a rich ecosystem illuminated by bioluminescent fungi and moss. Beyond the wetlands lie the icy steppes, where frostblooms and other cold-resistant flora thrive in isolation.
+As the twilight fades into the shadows of the night side, the terrain grows colder and rougher. Rocky expanses give way to icy plateaus and mist-shrouded lowlands, where the chill is tempered only by geothermal springs. These springs sustain the misty wetlands, a rich ecosystem illuminated by bioluminescent fungi and moss. Beyond the wetlands lie the icy steppes, where frostblooms and other cold-resistant flora thrive in isolation.
 
 Settlements here are shaped by necessity: ice-harvesting cities such as Cheŋ-Angataa, small communities around hot springs such as Bukal-Mvuke, and the entrances of the Deep Roads that lead to the Deepkin caves, of which Pango-Liwanag is the largest. A Warden administers a frontier settlement, coordinating defense against the environment, resource management, and communication with more authority than a normal council.
 
@@ -293,17 +295,17 @@ Water is the cornerstone of life in the Twilight Belt, and its sources are rever
 
 ## Linear Civilization
 
-In Duskara’s twilight belt, human settlements form a distinctive linear pattern, stretching along the narrow habitable zone like a string of beads. Each community is positioned for survival within this delicate balance of temperature and resources. Proximity to the central regions of the belt, where conditions are most favorable, often determines a settlement’s access to essential resources and its influence within the larger network of civilization. This arrangement has given rise to a natural linear hierarchy, where central hubs hold greater power and responsibility.
+In Duskara’s twilight belt, human settlements form a distinctive linear pattern, stretching along the narrow habitable zone like a string of beads. Each community stands where temperature, water and ground allow it. Proximity to the central regions of the belt, where conditions are most favorable, often determines a settlement’s access to essential resources and its influence within the larger network of civilization. This arrangement has given rise to a natural linear hierarchy, where central hubs hold greater power and responsibility.
 
-Trade and connectivity bind these communities together. Interconnected routes weave through the belt, fostering a culture of cooperation and mutual reliance. Caravan guilds manage the steady flow of goods, and disputes over interrupted trade are quickly resolved to maintain harmony. Communication is equally sophisticated, utilizing wind-based signal relays, psychic messaging, and auroral pulses to bridge physical distances. Alliances between settlements are strengthened by regular emissary exchanges, emphasizing the deep interdependence that defines Duskaran life. When one settlement falters, the ripple effect is felt throughout the chain, reinforcing the importance of collective survival.
+Trade and connectivity bind these communities together. Interconnected routes weave through the belt, fostering a culture of cooperation and mutual reliance. Caravan guilds manage the steady flow of goods, and disputes over interrupted trade are quickly resolved to maintain harmony. Communication is equally sophisticated, utilizing wind-based signal relays, psychic messaging, and auroral pulses to bridge physical distances. Alliances between settlements are strengthened by regular emissary exchanges, emphasizing the deep interdependence that defines Duskaran life. When one settlement falters, the whole chain feels it, and the others come to its help.
 
 ## Population and Settlement Scale
 
-Duskara supports approximately 40 million inhabitants across the twilight belt and cave systems. This population density reflects the planet's severe resource constraints, particularly water scarcity and limited arable land. The largest settlements, cities like Birni, house between 500,000 and 2 million people, sustained by extensive vertical farming, hydroponics, and carefully managed water distribution networks. These urban centers anchor the twilight belt, with approximately 80% of the total population residing in surface settlements.
+Duskara supports approximately 40 million inhabitants across the twilight belt and cave systems. The number is held low by choice: water that stays and arable land are limited, and Duskarans plan their growth to fit them. The largest settlements, cities like Birni, house between 500,000 and 2 million people, sustained by extensive vertical farming, hydroponics, and carefully managed water distribution networks. These urban centers anchor the twilight belt, with approximately 80% of the total population residing in surface settlements.
 
 Mid-sized communities, numbering in the dozens across the habitable zone, range from 30,000 to 100,000 inhabitants. These settlements often specialize in specific resources or industries: agricultural hubs, mining outposts, or weatherworking academies. The remaining 20% of Duskara's population dwells in cave systems on the night side, with about seventy major communities clustered around geothermal vents. These range from 50,000 to 150,000 residents, with several dozen smaller outposts serving as way-stations or mining camps. Their population is constrained by available geothermal warmth and subsurface water access.
 
-Population growth is tightly regulated through birth quotas, a necessary response to the planet's carrying capacity. The original landing population, likely no more than a few thousand survivors from the Stellar Horizon, has grown steadily but sustainably over eight hundred years. Environmental disasters, resource crises, and periodic die-offs from superstorms or auroral disruptions have prevented unchecked expansion, maintaining a precarious balance between survival and prosperity.
+Population growth is tightly regulated through birth quotas, a necessary response to the planet's carrying capacity. The original landing population, likely no more than a few thousand people from the Stellar Horizon, has grown steadily but sustainably over eight hundred years. Growth was not always planned: in the first three hundred years storms, failed harvests and the long sickness before the Awakening set it back. The quotas exist so that growth follows the stores of the settlements and not the next disaster.
 
 ## Duskaran Phenotype
 
@@ -319,9 +321,9 @@ Life in surface settlements follows rhythms tied to the bells, to work schedules
 
 **Early morning**, the last hours of the rest period, is the quietest time in a settlement. People rise before the first bell. Families share simple meals of fermented porridge or flatbread, preserved vegetables, and fermented drink, typically prepared the evening before to conserve fuel. At the first bell work begins: crews go out to the wind turbines and to the maintenance of buildings, agricultural workers move through vertical farms, checking hydroponic systems and tending to fast-growing crops, and water handlers begin their shift, monitoring the geothermal condensers that produce the settlement's most precious resource.
 
-**Midday**, from the second bell, brings maximum activity. Markets open in wind-protected courtyards where residents exchange goods and information. Children attend education centers where they learn survival skills, resource conservation, and the mechanical principles of their technology. Adults rotate through essential labor: caravan team leaders organize departure of wind-caravans bound for neighboring settlements, engineers oversee the thermal exchangers and wind harvesting systems, and maintenance crews repair damage from previous storms. Water judges monitor distribution in their underground chambers, eyes on the flow rates and atmospheric readings.
+**Midday**, from the second bell, brings maximum activity. Markets open in wind-protected courtyards where residents exchange goods and information. Children attend education centers where they learn fieldcraft, the care of water and stores, and the mechanical principles of their technology. Adults rotate through essential labor: caravan team leaders organize departure of wind-caravans bound for neighboring settlements, engineers oversee the thermal exchangers and wind harvesting systems, and maintenance crews repair damage from previous storms. Water judges monitor distribution in their underground chambers, eyes on the flow rates and atmospheric readings.
 
-**Afternoon**, from the third bell, is when many Twilight Belters transition to skilled or social work. Artisans craft tools, weave textiles, and construct the specialized equipment needed for survival. Communities hold council meetings, resolving disputes and planning collective responses to resource shortages or threats. Younger people might practice in wind-protected training grounds, drilling storm-response and fauna-deterrence techniques or testing their emerging psychic abilities.
+**Afternoon**, from the third bell, is when many Twilight Belters transition to skilled or social work. Artisans craft tools, weave textiles, and construct the specialized equipment that the settlement needs. Communities hold council meetings, resolving disputes and planning collective responses to resource shortages or threats. Younger people might practice in wind-protected training grounds, drilling storm-response and fauna-deterrence techniques or testing their emerging psychic abilities.
 
 **Evening**, from the fourth bell, is the time of communal gathering. Most settlements have a central hall or wind-sheltered plaza where residents share a larger meal prepared in collective kitchens; this evening meal is the most substantial of the day, often featuring fermented foods, prepared vegetables from storage, a little goat or fish when the ration allows, and *sima* or flatbread made from stored grain or dried algae flour. After eating, people engage in entertainment: storytelling sessions led by Lorekeepers, musical performances, games like wind chess, or simply conversation. The fifth bell, the last one, ends the public day.
 
@@ -347,11 +349,11 @@ The Duskaran Daybook describes everyday life in detail: the bells, sleep, the ho
 
 While both Twilight Belters and Deepkin share foundational Duskaran values of collectivism and resource conservation, their divergent environments have cultivated distinct cultural emphases (see also: [Cave-Dwellers](#cave-dwellers)).
 
-**Twilight Belters** prioritize interconnectedness and cooperative networks. Their survival depends on maintaining the linear chain of settlements through active trade, communication, and alliance. Wind-based challenges require constant environmental negotiation; weatherworkers and water-finders are integrated into community decision-making. Leadership tends toward councils that balance individual expertise with collective input. The ever-present wind creates a culture of shared vulnerability (everyone feels its power equally) reinforcing lateral relationships across settlements.
+**Twilight Belters** prioritize interconnectedness and cooperative networks. Their life depends on maintaining the linear chain of settlements through active trade, communication, and alliance. Wind-based challenges require constant environmental negotiation; weatherworkers and water-finders are integrated into community decision-making. Leadership tends toward councils that balance individual expertise with collective input. The ever-present wind creates a culture of shared vulnerability (everyone feels its power equally) reinforcing lateral relationships across settlements.
 
-**Deepkin**, by contrast, emphasize autonomy within tight-knit communities. Their isolation beneath the surface creates a different survival calculus: self-sufficiency, local resource management, and deep knowledge of immediate geothermal systems matter more than maintaining distant trade routes. Deepkin spirituality centers on reverence for the Earth's Breath and ancestor veneration, creating a vertically-integrated cultural identity tied to specific cavern systems and inherited lineages. Leadership is hereditary yet communal, with Warmth Circles making decisions through consensus within each settlement.
+**Deepkin**, by contrast, emphasize autonomy within tight-knit communities. Their isolation beneath the surface creates a different calculus: self-sufficiency, local resource management, and deep knowledge of immediate geothermal systems matter more than maintaining distant trade routes. Deepkin spirituality centers on reverence for the Earth's Breath and ancestor veneration, creating a vertically-integrated cultural identity tied to specific cavern systems and inherited lineages. Leadership is hereditary yet communal, with Warmth Circles making decisions through consensus within each settlement.
 
-Both cultures value survival, but Twilight Belters see it through the lens of network resilience, while Deepkin understand it as localized sustainability. This distinction shapes everything from conflict resolution approaches (Twilight Belters prefer mediation and diplomatic circuits; Deepkin prefer direct negotiation within their Warmth Circles) to resource allocation (Twilight Belters track interdependent quotas; Deepkin manage internal conservation strictly). Yet these differences are not incompatible: the Duskaran Accord exists precisely because both cultures recognize the other's legitimacy and necessity to planetary survival.
+Both cultures value continuity, but Twilight Belters see it through the lens of network resilience, while Deepkin understand it as localized sustainability. This distinction shapes everything from conflict resolution approaches (Twilight Belters prefer mediation and diplomatic circuits; Deepkin prefer direct negotiation within their Warmth Circles) to resource allocation (Twilight Belters track interdependent quotas; Deepkin manage internal conservation strictly). Yet these differences are not incompatible: the Duskaran Accord exists precisely because both cultures recognize the other's legitimacy and its place in a shared world.
 
 ### Sensory Signatures of Settlement Life
 
@@ -371,13 +373,13 @@ Wind barriers, monumental structures that tame the planet’s ferocious gusts, s
 
 ## Cultural Mindset
 
-The necessity of survival in such an unforgiving environment has cultivated a profound sense of collectivism among Duskarans. Individual ambitions are often subordinated to the greater good of the community. Decisions are made through communal processes, with a strong emphasis on fairness and transparency. This collective mentality is not merely practical; it is a deeply ingrained cultural value, reinforced by generations of shared struggle.
+Life in a world of narrow margins has cultivated a profound sense of collectivism among Duskarans. Individual ambitions are often subordinated to the greater good of the community. Decisions are made through communal processes, with a strong emphasis on fairness and transparency. This collective mentality is not merely practical; it is a deeply ingrained cultural value, reinforced by generations of shared work.
 
-Resource conservation is paramount in Duskaran life. Water, fertile land, and energy are all scarce, and their careful management is both a practical necessity and a moral imperative. Waste is seen as a profound failing, a threat to survival itself. This ethic is encapsulated in a core societal maxim: "If we make exceptions for love, we break for everything." This principle dictates that ecological mandates cannot be compromised for individual need, no matter how tragic, as doing so threatens the collective stability. Rituals such as water blessings and wind tributes imbue these practices with spiritual significance, celebrating the interconnectedness of life and resources.
+Resource conservation is paramount in Duskaran life. Water that stays, fertile land, and finished materials are all scarce, and their careful management is both a practical necessity and a moral imperative. Energy is plentiful, but the machines that gather it are not. Waste is seen as a profound failing, a theft from the neighbor and from the next generation. This ethic is encapsulated in a core societal maxim: "If we make exceptions for love, we break for everything." This principle dictates that ecological mandates cannot be compromised for individual need, no matter how tragic, as doing so threatens the collective stability. Rituals such as water blessings and wind tributes imbue these practices with spiritual significance, celebrating the interconnectedness of life and resources.
 
-Duskarans’ spirituality is intrinsically tied to their environment. The ever-present wind and stark contrasts between day and night have shaped their beliefs and rituals. Wind spirits are revered as powerful forces that both sustain and challenge life, their presence honored through ceremonies aligned with significant weather events like auroras or the phase shifts in wind patterns. The wind is both a provider and a destroyer, embodying the precarious balance of existence.
+Duskarans’ spirituality is intrinsically tied to their environment. The ever-present wind and stark contrasts between day and night have shaped their beliefs and rituals. Wind spirits are revered as powerful forces that both sustain and challenge life, their presence honored through ceremonies aligned with significant weather events like auroras or the phase shifts in wind patterns. The wind is both a provider and a destroyer, and Duskarans honor it as both.
 
-The extremes of Duskara’s environment inspire both awe and caution. The blazing day side, with its raw, destructive power, is a symbol of unattainable ambition and relentless force. The frigid night side, mysterious and enduring, represents resilience and hidden potential. These contrasting realms are deeply woven into Duskaran mythology and art, serving as metaphors for the struggles and aspirations of their people. Through stories, songs, and visual expression, the extremes of their world are celebrated and feared, a constant reminder of life on the edge of chaos.
+The extremes of Duskara’s environment inspire both awe and caution. The blazing day side, with its raw, destructive power, is a symbol of unattainable ambition and relentless force. The frigid night side, mysterious and enduring, represents resilience and hidden potential. These contrasting realms are deeply woven into Duskaran mythology and art, serving as metaphors for the labors and aspirations of their people. Through stories, songs, and visual expression, the extremes of their world are celebrated and respected, and the habitable middle between them is loved as home.
 
 # Societal Customs
 
@@ -397,7 +399,7 @@ The practice is not always the rule. While ostensibly an honor, a place on the r
 
 Each caravan is overseen by a neutral Wayseer, who is responsible for documenting proceedings and ensuring the consent of all participants is respected, at least in principle. The grief of those who leave and of those who stay is spoken of openly, as a burden (*mzigo*) that the settlement shares. The *baŋga'sora* serves as a critical mechanism for cultural exchange and political negotiation, though it is often fraught with tension between communal duty and individual autonomy.
 
-Life in Duskara is marked by age-graded roles, with each stage of life carrying specific expectations. Children are immersed in survival skills and taught the principles of resource conservation. Adults take on critical responsibilities, including resource management, trade, and defense, while elders serve as teachers and advisors, preserving the cultural and practical knowledge vital to their community’s survival.
+Life in Duskara is marked by age-graded roles, with each stage of life carrying specific expectations. Children learn fieldcraft and the principles of resource conservation. Adults take on critical responsibilities, including resource management, trade, and community safety, while elders serve as teachers and advisors, preserving the cultural and practical knowledge that their community lives by.
 
 ### Threshold Education and Age-Graded Roles
 The transition to adulthood is formalized through **Threshold Education**, a rigorous rite of passage for adolescents around the age of 190 Cycles. Guided by an elder mentor (often from the *kin-Babu* lineage), this education focuses on the ethical and social responsibilities of adulthood rather than job training. The curriculum covers complex topics such as consent frameworks, partnership negotiation, birth quotas, and the recognition of psychic and emotional coercion. Its first principle is that consent is an ongoing process, which a person can take back at any moment. The mentor teaches in private sessions that join discussion with practical exercises. The lessons are often held in a place with a meaning: a geothermal chamber for the warmth and the biology that sustain life, a wind garden for the forces of society and of the environment.
@@ -408,7 +410,7 @@ The trial is held at a wind focal point, on a built platform or on a natural out
 
 ## Resource Management
 
-Access to water, the most precious commodity on Duskara, defines wealth and power. Families with significant water quotas or control over distribution systems are among the societal elite. Water tokens, ceramic discs marked with settlement glyphs, are physical representations of water rights. Beyond their economic value, they are instruments of authority and autonomy, physically required to authorize critical actions within a settlement’s water systems, such as overriding automated valves. Linked to an individual's specific role and identification, the possession or coercive withholding of a token can become a significant source of personal and political power. They are often passed down through generations or traded as part of alliances, symbolizing both status and survival.
+Access to water, the most precious commodity on Duskara, defines wealth and power. Families with significant water quotas or control over distribution systems are among the societal elite. Water tokens, ceramic discs marked with settlement glyphs, are physical representations of water rights. Beyond their economic value, they are instruments of authority and autonomy, physically required to authorize critical actions within a settlement’s water systems, such as overriding automated valves. Linked to an individual's specific role and identification, the possession or coercive withholding of a token can become a significant source of personal and political power. They are often passed down through generations or traded as part of alliances, symbolizing both status and trust.
 
 The tokens contain psychic authentication signatures embedded in microscopic grooves during their creation. Each settlement's glyph (Cheŋ-Angataa's spiral-and-crescent, for example) identifies origin, while groove depth analysis detects forgery attempts. These tokens function as both economic instruments and legal evidence, with chain-of-custody protocols governing their inter-settlement trade.
 
@@ -428,7 +430,7 @@ The cultural practices of Duskaran society reflect their deep connection to thei
 
 **Communal decision-making** is a deeply ingrained practice, emphasizing transparency and consensus. Major decisions about resources and trade are made in open forums where all members of a settlement can voice their perspectives. Elders or appointed leaders facilitate these discussions, but the final outcomes often depend on unique traditions such as wind votes, where symbolic items are placed in wind urns, allowing the breeze to determine the consensus in an act of natural symbolism.
 
-Oral traditions form the backbone of Duskaran cultural memory. Through stories, songs, and interactive performances, generations pass down critical survival techniques, historical narratives, and moral lessons. Tales of heroes who safeguarded water supplies during droughts, myths of the wind’s origins, and cautionary stories of settlers lost to the night side ensure that both knowledge and values are preserved. These traditions, often enhanced with shadow puppetry or musical interludes, serve as both education and entertainment, blending practicality with the artistry of storytelling.
+Oral traditions form the backbone of Duskaran cultural memory. Through stories, songs, and interactive performances, generations pass down fieldcraft, historical narratives, and moral lessons. Tales of heroes who safeguarded water supplies during droughts, myths of the wind’s origins, and cautionary stories of settlers lost to the night side ensure that both knowledge and values are preserved. These traditions, often enhanced with shadow puppetry or musical interludes, serve as both education and entertainment, blending practicality with the artistry of storytelling.
 
 ### Partnership Ethics and Terminology
 Duskaran culture applies economic and engineering principles to interpersonal relationships to ensure clarity and stability. A partnership is often viewed as a form of ***ushirika*** (cooperation, or 'sharing a burden'), where individuals provide mutual support to maintain the stability of their shared structure. The negotiation of a relationship's terms, from resource sharing to child-rearing responsibilities, is referred to as ***shanda*** (trade), emphasizing that clarity and voluntary agreement are the highest forms of care. A partnership where one individual is forced to carry more weight or has their autonomy compromised is seen as a dangerously unstable "pressure vessel" that will inevitably "torque" and "rupture," threatening the well-being of the individuals and the community.
@@ -481,7 +483,7 @@ Birth quotas are legally and culturally enforced across Duskara, making child-re
 
 **Early childhood** (0-55 Cycles) is largely managed within the household or through community childcare collectives. Mothers receive nursing leave, though duration varies by settlement wealth. Collective childcare, where multiple families share supervision of young children in safe spaces, is common in most settlements, allowing adults to continue essential labor while children receive supervision and early education in group settings.
 
-**Education and socialization** begin informally in early childhood through observation and play, then formalize around the age of 80-90 Cycles when children enter settlement education centers. They learn survival skills (water conservation, wind awareness, basic resource management), practical crafts (textile work, tool maintenance), and the mechanical principles underlying their technology.
+**Education and socialization** begin informally in early childhood through observation and play, then formalize around the age of 80-90 Cycles when children enter settlement education centers. They learn fieldcraft (water conservation, wind awareness, basic resource management), practical crafts (textile work, tool maintenance), and the mechanical principles underlying their technology.
 
 **Adolescence** (roughly ages 130-190 Cycles) involves increasing responsibility and autonomy. Teenagers participate in labor rotations, learning the specific skills their society values. Many develop and test their psychic abilities during this phase. Sexual education is integrated into Threshold Education, emphasizing both mechanics and consent frameworks.
 
@@ -489,7 +491,7 @@ Birth quotas are legally and culturally enforced across Duskara, making child-re
 
 **Parental authority** is not absolute on Duskara; children are viewed as individuals whose growing autonomy must be respected. Severe physical punishment is culturally discouraged, though discipline through responsibility (assigning difficult tasks, temporary isolation during group activities) is employed. Teenagers can appeal parental decisions to settlement councils if they believe they're being treated unfairly.
 
-**Child loss** through death, whether from accident, disease, or environmental catastrophe, is mourned communally. Parents who lose children are given extended leave from labor rotations and supported through grief rituals. Child mortality rates have declined significantly over the generations as medical knowledge improved, but the scarcity of resources means childhood remains precarious on Duskara.
+**Child loss** through death, whether from accident, disease, or environmental catastrophe, is mourned communally. Parents who lose children are given extended leave from labor rotations and supported through grief rituals. Child mortality has fallen far over the generations as medical knowledge improved. It is still higher in frontier settlements, where healers and medicines are far away.
 
 **Guardianship and fostering** occur when biological parents cannot care for children. Settlement communities typically absorb orphaned children into existing households or create new authorized households specifically to provide care. The child's inclusion in a new family is ceremonially marked.
 
@@ -505,7 +507,7 @@ The Gradient Feast marks the optimal temperature window for long-distance travel
 
 ## The Awakening
 
-The unique radiation patterns emitted by Duskara’s star and the planet’s extreme environmental conditions have awakened latent psychic abilities within its human inhabitants. Known collectively as “The Awakening,” these abilities are now integral to both survival and culture on Duskara. Each gift reflects an adaptation to the planet’s challenges, blending practicality with an almost mystical connection to the world.
+The unique radiation patterns emitted by Duskara’s star and the planet’s extreme environmental conditions have awakened latent psychic abilities within its human inhabitants. Known collectively as “The Awakening,” these abilities are now integral to both the work and the culture of Duskara. Each gift reflects an adaptation to the planet’s challenges, blending practicality with an almost mystical connection to the world.
 
 ## From Sickness to Guild
 
@@ -521,7 +523,7 @@ No settlement expelled its people for an ability, and none made them rulers. Bot
 
 ## Thermal Sensing
 
-Thermal sensing allows individuals to detect subtle heat variations in their surroundings, even across significant distances or through physical barriers. This ability is indispensable for survival, enabling practitioners to identify safe zones in frigid environments, track the heat signatures of creatures or machinery, and locate geothermal heat sources. In fauna management and search-and-rescue, thermal sensing can reveal hidden predators or missing travelers, while in resource management, it helps optimize energy efficiency in geothermal or wind-based systems.
+Thermal sensing allows individuals to detect subtle heat variations in their surroundings, even across significant distances or through physical barriers. This ability is indispensable in the field, enabling practitioners to identify safe zones in frigid environments, track the heat signatures of creatures or machinery, and locate geothermal heat sources. In fauna management and search-and-rescue, thermal sensing can reveal hidden predators or missing travelers, while in resource management, it helps optimize energy efficiency in geothermal or wind-based systems.
 
 Practitioners hone this skill through rigorous focus exercises, training their minds to perceive and interpret temperature gradients. Advanced users can form mental thermal maps of their surroundings, offering unparalleled spatial awareness in hazardous conditions.
 
@@ -551,7 +553,7 @@ Training involves blind exercises, where apprentices learn to rely entirely on t
 
 ## Water Finding
 
-Perhaps the most critical ability in Duskara’s resource-scarce environment, water finding allows individuals to detect psychic vibrations from water sources. Practitioners can locate underground streams, reservoirs, or even trace moisture in the air. This skill is indispensable for mapping water supplies, guiding caravans to hidden reserves, and detecting theft or sabotage of vital resources.
+Perhaps the most valued ability on a world where water passes through and does not stay, water finding allows individuals to detect psychic vibrations from water sources. Practitioners can locate underground streams, reservoirs, or even trace moisture in the air. This skill is indispensable for mapping water supplies, guiding caravans to hidden reserves, and detecting theft or sabotage of vital resources.
 
 Developing this ability requires intense meditative practice, often conducted near natural water sources to build attunement. Practitioners are rigorously tested, using controlled environments to locate concealed water containers, ensuring their accuracy before they take on responsibilities critical to their settlements.
 
@@ -620,7 +622,7 @@ For the cultural context of these adaptations, see [Cave-Dwellers](#cave-dweller
 
 ## Overview
 
-Over the generations, Duskaran society has evolved into a resilient and resourceful civilization, shaped by the challenges of their world and the diverse heritage of the people of the *Stellar Horizon*. The fusion of ancient Earth traditions with the necessity of survival has created a unique cultural fabric, grounded in adaptation and ingenuity.
+Over the generations, Duskaran society has evolved into a resilient and resourceful civilization, shaped by the challenges of their world and the diverse heritage of the people of the *Stellar Horizon*. The fusion of ancient Earth traditions with the demands of a new world has created a unique cultural fabric, grounded in adaptation and ingenuity.
 
 Earth exists in collective memory as a distant abstraction rather than a mourned homeland. The average Duskaran knows their ancestors came from "the old world," but specifics (geography, nations, conflicts) have faded into myth. Sacred data crystals preserve technical manuals and scientific knowledge, but cultural records like literature, music, and history are fragmentary at best. Archivists guard these remnants, but most citizens care more about wind patterns than vanished continents.
 
@@ -638,7 +640,7 @@ The settlers were African: most from East Africa, a minority from West Africa. T
 - **Water elders.** The water judges continue the councils of elders that divided irrigation water between farms.
 - **Roads and trades.** The caravan, the walled trading city and the craft guild come from the long-distance trade of the Swahili coast and of the Hausa cities.
 - **Word and drum.** Lorekeepers continue the oral historians of West Africa, and the resonance drums that carry messages between settlements continue the talking drums.
-- **Cloth.** A wrapped cloth printed with a saying became the layered, patterned clothing that recounts lineage and survival.
+- **Cloth.** A wrapped cloth printed with a saying became the layered, patterned clothing that recounts lineage and the deeds of the line.
 - ***Utu*.** The idea that a person is a person through other people is the root of Duskaran collectivism. The planet did not create it; the planet made it necessary.
 
 ### The Crew
@@ -679,7 +681,7 @@ Vertical farming towers rise throughout the settlements, combining ancient terra
 
 ## Social Structure
 
-The Duskaran social order is deeply communal, with Wind-Kins forming the backbone of society. These extended families pool labor and resources for mutual survival, guided by kin leaders who mediate disputes and represent their groups in broader councils. Age-grades define roles within this structure, with youth learning survival skills, adults managing critical tasks, and elders serving as repositories of wisdom and tradition.
+The Duskaran social order is deeply communal, with Wind-Kins forming the backbone of society. These extended families pool labor and resources for mutual support, guided by kin leaders who mediate disputes and represent their groups in broader councils. Age-grades define roles within this structure, with youth learning fieldcraft, adults managing critical tasks, and elders serving as repositories of wisdom and tradition.
 
 Governance in each twilight settlement rests with its **Council of Windkeepers** (see [Political Systems](#political-systems)), on which elders sit beside sector representatives, balancing tradition with practical needs. **Water management** castes oversee the allocation of this vital resource, while Weatherworking Lineages, families known for psychic abilities, hold hereditary roles in guiding settlements during environmental crises. Cross-settlement alliances, often solidified through trade and marriage, ensure political stability and resource sharing, maintaining harmony across the linear civilization.
 
@@ -689,7 +691,7 @@ This guardianship has led to the development of unique skills. The most revered 
 
 ## Customs and Traditions
 
-Duskaran life is rich with rituals and traditions that reflect their environment and values. Endurance trials, such as heat tests and frost vigils, mark the transition to adulthood, challenging participants to demonstrate resilience and readiness. Wind-phase gatherings celebrate survival and resource-sharing, with feasts, dances, and communal storytelling fostering unity.
+Duskaran life is rich with rituals and traditions that reflect their environment and values. Endurance trials, such as heat tests and frost vigils, mark the transition to adulthood, challenging participants to demonstrate resilience and readiness. Wind-phase gatherings celebrate the phase passed and the sharing of resources, with feasts, dances, and communal storytelling fostering unity.
 
 Marriage ceremonies, timed with optimal wind conditions, symbolize harmony and prosperity. These events are marked by the exchange of ceremonial fans, representing family unity and mutual support. 
 
@@ -701,7 +703,7 @@ A philosophical concept that has survived from the First Generation is the **Int
 
 ## Material Culture
 
-Duskaran material culture is both functional and expressive. Clothing is multi-layered and protective, featuring patterns that recount lineage and survival stories. Wind instruments, crafted to resonate with the constant gales, are central to ceremonies and storytelling. Everyday tools and items are decorated with protective carvings, merging practicality with spirituality. Tapestries and ceremonial fans are intricately designed, recording family histories and significant achievements, serving as both artistic expressions and historical records.
+Duskaran material culture is both functional and expressive. Clothing is multi-layered and protective, featuring patterns that recount lineage and the stories of the line. Wind instruments, crafted to resonate with the constant gales, are central to ceremonies and storytelling. Everyday tools and items are decorated with protective carvings, merging practicality with spirituality. Tapestries and ceremonial fans are intricately designed, recording family histories and significant achievements, serving as both artistic expressions and historical records.
 
 ## Specialized Equipment and Communication Systems
 
@@ -715,13 +717,13 @@ Bioluminescent markers worn on fingers enable communication in absolute darkness
 
 ## Language and Arts
 
-Duskaran Creole, which grew from the Swahili and Hausa of the settlers, the Mandarin and Tagalog of the crew, and the English they shared, has emerged as the primary language, shaped by the needs of survival and trade. Communication extends beyond speech, with silent hand-signals used during storms and wind songs (rhythms conveyed through instruments or whistles) carrying messages across distances.
+Duskaran Creole, which grew from the Swahili and Hausa of the settlers, the Mandarin and Tagalog of the crew, and the English they shared, has emerged as the primary language, shaped by the needs of work, weather and trade. Communication extends beyond speech, with silent hand-signals used during storms and wind songs (rhythms conveyed through instruments or whistles) carrying messages across distances.
 
 Storytelling is a cornerstone of Duskaran art, blending movement, sound, and shadows to mimic the interplay of light and wind. Wind-dances, performed with flowing fabrics that capture the gusts, embody the natural forces that define their world. Visual arts, from paintings to carvings, explore themes of balance between light and dark, heat and cold. In the caves of the night side, bioluminescent materials illuminate intricate murals, creating a unique artistic tradition.
 
 ## Spiritual Beliefs
 
-Duskaran spirituality is deeply tied to their environment, and it grew on the remains of the faiths of Earth (see The Old Faiths). Wind spirits are revered as guardians of the planet’s zones, embodying the forces of heat, cold, and the in-between. Ancestors are believed to dwell within the winds, guiding and protecting their descendants. The interplay of heat and cold is seen as a metaphor for life’s challenges and the pursuit of harmony. Water, the lifeblood of their civilization, is sacred, central to both survival and spiritual practices. Psychic abilities, viewed as gifts from the planet, are considered blessings that come with profound responsibility.
+Duskaran spirituality is deeply tied to their environment, and it grew on the remains of the faiths of Earth (see The Old Faiths). Wind spirits are revered as guardians of the planet’s zones, embodying the forces of heat, cold, and the in-between. Ancestors are believed to dwell within the winds, guiding and protecting their descendants. The interplay of heat and cold is seen as a metaphor for life’s challenges and the pursuit of harmony. Water, the lifeblood of their civilization, is sacred, central to both daily life and spiritual practices. Psychic abilities, viewed as gifts from the planet, are considered blessings that come with profound responsibility.
 
 ## Food and Medicine
 
@@ -729,7 +731,7 @@ Duskaran cuisine combines preserved Earth techniques with native ingredients, cr
 
 ## Modern Adaptations
 
-While Duskarans hold tightly to their traditions, they adapt them seamlessly to the planet’s demands. Oral histories are supplemented by digital archives, preserving knowledge for future generations. Education combines technical, survival, and psychic training, ensuring that each individual contributes meaningfully to their community.
+While Duskarans hold tightly to their traditions, they adapt them seamlessly to the planet’s demands. Oral histories are supplemented by digital archives, preserving knowledge for future generations. Education combines technical, field, and psychic training, ensuring that each individual contributes meaningfully to their community.
 
 ## Taboos and Laws
 
@@ -772,11 +774,11 @@ Deepkin spirituality revolves around reverence for the Earth’s Breath, the geo
 
 An Aurora Veil Festival has no fixed date. It begins when strong geothermal activity makes the fungi of a settlement glow with unusual brightness, like the auroras of the surface. The whole community takes part, and the festival has four parts. First, a Bone Lorekeeper recites the names of the Deepkin who died to build and to keep the geothermal network of the settlement. Second, in the Earth's Breath Communion, the community gathers at the Warmth Hearth with hands on the stone floor and hums in unison; thermal specialists guide this shared resonance to read the health and the stability of the vent, so the rite is also a check of the most vital system of the settlement. Third, engineers change the temperature around different species of glowcaps, which pulse and shift color as living murals that tell the history of the Deepkin. Last, all share a meal of vent-roasted food and glowcap stew.
 
-Survival in the caves demands a mindset focused on scarcity and conservation. Unlike the trade and diplomacy-driven twilight belters, the Deepkin excel in communal resource management and frugality. Outsiders are treated with cautious hospitality, but trust must be earned through demonstrated respect for their ways.
+Life in the caves rewards a mindset of care and conservation. Unlike the trade and diplomacy-driven twilight belters, the Deepkin excel in communal resource management and frugality. Outsiders are treated with cautious hospitality, but trust must be earned through demonstrated respect for their ways.
 
 The art of the Deepkin reflects their environment, with intricate wall carvings and living murals of glowing fungal patterns adorning their settlements. Shadow puppetry and bioluminescent effects bring their myths to life, transforming storytelling into a mesmerizing blend of light and darkness. The inks of the murals are alive: pigments from cultivated bioluminescent fungi and bacteria in a thick medium, which the artist applies with a stylus to prepared stone. Each species gives its own color and strength of light (deep blue, soft green, purple), and the artist controls the glow through the temperature and the nutrients of the surface. Many muralists bond with a Glowmoss Grazer, whose sensitivity to light helps them to make the glow clear and strong (see [Flora and Fauna](#flora-and-fauna) for what else this bond can carry). Master muralists are commissioned for the Aurora Veil Festivals.
 
-Leadership is hereditary yet communal, with Warmth Circles, councils of elders and skilled individuals, making decisions collectively. Roles within the community are assigned based on psychic aptitude, survival skills, and contributions to the Hearth’s welfare.
+Leadership is hereditary yet communal, with Warmth Circles, councils of elders and skilled individuals, making decisions collectively. Roles within the community are assigned based on psychic aptitude, skill in the deep, and contributions to the Hearth’s welfare.
 
 ## Unique Technologies
 
@@ -790,9 +792,9 @@ Living in perpetual darkness has fostered five specialized psychic practices amo
 
 ## Governance of Settlements
 
-Governance in Duskara is defined by the needs of survival and resource management, varying between the twilight belt cities and the cave settlements. Each community has developed systems that reflect their unique environments while fostering collaboration with their neighbors.
+Governance in Duskara is shaped by the stewardship of shared resources, varying between the twilight belt cities and the cave settlements. Each community has developed systems that reflect their unique environments while fostering collaboration with their neighbors.
 
-In the twilight belt, city-states operate autonomously under the leadership of a Council of Windkeepers. Reflecting the existential importance of resource management, these councils are typically composed of representatives from the most critical sectors: **agriculture, trade, and water management**. These key figures are joined by leaders from prominent Wind-Kin families and elected delegates from communal forums, ensuring a balance of specialized expertise and popular will. Leadership often rotates with the changing wind patterns, a practice that ensures flexibility and equitable power distribution, while decision-making is rooted in consensus.
+In the twilight belt, city-states operate autonomously under the leadership of a Council of Windkeepers. Reflecting the central place of resource management, these councils are typically composed of representatives from the most critical sectors: **agriculture, trade, and water management**. These key figures are joined by leaders from prominent Wind-Kin families and elected delegates from communal forums, ensuring a balance of specialized expertise and popular will. Leadership often rotates with the changing wind patterns, a practice that ensures flexibility and equitable power distribution, while decision-making is rooted in consensus.
 
 Most twilight settlements operate under seven-member Councils of Windkeepers, with representatives holding specialized roles: water management, agricultural oversight, wind energy systems, trade coordination, and three general governance positions rotating among Wind-Kin leaders. Wind-votes in these councils often employ hand-raising rather than formal urn ceremonies, with decisions recorded when clear majorities form. Small frontier settlements such as Bukal-Mvuke keep a simpler Council of Elders. Emergency audiences (triggered by water judges, Stormwardens, or citizen coalitions presenting crisis evidence) suspend normal procedures, requiring council response within three days.
 
@@ -826,7 +828,7 @@ Emergency audiences bypass standard processing when councils present evidence of
 
 ## Recent Reforms: The Modified Gradient Compact
 
-Following frontier settlement crises that exposed Assembly processing delays, reformers introduced the Modified Gradient Compact, a thirty-day emergency response protocol. Settlements documenting acute resource failures (60%+ water loss, child mortality from contamination, vertical farm collapse) now receive provisional aid while petitions undergo review. Assembly oversight committees monitor compliance, ensuring aid reaches affected populations rather than disappearing into local politics. The Compact represents an ideological shift from strategic value assessments toward collective survival obligations, though implementation remains inconsistent across regions.
+Following frontier settlement crises that exposed Assembly processing delays, reformers introduced the Modified Gradient Compact, a thirty-day emergency response protocol. Settlements documenting acute resource failures (60%+ water loss, child mortality from contamination, vertical farm collapse) now receive provisional aid while petitions undergo review. Assembly oversight committees monitor compliance, ensuring aid reaches affected populations rather than disappearing into local politics. The Compact represents an ideological shift from strategic value assessments toward obligations of mutual aid, though implementation remains inconsistent across regions.
 
 ## Diplomatic Relations
 
@@ -842,7 +844,7 @@ Shared threats, whether environmental or psychic, often force settlements to set
 
 ## Enforcement and Compliance
 
-The Duskaran Accord lacks a standing military or centralized police force. Enforcement relies on collective pressure and resource interdependence. Settlements that violate trade agreements or refuse to contribute to shared defense efforts face sanctions: closure of Deep Roads access, exclusion from wind-rail networks, or suspension of water-sharing agreements. Given the fragility of survival on Duskara, few settlements risk extended isolation.
+The Duskaran Accord lacks a standing military or centralized police force. Enforcement relies on collective pressure and resource interdependence. Settlements that violate trade agreements or refuse to contribute to shared defense efforts face sanctions: closure of Deep Roads access, exclusion from wind-rail networks, or suspension of water-sharing agreements. Every settlement needs what others make, so few risk extended isolation.
 
 In extreme cases, the Assembly can authorize intervention by regional Defense Pacts. These joint response teams, drawn from the safety teams of member settlements and supervised by Wayseers, may place disputed resources under neutral stewardship, carry out arbitration rulings, or restore essential services in settlements experiencing internal collapse. Such actions are rare and politically fraught, as they set precedents for overriding local autonomy.
 
@@ -850,27 +852,35 @@ Non-compliance by cave settlements presents unique challenges. Their geographic 
 
 ## Challenges to the Accord
 
-The confederation's authority is perpetually contested. Wealthy settlements with large water reserves occasionally threaten secession, believing they subsidize less productive communities. Cave settlements resent surface-dwellers' dominance in Assembly proceedings, arguing that geothermal resources are undervalued in resource calculations. Frontier outposts on the Dayward or Nightward edges feel neglected, their survival struggles ignored by more comfortable central cities.
+The confederation's authority is perpetually contested. Wealthy settlements with large water reserves occasionally threaten secession, believing they subsidize less productive communities. Cave settlements resent surface-dwellers' dominance in Assembly proceedings, arguing that geothermal resources are undervalued in resource calculations. Frontier outposts on the Dayward or Nightward edges feel neglected, their hardships overlooked by more comfortable central cities.
 
 Succession crises in major settlements can destabilize the entire system. If a city-state's Council of Windkeepers fragments into competing factions, their Assembly delegation may split votes or refuse to attend, paralyzing decision-making. The Accord survived its greatest test within living memory, in Cycle 8,205 (2980 CE), when three major cities simultaneously withheld water exports, triggering the Thirst Wars, a series of embargoes and skirmishes that nearly dissolved the confederation before Wayseers brokered the Bahari Compact, establishing emergency arbitration protocols still in use today.
 
 # Technology
 
-Technology in Duskara is a blend of innovation and necessity, designed to harness the planet’s extreme conditions while ensuring survival and sustainability. From energy systems to infrastructure, Duskaran advancements reflect the ingenuity of a civilization thriving against the odds.
+Duskaran technology is advanced and frugal. Energy is plentiful and matter is not, so Duskarans build with care, build to last, and repair before they replace. Their machines are few, often old, and well kept; their knowledge is wide. The cities and the Whisper Roads are the work of many generations.
 
 ## Energy Systems
 
 The twilight belt's relentless winds form the foundation of Duskaran energy production. Massive wind turbines dominate the landscape, capturing the unceasing gales to power settlements. These adaptive turbines adjust to shifts in wind direction and intensity, ensuring maximum efficiency and longevity. The energy collected is stored in decentralized wind banks, preventing outages during storms or mechanical failures.
 
-In the caves of the night side, geothermal energy reigns supreme. Natural heat sources are tapped using thermal harvesters that convert warmth into electricity or direct heating for homes and machinery. Steam condensers extract moisture from underground heat, providing a critical water source. Heat grids, networks of heated pathways, prevent freezing and support underground agriculture (see Deepkin-Specific Infrastructure below). Portable thermal coils store this energy for use in remote or colder regions, providing a lifeline to isolated communities.
+In the caves of the night side, geothermal energy reigns supreme. Natural heat sources are tapped using thermal harvesters that convert warmth into electricity or direct heating for homes and machinery. Steam condensers extract moisture from underground heat, providing a critical water source. Heat grids, networks of heated pathways, prevent freezing and support underground agriculture (see Deepkin-Specific Infrastructure below). Portable thermal coils store this energy for use in remote or colder regions, and they carry warmth to isolated communities.
 
 Specialized generators near the storm walls harness the temperature gradients between the day and night sides, converting these extremes into sustainable power. This innovative approach highlights Duskarans' ability to adapt to their planet's unique challenges. To ensure reliability across conditions, energy is stored in advanced cryo-batteries, which maintain efficiency in harsh environments, and thermal capacitors, which preserve surplus heat for later use.
 
+## Materials and Manufacture
+
+The ores are on the planet. The dayward highlands hold iron, aluminium and rarer metals, and the caves hold more. Getting them out is the hard part. Only robots can work the day side, the robots wear out, and to replace them takes the same metal and the same works. The true limit is the capacity to make complex parts: precision tools, magnets, electronics, catalysts. A few cities keep the works that make them, and these works are among the most guarded places on the Living Edge.
+
+The *Stellar Horizon* carried a seed industry: fabricators, machine tools, an archive of designs, and people trained to use them. In the first generations, while the ship's stock was still large, the settlers built the cores of the first cities, the first deep cisterns, and the first line of the Whisper Roads. Each generation since has kept these works in repair and added to them slowly. A tower in Birni can stand on a foundation from the first years, with walls from the consolidation and a turbine made last year.
+
+Metal goes only where nothing else serves. Duskarans build in stone, rammed earth, fired ceramic, glass and fiber spun from basalt, and they make cord, panels and tanks from plant composites. Water tokens and Windmarks are ceramic (see [Currency](#currency)). Metal is recycled to the last scrap: a broken machine goes back to the works, and the salvage crews of the Dayward Edge bring back what the robots and caravans lose. To make a thing that lasts is a form of respect, and to discard a thing that can be mended is close to waste.
+
 ## Infrastructure
 
-The linear layout of settlements in the twilight belt has inspired a highly efficient transport system. The Whisper Roads, a wind-railway network propelled by wind power and guided by magnetic tracks, connect major hubs, facilitating the movement of people and goods. Automated caravans, designed to withstand the planet’s intense winds, travel secondary routes, ensuring robust trade and communication networks.
+The linear layout of settlements in the twilight belt has inspired a highly efficient transport system. The Whisper Roads are a wind railway that connects the major hubs. The carriages run under sail and on motors charged by the wind. Permanent magnets under each carriage ride over a guideway of aluminium plate; at speed, the motion of the magnets over the plate lifts the carriage clear of it and holds it to the line, and at low speed the carriage rolls on wheels. The track carries no power, so it needs little metal beyond the plate, and a damaged plate is easy to recast. Automated caravans, designed to withstand the planet’s intense winds, travel secondary routes, ensuring robust trade and communication networks.
 
-Water management is a cornerstone of Duskaran infrastructure. Hydroloops, closed-loop systems, purify and recycle water for domestic, agricultural, and industrial use. In the colder night-side regions, ice harvesters extract water from frozen reserves, powered by geothermal energy. To prevent over-extraction, aquifer monitors track underground water levels, ensuring sustainable use.
+Water management is a cornerstone of Duskaran infrastructure. Raw river and melt water is not drunk as it comes. Settlements take it at intakes nightward of the town, let the rock flour settle, and treat it before it enters the hydroloop. Cisterns are covered and deep, because open water is lost to the wind. Hydroloops, closed-loop systems, purify and recycle water for domestic, agricultural, and industrial use. In the colder night-side regions, ice harvesters extract water from frozen reserves, powered by geothermal energy. To prevent over-extraction, aquifer monitors track underground water levels, ensuring sustainable use.
 
 Climate control technology shields settlements from the harsh environment. Wind shields redirect or dampen destructive gusts, while temperature regulators maintain stable indoor climates, adjusting to the extremes of day-side heat or night-side cold. In hotter regions, mist fountains create localized cooling zones, offering relief from the searing temperatures.
 
@@ -902,13 +912,13 @@ Psychic enhancement devices, such as **focus crystals** and **telepathic amplifi
 
 In the caves, where traditional signals often fail, bioluminescent signal systems illuminate pathways and convey messages using fungal networks or fiber-optic cables. Pulse beacons, powered by geothermal energy, emit vibrations or light to guide communication over short distances, ensuring connectivity in the subterranean world.
 
-## Survival Technology
+## Field Technology
 
-Survival in Duskara’s extreme environment depends on advanced and adaptable technology. Insulated gear, equipped with built-in cooling or heating units, allows inhabitants to endure the temperature extremes of the day and night sides. Portable adaptive shelters provide immediate protection from environmental hazards, adjusting to conditions on demand.
+Outside the settlements, life depends on advanced and adaptable gear. Insulated gear, equipped with built-in cooling or heating units, allows inhabitants to endure the temperature extremes of the day and night sides. Portable adaptive shelters provide immediate protection from environmental hazards, adjusting to conditions on demand.
 
 Water extraction and purification systems are crucial. Atmospheric condensers pull moisture from the air, a vital resource during dry wind phases, while compact filters process even the most contaminated water sources, ensuring access to clean water across the belt.
 
-To counteract the ever-present threat of the winds, wind domes create stable microclimates over settlements or agricultural zones, while wind stabilizers redirect dangerous gusts along trade routes and protect critical infrastructure. Emergency shelters, known as storm havens, are scattered across the belt, stocked with supplies to support travelers and caravans during extreme weather. Beacon shelters, powered by geothermal energy, emit guiding signals to help those lost in storms find safety.
+To temper the constant winds where people work and grow food, wind domes create stable microclimates over settlements or agricultural zones, while wind stabilizers redirect dangerous gusts along trade routes and protect critical infrastructure. Emergency shelters, known as storm havens, are scattered across the belt, stocked with supplies to support travelers and caravans during extreme weather. Beacon shelters, powered by geothermal energy, emit guiding signals to help those lost in storms find safety.
 
 Thermal flares are signal devices for the worst conditions. A flare, powered by a portable energy cell, gives a short and local spike of very high heat. A person with thermal sensing can read this heat signature at a great distance, through a storm that blinds light and instruments. Storm hunters, frontier explorers and the salvage crews of the Dayward Edge fire them by hand or from a vehicle: as emergency beacons, as waypoints in dangerous ground, and as signals between teams. The flares are dangerous. One that fires by accident can kill the person who carries it and anyone near, its heat can draw predators that hunt by heat, and near a vent it can ignite gas.
 
@@ -932,11 +942,11 @@ Major events are dated in Cycles: the founding of the first settlement on the Ba
 
 ## Major Festivals and Ceremonies
 
-Time in Duskara is punctuated by festivals and ceremonies that celebrate survival, community, and the natural forces of the planet. These events serve as anchors for cultural identity, reinforcing bonds between individuals and settlements.
+Time in Duskara is punctuated by festivals and ceremonies that celebrate community, memory, and the natural forces of the planet. These events serve as anchors for cultural identity, reinforcing bonds between individuals and settlements.
 
 ### The Storm Wall Festival
 
-Held once each year, at the first Storm Phase after the year begins, this festival honors the resilience of Duskaran settlements against the planet’s most powerful tempests. Communities gather for wind races and endurance challenges, testing their strength and adaptability. Storm chimes are crafted to commemorate past survivors, while stories of legendary figures who braved the Storm Wall are shared. The festival fosters unity and celebrates the indomitable spirit of Duskarans.
+Held once each year, at the first Storm Phase after the year begins, this festival honors the resilience of Duskaran settlements against the planet’s most powerful tempests. Communities gather for wind races and endurance challenges, testing their strength and adaptability. Storm chimes are crafted to remember those who weathered past storms and those the storms took, while stories of legendary figures who braved the Storm Wall are shared. The festival fosters unity, and it is the loudest night of the year.
 
 ### The Gradient Feast
 
@@ -968,11 +978,11 @@ Ritual water-sharing ceremonies reinforce the importance of conservation, with e
 
 ## Overview
 
-The Duskaran economy is built on a foundation of survival and resource management, reflecting the harsh realities of life on the planet. Wealth and trade are deeply tied to essential resources, ensuring that economic systems prioritize sustainability and cooperation.
+The Duskaran economy is an economy of upkeep. Energy is cheap, matter is dear, and water must be caught as it passes (see [Why the Twilight Belt Is Habitable](#why-the-twilight-belt-is-habitable)). Wealth is tied to the things that keep a settlement running: water rights, work, power, and the capacity to make and mend. Economic systems put sustainability and cooperation before fast growth.
 
 ## Currency
 
-The primary currency of Duskara is the Windmark, a universally recognized token crafted from durable, lightweight metals. Each Windmark is engraved with symbols unique to its settlement of origin, enabling easy tracking of trade and transactions. Far more than simple tokens of exchange, Windmarks represent tangible survival resources such as water rights, work quotas, or energy credits, tying individual wealth directly to the lifeblood of civilization.
+The primary currency of Duskara is the Windmark, a universally recognized token of fired and glazed ceramic, like the water tokens. Each Windmark is engraved with symbols unique to its settlement of origin, enabling easy tracking of trade and transactions. Far more than simple tokens of exchange, Windmarks represent tangible shared resources such as water rights, work quotas, or energy credits, tying individual wealth directly to the lifeblood of civilization.
 
 In smaller settlements and among the cave-dwelling Deepkin, barter remains a common method of exchange. Unique or perishable goods, including psychic services, rare materials, and handcrafted tools, often bypass the Windmark system entirely, preserving a tradition of direct trade in communities where mutual trust is essential.
 
@@ -980,13 +990,13 @@ In smaller settlements and among the cave-dwelling Deepkin, barter remains a com
 
 Trade networks are the arteries of Duskaran society, facilitating the flow of goods and resources between settlements. Wind caravans, heavily windproofed vehicles or sleds powered by the planet’s unrelenting gales, travel across the twilight belt, linking cities and outposts. In the caves, the ancient Deep Roads serve as a vital underground network, connecting geothermal hubs to the surface and enabling safe transport in regions where the winds are too fierce.
 
-Certain settlements act as trade nexuses, bustling hubs where goods and information converge. These hubs are overseen by Merchant Guilds, which regulate pricing and ensure fair practices, safeguarding the delicate balance of the Duskaran economy. Trade agreements are common, fostering alliances between settlements. Twilight cities exchange processed goods such as clothing, tools, and preserved food for the raw minerals and geothermal energy provided by cave settlements. Water caravans, transporting precious ice or extracted water from the night side, often travel under escort to deter theft and predators, highlighting the high stakes of these exchanges.
+Certain settlements act as trade nexuses, bustling hubs where goods and information converge. These hubs are overseen by Merchant Guilds, which regulate pricing and ensure fair practices, safeguarding the delicate balance of the Duskaran economy. Trade agreements are common, fostering alliances between settlements. Twilight cities exchange processed goods such as clothing, tools, and preserved food for the raw minerals and geothermal energy provided by cave settlements. Water caravans carry ice or extracted water from the night side to settlements far from the rivers, above all in the Dry Land. They often travel under escort to deter theft and predators.
 
 ## Valuable Commodities
 
-Water is the most critical resource in Duskaran society, often controlled by local councils or powerful guilds. Ice blocks harvested from the night side command premium prices, underscoring the vital role of water in sustaining life. Geothermal energy, produced by thermal exchangers in cave settlements, is highly sought after by twilight cities, powering homes and machinery in regions where wind energy alone cannot suffice.
+Water is the most critical resource in Duskaran society, often controlled by local councils or powerful guilds. Ice blocks harvested from the night side command premium prices: they are the purest water on the planet, they need no treatment, and they reach places that no river reaches. Geothermal energy, produced by thermal exchangers in cave settlements, is highly sought after by twilight cities, powering homes and machinery in regions where wind energy alone cannot suffice.
 
-Rare materials extracted from the day side, including heat-resistant alloys and rare crystalline formations, fuel the creation of advanced tools and infrastructure. They are retrieved by mining drones command extraordinary prices. Freshly salvaged equipment from failed operations is often more valuable than the raw materials, as manufacturing capacity is limited. The caves, in turn, supply crystals and bioluminescent fungi, prized for their applications in psychic enhancements and practical lighting. Psychic artifacts, such as amplification stones or weatherworking tools imbued with latent energy, are considered priceless, often held in reverence as much as utility. Lastly, hardy plant strains and livestock, adapted to Duskara’s harsh conditions, are essential for sustaining agriculture and trade.
+Ores from the day side, with the heat-resistant alloys and crystalline formations that the mining robots bring back, feed the works that make tools and infrastructure. They command high prices because the robots that fetch them are hard to replace. Finished parts are worth more than raw metal, and salvaged equipment often more than either, because the capacity to manufacture is the true limit (see [Materials and Manufacture](#materials-and-manufacture)). The caves, in turn, supply crystals and bioluminescent fungi, prized for their applications in psychic enhancements and practical lighting. Psychic artifacts, such as amplification stones or weatherworking tools imbued with latent energy, are considered priceless, often held in reverence as much as utility. Lastly, hardy plant strains and livestock, adapted to Duskara’s harsh conditions, are essential for sustaining agriculture and trade.
 
 ## Agriculture and Food Production
 
@@ -994,11 +1004,11 @@ Food production on Duskara is among the most carefully managed aspects of the ec
 
 ### Twilight Belt Agriculture
 
-Vertical hydroponic farms dominate surface settlements, where water is recirculated through crops in stacked growing beds. This method maximizes yield per unit of water and land, essential given that free water is the planet's scarcest resource. Primary crops include nutrient-dense leafy greens, root vegetables adapted to hydroponic culture, and grain-bearing plants like modified Earth wheat and native drought-resistant varieties. Wind-powered pumps circulate nutrient solutions, making these farms sustainable without fuel consumption.
+Vertical hydroponic farms dominate surface settlements, where water is recirculated through crops in stacked growing beds. This method maximizes yield per unit of water and land, essential because water that stays is the planet's scarcest resource. Primary crops include nutrient-dense leafy greens, root vegetables adapted to hydroponic culture, and grain-bearing plants like modified Earth wheat and native drought-resistant varieties. Wind-powered pumps circulate nutrient solutions, making these farms sustainable without fuel consumption.
 
 Secondary agriculture focuses on hardy fungi, legumes that fix nitrogen into nutrient-poor soils, and fast-growing seed crops that produce oil and protein. Greenhouses positioned on the edges of settlements cultivate these crops, with transparent panels allowing the Duskaran twilight to supplement grow lights powered by wind and geothermal energy.
 
-Protein sources are carefully managed. Domesticated small livestock, primarily wind-hardy goats and cold-adapted fowl in high settlements, provide meat and dairy products, though meat consumption is rationed based on settlement population and survival status. Fishing in isolated freshwater reserves provides supplementary protein, though water use for aquaculture is strictly controlled. Insect farming, particularly crickets and other high-protein arthropods, is becoming more common in resource-constrained settlements, offering efficient protein with minimal water needs.
+Protein sources are carefully managed. Domesticated small livestock, primarily wind-hardy goats and cold-adapted fowl in high settlements, provide meat and dairy products, though meat is rationed by the stores of the settlement and the size of its population. Fishing in the Bahari, the rivers and settlement reservoirs provides supplementary protein, though water use for aquaculture is strictly controlled. Insect farming, particularly crickets and other high-protein arthropods, is becoming more common in resource-constrained settlements, offering efficient protein with minimal water needs.
 
 The Deep Roads produce additional resources: blind fish in underground pools, fungi cultivated in geothermal-warmed caverns, and algae that thrive in near-darkness, providing both nutrition and oxygen generation for cave communities.
 
@@ -1037,7 +1047,7 @@ Salvage economics have created specialist scavenger caravans that follow major r
 
 ## Resource Allocation
 
-Resource distribution on Duskara is meticulously managed to prevent waste and ensure survival. Each settlement oversees its own stockpiles through a Resource Allocation Committee, which assigns rations based on individual need, labor contributions, and age-grade status. This localized approach ensures that resources are used efficiently within each community.
+Resource distribution on Duskara is carefully managed to prevent waste and to keep a margin for bad years. Each settlement oversees its own stockpiles through a Resource Allocation Committee, which assigns rations based on individual need, labor contributions, and age-grade status. This localized approach ensures that resources are used efficiently within each community.
 
 At a regional level, the Duskaran Accord enforces resource-sharing mandates, coordinating the flow of vital supplies between settlements. Failure to meet quotas can result in trade sanctions or intervention by the Wind and Water Assembly, ensuring accountability across the network of settlements. Centralized emergency reserves, maintained by Neutral Wayseers, provide a safety net in times of disaster, strategically located to serve multiple communities in need.
 
@@ -1047,7 +1057,7 @@ Population control is another key aspect of resource management. Settlements enf
 
 ## Overview
 
-Life on Duskara, while deeply rooted in cooperation and interdependence, is not without disagreement and friction. The planet's harsh environment, coupled with its resource-driven economy and diverse cultural identities, fosters a range of ongoing tensions and philosophical debates. These disagreements manifest both between settlements and within individual communities. However, eight hundred years of learned cooperation have created elaborate institutional mechanisms to manage and resolve tensions before they escalate into violence.
+Life on Duskara, while deeply rooted in cooperation and interdependence, is not without disagreement and friction. The narrow margins of the planet, coupled with its resource-driven economy and diverse cultural identities, fosters a range of ongoing tensions and philosophical debates. These disagreements manifest both between settlements and within individual communities. However, eight hundred years of learned cooperation have created elaborate institutional mechanisms to manage and resolve tensions before they escalate into violence.
 
 ## Between Different Settlements
 
@@ -1061,7 +1071,7 @@ Settlement councils recognize that resource conflict threatens everyone: if one 
 
 Cultural differences between twilight belters and cave-dwelling Deepkin create ongoing tension. Twilight communities sometimes view the Deepkin as insular and overly superstitious; the Deepkin see surface dwellers as wasteful and disconnected from Duskara's deeper rhythms. These perceptions are genuine and create friction in inter-settlement diplomacy.
 
-Disagreements over trade valuation are common: cave settlements argue that geothermal energy is underpriced relative to its criticality to surface survival, while twilight cities contend that processed goods and agricultural products require equal recognition. These debates are sometimes heated, but they're resolved through trade councils and periodic renegotiation of exchange rates. Occasionally, a settlement will temporarily restrict trade as political leverage, a form of pressure that resembles an embargo but occurs within frameworks of institutional negotiation. When a Deepkin community limits geothermal shipments to protest perceived cultural disrespect, the response is not military but diplomatic: formal apologies, ritual acknowledgments of cultural difference, and recommitment to mutual respect.
+Disagreements over trade valuation are common: cave settlements argue that geothermal energy is underpriced relative to its importance to surface cities, while twilight cities contend that processed goods and agricultural products require equal recognition. These debates are sometimes heated, but they're resolved through trade councils and periodic renegotiation of exchange rates. Occasionally, a settlement will temporarily restrict trade as political leverage, a form of pressure that resembles an embargo but occurs within frameworks of institutional negotiation. When a Deepkin community limits geothermal shipments to protest perceived cultural disrespect, the response is not military but diplomatic: formal apologies, ritual acknowledgments of cultural difference, and recommitment to mutual respect.
 
 ### Route Competition and Access Disputes
 
@@ -1075,7 +1085,7 @@ When disagreements about route contributions arise (a settlement refuses to cont
 
 Inequalities within settlements create genuine tension. Access to resources like water and energy creates a divide between those with secure allocations and those with minimal access. Guild leaders and families with control over critical infrastructure hold disproportionate influence; laborers and non-psychic specialists sometimes feel undervalued and undertreated.
 
-These tensions occasionally manifest in formal grievance processes. Workers petition councils demanding fair resource distribution or better labor conditions. Councils, constrained by the need for communal survival, must genuinely consider these demands, but they also must enforce resource limits. The result is ongoing negotiation, compromise, and occasional decisions that satisfy no one completely but preserve community cohesion. In extreme cases, when a settlement's councils become genuinely abusive, families have emigrated to other settlements, a pressure that forces councils to remain somewhat responsive to laborer concerns.
+These tensions occasionally manifest in formal grievance processes. Workers petition councils demanding fair resource distribution or better labor conditions. Councils, answerable to the whole settlement, must genuinely consider these demands, but they also must enforce resource limits. The result is ongoing negotiation, compromise, and occasional decisions that satisfy no one completely but preserve community cohesion. In extreme cases, when a settlement's councils become genuinely abusive, families have emigrated to other settlements, a pressure that forces councils to remain somewhat responsive to laborer concerns.
 
 ### Psychic vs. Non-Psychic Dynamics
 
@@ -1121,7 +1131,7 @@ When a settlement attempts to fully replace tradition with technology (retiring 
 
 The deepest philosophical tension on Duskara emerges from the core conservation principle: "If we make exceptions for love, we break for everything." This principle means resources go to those with greatest need, not to those with greatest emotional claims. It means a water-finder's child cannot receive extra rations because they're cold, if the community's long-term water security requires those rations stay in reserve. It means rare medical treatments must be allocated by clinical need, not by how much someone's family pleads.
 
-This principle is absolutely necessary for survival, but it's emotionally devastating. Individuals facing personal tragedy (a bonded companion dying because they cannot spare medicine, a child going cold because heating allocation follows strict protocols) find themselves at odds with Wardens and community leaders enforcing ecological and resource boundaries regardless of empathy.
+The principle protects everyone, and it can be emotionally devastating. Individuals facing personal tragedy (a bonded companion dying because they cannot spare medicine, a sick child who needs more than the household's water measure because the measure follows strict protocols) find themselves at odds with Wardens and community leaders enforcing ecological and resource boundaries regardless of empathy.
 
 The Preserve Wardens carry this rule in person. A Warden guards a protected ecological zone and has the authority to refuse entry and harvest, even to a high official or to a desperate person. Wardens are often chosen from the Beastwalkers or from the kin-Maji: people with a proven bond to the environment and the strength for hard choices. The role is respected and lonely. A Warden may have to refuse a medicine that would save one life, in order to save the species or the ecosystem that makes it, and is expected to carry that weight in silence. Tales of Wardens who held the line, and of Wardens who broke it, are common cautionary tales.
 
@@ -1151,17 +1161,17 @@ The Accord itself is a living framework that continuously evolves to handle new 
 
 ### Separation and Emigration
 
-When tensions within a settlement become severe, the ultimate pressure valve is voluntary emigration. Families can choose to leave a settlement and join another. This creates pressure on councils to remain somewhat just and humane: too harsh, and they lose people; too generous, and they compromise communal survival.
+When tensions within a settlement become severe, the ultimate pressure valve is voluntary emigration. Families can choose to leave a settlement and join another. This creates pressure on councils to remain somewhat just and humane: too harsh, and they lose people; too generous, and they spend the margin that the whole settlement depends on.
 
 ### Violence as Taboo
 
-Most importantly, violence, individual or collective, is not an accepted solution on Duskara. The cultural understanding is absolute: violence breaks cooperation, breaks the Accord, threatens everyone's survival. Communities that resort to violence are sanctioned by the broader network through trade restrictions and isolation. This taboo is reinforced through education, ritual, and the lived experience of interdependence. The one remembered lapse, the Thirst Wars of Cycle 8,205, when a water embargo slid into skirmishes and nearly broke the Accord, is taught as a warning, and the Bahari Compact exists so that it is not repeated.
+Most importantly, violence, individual or collective, is not an accepted solution on Duskara. The cultural understanding is absolute: violence breaks cooperation, breaks the Accord, and endangers everyone. Communities that resort to violence are sanctioned by the broader network through trade restrictions and isolation. This taboo is reinforced through education, ritual, and the lived experience of interdependence. The one remembered lapse, the Thirst Wars of Cycle 8,205, when a water embargo slid into skirmishes and nearly broke the Accord, is taught as a warning, and the Bahari Compact exists so that it is not repeated.
 
 # Community Safety and Emergency Response
 
 ## Overview
 
-The harsh conditions of Duskara necessitate coordinated, specialized responses to environmental hazards, dangerous fauna, and psychic anomalies. Over eight hundred years, settlements have developed sophisticated community safety systems that integrate emergency response, fauna management, and psychic containment into the fabric of their collective survival. These systems are not military in character (there is no standing army, no hierarchical combat command, no preparation for inter-settlement warfare) but rather organized, trained responses to genuine and constant environmental threats.
+The extreme conditions of Duskara call for coordinated, specialized responses to environmental hazards, dangerous fauna, and psychic anomalies. Over eight hundred years, settlements have developed sophisticated community safety systems that integrate emergency response, fauna management, and psychic containment into the fabric of community life. These systems are not military in character (there is no standing army, no hierarchical combat command, no preparation for inter-settlement warfare) but rather organized, trained responses to real environmental hazards.
 
 ## Threats Faced
 
@@ -1227,7 +1237,7 @@ Individuals with strong spatial reasoning, quick decision-making abilities, and 
 
 ### Storm Hunters
 
-Storm hunters (*tufani-winda*) work in the most dangerous weather of Duskara. They are not a guild. They are a loose fraternity of survivalists, mechanics and navigators, with a seat at Bantay-Loŋ, and they value experience above formal training. Not all are psychic, but many have a latent sense of heat or wind that constant exposure makes sharp. Knowledge passes from one hunter to one apprentice.
+Storm hunters (*tufani-winda*) work in the most dangerous weather of Duskara. They are not a guild. They are a loose fraternity of storm trackers, mechanics and navigators, with a seat at Bantay-Loŋ, and they value experience above formal training. Not all are psychic, but many have a latent sense of heat or wind that constant exposure makes sharp. Knowledge passes from one hunter to one apprentice.
 
 Their work is to track and predict the paths of storms for settlements and caravans, to rescue people and recover equipment lost in superstorms, to scout and map dangerous ground such as the dayward transition zone, and to collect minerals and biological samples that only extreme weather exposes. They read instruments (barometers, atmospheric sensors) together with their own senses: the taste of copper in the air before a pressure drop, a change in the harmonics of the wind that most people do not hear. Each hunter keeps a personal log of storm behavior and compares the present conditions with it, and their predictions are often as good as those of the guilds.
 
@@ -1251,13 +1261,13 @@ Skilled practitioners in the weatherworking guilds maintain training in psychic 
 
 Safety preparedness is integrated throughout Duskaran culture. Children learn fauna awareness, storm safety, and basic emergency response as part of their education. Adolescents participate in regular safety drills. Adults participate in periodic refresher training and in teaching younger people.
 
-Settlements invest significant resources in maintaining readiness not because they expect frequent emergencies, but because when emergencies occur, rapid coordinated response saves lives. Training creates competence and confidence; both are essential for survival.
+Settlements invest significant resources in maintaining readiness not because they expect frequent emergencies, but because when emergencies occur, rapid coordinated response saves lives. Training creates competence and confidence; both save lives.
 
 ## The Absence of Military Structure
 
 Notably absent from Duskaran society is a military establishment. There are no standing armies, no hierarchical command structures organized for inter-settlement warfare, no weapons designed for human combat, no professional soldiers. The tools and training that exist are organized entirely around responding to environmental and fauna threats or rare criminal activity.
 
-The philosophical understanding is clear: warfare between settlements breaks cooperation and threatens everyone's survival. The institutional mechanisms exist to manage tensions peacefully. The armed forces that might theoretically be available for warfare are instead trained exclusively for community safety. A settlement that attempted to use its emergency response teams for conquest would be immediately ostracized by the Accord, cut off from trade, and isolated into collapse.
+The philosophical understanding is clear: warfare between settlements breaks cooperation and endangers everyone. The institutional mechanisms exist to manage tensions peacefully. The armed forces that might theoretically be available for warfare are instead trained exclusively for community safety. A settlement that attempted to use its emergency response teams for conquest would be immediately ostracized by the Accord, cut off from trade, and isolated.
 
 # Education
 
@@ -1267,15 +1277,15 @@ Duskaran education is a carefully woven system of knowledge preservation, skill 
 
 ## Preservation and Transmission of Knowledge
 
-The foundation of Duskaran education lies in the preservation of ancient knowledge brought by the Stellar Horizon and the continuous development of survival practices suited to their world. Much of humanity’s past is stored in sacred data crystals, advanced digital archives containing scientific texts, technical manuals, and cultural records. These crystals are curated by Archivists, a caste devoted to maintaining and interpreting the knowledge within. Access to the archives is ritualized and limited, with Archivists carefully distributing fragments of information to settlements based on communal readiness and needs.
+The foundation of Duskaran education lies in the preservation of ancient knowledge brought by the Stellar Horizon and the continuous development of practices suited to their world. Much of humanity’s past is stored in sacred data crystals, advanced digital archives containing scientific texts, technical manuals, and cultural records. These crystals are curated by Archivists, a caste devoted to maintaining and interpreting the knowledge within. Access to the archives is ritualized and limited, with Archivists carefully distributing fragments of information to settlements based on communal readiness and needs.
 
-In parallel, oral traditions play a vital role. Storytelling and song are indispensable tools for passing down survival techniques, cultural values, and historical narratives. Each settlement has its Lorekeepers, skilled individuals who memorize and perform these stories during communal gatherings, ensuring that knowledge remains alive and accessible even without technological support.
+In parallel, oral traditions play a vital role. Storytelling and song are indispensable tools for passing down fieldcraft, cultural values, and historical narratives. Each settlement has its Lorekeepers, skilled individuals who memorize and perform these stories during communal gatherings, ensuring that knowledge remains alive and accessible even without technological support.
 
-Education begins with communal learning circles, where children are introduced to basic survival skills, history, and ethics. Advanced training takes the form of apprenticeships, with elders teaching trades such as farming, weatherworking, or wind engineering. Traveling teachers, known as Windwalkers, move between settlements to share specialized knowledge and promote cultural exchange, bridging the gaps between communities.
+Education begins with communal learning circles, where children are introduced to basic fieldcraft, history, and ethics. Advanced training takes the form of apprenticeships, with elders teaching trades such as farming, weatherworking, or wind engineering. Traveling teachers, known as Windwalkers, move between settlements to share specialized knowledge and promote cultural exchange, bridging the gaps between communities.
 
 ## Balance Between Technical and Psychic Training
 
-Duskaran education emphasizes a balance between technical skills and psychic development. From an early age, children are taught foundational subjects like water management, conservation, and basic engineering, alongside meditative practices that foster a spiritual connection to their environment. This holistic approach ensures that every individual is prepared for the dual demands of survival and harmony with their world.
+Duskaran education emphasizes a balance between technical skills and psychic development. From an early age, children are taught foundational subjects like water management, conservation, and basic engineering, alongside meditative practices that foster a spiritual connection to their environment. This holistic approach ensures that every individual is prepared for the dual demands of skilled work and harmony with their world.
 
 As they grow, most individuals specialize in technical fields such as agriculture, architecture, or resource management. These areas are taught through hands-on work, prioritizing innovation and adaptation to the planet’s unique challenges. A smaller portion of the population, identified through thermal sensitivity tests and psychic exercises, display latent psychic potential. These individuals are apprenticed to Weatherworking Guilds, where their training becomes a lifelong pursuit.
 
@@ -1299,7 +1309,7 @@ In Duskara, recreation is more than leisure; it is a celebration of resilience, 
 
 The Duskaran connection to their environment is reflected in their pastimes. Wind listening, a blend of spiritual practice and relaxation, draws individuals to natural wind-harmonic points or constructed towers where the wind produces soothing melodies. Here, they meditate and harmonize with the planet’s rhythms. Celestial phenomena like auroras and meteor showers inspire sky watching, with groups gathering to observe and share stories under the perpetual twilight.
 
-Storytelling is at the heart of Duskaran culture, with communal gatherings led by Lorekeepers recounting epic tales of survival, mythical creatures, and ancestral triumphs. These sessions are interactive, with participants contributing chants, sound effects, or acting out parts, transforming each story into a shared creative experience.
+Storytelling is at the heart of Duskaran culture, with communal gatherings led by Lorekeepers recounting epic tales of storm crossings, mythical creatures, and ancestral triumphs. These sessions are interactive, with participants contributing chants, sound effects, or acting out parts, transforming each story into a shared creative experience.
 
 Music and dance flourish as vibrant expressions of life. Wind-powered instruments like flutes and resonance drums capture the natural sounds of Duskara, while rhythmic dances emulate the flow of wind and temperature gradients. These performances often accompany festivals and rituals, weaving art into the fabric of daily life.
 
@@ -1347,7 +1357,7 @@ Musical performances at public gatherings blend live instruments with the ambien
 
 ### Dance Forms
 
-**Wind Dance** is the most celebrated form, performed by solo dancers or groups in open spaces where wind can catch flowing silks. Dancers move in spirals and waves, their garments trailing patterns visible from great distances. The art lies in reading wind pressure and moving with intention, appearing to flow naturally while executing precise movements. Wind dances commemorate historical events, tell stories of survival, or express spiritual connection to the planet.
+**Wind Dance** is the most celebrated form, performed by solo dancers or groups in open spaces where wind can catch flowing silks. Dancers move in spirals and waves, their garments trailing patterns visible from great distances. The art lies in reading wind pressure and moving with intention, appearing to flow naturally while executing precise movements. Wind dances commemorate historical events, tell stories of the ancestors, or express spiritual connection to the planet.
 
 **Thermal Dance**, performed near geothermal vents in cave settlements, integrates heat and light shifts. Dancers move through zones of rising hot air, their movements synchronized with thermal currents they feel through their skin or sense psychically. These performances are often brief but intensely physical, celebrating the life-giving heat of the planet's interior.
 
@@ -1411,7 +1421,7 @@ In the twilight belt, many organisms are bimodal, capable of thriving in both br
 
 ## Overview
 
-The ecosystems of Duskara are a testament to adaptation and survival, with plants and animals uniquely evolved to thrive in the planet's extremes. From the windswept twilight belt to the geothermal caves, life on Duskara reflects the planet's harsh yet fertile conditions.
+The ecosystems of Duskara are a testament to adaptation, with plants and animals uniquely evolved to thrive in the planet's extremes. From the windswept twilight belt to the geothermal caves, life on Duskara reflects the planet's harsh yet fertile conditions.
 
 ## Flora
 
@@ -1511,7 +1521,7 @@ Duskaran is a hybrid language that emerged from the necessity of communication a
 
 After landfall, Swahili was the language of almost everybody, and the others learned it as adults. Adult learners dropped the noun classes and the verb inflection of Swahili and kept its words, as happened on Earth in the reduced Swahili of traders and newcomers. That is the origin of Duskaran grammar: verbs that do not change, particles for tense, and old prefixes frozen on the nouns. English lost its function when the ship stopped working, and left only words tied to the work. Hausa, Mandarin and Tagalog survive in special fields and in names. Duskarans call their language Creole; a linguist of Earth would call it a restructured Swahili.
 
-Its evolution was driven by the need for survival, trade, and cultural integration on the tidally locked world of Duskara. This chapter is a summary: the Duskaran Language Handbook holds the full vocabulary and phrasebook, and the two are kept in agreement.
+Its evolution was driven by work, trade, and cultural integration on the tidally locked world of Duskara. This chapter is a summary: the Duskaran Language Handbook holds the full vocabulary and phrasebook, and the two are kept in agreement.
 
 ## Phonetics and Pronunciation
 
@@ -1575,7 +1585,7 @@ For trade, a simplified version of the language emphasizes:
 
 ## Writing System
 
-Duskaran script evolved through pragmatic necessity rather than aesthetic choice. The original settlers brought multiple writing systems (Latin, Devanagari, simplified Chinese) but the harsh environment quickly revealed their limitations. Wind-driven sand abraded carved surfaces, storms soaked paper records, and the constant need for portable documentation demanded innovation.
+Duskaran script evolved through pragmatic necessity rather than aesthetic choice. The original settlers brought multiple writing systems (Latin, Devanagari, simplified Chinese) but the wind and the dust quickly revealed their limitations. Wind-driven sand abraded carved surfaces, storms soaked paper records, and the constant need for portable documentation demanded innovation.
 
 **Script Evolution**:
 
@@ -1678,7 +1688,7 @@ Weatherworkers often develop personalized linguistic styles, individual ways of 
 
 While Duskaran serves as a common tongue, regional variations mark identity and affiliation. Twilight belt speakers tend toward clipped, efficient speech patterns, their sentences abbreviated by the constant need to communicate quickly before wind conditions change. Cave-dwellers, by contrast, speak more slowly and melodically, their dialects influenced by the acoustics of stone chambers where echoes demand careful enunciation.
 
-Frontier settlements near the day or night sides incorporate more loan words from technical manuals or archaic Earth languages, as their harsh conditions parallel the original settlers' experiences. These communities take pride in preserving "pure" linguistic forms, viewing themselves as keepers of tradition even as central cities' speech evolves rapidly.
+Frontier settlements near the day or night sides incorporate more loan words from technical manuals or archaic Earth languages, as their hard conditions parallel the original settlers' experiences. These communities take pride in preserving "pure" linguistic forms, viewing themselves as keepers of tradition even as central cities' speech evolves rapidly.
 
 The phrase "speaks like the central wind" describes someone from Birni or another major city, implying both sophistication and potential arrogance. Conversely, "night-tongue" refers to cave-dweller speech patterns, sometimes used affectionately, sometimes as subtle mockery depending on context and speaker.
 
@@ -1688,7 +1698,7 @@ Certain phrases carry philosophical weight beyond their literal meaning. "Duskar
 
 "Fair terms" functions as negotiation shorthand, indicating acceptance of standard trade protocols without requiring detailed specification. Invoking "fair terms" signals trustworthiness and willingness to operate within established frameworks, though what constitutes fairness varies by region and commodity.
 
-"Forward's the only direction that makes sense" expresses the cultural emphasis on persistence over achievement. The phrase is never used about destination arrival, only about continued movement. Success measures not reaching goals but maintaining forward motion despite setbacks, a philosophy born from generations of survival at the edge of habitability.
+"Forward's the only direction that makes sense" expresses the cultural emphasis on persistence over achievement. The phrase is never used about destination arrival, only about continued movement. Success measures not reaching goals but maintaining forward motion despite setbacks, a philosophy born from generations of work at the edge of habitability.
 
 "The wind judges, we only witness" acknowledges outcomes beyond human control, particularly in resource disputes where multiple parties have legitimate claims. Rather than forcing decisions that might breed resentment, communities sometimes leave tokens or contested materials exposed to wind for a night, accepting whatever result natural forces produce.
 
@@ -1721,7 +1731,7 @@ Polite Duskarans avoid direct taboo usage through elaborate circumlocution:
 
 **Cultural Context**:
 
-These taboos aren't merely linguistic; they reflect existential threats. A water-waster endangers entire settlements. A wind-blocker threatens energy supplies. The severity of these terms underscores how thinly the line between survival and collapse runs on Duskara. Children learn these words as warnings, in old tales of people who were sent out to wander the Storm Wall. The tales are harder than the law: a council expels a person to another settlement, for a term, and the person can return.
+These taboos aren't merely linguistic; they reflect existential threats. A water-waster endangers entire settlements. A wind-blocker threatens energy supplies. The severity of these terms shows how much each settlement depends on everyone keeping faith with the water and the wind. Children learn these words as warnings, in old tales of people who were sent out to wander the Storm Wall. The tales are harder than the law: a council expels a person to another settlement, for a term, and the person can return.
 
 ## Sample Text
 
@@ -1868,7 +1878,7 @@ These taboos aren't merely linguistic; they reflect existential threats. A water
 
 ## Duskaran Grammar
 
-Duskaran has a simple and functional grammar system optimized for clarity and adaptability in the survival-focused culture of its speakers. It emphasizes word order, context, and affixes over complex inflections.
+Duskaran has a simple and functional grammar system optimized for clarity and adaptability, and for speech in the wind. It emphasizes word order, context, and affixes over complex inflections.
 
 ### 1. Word Order
 
@@ -2326,6 +2336,17 @@ Names are given in infancy and can be amended or expanded when a person shows a 
   - Calendar (Chapter 10): the longer unit is the year (*mwaka*), the standard year of 365 days that the ship brought. It is about 10.5 Cycles; "eleven Cycles" is the everyday figure. The Archivists count the days from landfall and keep the year exact. The year has no sign in the sky or the wind. The Storm Wall Festival is held at the first Storm Phase after the year begins, because the storms do not follow the year. Ancestor's Light opens the year.
   - All chapters: "Ancestor Cycle" is now "year". The Awakening took a hundred and seven years (Cycle 1,686 to Cycle 2,810). The CE dates of the timeline already used 34.7 days to a Cycle and do not change.
   - Tooling: scripts/check_compendium.py no longer flags "year", "yearly" or "annual", and flags "Ancestor Cycle" as superseded.
+- 2.6.0: Water as a flow; materials and manufacture. The rivers and the Bahari are reconciled with scarce water, and the advanced cities and Whisper Roads with scarce metal. Duskara is rich in energy and poor in matter.
+  - Water (Chapters 00, 09, 11): new bullet "Water passes through" under "Why the Twilight Belt Is Habitable". Water is not rare but brief: rivers run dayward and end in the salt flats, the wind takes open water, melt comes in pulses, raw melt must be treated, and scarcity is regional (least in the Ice Land, most in the Dry Land). Settlements treat raw water at intakes and keep it in covered cisterns. Night-side ice is prized as the purest water and for places no river reaches. Key World Constraints: "Resource Scarcity" is replaced by "Water as a Flow" and "Rich in Energy, Poor in Matter".
+  - Materials (Chapters 00, 09, 11): new section "Materials and Manufacture" in Chapter 09. Ores are plentiful; the limit is the robots that reach them and the capacity to make complex parts. The *Stellar Horizon* carried a seed industry, used in the first generations for the cores of the first cities and the first line of the Whisper Roads; later generations repair and extend. Metal goes only where nothing else serves; Duskarans build in stone, ceramic, glass, basalt fiber and plant composites.
+  - Whisper Roads (Chapter 09): permanent magnets on the carriages over a passive aluminium guideway lift the carriage at speed; it rolls on wheels at low speed. The track carries no power.
+  - Windmark (Chapter 11): fired ceramic, like the water tokens. It was "lightweight metals".
+  - Tone (all chapters): survival framing is removed from the description of society. Duskara is a cooperative society with narrow margins, not a society on the verge of survival. The dangers of the environment stay as they were; only the social framing changes. Society "clings to existence", "huddles", "struggles" and lives on a "precarious balance between survival and prosperity" no more; councils, kin and Accord serve the common good and mutual aid. "Survival skills" is "fieldcraft". "Survival Technology" (Chapter 09) is "Field Technology". Biology (Chapters 16, 17), the Summits of Survival and the motto "together we survive" (Chapter 18) are kept.
+  - Population (Chapter 03): "periodic die-offs" are removed. Early growth was set back by storms, failed harvests and the sickness before the Awakening; the quotas exist so that growth follows the stores and not the next disaster.
+  - Children (Chapter 04): child mortality has fallen far and is still higher in frontier settlements. The text said that childhood "remains precarious".
+  - Conservation (Chapter 03): energy is no longer listed as scarce; finished materials are. Waste is a theft from the neighbor and from the next generation.
+  - The rule that makes no exceptions (Chapter 12): the example of a child going cold under the heating allocation is now a sick child who needs more than the water measure, since energy is plentiful.
+  - A broken sentence on mining drones in Chapter 11 is repaired. Daybook 0.5.3 follows the water changes.
 
 # License
 
