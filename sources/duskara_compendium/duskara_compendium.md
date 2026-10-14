@@ -1,9 +1,9 @@
 ---
 title: Duskara Compendium
 subtitle: Main Setting Book
-version: 2.6.0
+version: 2.6.1
 date: 2026-10-14
-latest_update: "Water as a flow; materials and manufacture."
+latest_update: "Daywalkers removed."
 
 
 ---
@@ -178,8 +178,6 @@ Human interaction with the day side is limited to heavily shielded robotic minin
 While no permanent human settlements exist on the day side, robotic mining operations push the boundaries of the habitable zone. Heavily shielded autonomous systems, deployed from twilight belt cities, extract heat-resistant alloys, rare earth elements, and crystalline formations impossible to synthesize. These operations face constant attrition: stellar storms disable communications, thermal stress fractures equipment, and dust storms bury entire facilities.
 
 Salvage crews venture into the scorched margins when mining drones fail to return, recovering valuable machinery before it's completely degraded. These expeditions are lucrative but deadly, requiring specialized thermal suits and psychic thermal-sensing abilities to navigate. Competition between settlements over productive mining claims occasionally escalates into sabotage or claim-jumping, adding tension to an already hostile environment.
-
-Some settlements employ "daywalkers", individuals with exceptional thermal resistance who can endure brief forays to oversee critical repairs or retrieve high-value materials. These specialists command premium compensation and hold near-legendary status, their exploits celebrated in wind-songs and tavern tales.
 
 The most feared feature of the dayward margin is Buŋaŋa-Loŋ, a canyon that opens straight onto the day side and funnels its heat and radiation toward the belt (see the Duskaran Gazetteer).
 
@@ -1431,7 +1429,7 @@ The ecosystems of Duskara are a testament to adaptation, with plants and animals
 
 **Windvines**: Hardy, fast-growing creepers that anchor tenaciously to rocks, ruins, and other plants through specialized adhesive rootlets. Their lightweight seeds are encased in papery wings that allow them to travel hundreds of kilometers on wind currents, making them one of the most widespread species in the twilight belt. The seed pods are edible when properly prepared, providing a protein-rich food source for travelers.
 
-**Warmedge Cacti**: Succulent plants found in the hottest regions of the dayward edge, featuring silvery, reflective outer skins that deflect up to 70% of stellar radiation. Their water-storing tissues can sustain them through extended dry periods, and their sap has mild antiseptic properties. Harvesting warmedge cacti is dangerous work, reserved for specialized daywalker teams.
+**Warmedge Cacti**: Succulent plants found in the hottest regions of the dayward edge, featuring silvery, reflective outer skins that deflect up to 70% of stellar radiation. Their water-storing tissues can sustain them through extended dry periods, and their sap has mild antiseptic properties. Harvesting warmedge cacti is dangerous work, done by crews in thermal suits led by a thermal sensor.
 
 **Frostblooms**: Diminutive flowering plants that blanket the nightward edge in clusters of pale blue and white. They produce a glycoprotein-rich sap that acts as natural antifreeze, allowing them to survive temperatures below -100°C. Their petals can be brewed into a stimulating tea that helps regulate body temperature, though overconsumption can disrupt natural thermoregulation.
 
