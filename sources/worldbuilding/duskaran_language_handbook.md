@@ -1,14 +1,14 @@
 ---
-date: 2026-10-09
+date: 2026-10-14
 subtitle: A Comprehensive Conlang Reference for the Duskara Setting
 title: Duskaran Language Handbook
-version: 2.1.0
-latest_update: "New section XIX, House, Day and Rites: words for the lee, the bells, sleep, water in the house, the steam house, partnership, birth control and the rites of the dead, with the Duskaran Daybook. New phrases in the phrasebook."
+version: 2.2.0
+latest_update: "mwaka is now the year in use (365 days), and mwaka mpya the start of the year. babu-mzunguko (Ancestor Cycle) is removed."
 ---
 
 # Introduction
 
-Duskaran emerged over some eight hundred Ancestor Cycles from the linguistic necessity of survival. The *Stellar Horizon* carried two peoples. The settlers, some thousands of them in cryogenic stasis, were African. Most came from East Africa: they belonged to many peoples and already used Swahili as their common language. A minority came from West Africa and spoke Hausa. The crew, a few hundred, was Asian: Chinese officers and engineers who spoke Mandarin, and Filipino ratings who spoke Tagalog. English was the working language between crew and settlers, and between people and the ship systems. Nobody spoke it at home.
+Duskaran emerged over some eight hundred years from the linguistic necessity of survival. The *Stellar Horizon* carried two peoples. The settlers, some thousands of them in cryogenic stasis, were African. Most came from East Africa: they belonged to many peoples and already used Swahili as their common language. A minority came from West Africa and spoke Hausa. The crew, a few hundred, was Asian: Chinese officers and engineers who spoke Mandarin, and Filipino ratings who spoke Tagalog. English was the working language between crew and settlers, and between people and the ship systems. Nobody spoke it at home.
 
 Three facts explain the language that followed.
 
@@ -420,8 +420,8 @@ Words that survive mostly in place names. They show the four source languages mo
 - **kiza** /ˈki.za/ – the conventional start of the rest period
 - **hanga-pindi** /ˈha.ŋa.pin.di/ – wind phase
 - **mzunguko** /mzu.ˈŋu.ko/ – Cycle: one orbit of Duskara, about 35 Earth days
-- **babu-mzunguko** /ˈba.bu.mzu.ŋu.ko/ – Ancestor Cycle (eleven Cycles)
-- **mwaka** /ˈmwa.ka/ – Earth year (archaic; used by Archivists for Earth reckoning)
+- **mwaka** /ˈmwa.ka/ – year: 365 days, the year of the ship. In everyday speech, "eleven Cycles"
+- **mwaka mpya** /ˈmwa.ka ˈmpja/ – the start of the year; the day of Ancestor's Light
 
 ### Measurements
 
@@ -1465,7 +1465,6 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | already | *tayari* |
 | also | *pia* |
 | ancestor | *babu* |
-| ancestor cycle | *babu-mzunguko* |
 | ancestor's light | *babu-mwanga* |
 | anchor | *nanga* |
 | ancient | *kuukuu* |

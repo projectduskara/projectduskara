@@ -15,7 +15,7 @@ Before you start, define lines that should not be crossed. Pause or rewind the g
 
 ## Welcome to the Twilight
 
-Eight hundred Ancestor Cycles ago, the colony ship *Stellar Horizon* limped into orbit around an unknown world. Navigation systems shattered by a stellar storm, life support failing, the crew had no choice but to land on the only marginally habitable planet they could reach: Duskara.
+Eight hundred years ago, the colony ship *Stellar Horizon* limped into orbit around an unknown world. Navigation systems shattered by a stellar storm, life support failing, the crew had no choice but to land on the only marginally habitable planet they could reach: Duskara.
 
 This was not the promised world of Kepler-442b. This was something else entirely.
 
@@ -35,7 +35,7 @@ Duskara's harsh conditions and unknown radiations awakened latent abilities in h
 
 **Weather workers** shape wind to guide ships and protect settlements. **Thermal sensitives** navigate day-side margins where others would perish. **Deep-cave dwellers** communicate through resonance, voices carrying through stone. **Beastwalkers** bond with wind serpents and thermal lizards. These abilities are celebrated, taught, and integrated into daily life, but overuse leads to psychic burnout.
 
-## Eight Hundred Ancestor Cycles of Adaptation
+## Eight Hundred Years of Adaptation
 
 The *Stellar Horizon* carried perhaps a few thousand survivors. Now, 40 million descendants live across the twilight belt and caves. Population is tightly regulated: birth quotas maintain balance with carrying capacity. Superstorms, resource wars, and auroral disruptions have prevented unchecked growth.
 
@@ -277,7 +277,7 @@ You also start with **1 med kit** (clears 2 stress).
 
 # Equipment & Resources
 
-Duskaran equipment blends Earth technology with eight hundred Ancestor Cycles of adaptation. Everything is designed for durability, sustainability, and function in extreme environments.
+Duskaran equipment blends Earth technology with eight hundred years of adaptation. Everything is designed for durability, sustainability, and function in extreme environments.
 
 ## Weapons
 
@@ -460,7 +460,7 @@ Largest twilight belt city. Built around the *Stellar Horizon* crash site. Centr
 
 - Rival factions vie for control of Earth archives
 - Storm phase threatens to overwhelm defenses
-- Mysterious signal from *Stellar Horizon* wreckage activates after eight hundred Ancestor Cycles
+- Mysterious signal from *Stellar Horizon* wreckage activates after eight hundred years
 
 ### Khal-Rim (Population: 500,000)
 

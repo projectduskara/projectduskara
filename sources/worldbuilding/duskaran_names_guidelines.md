@@ -7,7 +7,7 @@ latest_update: "New naming system: personal names and line names from Swahili, H
 
 # Overview
 
-A Duskaran name says where a person comes from. The *Stellar Horizon* carried some thousands of African settlers in cryogenic stasis, most from East Africa and a minority from West Africa, and a crew of a few hundred from Asia: Chinese officers and engineers, with Filipino ratings. English was the working language between them. Eight hundred Ancestor Cycles later, the names of all these peoples are still in use, worn down by the Creole and joined by new names made of Creole words.
+A Duskaran name says where a person comes from. The *Stellar Horizon* carried some thousands of African settlers in cryogenic stasis, most from East Africa and a minority from West Africa, and a crew of a few hundred from Asia: Chinese officers and engineers, with Filipino ratings. English was the working language between them. Eight hundred years later, the names of all these peoples are still in use, worn down by the Creole and joined by new names made of Creole words.
 
 There are no names in the English style. English gave the Creole a few working words (*kin*, *go*, *dok*), but nobody on the ship carried an English name into the new world.
 
@@ -106,7 +106,7 @@ A line name passes from parent to child. Either parent's line may be chosen. The
 
 ## Ship Lines
 
-Family names that came from Earth. They no longer show what a person looks like or where a person lives: after eight hundred Ancestor Cycles, every Duskaran has ancestors from all the peoples of the ship.
+Family names that came from Earth. They no longer show what a person looks like or where a person lives: after eight hundred years, every Duskaran has ancestors from all the peoples of the ship.
 
 **Chinese**: Chen, Gao, Hu, Jao, Jaŋ, Li, Lin, Lu, Shen, Shu, Sun, Tan, Waŋ, Wu, Yaŋ
 

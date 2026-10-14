@@ -713,7 +713,7 @@ Then drop dice to populate with locations.
 
 Alex: "Isarn is a weatherworker who speaks in clipped, technical language: field reports more than poetry. Thermal Sight. From Aetherion, but in the present day."
 
-Morgan: "Saeli uses song and metaphor. Deep Bonding; she connects with the wind serpents. Speaking from... let's say 50 Ancestor Cycles ago, before something happened."
+Morgan: "Saeli uses song and metaphor. Deep Bonding; she connects with the wind serpents. Speaking from... let's say 50 years ago, before something happened."
 
 **Map Generation:**
 
@@ -754,7 +754,7 @@ Morgan: "What do I carry of yours? Your resonance staff. I shouldn't have taken 
 
 **Cycle 1, Fragment 2 (Alex as Isarn):**
 
-*Field log, dated 50 Ancestor Cycles later*
+*Field log, dated 50 years later*
 
 > FIELD LOG \#1047: AETHERION ARCHIVE  
 > Sky Pressure: Stable  
@@ -762,7 +762,7 @@ Morgan: "What do I carry of yours? Your resonance staff. I shouldn't have taken 
 >
 > Recovered Saeli's last transmission from Archive Server 7. Audio dated GC 2934. I was nineteen. I don't remember her going to the Breach. Wind take me, I don't remember *her*.
 >
-> Cross-referenced with settlement records: No one named Saeli trained at Aetherion's weatherworking guild. No expedition to the Breach authorized that Ancestor Cycle. But the recording is authentic: verified by crystal signature.
+> Cross-referenced with settlement records: No one named Saeli trained at Aetherion's weatherworking guild. No expedition to the Breach authorized that year. But the recording is authentic: verified by crystal signature.
 >
 > The staff she mentions sits in my quarters. I've had it since my initiation. Standard resonance staff. It doesn't hum. It never has.
 >
@@ -785,7 +785,7 @@ Morgan: "What do I carry of yours? Your resonance staff. I shouldn't have taken 
 
 > Day 6. Structures confirmed. Not ruins; they're *growing*. Crystalline formations responding to wind patterns. The serpents won't approach because they recognize something I don't.
 >
-> Found an echo pool inside the Walls: natural amphitheater where sound loops forever. Spoke your name into it. Isarn. Isarn. Isarn. It's still playing. Will you hear it fifty Ancestor Cycles from now?
+> Found an echo pool inside the Walls: natural amphitheater where sound loops forever. Spoke your name into it. Isarn. Isarn. Isarn. It's still playing. Will you hear it fifty years from now?
 >
 > The staff's hum is louder. Three tones now: E-flat, G, B-flat. Storm chord. Impossible without three weatherworkers.
 >
@@ -804,7 +804,7 @@ Morgan: "What do I carry of yours? Your resonance staff. I shouldn't have taken 
 
 Both players gain 1 Echo token and describe a shared vision:
 
-*Both Windcallers, separated by fifty Ancestor Cycles, simultaneously see the Echo Pool shrine. In the vision, two figures stand at different times in the same space, reaching for the same object.*
+*Both Windcallers, separated by fifty years, simultaneously see the Echo Pool shrine. In the vision, two figures stand at different times in the same space, reaching for the same object.*
 
 **Alex and Morgan's Echo Tokens:** Both now 3/3
 

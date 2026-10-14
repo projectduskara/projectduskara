@@ -34,7 +34,7 @@ Each entry within the Codex is a thread in the vast tapestry of our existence. S
 
 ### **Why Gather These Words?**
 
-What follows is not a single history, nor a complete truth. It is what remains. Fragments, gathered from voices scattered across eight hundred Ancestor Cycles: some from the founding generations, others from scholars who walked these paths long before my time, and still others from those who live and breathe this moment. Some are records of fact, bound in the dry ink of administrators...
+What follows is not a single history, nor a complete truth. It is what remains. Fragments, gathered from voices scattered across eight hundred years: some from the founding generations, others from scholars who walked these paths long before my time, and still others from those who live and breathe this moment. Some are records of fact, bound in the dry ink of administrators...
 
 The wind does not keep what it carries. If we do not record, we forget. And yet, to write something is to trap it in place, to make it still when the world is not. This is the paradox of our work: to preserve the past without silencing its motion, to remember without fixing truth in unyielding stone.
 
@@ -608,7 +608,7 @@ The **Wind and Water Assembly** ensures that:
 2. **Settlements may not sever resource-sharing agreements without due cause.**
 3. **Disputes between bonded unions are settled first through mediation, then through reallocation of resources.**
 
-The Assembly also oversees the **Wind-Forging**, held once each Ancestor Cycle, in which settlements reaffirm their alliances. **Water is poured into communal basins, signifying the merging of resources. Wind-chimes are exchanged, representing the voices of each household carried forward into the next cycle.**
+The Assembly also oversees the **Wind-Forging**, held once each year, in which settlements reaffirm their alliances. **Water is poured into communal basins, signifying the merging of resources. Wind-chimes are exchanged, representing the voices of each household carried forward into the next cycle.**
 
 ### **Final Reflections**
 

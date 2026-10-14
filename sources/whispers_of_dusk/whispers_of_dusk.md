@@ -7,7 +7,7 @@ last_update: First release
 
 # Introduction
 
-You are a lineage of **Archivists**, custodians of Duskaran history who chronicle the shifting tides of civilization across generations. Your ancestors built wind-cities along the twilight belt, carved sanctuaries in geothermal caverns, and survived where they were never meant to thrive. Eight hundred Ancestor Cycles after the *Stellar Horizon* crashed on this tidally locked world, their descendants struggle to preserve what matters.
+You are a lineage of **Archivists**, custodians of Duskaran history who chronicle the shifting tides of civilization across generations. Your ancestors built wind-cities along the twilight belt, carved sanctuaries in geothermal caverns, and survived where they were never meant to thrive. Eight hundred years after the *Stellar Horizon* crashed on this tidally locked world, their descendants struggle to preserve what matters.
 
 The past is fluid. Some histories are lost, others reinterpreted, and each Archivist must decide what to remember, what to alter, and what to let fade into silence. Through your lineage, the evolving identity of Duskaran civilization will be told.
 
@@ -27,7 +27,7 @@ Duskara is a tidally locked planet where one face eternally burns under a K-clas
 
 ## Human Adaptation
 
-Eight hundred Ancestor Cycles of exposure to Duskara's environment have awakened latent psychic abilities in its people:
+Eight hundred years of exposure to Duskara's environment have awakened latent psychic abilities in its people:
 
 - **Thermal sensing**: Reading temperature gradients and heat signatures
 - **Weather working**: Limited influence over local wind patterns
@@ -61,7 +61,7 @@ Some Archivists maintain all forms. Others specialize. Records are incomplete, c
 
 ## Time Scale
 
-Each turn represents **one generation** (approximately 20 to 30 Ancestor Cycles). The dating system uses **cycles**: a Duskaran orbital period of about 35 Earth days. By the present era (3000 CE), Duskara has experienced approximately 8,430 cycles since the crash (Cycle 0).
+Each turn represents **one generation** (approximately 20 to 30 years). The dating system uses **cycles**: a Duskaran orbital period of about 35 Earth days; a year is about 10.5 cycles. By the present era (3000 CE), Duskara has experienced approximately 8,430 cycles since the crash (Cycle 0).
 
 ## What Changes Matter?
 
@@ -105,7 +105,7 @@ Each generation experiences different levels of change:
 
 - Shift to the next Archivist generation
 - Note how records were preserved, altered, or damaged in the transition
-- Update the date (add ~20-30 Ancestor Cycles, or ~220-330 cycles)
+- Update the date (add ~20-30 years, or ~210-315 cycles)
 - Consider: What knowledge passed down? What was lost?
 
 ## Step 5: Continue Until the End
@@ -146,7 +146,7 @@ Example: "Archivist Kai Shen, Cycle 5,200, Third Deep Roads Era"
 >
 > **Reflection:** I interviewed three families who escaped. Each told different stories about why the warnings were ignored. The ruling council's archives were lost. We will never know if they knew the danger and chose silence, or if they were as blind as everyone else.
 >
-> **Changed:** Windward Spire is now abandoned. Its population absorbed into three settlements, each of which now claims to be the "true heir" to its legacy. Already, the stories diverge. In twenty Ancestor Cycles, there will be three separate histories of what happened, and no way to reconcile them.
+> **Changed:** Windward Spire is now abandoned. Its population absorbed into three settlements, each of which now claims to be the "true heir" to its legacy. Already, the stories diverge. In twenty years, there will be three separate histories of what happened, and no way to reconcile them.
 
 # Card Suit Interpretations
 

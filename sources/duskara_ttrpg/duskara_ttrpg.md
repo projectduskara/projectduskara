@@ -163,7 +163,7 @@ This is why every tool requires speaking up. Silence doesn't help anyone. Only c
 
 In the year 2137, the colony ship *Stellar Horizon* departed Earth bound for Kepler-442b. After a critical malfunction during a stellar storm, the ship drifted off course for decades while its passengers slept in cryogenic stasis. When emergency systems finally initiated revival protocols, they found themselves approaching an unknown star system. With failing life support and no way to correct their course, they were forced to land on Duskara: a tidally locked world that barely met the minimum requirements for human survival.
 
-Now, some eight hundred Ancestor Cycles later, their descendants have not merely survived; they have adapted and thrived. This is not a story of desperate scarcity, but of ingenious harmony with a challenging world.
+Now, some eight hundred years later, their descendants have not merely survived; they have adapted and thrived. This is not a story of desperate scarcity, but of ingenious harmony with a challenging world.
 
 ### The Twilight Belt
 
@@ -1911,7 +1911,7 @@ Wind conditions are represented by **Scene Tags** that apply modifiers to action
 
 Duskara's storm patterns follow predictable cycles based on thermal differentials:
 
-**Peak Storm Phase:** Several times per Ancestor Cycle, when day-night thermal contrast is maximal
+**Peak Storm Phase:** Several times per year, when day-night thermal contrast is maximal
 
 - Superstorms occur more frequently
 - Settlements prepare with reinforcement and stockpiling
@@ -2889,7 +2889,7 @@ The Duskaran Accord is a loose confederation of settlements established in Cycle
 
 **Accord Structure:**
 
-- **The Wind and Water Assembly:** Gathering of settlement delegates, held once each Ancestor Cycle, to address shared concerns
+- **The Wind and Water Assembly:** Gathering of settlement delegates, held once each year, to address shared concerns
 - **Wayseers:** Neutral psychic adepts who mediate disputes
 - **Wind Riders:** Couriers and envoys traveling between settlements
 - **Resource Arbitrators:** Specialists adjudicating conflicts over shared resources
@@ -3600,7 +3600,7 @@ These works capture the spirit of *Duskara*: planetary romance, environmental ad
 
 ### World Building
 
-**Duskara**: Tidally locked planet where humanity has adapted and thrived for eight hundred Ancestor Cycles after an unplanned landing. (See line 150)
+**Duskara**: Tidally locked planet where humanity has adapted and thrived for eight hundred years after an unplanned landing. (See line 150)
 
 **Day Side**: Duskara's scorching hemisphere, facing the star constantly. Temperatures exceed 200°C. Uninhabitable without extreme protection. Adds +2 Risk Dice to all physical actions. (See line 600)
 

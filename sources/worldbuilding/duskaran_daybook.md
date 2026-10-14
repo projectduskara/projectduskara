@@ -1,9 +1,9 @@
 ---
 title: Duskaran Daybook
 subtitle: Everyday Life on the Living Edge
-version: 0.5.1
-date: 2026-10-09
-latest_update: "Source marks updated after the removal of the single-topic folders of worldbuilding/."
+version: 0.5.2
+date: 2026-10-14
+latest_update: "Times given in years in place of Ancestor Cycles; the Storm Wall Festival moves to the first Storm Phase of the year."
 ---
 
 # Introduction
@@ -252,7 +252,7 @@ Water goes down this stair and never up it.
 ## Gifts and Secrets
 
 - ***Sadaka*** is a gift of water with no witness (C06). A sealed jar stands at a door when the house wakes. Nobody asks who put it there.
-- **The old jar.** The Thirst Wars were about twenty Ancestor Cycles ago (C08). Many people who are old enough to remember the embargo keep one sealed jar more than their measure. By the letter of the law this is hoarding, and the word for it is *kinabara* (H). Their families know and do not speak of it.
+- **The old jar.** The Thirst Wars were about twenty years ago (C08). Many people who are old enough to remember the embargo keep one sealed jar more than their measure. By the letter of the law this is hoarding, and the word for it is *kinabara* (H). Their families know and do not speak of it.
 
 # The Day
 
@@ -300,7 +300,7 @@ By old custom a person rests one day in seven, as the caravans do (G). The rota 
 - No part of the Cycle is warm and no part is cold. The weather has **phases** (C10): the Long Dry (C10), a Storm Phase (G), phases of cold wind and of warm wind (C06, C13). People feel them in the lips, the joints and their sleep.
 - A farming town counts the Cycle by its grain. People say "at this point of the Cycle" of a crop and of a river (N).
 - People date their own lives by storms, by the heading of the grain (N), by festivals and by births. The count of Cycles is for contracts and records (C10).
-- A child's age is given in Cycles and an adult's in Ancestor Cycles (N).
+- A child's age is given in Cycles and an adult's in years (N).
 
 # The House and the Lane
 
@@ -529,12 +529,12 @@ The body is dried, so that its water returns to the settlement, and then it is b
 
 | Rite | When | What a person does |
 |------|------|--------------------|
-| *Saumu* | One Cycle in each Ancestor Cycle, by household | Eats only after the last bell (C06) |
-| Ancestor's Light | The start of each Ancestor Cycle | Lights the torch of the house and hears the story of the ship (C10) |
-| Storm Wall Festival | Each Ancestor Cycle, when the storms are strongest | Races, makes a chime, flies the kite of the house (C10, C15) |
+| *Saumu* | One Cycle in each year, by household | Eats only after the last bell (C06) |
+| Ancestor's Light | The start of each year | Lights the torch of the house and hears the story of the ship (C10) |
+| Storm Wall Festival | Each year, at the first Storm Phase after the year begins | Races, makes a chime, flies the kite of the house (C10, C15) |
 | Gradient Feast | At a change of wind phase | Gives away surplus, settles contracts, makes cups for the children (C10, C04, H) |
 | Water's Blessing | When the rain returns after the Long Dry | Pours into the common basin and says the names of those who kept the water (C10) |
-| Windcallers' Rite | Once in a few Ancestor Cycles | Watches the weatherworkers work in public (C10) |
+| Windcallers' Rite | Once in a few years | Watches the weatherworkers work in public (C10) |
 | Aurora Nights | Under a strong aurora | Sits out under it (C10) |
 | Hearth Renewal, Aurora Veil | In the caves | Cleans the thermal harvesters; hums with the Hearth (C10, W) |
 
@@ -968,6 +968,7 @@ Language Handbook 2.1.0 has a new section, House, Day and Rites, with the words 
 - 0.4.0: New chapter At the Gate: a trade day at a gate of the Deep Roads, with Gazetteer 1.5.0. The author confirmed its new statements (decision 30).
 - 0.5.0: New sections The Marriage Caravan (in Married Life) and Gender (in The Body and Its Cover), and a note on pronouns for the writer. The author confirmed their statements (decisions 31 to 34). Compendium 2.3.0 carries the same rule for the caravan.
 - 0.5.1: Source marks only. The single-topic folders of worldbuilding/ are removed and their content is in Compendium 2.4.0, so six statements marked (W) now carry the mark of a Compendium chapter. (W) now means Weatherworking Guilds.
+- 0.5.2: Compendium 2.5.0: the year (*mwaka*, 365 days) replaces the Ancestor Cycle. The Storm Wall Festival is held at the first Storm Phase after the year begins.
 
 # License
 

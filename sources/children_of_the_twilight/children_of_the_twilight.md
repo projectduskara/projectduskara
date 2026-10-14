@@ -9,7 +9,7 @@ last_update: First release
 
 **Duskara: Children of the Twilight** is a GMless tabletop RPG for 1+ players about building community in the twilight between worlds. You are settlers in a linear city stretched across Duskara's habitable band, descendants of a lost colony ship learning to thrive on a tidally locked world that was never meant to be home.
 
-Eight hundred Ancestor Cycles after landfall, your people have adapted, developing psychic abilities, mastering wind and thermal systems, forging bonds with native life. But adaptation is ongoing. Every cycle brings storms that test your infrastructure, questions about how to balance Earth traditions with Duskaran realities, and the choice between mere survival and building something worth passing forward.
+Eight hundred years after landfall, your people have adapted, developing psychic abilities, mastering wind and thermal systems, forging bonds with native life. But adaptation is ongoing. Every cycle brings storms that test your infrastructure, questions about how to balance Earth traditions with Duskaran realities, and the choice between mere survival and building something worth passing forward.
 
 This is planetary romance in the tradition of Le Guin: thoughtful, cultural, exploring what it means to become native to a place. Through cycles of nurturing (cradle) and protection (ward), you'll guide your community through challenges both practical and philosophical, creating a living story of people learning to belong to their world.
 
@@ -461,7 +461,7 @@ Mark a **Project Track** with segments. Each successful Cradle action toward the
 
 **Cultural Projects (3-4 segments):**
 
-- **Cultural Synthesis Festival**: A series of events across a full Ancestor Cycle, blending Earth and Duskaran traditions
+- **Cultural Synthesis Festival**: A series of events across a full year, blending Earth and Duskaran traditions
 - **Psychic Academy**: Formal institution for training and supporting gifted individuals
 - **Oral History Archive**: Systematic recording of elder memories and stories
 - **Inter-Settlement Exchange**: Regular visiting program between communities

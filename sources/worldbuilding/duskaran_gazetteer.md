@@ -1,9 +1,9 @@
 ---
 title: Duskaran Gazetteer
 subtitle: Places of the Living Edge
-version: 1.5.2
-date: 2026-10-09
-latest_update: "The Gazetteer replaces the settlement and phenomenon profiles of worldbuilding/. The storm walls as a traveler meets them."
+version: 1.5.3
+date: 2026-10-14
+latest_update: "Times given in years in place of Ancestor Cycles."
 ---
 
 # Introduction
@@ -589,7 +589,7 @@ The hot air that comes in at Kofa-Joto does not go straight across the belt. The
 
 ## The Surging Ice
 
-Most glacier tongues of the heartland stop outside the belt and move little. The tongue nightward of Liko-Luŋga, the one that feeds the up-belt branch of the Luŋga-Hanga, is different: about once in 200 Ancestor Cycles it surges. For some Cycles the ice front moves forward quickly, tens of kilometers across the nightward plateau, and then it stops for a long time. The last surge was about 200 Ancestor Cycles before the present. It is not known if other tongues of the arc do the same.
+Most glacier tongues of the heartland stop outside the belt and move little. The tongue nightward of Liko-Luŋga, the one that feeds the up-belt branch of the Luŋga-Hanga, is different: about once in 200 years it surges. For some Cycles the ice front moves forward quickly, tens of kilometers across the nightward plateau, and then it stops for a long time. The last surge was a little more than 200 years before the present. It is not known if other tongues of the arc do the same.
 
 The night wall stands about 30 kilometers behind the ice front, so the wall advances with the ice. While the surge lasts, the wall sends line after line of storm across the plateau, each one colder and faster than those of an ordinary Cycle. People of the region call this a Storm Phase. Three settlements of the plateau were lost in the last one.
 
@@ -775,15 +775,15 @@ Reading (a) of the Pale Arc is against what every Duskaran learns: that the glac
 
 | From | To | Distance, km | By caravan, with rest |
 |------|----|------:|------|
-| Hamada-Kuu | the south pole | 7,000 | 9 Cycles (0.9 Ancestor Cycles) |
-| Bundok-Kuu | the north pole | 7,000 | 9 Cycles (0.9 Ancestor Cycles) |
-| Hamada-Kuu | the point opposite the Bahari | 17,000 | 23 Cycles (2.1 Ancestor Cycles) |
-| Hamada-Kuu | mark 1, The Pale Arc | 17,000 | 23 Cycles (2.1 Ancestor Cycles) |
-| Hamada-Kuu | mark 2, The Straight Line | 16,450 | 22 Cycles (2.0 Ancestor Cycles) |
-| Hamada-Kuu | mark 3, The Warm Point | 2,900 | 4 Cycles (0.4 Ancestor Cycles) |
-| Bundok-Kuu | mark 4, The Ring | 13,700 | 18 Cycles (1.7 Ancestor Cycles) |
-| Bundok-Kuu | mark 5, The Mark that Moved | 2,200 | 3 Cycles (0.3 Ancestor Cycles) |
-| Hamada-Kuu | mark 6, The Light | 13,700 | 18 Cycles (1.7 Ancestor Cycles) |
+| Hamada-Kuu | the south pole | 7,000 | 9 Cycles (0.9 years) |
+| Bundok-Kuu | the north pole | 7,000 | 9 Cycles (0.9 years) |
+| Hamada-Kuu | the point opposite the Bahari | 17,000 | 23 Cycles (2.2 years) |
+| Hamada-Kuu | mark 1, The Pale Arc | 17,000 | 23 Cycles (2.2 years) |
+| Hamada-Kuu | mark 2, The Straight Line | 16,450 | 22 Cycles (2.1 years) |
+| Hamada-Kuu | mark 3, The Warm Point | 2,900 | 4 Cycles (0.4 years) |
+| Bundok-Kuu | mark 4, The Ring | 13,700 | 18 Cycles (1.8 years) |
+| Bundok-Kuu | mark 5, The Mark that Moved | 2,200 | 3 Cycles (0.3 years) |
+| Hamada-Kuu | mark 6, The Light | 13,700 | 18 Cycles (1.8 years) |
 
 The caravan times use the rule of the Gazetteer: 25 km in a day of travel, and one day of rest in seven. They do not count water: nobody knows of any on the Far Edge.
 
@@ -875,7 +875,7 @@ The names that these replace in older texts are listed in CANON_REMAPPING.md, in
   - The Night Side: the seventy major Deepkin communities by region, the Deep Roads and their gates, five entrances without a name, and names for the fourteen largest communities after Pango-Liwanag.
   - New chapter The Far Edge: the ring and its alama, the two blind arcs, the ground that the old images show, and six unexplained marks with open readings.
 - 1.4.0: The surging ice, falling wind, and Bantay-Hanga. These come from the novel The Weight of Wind.
-  - Wind and Storms: new section The Surging Ice (the ice tongue nightward of Liko-Luŋga surges about once in 200 Ancestor Cycles, the night wall advances with it, and the river shows the first sign) and new section Falling Wind (cold air that spills over the nightward scarp of the rift and stays on its floor).
+  - Wind and Storms: new section The Surging Ice (the ice tongue nightward of Liko-Luŋga surges about once in 200 years, the night wall advances with it, and the river shows the first sign) and new section Falling Wind (cold air that spills over the nightward scarp of the rift and stays on its floor).
   - New entry Bantay-Hanga, the weatherworking guild house of Liko-Luŋga, on the scarp about 12 kilometers nightward of the town. It is in the Strip Table, the storm exposure classes and the Index of Names.
   - Liko-Luŋga: its place in the lee of the scarp, its halt on the main Whisper Road and its river fishers.
 - 1.5.0: The Night Side: new section Open Cases at the Gates, with one open dispute between Deepkin and Twilight Belters at each of three gates: the cores of Motowan (maintenance), the ice of Cheŋ-Angataa (ice quota) and the draught of Tafki-Kuu (weatherworking near a gate). The author confirmed the three cases. They follow the three kinds of dispute of Compendium 2.2.0, Chapter 08.
@@ -884,6 +884,7 @@ The names that these replace in older texts are listed in CANON_REMAPPING.md, in
   - The atlas in the geodata folder has five supporting sheets: the heights, warmth and water, the wind and the storms, the Far Edge, and the local sheet Liko-Luŋga and Bantay-Hanga.
 - 1.5.2: This Gazetteer is now the only source for places. The settlement profiles and the phenomenon profiles of worldbuilding/ (settlements/, natural_phenomena/) are removed, and the sentence that pointed to them is removed from the Introduction.
   - The Storm Walls: what a wall is for a traveler (pressure shifts, debris, blind instruments, disturbed psychic senses, the taste of copper), what the walls give, and the standing of a crossing. The rules of a crossing stay in the Compendium.
+- 1.5.3: Compendium 2.5.0: the year (*mwaka*, 365 days) replaces the Ancestor Cycle. The times to the Far Edge are given again in years (365 days); the surge of the ice tongue was a little more than 200 years ago.
 
 # License
 

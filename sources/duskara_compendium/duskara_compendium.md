@@ -1,9 +1,9 @@
 ---
 title: Duskara Compendium
 subtitle: Main Setting Book
-version: 2.4.0
-date: 2026-10-09
-latest_update: "Content of the retired worldbuilding folders moved into the chapters: storm hunters, thermal flares, the Aurora Veil Festival, Wardens, mediation."
+version: 2.5.0
+date: 2026-10-14
+latest_update: "The year (mwaka, 365 days) replaces the Ancestor Cycle."
 
 
 ---
@@ -12,7 +12,7 @@ latest_update: "Content of the retired worldbuilding folders moved into the chap
 
 ## Overview
 
-In the year 2137, the colony ship Stellar Horizon departed Earth bound for Kepler-442b. After a critical malfunction in their navigation systems during a stellar storm, the ship drifted off course for decades while its passengers slept in cryogenic stasis. When the emergency systems finally initiated revival protocols, they found themselves approaching an unknown star system. With failing life support and no way to correct their course, they were forced to land on Duskara - a tidally locked world that barely met the minimum requirements for human survival. Now, some eight hundred Ancestor Cycles later, their descendants struggle to piece together their past while forging a future on this harsh but beckoning world.
+In the year 2137, the colony ship Stellar Horizon departed Earth bound for Kepler-442b. After a critical malfunction in their navigation systems during a stellar storm, the ship drifted off course for decades while its passengers slept in cryogenic stasis. When the emergency systems finally initiated revival protocols, they found themselves approaching an unknown star system. With failing life support and no way to correct their course, they were forced to land on Duskara - a tidally locked world that barely met the minimum requirements for human survival. Now, some eight hundred years later, their descendants struggle to piece together their past while forging a future on this harsh but beckoning world.
 
 In the narrow band between eternal day and endless night, humanity clings to existence on Duskara. This tidally locked world was never meant to be their home - they are the descendants of a colony ship that went terribly off course generations ago. The exact circumstances of their arrival are lost to time, though fragments of their history persist in shared memories and sacred data crystals.
 
@@ -48,7 +48,7 @@ Yet for all its harshness, Duskara is home. Its people have developed a deep con
 
 - **~2305 CE (Cycle 1,124)**: Settlements stabilize along the 200-300 km-wide twilight band, forming linear cities. A reliance on geothermal and wind energy begins to take root as foundational technology.
 
-- **~2360 CE (Cycle 1,686)**: Genetic and environmental adaptations to Duskara’s radiation emerge, including latent psychic abilities such as weather working and thermal sensing. For about a hundred Ancestor Cycles the settlements disagree about what the abilities are and who should control them (see [From Sickness to Guild](#from-sickness-to-guild)).
+- **~2360 CE (Cycle 1,686)**: Genetic and environmental adaptations to Duskara’s radiation emerge, including latent psychic abilities such as weather working and thermal sensing. For about a hundred years the settlements disagree about what the abilities are and who should control them (see [From Sickness to Guild](#from-sickness-to-guild)).
 
 - **~2465 CE (Cycle 2,810)**: The concept of "The Awakening" solidifies, recognizing the psychic abilities among Duskarans as both practical tools and spiritual gifts. Weatherworking guilds and other specialized roles are institutionalized.
 
@@ -58,7 +58,7 @@ Yet for all its harshness, Duskara is home. Its people have developed a deep con
 
 - **~2980 CE (Cycle 8,205)**: The Thirst Wars. Three major cities withhold water exports, and the embargoes and skirmishes that follow nearly dissolve the Accord before Wayseers broker the Bahari Compact.
 
-- **3000 CE (Cycle 8,430):** Present Day. Some eight hundred Ancestor Cycles after landfall, Duskaran society is a blend of ancestral Earth traditions and unique adaptations. Psychic abilities, resource scarcity, and environmental challenges continue to shape cultural and technological innovations. The mysteries of Duskara, including its ancient structures and unexplained phenomena, remain central to exploration and survival efforts.
+- **3000 CE (Cycle 8,430):** Present Day. Some eight hundred years after landfall, Duskaran society is a blend of ancestral Earth traditions and unique adaptations. Psychic abilities, resource scarcity, and environmental challenges continue to shape cultural and technological innovations. The mysteries of Duskara, including its ancient structures and unexplained phenomena, remain central to exploration and survival efforts.
 
 CE dates are approximate conversions for the reader. Duskarans count only in Cycles (see [Calendar and Time-Keeping](#calendar-and-time-keeping)).
 
@@ -303,13 +303,13 @@ Duskara supports approximately 40 million inhabitants across the twilight belt a
 
 Mid-sized communities, numbering in the dozens across the habitable zone, range from 30,000 to 100,000 inhabitants. These settlements often specialize in specific resources or industries: agricultural hubs, mining outposts, or weatherworking academies. The remaining 20% of Duskara's population dwells in cave systems on the night side, with about seventy major communities clustered around geothermal vents. These range from 50,000 to 150,000 residents, with several dozen smaller outposts serving as way-stations or mining camps. Their population is constrained by available geothermal warmth and subsurface water access.
 
-Population growth is tightly regulated through birth quotas, a necessary response to the planet's carrying capacity. The original landing population, likely no more than a few thousand survivors from the Stellar Horizon, has grown steadily but sustainably over eight hundred Ancestor Cycles. Environmental disasters, resource crises, and periodic die-offs from superstorms or auroral disruptions have prevented unchecked expansion, maintaining a precarious balance between survival and prosperity.
+Population growth is tightly regulated through birth quotas, a necessary response to the planet's carrying capacity. The original landing population, likely no more than a few thousand survivors from the Stellar Horizon, has grown steadily but sustainably over eight hundred years. Environmental disasters, resource crises, and periodic die-offs from superstorms or auroral disruptions have prevented unchecked expansion, maintaining a precarious balance between survival and prosperity.
 
 ## Duskaran Phenotype
 
-Eight hundred Ancestor Cycles of interbreeding among the people of the *Stellar Horizon*, African settlers and an Asian crew, has produced a phenotypically unified population. Duskarans display blended traits reflecting both ancestral heritages: varied brown skin tones, diverse hair textures, and facial features that defy Earth's old continental categories. Individual variation exists within this baseline, but the distinction between "African" and "Asian" features has dissolved into a distinctly Duskaran appearance.
+Eight hundred years of interbreeding among the people of the *Stellar Horizon*, African settlers and an Asian crew, has produced a phenotypically unified population. Duskarans display blended traits reflecting both ancestral heritages: varied brown skin tones, diverse hair textures, and facial features that defy Earth's old continental categories. Individual variation exists within this baseline, but the distinction between "African" and "Asian" features has dissolved into a distinctly Duskaran appearance.
 
-Cave dwellers and twilight belters share these same traits. Despite cultural divergence between surface and subterranean communities, the populations remain too interconnected through trade, marriage, and the Duskaran Accord for separate phenotypes to emerge. The minor environmental adaptations (enhanced low-light vision in cave populations, slightly altered circadian rhythms, marginal increases in lung capacity) layer onto this shared baseline rather than creating distinct subspecies. After only 800 Ancestor Cycles with continued gene flow, Duskarans remain one people, physically united even when geographically separated.
+Cave dwellers and twilight belters share these same traits. Despite cultural divergence between surface and subterranean communities, the populations remain too interconnected through trade, marriage, and the Duskaran Accord for separate phenotypes to emerge. The minor environmental adaptations (enhanced low-light vision in cave populations, slightly altered circadian rhythms, marginal increases in lung capacity) layer onto this shared baseline rather than creating distinct subspecies. After only 800 years with continued gene flow, Duskarans remain one people, physically united even when geographically separated.
 
 ## Daily Life in the Twilight Belt and Deep Roads
 
@@ -509,7 +509,7 @@ The unique radiation patterns emitted by Duskara’s star and the planet’s ext
 
 ## From Sickness to Guild
 
-The abilities did not come in one generation, and at first they had no name. About a hundred Ancestor Cycles lie between the first recorded cases (Cycle 1,686) and the guilds (Cycle 2,810). The Archivists keep the record of that time and teach it in five steps.
+The abilities did not come in one generation, and at first they had no name. A hundred and seven years lie between the first recorded cases (Cycle 1,686) and the guilds (Cycle 2,810). The Archivists keep the record of that time and teach it in five steps.
 
 1. **The sickness.** The first signs were read as illness. A child had headaches that no healer could explain, and knew where the warm pipe ran behind a wall. Another wept before a storm that no instrument had seen. Healers called it wind fever. The Archivists counted the cases, and the count showed that these children were right too often for chance.
 2. **The disagreement.** Each settlement decided alone, and the settlements did not decide the same thing. Some households hid a child with an ability. Some councils kept such people away from the valves and the turbines. Other settlements gave them the first cup at the meal. The faith (*dini*) had no teaching for this. In two or three generations it found one: the ancestors are in the wind, and they had begun to answer. The name *Mwamko*, the Awakening, comes from that reading.
@@ -517,7 +517,7 @@ The abilities did not come in one generation, and at first they had no name. Abo
 4. **The misuse.** There was no rule and no teacher, and some people with an ability did harm. A water-finder named a source that was not there, and a caravan went into dry country to find it. A person with a strong ability pressed a council toward one decision, and the council did not know. The words *majithiva* and *hangakora* are from this time. So are the first cases of burnout and the first Weather Wraiths, which came from people who worked alone and without training.
 5. **The answer.** The settlements tied the ability to a duty. Weatherworkers of several cities agreed on three rules, and the guilds still keep them: an examination before a person can work for others, numbered grades in the manner of the ship's officers, and an oath. The oath says that the ability serves the settlement, and that nobody uses it on a person who has not agreed. Work in groups became the rule, because work alone had done the damage. In Cycle 2,810 the councils recognized the guilds. The custom that a council has members with an ability and members without one is of the same date.
 
-No settlement expelled its people for an ability, and none made them rulers. Both were proposed in those hundred Ancestor Cycles, and the record keeps the names of the councils that said no.
+No settlement expelled its people for an ability, and none made them rulers. Both were proposed in those hundred years, and the record keeps the names of the councils that said no.
 
 ## Thermal Sensing
 
@@ -612,7 +612,7 @@ Living in perpetual darkness has fostered exceptional psychic abilities among th
 
 Generations under Duskara's radiation and environmental extremes have left subtle marks on human physiology beyond psychic gifts. Duskarans born in the twilight belt often display increased melanin production and reflective eye structures that filter harsh light more efficiently. Cave-dwelling populations show enhanced low-light vision and slightly altered circadian rhythms, though not to the extent of true night-adaptation.
 
-Lung capacity has increased marginally across all populations to compensate for the planet's thinner atmospheric regions near the day side, while those living in perpetually cold zones exhibit higher metabolic rates and subcutaneous fat distribution patterns. These changes are minor (Duskarans remain unmistakably human) but represent the early stages of environmental adaptation that, given thousands of Ancestor Cycles, might result in more pronounced divergence.
+Lung capacity has increased marginally across all populations to compensate for the planet's thinner atmospheric regions near the day side, while those living in perpetually cold zones exhibit higher metabolic rates and subcutaneous fat distribution patterns. These changes are minor (Duskarans remain unmistakably human) but represent the early stages of environmental adaptation that, given thousands of years, might result in more pronounced divergence.
 
 For the cultural context of these adaptations, see [Cave-Dwellers](#cave-dwellers).
 
@@ -626,7 +626,7 @@ Earth exists in collective memory as a distant abstraction rather than a mourned
 
 ## What Came from Earth
 
-Duskaran culture has three sources: what the settlers carried, what the crew carried, and what the planet demanded. After eight hundred Ancestor Cycles, no Duskaran can separate them, but an Archivist can still trace the roots.
+Duskaran culture has three sources: what the settlers carried, what the crew carried, and what the planet demanded. After eight hundred years, no Duskaran can separate them, but an Archivist can still trace the roots.
 
 ### The Settlers
 
@@ -657,13 +657,13 @@ A trace of the old division survives in a proverb: "The ship people knew the way
 
 ### The Old Faiths
 
-Most settlers were Christian or Muslim, and so was most of the Filipino crew. Many of the Chinese crew kept household rites for their ancestors. None of these faiths survives as a separate community, and nobody ended them. Their calendars followed a sun and a moon that Duskara does not have. Their holy places were beyond reach. Their books survived only in fragments. Over the first hundred Ancestor Cycles, practice by practice, they merged with each other and with the new reverence for wind and water. Duskarans call the result simply *dini*, "the faith".
+Most settlers were Christian or Muslim, and so was most of the Filipino crew. Many of the Chinese crew kept household rites for their ancestors. None of these faiths survives as a separate community, and nobody ended them. Their calendars followed a sun and a moon that Duskara does not have. Their holy places were beyond reach. Their books survived only in fragments. Over the first hundred years, practice by practice, they merged with each other and with the new reverence for wind and water. Duskarans call the result simply *dini*, "the faith".
 
 What remains:
 
 - **The five bells.** The prayer calls of the settlers and the watch bells of the ship became one custom. A settlement rings five loud bells in each waking period. They mark the work shifts, and many people stop at each bell for one breath and one word of thanks. The first bell is *sori*, and the fifth is the last bell. Five soft bells follow in the rest period, one stroke each, for the watch: this is the part that came from the ship. A day has ten bells, and a bell is also a span of time, a little less than two and a half hours.
 - **Facing the wind.** Nobody knows the direction of any holy place. A person who prays turns the face to the wind.
-- ***Saumu*.** Once in each Ancestor Cycle, many households keep one Cycle in which they eat only after the last bell. It is a household custom, and no council enforces it.
+- ***Saumu*.** Once in each year, many households keep one Cycle in which they eat only after the last bell. It is a household custom, and no council enforces it.
 - ***Sadaka*.** A gift of water to someone who has less, given without a witness.
 - **The blessing before food and the name tablets.** The water-blessing at each meal was once a grace. In many households, most of all in the north, a shelf holds tablets with the names of the dead.
 - **Words and names.** *Ibada* (worship), *baraka* (blessing) and *omba* (pray) are the old religious words of Swahili. Names such as Amina, Idris, Dauda and Mairo were the names of holy people.
@@ -800,7 +800,7 @@ Cave settlements, by contrast, are governed by Warmth Circles, smaller councils 
 
 ## Overarching Political Structure
 
-The Duskaran Accord serves as a loose confederation connecting the twilight cities and cave settlements. This overarching structure is upheld by the Wind and Water Assembly, a body that convenes once each Ancestor Cycle or during crises at a central location in the twilight zone. Delegates from each settlement gather alongside Wayseers, neutral psychic adepts skilled in conflict resolution, to address shared concerns. 
+The Duskaran Accord serves as a loose confederation connecting the twilight cities and cave settlements. This overarching structure is upheld by the Wind and Water Assembly, a body that convenes once each year or during crises at a central location in the twilight zone. Delegates from each settlement gather alongside Wayseers, neutral psychic adepts skilled in conflict resolution, to address shared concerns. 
 
 The Assembly operates through a tiered delegation system: major city-states hold permanent seats, while smaller settlements send rotating representatives chosen by regional coalitions. This ensures all voices are heard without overwhelming the convocations.
 
@@ -924,7 +924,9 @@ Without the diurnal rhythm of sunrise and sunset, Duskarans measure long-term ti
 
 The Cycle serves as Duskara's fundamental chronological unit, tracked since the **Cycle of Landfall** (designated Cycle 0, equivalent to about 2200 CE in Earth reckoning). Ancient star charts preserved from the Stellar Horizon, combined with ongoing astronomical observations by Archivists, maintain the count. Mechanical orreries in major settlements display Duskara's orbital position, their slow rotation a tangible measure of time's passage in a world without changing skies.
 
-For everyday purposes, Duskarans still reference **Wind Phases** (lasting from a few days to most of a Cycle) and the predictable **Auroral Rhythms** of the night side. The Cycle provides the bridge between immediate experience and historical timekeeping, with roughly **11 Cycles comprising an Ancestor Cycle**, the customary span closest to an Earth year. The figure is a rounded convention, not an exact conversion. This longer measure honors the generations that have passed since landfall, connecting each living Duskaran to the legacy of those who came before.
+For everyday purposes, Duskarans still reference **Wind Phases** (lasting from a few days to most of a Cycle) and the predictable **Auroral Rhythms** of the night side. The Cycle provides the bridge between immediate experience and historical timekeeping.
+
+The longer measure is the **year** (*mwaka*), the standard year that the *Stellar Horizon* brought from Earth: 365 days. A year is about 10.5 Cycles. In everyday speech people say "eleven Cycles to the year", and nobody corrects them. The Archivists keep the exact count: they count the days by the bells from the day of landfall, and they mark the start of each year on the day count and on the orrery. The year has no sign in the sky or in the wind. Duskarans keep it because the ancestors brought it, and an adult gives their age in years (a child gives it in Cycles).
 
 Major events are dated in Cycles: the founding of the first settlement on the Bahari (Cycle 127), the rediscovery of the Deep Roads (Cycle 6,182), the establishment of the Duskaran Accord (Cycle 7,306), the Thirst Wars (Cycle 8,205). Ages and contracts are counted in Cycles too. This system reinforces Duskaran identity: time is measured not by a distant sun's rise and fall, but by their own world's patient dance through the void.
 
@@ -934,7 +936,7 @@ Time in Duskara is punctuated by festivals and ceremonies that celebrate surviva
 
 ### The Storm Wall Festival
 
-Held every Ancestor Cycle during the height of storm activity, this festival honors the resilience of Duskaran settlements against the planet’s most powerful tempests. Communities gather for wind races and endurance challenges, testing their strength and adaptability. Storm chimes are crafted to commemorate past survivors, while stories of legendary figures who braved the Storm Wall are shared. The festival fosters unity and celebrates the indomitable spirit of Duskarans.
+Held once each year, at the first Storm Phase after the year begins, this festival honors the resilience of Duskaran settlements against the planet’s most powerful tempests. Communities gather for wind races and endurance challenges, testing their strength and adaptability. Storm chimes are crafted to commemorate past survivors, while stories of legendary figures who braved the Storm Wall are shared. The festival fosters unity and celebrates the indomitable spirit of Duskarans.
 
 ### The Gradient Feast
 
@@ -946,7 +948,7 @@ During periods of heightened auroral activity, the night side becomes a canvas f
 
 ### The Windcallers’ Rite
 
-Every few Ancestor Cycle, aligned with shifts in wind phases and auroral rhythms, the Windcallers’ Rite honors the psychic adepts and weatherworkers who protect and guide Duskaran settlements. Public demonstrations of weatherworking skills showcase their abilities, while ceremonial tools like resonance staffs are awarded to recognize their contributions. The initiation of new Windcallers symbolizes the continuity of this vital role in Duskaran society.
+Every few years, aligned with shifts in wind phases and auroral rhythms, the Windcallers’ Rite honors the psychic adepts and weatherworkers who protect and guide Duskaran settlements. Public demonstrations of weatherworking skills showcase their abilities, while ceremonial tools like resonance staffs are awarded to recognize their contributions. The initiation of new Windcallers symbolizes the continuity of this vital role in Duskaran society.
 
 ### The Hearth Renewal
 
@@ -954,7 +956,7 @@ In the coldest period of the night side, cave-dwellers gather for the Hearth Ren
 
 ### Ancestor’s Light
 
-At the start of each Ancestor Cycle, communities honor the original settlers of Duskara and their enduring legacy. Sacred data crystals recount the stories of the Stellar Horizon’s arrival, while ceremonial torches passed down through generations are lit in their memory. Performances reenacting the settlers’ journey inspire hope and resilience, connecting Duskarans to their shared history.
+At the start of each year, communities honor the original settlers of Duskara and their enduring legacy. Sacred data crystals recount the stories of the Stellar Horizon’s arrival, while ceremonial torches passed down through generations are lit in their memory. Performances reenacting the settlers’ journey inspire hope and resilience, connecting Duskarans to their shared history.
 
 ### Water’s Blessing Festival
 
@@ -1045,7 +1047,7 @@ Population control is another key aspect of resource management. Settlements enf
 
 ## Overview
 
-Life on Duskara, while deeply rooted in cooperation and interdependence, is not without disagreement and friction. The planet's harsh environment, coupled with its resource-driven economy and diverse cultural identities, fosters a range of ongoing tensions and philosophical debates. These disagreements manifest both between settlements and within individual communities. However, eight hundred Ancestor Cycles of learned cooperation have created elaborate institutional mechanisms to manage and resolve tensions before they escalate into violence.
+Life on Duskara, while deeply rooted in cooperation and interdependence, is not without disagreement and friction. The planet's harsh environment, coupled with its resource-driven economy and diverse cultural identities, fosters a range of ongoing tensions and philosophical debates. These disagreements manifest both between settlements and within individual communities. However, eight hundred years of learned cooperation have created elaborate institutional mechanisms to manage and resolve tensions before they escalate into violence.
 
 ## Between Different Settlements
 
@@ -1159,7 +1161,7 @@ Most importantly, violence, individual or collective, is not an accepted solutio
 
 ## Overview
 
-The harsh conditions of Duskara necessitate coordinated, specialized responses to environmental hazards, dangerous fauna, and psychic anomalies. Over eight hundred Ancestor Cycles, settlements have developed sophisticated community safety systems that integrate emergency response, fauna management, and psychic containment into the fabric of their collective survival. These systems are not military in character (there is no standing army, no hierarchical combat command, no preparation for inter-settlement warfare) but rather organized, trained responses to genuine and constant environmental threats.
+The harsh conditions of Duskara necessitate coordinated, specialized responses to environmental hazards, dangerous fauna, and psychic anomalies. Over eight hundred years, settlements have developed sophisticated community safety systems that integrate emergency response, fauna management, and psychic containment into the fabric of their collective survival. These systems are not military in character (there is no standing army, no hierarchical combat command, no preparation for inter-settlement warfare) but rather organized, trained responses to genuine and constant environmental threats.
 
 ## Threats Faced
 
@@ -1598,7 +1600,7 @@ Ancient data crystals from the Stellar Horizon preserve Earth languages in their
 
 ## Earth Loan Words
 
-Despite eight hundred Ancestor Cycles of linguistic evolution, certain Earth words have persisted in Duskaran vocabulary, though adapted to local phonetics. These survivals typically fall into three categories: technical terms with no native equivalent, concepts unique to Earth, and words of the English that crew and settlers shared, so embedded in daily work that they resisted replacement.
+Despite eight hundred years of linguistic evolution, certain Earth words have persisted in Duskaran vocabulary, though adapted to local phonetics. These survivals typically fall into three categories: technical terms with no native equivalent, concepts unique to Earth, and words of the English that crew and settlers shared, so embedded in daily work that they resisted replacement.
 
 **Technical Survivals**:
 
@@ -1635,7 +1637,7 @@ Children learn recitation early, participating in call-and-response patterns dur
 
 ### Hand-Signal System
 
-Silent communication in Duskara evolved from necessity but has become culturally elaborate. The original system, developed during the first generation's struggles with superstorms, consisted of perhaps twenty essential signals: danger, water, shelter, help. Eight hundred Ancestor Cycles later, the vocabulary has expanded to hundreds of gestures, with regional variations and specialized technical dialects.
+Silent communication in Duskara evolved from necessity but has become culturally elaborate. The original system, developed during the first generation's struggles with superstorms, consisted of perhaps twenty essential signals: danger, water, shelter, help. Eight hundred years later, the vocabulary has expanded to hundreds of gestures, with regional variations and specialized technical dialects.
 
 #### Basic Signal Categories
 
@@ -2037,7 +2039,7 @@ Words are combined to create new meanings.
 
 ## Overview
 
-A Duskaran name says where a person comes from. The *Stellar Horizon* carried some thousands of African settlers in cryogenic stasis, most from East Africa and a minority from West Africa, and a crew of a few hundred from Asia: Chinese officers and engineers, with Filipino ratings. English was the working language between them. Eight hundred Ancestor Cycles later, the names of all these peoples are still in use, worn down by the Creole and joined by new names made of Creole words.
+A Duskaran name says where a person comes from. The *Stellar Horizon* carried some thousands of African settlers in cryogenic stasis, most from East Africa and a minority from West Africa, and a crew of a few hundred from Asia: Chinese officers and engineers, with Filipino ratings. English was the working language between them. Eight hundred years later, the names of all these peoples are still in use, worn down by the Creole and joined by new names made of Creole words.
 
 There are no names in the English style. English gave the Creole a few working words (*kin*, *go*, *dok*), but nobody on the ship carried an English name into the new world.
 
@@ -2136,7 +2138,7 @@ A line name passes from parent to child. Either parent's line may be chosen. The
 
 ### Ship Lines
 
-Family names that came from Earth. They no longer show what a person looks like or where a person lives: after eight hundred Ancestor Cycles, every Duskaran has ancestors from all the peoples of the ship.
+Family names that came from Earth. They no longer show what a person looks like or where a person lives: after eight hundred years, every Duskaran has ancestors from all the peoples of the ship.
 
 **Chinese**: Chen, Gao, Hu, Jao, Jaŋ, Li, Lin, Lu, Shen, Shu, Sun, Tan, Waŋ, Wu, Yaŋ
 
@@ -2320,6 +2322,10 @@ Names are given in infancy and can be amended or expanded when a person shows a 
   - The Twilight Belt (Chapter 02): the belt is 300 kilometers wide on the settled arc, as in the Gazetteer.
   - Calendar (Chapter 10): ages and contracts are counted in Cycles.
   - Dates: canon_dates.json names the Bahari, not Lake Auran, for Cycle 127.
+- 2.5.0: The year replaces the Ancestor Cycle.
+  - Calendar (Chapter 10): the longer unit is the year (*mwaka*), the standard year of 365 days that the ship brought. It is about 10.5 Cycles; "eleven Cycles" is the everyday figure. The Archivists count the days from landfall and keep the year exact. The year has no sign in the sky or the wind. The Storm Wall Festival is held at the first Storm Phase after the year begins, because the storms do not follow the year. Ancestor's Light opens the year.
+  - All chapters: "Ancestor Cycle" is now "year". The Awakening took a hundred and seven years (Cycle 1,686 to Cycle 2,810). The CE dates of the timeline already used 34.7 days to a Cycle and do not change.
+  - Tooling: scripts/check_compendium.py no longer flags "year", "yearly" or "annual", and flags "Ancestor Cycle" as superseded.
 
 # License
 
