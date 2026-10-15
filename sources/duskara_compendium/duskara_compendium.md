@@ -1,9 +1,9 @@
 ---
 title: Duskara Compendium
 subtitle: Main Setting Book
-version: 2.6.1
-date: 2026-10-14
-latest_update: "Daywalkers removed."
+version: 2.6.2
+date: 2026-10-15
+latest_update: "The year is an Archivist's word; ages in Cycles."
 
 
 ---
@@ -934,7 +934,7 @@ The Cycle serves as Duskara's fundamental chronological unit, tracked since the 
 
 For everyday purposes, Duskarans still reference **Wind Phases** (lasting from a few days to most of a Cycle) and the predictable **Auroral Rhythms** of the night side. The Cycle provides the bridge between immediate experience and historical timekeeping.
 
-The longer measure is the **year** (*mwaka*), the standard year that the *Stellar Horizon* brought from Earth: 365 days. A year is about 10.5 Cycles. In everyday speech people say "eleven Cycles to the year", and nobody corrects them. The Archivists keep the exact count: they count the days by the bells from the day of landfall, and they mark the start of each year on the day count and on the orrery. The year has no sign in the sky or in the wind. Duskarans keep it because the ancestors brought it, and an adult gives their age in years (a child gives it in Cycles).
+The longer measure is the **year** (*mwaka*), the standard year that the *Stellar Horizon* brought from Earth: 365 days. A year is about 10.5 Cycles. In everyday speech people say "eleven Cycles to the year", and nobody corrects them. The Archivists keep the exact count: they count the days by the bells from the day of landfall, and they mark the start of each year on the day count and on the orrery. The year has no sign in the sky or in the wind. Duskarans keep it because the ancestors brought it, but the year is an Archivist's word: they use it to date records and to measure long spans in the archive. Nobody else uses it in everyday speech. People give their age, and any span of their own lives, in Cycles.
 
 Major events are dated in Cycles: the founding of the first settlement on the Bahari (Cycle 127), the rediscovery of the Deep Roads (Cycle 6,182), the establishment of the Duskaran Accord (Cycle 7,306), the Thirst Wars (Cycle 8,205). Ages and contracts are counted in Cycles too. This system reinforces Duskaran identity: time is measured not by a distant sun's rise and fall, but by their own world's patient dance through the void.
 
@@ -2345,6 +2345,8 @@ Names are given in infancy and can be amended or expanded when a person shows a 
   - Conservation (Chapter 03): energy is no longer listed as scarce; finished materials are. Waste is a theft from the neighbor and from the next generation.
   - The rule that makes no exceptions (Chapter 12): the example of a child going cold under the heating allocation is now a sick child who needs more than the water measure, since energy is plentiful.
   - A broken sentence on mining drones in Chapter 11 is repaired. Daybook 0.5.3 follows the water changes.
+- 2.6.2: The year is an Archivist's word.
+  - Calendar (Chapter 10): the Archivists use the year to date records and to measure long spans in the archive. Nobody else uses it in everyday speech; people give their age, and any span of their own lives, in Cycles. The text said that an adult gives their age in years.
 
 # License
 
