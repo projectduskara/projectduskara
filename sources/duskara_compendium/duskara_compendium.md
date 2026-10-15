@@ -1,9 +1,9 @@
 ---
 title: Duskara Compendium
 subtitle: Main Setting Book
-version: 2.6.2
+version: 2.7.0
 date: 2026-10-15
-latest_update: "The year is an Archivist's word; ages in Cycles."
+latest_update: "Contradictions resolved: the landing, the four gifts, the Thread, the wind rail, the Deep Roads, the star's breath, the councils."
 
 
 ---
@@ -12,13 +12,13 @@ latest_update: "The year is an Archivist's word; ages in Cycles."
 
 ## Overview
 
-In the year 2137, the colony ship Stellar Horizon departed Earth bound for Kepler-442b. After a critical malfunction in their navigation systems during a stellar storm, the ship drifted off course for decades while its passengers slept in cryogenic stasis. When the emergency systems finally initiated revival protocols, they found themselves approaching an unknown star system. With failing life support and no way to correct their course, they were forced to land on Duskara - a tidally locked world that barely met the minimum requirements for human life. Now, some eight hundred years later, their descendants piece together their past while they build a future on this hard but beckoning world.
+In the year 2137, the colony ship Stellar Horizon departed Earth bound for Kepler-442b. After a critical malfunction in their navigation systems during a stellar storm, the ship drifted off course for decades while its passengers slept in cryogenic stasis. When the emergency systems finally initiated revival protocols, they found themselves approaching an unknown star system. With failing life support and no way to correct their course, the crew brought the ship down in a controlled emergency landing on Duskara, a tidally locked world that barely met the minimum requirements for human life. The ship came down whole, and its stores and fabricators became the seed of the colony. Now, some eight hundred years later, their descendants piece together their past while they build a future on this hard but beckoning world.
 
 In the narrow band between eternal day and endless night, humanity has made a home on Duskara. This tidally locked world was never meant to be their home - they are the descendants of a colony ship that went terribly off course generations ago. The exact circumstances of their arrival are lost to time, though fragments of their history persist in shared memories and sacred data crystals.
 
 Here, in a habitable zone barely 300 kilometers wide that circles the planet's meridian, civilization runs along a single arc, some 6,000 kilometers from end to end. To one side lies the day face - an expanse of radiation-blasted rock where temperatures climb past 200°C. To the other stretches the night face - a frozen wasteland of ice and darkness, broken only by the faint glow of aurora and the dim red light of geothermal vents in deep caverns.
 
-The eternal wind howls between these extremes, spawning massive storms where hot and cold air masses clash. Humans have adapted here, and they have changed. The extreme conditions and unknown radiations have awakened latent psychic abilities: thermal sensing, weather working, and the deep bonding that connects them to Duskara's native life forms.
+The eternal wind howls between these extremes, spawning massive storms where hot and cold air masses clash. Humans have adapted here, and they have changed. Within a few generations latent psychic abilities awakened in them, for reasons nobody knows: thermal sensing, weather working, water finding, and the deep bonding that connects them to Duskara's native life forms.
 
 Their settlements form a chain along the twilight band, each one built to turn the wind, with soaring towers and deep roots. In the great caves of the night side, other communities gather around geothermal warmth, developing their own distinct culture. They are all bound together by their mastery of wind and water - every drop precious, every breeze understood.
 
@@ -42,23 +42,23 @@ For all its extremes, Duskara is home. Its people have developed a deep connecti
 
 - **Mid-2100s CE**: During the voyage, a stellar storm causes critical damage to navigation systems, leaving the ship adrift in space.
 
-- **~2200 CE (Cycle 0)**: The *Stellar Horizon* emergency systems revive the passengers near an unknown star system. With life support failing, the crew redirects the ship to a tidally locked planet, later named Duskara.
+- **~2200 CE (Cycle 0)**: The *Stellar Horizon* emergency systems revive the passengers near an unknown star system. With life support failing, the crew redirects the ship to a tidally locked planet, later named Duskara, and brings it down in a controlled emergency landing.
 
 - **~2255 CE (Cycle 562)**: Settlement spreads from the first lakeshore communities on the Bahari into the wider twilight zone of Duskara. The first generations learn the wind, the water, and the extremes of the day and night sides.
 
-- **~2305 CE (Cycle 1,124)**: Settlements stabilize along the 200-300 km-wide twilight band, forming linear cities. A reliance on geothermal and wind energy begins to take root as foundational technology.
+- **~2305 CE (Cycle 1,124)**: Settlements stabilize along the 300 km-wide twilight band of the Living Edge, forming linear cities. A reliance on geothermal and wind energy begins to take root as foundational technology.
 
-- **~2360 CE (Cycle 1,686)**: Genetic and environmental adaptations to Duskara’s radiation emerge, including latent psychic abilities such as weather working and thermal sensing. For about a hundred years the settlements disagree about what the abilities are and who should control them (see [From Sickness to Guild](#from-sickness-to-guild)).
+- **~2360 CE (Cycle 1,686)**: The first psychic abilities appear, such as weather working and thermal sensing. Their cause is unknown. For about a hundred years the settlements disagree about what the abilities are and who should control them (see [From Sickness to Guild](#from-sickness-to-guild)).
 
 - **~2465 CE (Cycle 2,810)**: The concept of "The Awakening" solidifies, recognizing the psychic abilities among Duskarans as both practical tools and spiritual gifts. Weatherworking guilds and other specialized roles are institutionalized.
 
-- **~2785 CE (Cycle 6,182)**: The societal structures of the twilight belt cities and night-side cave settlements diverge significantly. The Deep Roads, tunnel networks begun by early settlers but abandoned during the consolidation period, are rediscovered and expanded for trade and communication.
+- **~2785 CE (Cycle 6,182)**: The Deep Roads, dug by the Deepkin one generation after another, join the cave settlements to the twilight cities along the whole arc, and trade between belt and caves becomes regular. The societal structures of the twilight belt cities and night-side cave settlements diverge significantly.
 
 - **~2895 CE (Cycle 7,306)**: The Duskaran Accord is established to manage inter-settlement relations, resource distribution, and defense against environmental hazards. This confederation solidifies cooperation across the twilight belt and cave settlements.
 
 - **~2980 CE (Cycle 8,205)**: The Thirst Wars. Three major cities withhold water exports, and the embargoes and skirmishes that follow nearly dissolve the Accord before Wayseers broker the Bahari Compact.
 
-- **3000 CE (Cycle 8,430):** Present Day. Some eight hundred years after landfall, Duskaran society is a blend of ancestral Earth traditions and unique adaptations. Psychic abilities, the care of water and matter, and the extremes of the planet continue to shape its culture and technology. The mysteries of Duskara, including its ancient structures and unexplained phenomena, remain open questions for explorers and scholars.
+- **3000 CE (Cycle 8,430):** Present Day. Some eight hundred years after landfall, Duskaran society is a blend of ancestral Earth traditions and unique adaptations. Psychic abilities, the care of water and matter, and the extremes of the planet continue to shape its culture and technology. The mysteries of Duskara, from the cause of the Awakening to the Far Edge and its unexplained marks, remain open questions for explorers and scholars.
 
 CE dates are approximate conversions for the reader. Duskarans count only in Cycles (see [Calendar and Time-Keeping](#calendar-and-time-keeping)).
 
@@ -162,7 +162,7 @@ CE dates are approximate conversions for the reader. Duskarans count only in Cyc
 - **Severe Wind Patterns** → Massive storms at the day-night interface  
 - **Water as a Flow** → Much passes through, little stays; catching, cleaning and sharing water is the core work of every settlement  
 - **Rich in Energy, Poor in Matter** → Wind and geothermal power are plentiful; metal, parts and the capacity to make them are not  
-- **Radiation** → Day-side flux drives genetic and potential psychic adaptations  
+- **The Awakening** → Psychic gifts of unknown origin shape work, law and faith  
 - **Geothermal Relief** → Vital for warming settlements in night-side caverns  
 
 # Environmental Zones
@@ -191,7 +191,7 @@ The twilight belt is the center of Duskara’s water cycle, with liquid water fl
 
 In stark contrast to the blazing day side, Duskara’s night side is a frozen wilderness. Temperatures plummet below -100°C (-148°F), and the landscape is dominated by vast ice sheets and frozen gas deposits. Occasional auroras cast faint, spectral light across the desolate expanse, offering rare glimpses of beauty in the frigid darkness. Beneath the surface, geothermal vents sustain pockets of liquid water and life, creating isolated oases amid the icy wasteland.
 
-Humans have made homes even here. Communities settle around geothermal vents and live on the heat and resources of these underground sanctuaries. Extensive cave systems, shielded from the harsh conditions above, are home to the Deepkin, night-side inhabitants who have developed unique cultural and technological adaptations. These isolated societies mine the caves for minerals, search for underground water sources, and uncover relics of ancient civilizations. The night side fosters a distinct sense of separation, its people embracing self-reliance and traditions forged in the shadow of the endless cold.
+Humans have made homes even here. Communities settle around geothermal vents and live on the heat and resources of these underground sanctuaries. Extensive cave systems, shielded from the harsh conditions above, are home to the Deepkin, night-side inhabitants who have developed unique cultural and technological adaptations. These societies mine the caves for minerals, search for underground water sources, and extend the tunnels that join them to each other and to the belt. The night side fosters a distinct sense of separation: its people govern themselves and keep traditions forged in the shadow of the endless cold, and they trade with the belt for what the caves cannot make.
 
 ## Connections Between Zones
 
@@ -199,7 +199,7 @@ The transition zones between Duskara’s day and night sides are turbulent and d
 
 Crossing a storm wall follows strict protocols set by the Accord and the Weatherworking Guilds. A caravan needs storm-braced vehicles, personal tethers for anyone outside during transit, a guide who knows the route, and at least one guild-certified weatherworker; it must also carry supplies to restock the beacon shelters along the way. The rules were formalized after the Great Loss of Cycle 7,984, when three major trade caravans vanished in a single unpredicted storm convergence. A successful crossing remains a rite of passage for traders and explorers.
 
-Subterranean networks, known as the Deep Roads, were excavated by the first generations of settlers to connect twilight and night-side communities. Partially abandoned during periods of resource crisis, these tunnels have been gradually reclaimed and expanded, connecting twilight and night-side communities. These ancient tunnels facilitate trade, resource exchange, and safe travel away from the extremes of the surface environment. Meanwhile, life forms within the twilight belt exhibit remarkable adaptability, with traits suited for both heat and cold, underscoring the planet’s evolutionary diversity and the interconnected nature of its environmental zones.
+The Deep Roads are tunnels that the Deepkin dug one generation after another, to join the caves of the night side to each other and to the twilight cities. They are never finished: each generation extends them and keeps them in repair. They carry trade, resource exchange, and safe travel away from the extremes of the surface environment. Meanwhile, life forms within the twilight belt exhibit remarkable adaptability, with traits suited for both heat and cold, underscoring the planet’s evolutionary diversity and the interconnected nature of its environmental zones.
 
 # The Twilight Belt
 
@@ -283,7 +283,7 @@ Natural amphitheaters where three wind currents converge become focal points for
 
 Sacred sites such as Wind Temples rise at key wind-focal points, where spirituality and environmental observation converge. Storm Sanctuaries, reinforced shelters scattered across the belt, stand ready to protect travelers and settlers from the region’s unpredictable superstorms.
 
-Travel is slow. A caravan needs ten to twelve days between adjacent major cities, and about four Cycles from either end of the arc to the Bahari. The Whisper Roads cover the same distances in about two days and about twenty days under good conditions. This isolation fosters distinct local cultures and makes inter-settlement politics a slow, deliberate process. Emergency communications rely on psychic relay chains or wind-signal beacons, but nuanced negotiations demand face-to-face envoy exchanges, adding Cycles to diplomatic resolutions.
+Travel is slow. A caravan needs ten to twelve days between adjacent major cities, and about four Cycles from either end of the arc to the Bahari. The Whisper Roads cover the same distances in about two days and about twenty days under good conditions. This isolation fosters distinct local cultures and makes inter-settlement politics a slow, deliberate process. News travels faster than people: the Thread, a wire line beside the main Whisper Road, carries text from one end of the arc to the other in a day or two (see [Communication Technology](#communication-technology)). But Duskarans settle nothing by wire. An agreement needs the people in one room, and often a Wayseer to read them, so envoy exchanges still add Cycles to diplomatic resolutions.
 
 ## Waterways of the Twilight Belt
 
@@ -309,7 +309,7 @@ Population growth is tightly regulated through birth quotas, a necessary respons
 
 Eight hundred years of interbreeding among the people of the *Stellar Horizon*, African settlers and an Asian crew, has produced a phenotypically unified population. Duskarans display blended traits reflecting both ancestral heritages: varied brown skin tones, diverse hair textures, and facial features that defy Earth's old continental categories. Individual variation exists within this baseline, but the distinction between "African" and "Asian" features has dissolved into a distinctly Duskaran appearance.
 
-Cave dwellers and twilight belters share these same traits. Despite cultural divergence between surface and subterranean communities, the populations remain too interconnected through trade, marriage, and the Duskaran Accord for separate phenotypes to emerge. The minor environmental adaptations (enhanced low-light vision in cave populations, slightly altered circadian rhythms, marginal increases in lung capacity) layer onto this shared baseline rather than creating distinct subspecies. After only 800 years with continued gene flow, Duskarans remain one people, physically united even when geographically separated.
+Cave dwellers and twilight belters share these same traits. Despite cultural divergence between surface and subterranean communities, the populations remain too interconnected through trade, marriage, and the Duskaran Accord for separate phenotypes to emerge. The minor environmental adaptations (enhanced low-light vision in cave populations, slightly altered circadian rhythms, a little more body fat in the cold north) layer onto this shared baseline rather than creating distinct subspecies. After only 800 years with continued gene flow, Duskarans remain one people, physically united even when geographically separated.
 
 ## Daily Life in the Twilight Belt and Deep Roads
 
@@ -333,7 +333,7 @@ Life in cave settlements revolves around geothermal vents, the rhythms of subter
 
 **The early bells** begin in the thermal cultivation chambers, where Deepkin farmers tend bioluminescent fungi farms and heat-tolerant crops in soil enriched by geothermal minerals. The constant warmth of the deep vents is untouched by the shifting wind phases, allowing uninterrupted farming, a major advantage. Workers also tend to the thermal vents themselves, carefully maintaining water channels that carry precious heat and minerals throughout the settlement.
 
-**Midday** brings communal labor: maintenance of the Deep Roads tunnel systems, harvesting of rare crystals and minerals from surrounding rock, and the processing of geothermal minerals into usable forms. Deepkin miners descend even deeper into the planet's crust, seeking valuable resources and evidence of the mysterious ancient structures that occasionally appear in newly opened caverns. Thermal sensing specialists use their psychic gifts to map new caverns and predict geothermal instability.
+**Midday** brings communal labor: maintenance of the Deep Roads tunnel systems, harvesting of rare crystals and minerals from surrounding rock, and the processing of geothermal minerals into usable forms. Deepkin miners descend even deeper into the planet's crust, seeking ore, crystal and water, and cutting the next stretch of the Deep Roads. Thermal sensing specialists use their psychic gifts to map new caverns and predict geothermal instability.
 
 **Afternoon** includes trade preparation: goods destined for the Twilight Belt are packaged and moved toward the Deep Roads. This is also when Deepkin engage in skilled work: crafting bioluminescent art, creating specialized mining equipment, and maintaining the sophisticated water distribution systems that carry both warmth and precious liquid throughout cave settlements.
 
@@ -505,7 +505,11 @@ The Gradient Feast marks the optimal temperature window for long-distance travel
 
 ## The Awakening
 
-The unique radiation patterns emitted by Duskara’s star and the planet’s extreme environmental conditions have awakened latent psychic abilities within its human inhabitants. Known collectively as “The Awakening,” these abilities are now integral to both the work and the culture of Duskara. Each gift reflects an adaptation to the planet’s challenges, blending practicality with an almost mystical connection to the world.
+About a hundred and sixty years after landfall, latent psychic abilities began to appear among the people of Duskara. Known collectively as “The Awakening” (*Mwamko*), these abilities are now integral to both the work and the culture of Duskara. Each gift answers one of the planet's challenges, blending practicality with an almost mystical connection to the world.
+
+Nobody knows the cause. The Archivists teach three readings. The first looks to the star, whose light and flares are not those of the Sun. The second looks to the native life, which the settlers ate, breathed and lived among from the first Cycle. The third looks to the water, and to what the glaciers dissolve from the rock of the night side. The faith has its own reading: the ancestors are in the wind, and they began to answer. Each reading has its schools, and none has proof.
+
+There are four gifts: thermal sensing, weather working, deep bonding and water finding. The Deepkin train them into disciplines of their own for life in the dark (see [Deepkin Disciplines](#deepkin-disciplines)).
 
 ## From Sickness to Guild
 
@@ -539,15 +543,11 @@ Deep bonding is a telepathic connection that allows individuals to form empathic
 
 This ability is cultivated under the guidance of beastwalkers, experts who teach apprentices how to establish and nurture psychic bonds. Trust and mutual respect are essential, as the strength of the connection depends as much on emotional intelligence as on psychic power.
 
+Deep bonding is made for animals, but it can reach a human mind. The reach is weak. A bonder can push a feeling toward a person (calm, fear, trust) and can never read a thought. With consent this has honest uses: a bonder calms a panicked child in a storm shelter, or steadies a weatherworker through a hard working. Without consent it is *hangakora* (see [Cultural Impact](#cultural-impact)), and the oath forbids it.
+
 Because of their deep connection to native fauna, many Beastwalkers evolve into fierce conservation advocates or serve as **Preserve Wardens**. Their unique perspective allows them to sense ecosystem health through the experiences of their animal companions, making them critical players in maintaining Duskara's ecological balance.
 
 The death of a bonded companion is a recognized trauma. The surviving partner experiences "the silence," a sudden absence in their psychic landscape that can bring disorientation and physical pain. Mourning follows a common pattern. If possible, the partner keeps a vigil beside the dying creature; wild wind serpents sometimes gather for it and allow the human to join them. Afterward the partner crafts a bond-token from a scale, tooth, or claw and pours memory and grief into it. Wearing a bond-token signals deep mourning and draws gentle treatment from the community. Some eventually bury the token or return it to the wild as a final release; others wear it for life.
-
-## Shadow Walking
-
-Shadow walking is the art of navigating complete darkness using psychic awareness. Practitioners describe it as an intuitive sense of their surroundings, allowing them to detect obstacles, creatures, and spatial details without relying on sight. This ability is crucial for exploring Duskara’s sprawling cave systems and is equally valuable in rescue work and fauna management, enabling shadow walkers to reach trapped miners or slip past predators in pitch-black environments. They also assist in underground construction projects, offering unparalleled precision in unlit conditions.
-
-Training involves blind exercises, where apprentices learn to rely entirely on their psychic senses to solve complex puzzles or traverse mazes. Advanced shadow walkers can blend seamlessly into the darkness, becoming almost undetectable to predators and the other dangers of the deep.
 
 ## Water Finding
 
@@ -563,7 +563,7 @@ Yet reverence coexists with unease. Weatherworkers who can summon winds or water
 
 This tension is managed through cultural institutions: Weatherworking Guilds enforce strict ethical codes, psychic abilities are presented as communal responsibilities rather than personal advantages, and most settlements ensure that councils include both psychic and non-psychic representatives. The balance is delicate, and communities where psychics consolidate too much power risk internal fracture.
 
-This form of manipulation is known colloquially as generating "emotional weather" or, more formally, as *hangakora* (bad wind). A powerful psychic can broadcast a suffocating blanket of certainty, anxiety, or desire, making it difficult for those around them to think clearly or trust their own judgment. While difficult to prove, this subtle coercion is considered a grave ethical violation, as it undermines the core Duskaran value of individual autonomy. The most insidious practitioners convince their victims that this psychic pressure is a form of protection or care.
+This form of manipulation is known colloquially as generating "emotional weather" or, more formally, as *hangakora* (bad wind). It is deep bonding turned on a person who has not agreed. One push is weak, but a strong bonder who pushes for long enough can lay a suffocating blanket of certainty, anxiety, or desire over a room, making it difficult for those around them to think clearly or trust their own judgment. While difficult to prove, this subtle coercion is considered a grave ethical violation, as it undermines the core Duskaran value of individual autonomy. The most insidious practitioners convince their victims that this psychic pressure is a form of protection or care.
 
 ## Potential Drawbacks
 
@@ -594,27 +594,19 @@ Thermal sensing through direct touch provides more precise readings than distanc
 
 Water-finders describe their ability as detecting moisture gradients: not simply locating water, but perceiving the three-dimensional structure of humidity and liquid distribution. In complex cave systems, this creates mental maps showing not just where water exists, but where it flows, pools, and seeps through stone.
 
-## Deepkin Psychic Adaptations
+## Deepkin Disciplines
 
-Living in perpetual darkness has fostered exceptional psychic abilities among the Deepkin, creating variants and specializations distinct from Twilight Belt psychic practices (for the cultural context, see [Cave-Dwellers](#cave-dwellers)).
+The Deepkin have no gift of their own. They train the four gifts into disciplines for life in the dark (for the cultural context, see [Cave-Dwellers](#cave-dwellers)).
 
-**Shadow Sight** extends thermal sensing into the geothermal environment, allowing Deepkin to perceive heat gradients with unparalleled precision. Rather than detecting emotional states through thermal variation, Shadow Sight creates a complete thermal awareness that compensates for the absence of light, effectively allowing cave-dwellers to "see" their surroundings through temperature fields. This natural talent is often enhanced through training with resonance crystals. Shadow Sight should not be confused with Shadow Walking, which maps space and obstacles without relying on heat; many Deepkin guides train in both.
+**Shadow Walking** (*kivuli-tembea*) is the art of moving in complete darkness. A shadow walker joins thermal sensing, which shows the warm rock, the vents and every living body as a field of heat, with trained hearing, which reads the echo of each step and each click of the tongue. Neither sense is enough alone; together they give a map of the space, its obstacles and its creatures. Shadow walkers guide travelers on the Deep Roads, reach trapped miners, slip past predators, and work in underground construction. Training begins with blind exercises: apprentices solve puzzles and walk mazes with covered eyes. Many surface guides learn the discipline too, and some Deepkin without a gift learn its hearing half.
 
-**Dark Bonding** is a variant of deep bonding specialized for subterranean fauna. Deepkin form profound telepathic connections with underground creatures such as glowworms and thermal lizards, so deeply integrated that some bonded pairs can share senses. These companions serve as guides, scouts, and protectors in the lightless depths.
+**Deep bonding in the caves** (*giza-unga*, "dark bonding") is deep bonding with subterranean fauna: glowworms, shadow lizards, thermal lizards, Glowmoss Grazers. The bond is the same as on the surface. The animals are different. They live by heat, sound and touch, and some bonded pairs share these senses.
 
-**Echo Empathy** allows Deepkin to interpret sound and vibrations psychically, turning echoes into detailed mental maps essential for navigating complex cave systems and detecting hidden dangers. This ability is cultivated in the acoustically rich cavern environments where sound carries far and resonates distinctly.
-
-**Geothermal Communion** is the hallmark of Deepkin weatherworkers adapted to subterranean contexts. Rather than manipulating atmospheric weather, these practitioners work with heat flows to stabilize temperatures and protect communities from cold intrusions from outer caverns.
-
-**Void Attunement** is a meditative practice unique to the Deepkin, where adepts tune their minds to subtle psychic currents in the profound silence and darkness of the night side. This ability allows practitioners to detect distant disturbances or threats, making them invaluable protectors of their secluded world.
+**Weatherworking in the caves** (*moto-kunga*) moves air, not storms. A Deepkin weatherworker moves warm air through tunnels and halls, holds back the cold of the outer caverns, and reads the breath of a vent. The vent halls depend on this work as the fields of the surface depend on the guilds.
 
 ## Physical Adaptations
 
-Generations under Duskara's radiation and environmental extremes have left subtle marks on human physiology beyond psychic gifts. Duskarans born in the twilight belt often display increased melanin production and reflective eye structures that filter harsh light more efficiently. Cave-dwelling populations show enhanced low-light vision and slightly altered circadian rhythms, though not to the extent of true night-adaptation.
-
-Lung capacity has increased marginally across all populations to compensate for the planet's thinner atmospheric regions near the day side, while those living in perpetually cold zones exhibit higher metabolic rates and subcutaneous fat distribution patterns. These changes are minor (Duskarans remain unmistakably human) but represent the early stages of environmental adaptation that, given thousands of years, might result in more pronounced divergence.
-
-For the cultural context of these adaptations, see [Cave-Dwellers](#cave-dwellers).
+The gifts are the only large change. The body has changed little (see [Duskaran Phenotype](#duskaran-phenotype)). Cave populations see a little better in low light and keep slightly different rhythms of sleep, and people of the cold north carry a little more body fat. Duskarans remain one people, and unmistakably human.
 
 # Duskaran Cultural Heritage
 
@@ -760,7 +752,7 @@ Partnership structures, sexuality, and consent are covered in [Intimate Bonds](#
 
 # Cave-Dwellers
 
-Among the inhabitants of Duskara, the Deepkin, those who dwell in the subterranean warmth of the night side, have developed a culture and way of life distinct from their twilight counterparts. These cave-dwellers embrace isolation, self-sufficiency, and a profound connection to the geothermal forces that sustain them, carving out a resilient existence in the shadows.
+Among the inhabitants of Duskara, the Deepkin, those who dwell in the subterranean warmth of the night side, have developed a culture and way of life distinct from their twilight counterparts. These cave-dwellers govern themselves, keep their own ways, and live by a profound connection to the geothermal forces that sustain them. They are autonomous, not self-sufficient: they send up ice, ore and fungi, and they bring down forged parts and grain. The surface needs them as they need the surface.
 
 For comparative context on how Deepkin culture differs from Twilight Belter societies, see [Environment and Culture](#environment-and-culture). For information on Deepkin psychic adaptations, see [Psychic Abilities](#psychic-abilities). For technical details on Deepkin geothermal systems and infrastructure, see [Technology](#technology).
 
@@ -782,9 +774,9 @@ Leadership is hereditary yet communal, with Warmth Circles, councils of elders a
 
 The Deepkin have built their technology around geothermal heat: thermal harvesters and heat grids for power, warmth, and underground agriculture; steam condensers for water; glow farms and luminous markers for light and navigation; seismic scanners and magnetic drills for careful mining; cold vaults and bio-recyclers for closed-loop storage; and Aurora Arrays that draw power from the auroras. These systems are described in full under [Deepkin-Specific Infrastructure](#deepkin-specific-infrastructure) in the Technology chapter.
 
-## Psychic Adaptations to Darkness
+## Psychic Disciplines of the Dark
 
-Living in perpetual darkness has fostered five specialized psychic practices among the Deepkin: Shadow Sight, Dark Bonding, Echo Empathy, Geothermal Communion, and Void Attunement. They are described in full under [Deepkin Psychic Adaptations](#deepkin-psychic-adaptations) in the Psychic Abilities chapter.
+The Deepkin train the four gifts into disciplines for the dark: Shadow Walking, deep bonding with cave fauna, and weatherworking in the caves. They are described in full under [Deepkin Disciplines](#deepkin-disciplines) in the Psychic Abilities chapter.
 
 # Political Systems
 
@@ -792,9 +784,14 @@ Living in perpetual darkness has fostered five specialized psychic practices amo
 
 Governance in Duskara is shaped by the stewardship of shared resources, varying between the twilight belt cities and the cave settlements. Each community has developed systems that reflect their unique environments while fostering collaboration with their neighbors.
 
-In the twilight belt, city-states operate autonomously under the leadership of a Council of Windkeepers. Reflecting the central place of resource management, these councils are typically composed of representatives from the most critical sectors: **agriculture, trade, and water management**. These key figures are joined by leaders from prominent Wind-Kin families and elected delegates from communal forums, ensuring a balance of specialized expertise and popular will. Leadership often rotates with the changing wind patterns, a practice that ensures flexibility and equitable power distribution, while decision-making is rooted in consensus.
+In the twilight belt, city-states operate autonomously, each under a Council of Windkeepers. Most councils have seven members:
 
-Most twilight settlements operate under seven-member Councils of Windkeepers, with representatives holding specialized roles: water management, agricultural oversight, wind energy systems, trade coordination, and three general governance positions rotating among Wind-Kin leaders. Wind-votes in these councils often employ hand-raising rather than formal urn ceremonies, with decisions recorded when clear majorities form. Small frontier settlements such as Bukal-Mvuke keep a simpler Council of Elders. Emergency audiences (triggered by water judges, Stormwardens, or citizen coalitions presenting crisis evidence) suspend normal procedures, requiring council response within three days.
+- **Four sector seats**: water, food, power and trade. The forum of the city elects them.
+- **Three general seats**: one passes in rotation among the Wind-Kin houses of the city, and the forum elects the other two.
+- **The balance rule**: at least two members have a gift and at least two do not (see [Cultural Impact](#cultural-impact)).
+- **The chair** rotates each year.
+
+A council talks a matter out until it agrees, and this is slow. A show of hands decides only when consensus fails, and the record keeps the names of those who disagreed. Small frontier settlements such as Bukal-Mvuke keep a simpler Council of Elders. Emergency audiences (triggered by water judges, Stormwardens, or citizen coalitions presenting crisis evidence) suspend normal procedures, requiring council response within three days.
 
 Cave settlements, by contrast, are governed by Warmth Circles, smaller councils centered around geothermal hubs. Leadership within these communities is often hereditary but subject to periodic approval by the populace, ensuring accountability. The focus of governance in the caves is internal harmony, with decisions frequently mediated by elder weatherworkers or spiritual leaders who balance practicality with tradition.
 
@@ -804,7 +801,7 @@ The Duskaran Accord serves as a loose confederation connecting the twilight citi
 
 The Assembly operates through a tiered delegation system: major city-states hold permanent seats, while smaller settlements send rotating representatives chosen by regional coalitions. This ensures all voices are heard without overwhelming the convocations.
 
-The Assembly oversees key functions such as resolving resource disputes, coordinating responses to major threats like super-storms or invasive species, and regulating trade. It also ensures the maintenance of the Deep Roads, the ancient underground tunnels linking settlements across Duskara. While individual communities retain their autonomy, the Accord provides a framework for collective action, balancing independence with mutual reliance.
+The Assembly oversees key functions such as resolving resource disputes, coordinating responses to major threats like super-storms or invasive species, and regulating trade. It also shares the cost of the Deep Roads, the tunnels that the Deepkin dug and keep, linking the caves to each other and to the belt. While individual communities retain their autonomy, the Accord provides a framework for collective action, balancing independence with mutual reliance.
 
 Trade leagues and alliances further support this structure. Twilight cities form Wind Alliances, pacts that ensure the fair distribution of essential goods such as food, water, and materials. Cave settlements, meanwhile, establish Thermal Federations focused on sharing geothermal resources. These regional coalitions operate independently but align under the Duskaran Accord when faced with external pressures, demonstrating the adaptability of the system.
 
@@ -846,7 +843,7 @@ The Duskaran Accord lacks a standing military or centralized police force. Enfor
 
 In extreme cases, the Assembly can authorize intervention by regional Defense Pacts. These joint response teams, drawn from the safety teams of member settlements and supervised by Wayseers, may place disputed resources under neutral stewardship, carry out arbitration rulings, or restore essential services in settlements experiencing internal collapse. Such actions are rare and politically fraught, as they set precedents for overriding local autonomy.
 
-Non-compliance by cave settlements presents unique challenges. Their geographic isolation and self-sufficiency make sanctions less effective. The Accord relies more heavily on diplomatic incentives (preferential trade terms, access to twilight zone goods, psychic training exchanges) to maintain cave-dweller cooperation. When these fail, the Assembly typically concedes rather than risk fracturing the confederation entirely.
+Non-compliance by cave settlements presents unique challenges. The caves are autonomous, and they are as dependent as anyone: they need surface parts and grain, and the surface needs their ice, ore and fungi. A sanction against a cave settlement therefore hurts the cities that impose it almost as much. The Accord relies more heavily on diplomatic incentives (preferential trade terms, access to twilight zone goods, psychic training exchanges) to maintain cave-dweller cooperation. When these fail, the Assembly typically concedes rather than risk fracturing the confederation entirely.
 
 ## Challenges to the Accord
 
@@ -876,7 +873,7 @@ Metal goes only where nothing else serves. Duskarans build in stone, rammed eart
 
 ## Infrastructure
 
-The linear layout of settlements in the twilight belt has inspired a highly efficient transport system. The Whisper Roads are a wind railway that connects the major hubs. The carriages run under sail and on motors charged by the wind. Permanent magnets under each carriage ride over a guideway of aluminium plate; at speed, the motion of the magnets over the plate lifts the carriage clear of it and holds it to the line, and at low speed the carriage rolls on wheels. The track carries no power, so it needs little metal beyond the plate, and a damaged plate is easy to recast. Automated caravans, designed to withstand the planet’s intense winds, travel secondary routes, ensuring robust trade and communication networks.
+The linear layout of settlements in the twilight belt has inspired a highly efficient transport system. The Whisper Roads are a wind railway that connects the major hubs. The carriages run under sail and on motors charged by the wind. Their wheels have tires of plant composite and roll on a guideway of dressed stone and fired ceramic, with a raised center rail that steers them. The line needs almost no metal, and a damaged stretch is mended with the stone at hand. A carriage runs at 30 to 40 kilometers an hour while it moves, but it stops at every junction and waits out every storm, so it makes about 150 kilometers in a day. Automated caravans, designed to withstand the planet’s intense winds, travel secondary routes, ensuring robust trade and communication networks.
 
 Water management is a cornerstone of Duskaran infrastructure. Raw river and melt water is not drunk as it comes. Settlements take it at intakes nightward of the town, let the rock flour settle, and treat it before it enters the hydroloop. Cisterns are covered and deep, because open water is lost to the wind. Hydroloops, closed-loop systems, purify and recycle water for domestic, agricultural, and industrial use. In the colder night-side regions, ice harvesters extract water from frozen reserves, powered by geothermal energy. To prevent over-extraction, aquifer monitors track underground water levels, ensuring sustainable use.
 
@@ -904,7 +901,11 @@ Major settlements maintain underground monitoring chambers where water judges an
 
 ## Communication Technology
 
-Communication across the twilight belt and into the night side relies on inventive methods tailored to Duskara’s challenges. Aeolian relays use wind vibrations to transmit coded messages over long distances, while wind harmonics, systems that assign meaning to tones carried by the wind, provide an ancient yet effective means of communication.
+The **Thread** (*Uzi*) is a wire line beside the main Whisper Road, with branches down the largest Deep Roads to the largest Deepkin cities. The wire is aluminium or basalt glass fiber, never copper. It carries text only: an operator at each junction station takes a message and sends it on, and in good conditions a message crosses the arc in a day or two. Storms break the wire, and the crews of Cheŋ-Njia mend it with the track. The largest cities, Birni first, also have a local network of the same wire between the council, the water works, the guild houses and the stations.
+
+Radio exists, but only at short range. The flares of the star and the static of the storm walls make it unreliable, so caravans and storm hunters carry it as a second means, never the first.
+
+Where the Thread does not run, older methods serve. Aeolian relays use wind vibrations to transmit coded messages over long distances, while wind harmonics, systems that assign meaning to tones carried by the wind, provide an ancient yet effective means of communication.
 
 Psychic enhancement devices, such as **focus crystals** and **telepathic amplifiers**, extend the range and precision of psychic abilities, allowing weatherworkers and adepts to communicate or influence atmospheric conditions across vast areas. Physical messages are delivered by runner drones, autonomous wind-powered machines, or secure canisters designed to withstand storms, carried by caravans or runners.
 
@@ -936,7 +937,16 @@ For everyday purposes, Duskarans still reference **Wind Phases** (lasting from a
 
 The longer measure is the **year** (*mwaka*), the standard year that the *Stellar Horizon* brought from Earth: 365 days. A year is about 10.5 Cycles. In everyday speech people say "eleven Cycles to the year", and nobody corrects them. The Archivists keep the exact count: they count the days by the bells from the day of landfall, and they mark the start of each year on the day count and on the orrery. The year has no sign in the sky or in the wind. Duskarans keep it because the ancestors brought it, but the year is an Archivist's word: they use it to date records and to measure long spans in the archive. Nobody else uses it in everyday speech. People give their age, and any span of their own lives, in Cycles.
 
-Major events are dated in Cycles: the founding of the first settlement on the Bahari (Cycle 127), the rediscovery of the Deep Roads (Cycle 6,182), the establishment of the Duskaran Accord (Cycle 7,306), the Thirst Wars (Cycle 8,205). Ages and contracts are counted in Cycles too. This system reinforces Duskaran identity: time is measured not by a distant sun's rise and fall, but by their own world's patient dance through the void.
+Major events are dated in Cycles: the founding of the first settlement on the Bahari (Cycle 127), the joining of the Deep Roads to the belt (Cycle 6,182), the establishment of the Duskaran Accord (Cycle 7,306), the Thirst Wars (Cycle 8,205). Ages and contracts are counted in Cycles too. This system reinforces Duskaran identity: time is measured not by a distant sun's rise and fall, but by their own world's patient dance through the void.
+
+## The Star's Breath
+
+HD Xanthea is not constant. Its activity rises and falls over about seven years (about 74 Cycles), and Duskarans call this the star's breath (*pumzi-nyota*). The change in its light is too small to see. Its effects are not:
+
+- **The active half.** Flares are frequent. The auroras are strong and reach far over the night side, radio and instruments fail more often, and the storm walls are more violent. More storms cross the belt, and more rain falls.
+- **The quiet half.** Flares are few and the auroras are faint. Fewer storms cross the belt and the rain diminishes: this is the Long Dry. The night side is at its coldest, and so are the outer caverns.
+
+The Archivists track the breath with instruments and mark its turns on the orrery. Most people know it from the rain and the auroras. Several festivals follow it, not the year.
 
 ## Major Festivals and Ceremonies
 
@@ -944,7 +954,7 @@ Time in Duskara is punctuated by festivals and ceremonies that celebrate communi
 
 ### The Storm Wall Festival
 
-Held once each year, at the first Storm Phase after the year begins, this festival honors the resilience of Duskaran settlements against the planet’s most powerful tempests. Communities gather for wind races and endurance challenges, testing their strength and adaptability. Storm chimes are crafted to remember those who weathered past storms and those the storms took, while stories of legendary figures who braved the Storm Wall are shared. The festival fosters unity, and it is the loudest night of the year.
+Held once each year, at the first great storm after the year begins, this festival honors the resilience of Duskaran settlements against the planet’s most powerful tempests. Communities gather for wind races and endurance challenges, testing their strength and adaptability. Storm chimes are crafted to remember those who weathered past storms and those the storms took, while stories of legendary figures who braved the Storm Wall are shared. The festival fosters unity, and it is the loudest night of the year.
 
 ### The Gradient Feast
 
@@ -952,15 +962,15 @@ Marking the transition between wind phases, the Gradient Feast signals the begin
 
 ### Aurora Nights
 
-During periods of heightened auroral activity, the night side becomes a canvas for awe and reflection. Rituals beneath the shimmering lights honor the mysteries of the universe, while bioluminescent art displays and shadow-dancing performances illuminate the darkness. Meditation sessions deepen the spiritual connection to Duskara, transforming this event into a celebration of the planet’s enigmatic beauty.
+In the active half of the star's breath, the night side becomes a canvas for awe and reflection. Rituals beneath the shimmering lights honor the mysteries of the universe, while bioluminescent art displays and shadow-dancing performances illuminate the darkness. Meditation sessions deepen the spiritual connection to Duskara, transforming this event into a celebration of the planet’s enigmatic beauty.
 
 ### The Windcallers’ Rite
 
-Every few years, aligned with shifts in wind phases and auroral rhythms, the Windcallers’ Rite honors the psychic adepts and weatherworkers who protect and guide Duskaran settlements. Public demonstrations of weatherworking skills showcase their abilities, while ceremonial tools like resonance staffs are awarded to recognize their contributions. The initiation of new Windcallers symbolizes the continuity of this vital role in Duskaran society.
+Once in each star's breath, at the turn from the quiet half to the active half, the Windcallers’ Rite honors the psychic adepts and weatherworkers who protect and guide Duskaran settlements. Public demonstrations of weatherworking skills showcase their abilities, while ceremonial tools like resonance staffs are awarded to recognize their contributions. The initiation of new Windcallers symbolizes the continuity of this vital role in Duskaran society.
 
 ### The Hearth Renewal
 
-In the coldest period of the night side, cave-dwellers gather for the Hearth Renewal, a festival centered on the maintenance of geothermal systems. Communal work to repair and clean thermal harvesters is followed by feasts held in the warmth of geothermal vents. Glow-dances and bioluminescent decorations transform the caves into vibrant spaces, celebrating the heat and life they sustain.
+In the quiet half of the star's breath, when the outer caverns are at their coldest, cave-dwellers gather for the Hearth Renewal, a festival centered on the maintenance of geothermal systems. Communal work to repair and clean thermal harvesters is followed by feasts held in the warmth of geothermal vents. Glow-dances and bioluminescent decorations transform the caves into vibrant spaces, celebrating the heat and life they sustain.
 
 ### Ancestor’s Light
 
@@ -968,7 +978,7 @@ At the start of each year, communities honor the original settlers of Duskara an
 
 ### Water’s Blessing Festival
 
-Following the Long Dry, a multi-Cycle period when atmospheric moisture retreats toward the storm walls and rainfall diminishes across the twilight belt, the return of heavy rains marks the Water's Blessing Festival. This celebration honors Duskara's most precious resource, timed not to calendar calculations but to the land's own rhythms. When cisterns refill and the parched soil darkens with moisture, communities gather to give thanks.​
+Following the Long Dry, the quiet half of the star's breath, when fewer storms cross the belt and rainfall diminishes, the return of heavy rains marks the Water's Blessing Festival. This celebration honors Duskara's most precious resource, timed not to calendar calculations but to the land's own rhythms. When cisterns refill and the parched soil darkens with moisture, communities gather to give thanks.​
 
 Ritual water-sharing ceremonies reinforce the importance of conservation, with elders pouring offerings into communal basins while reciting the names of ancestors who safeguarded water during past droughts. Competitions in water-based art, crafting intricate ice sculptures near the Nightward Edge or weaving patterns in mist fountains, showcase creativity and skill. Songs and dances dedicated to water spirits highlight both the spiritual and practical significance of this life-sustaining gift, with performers mimicking the flow of rivers and the crash of storm-born rain.
 
@@ -986,7 +996,7 @@ In smaller settlements and among the cave-dwelling Deepkin, barter remains a com
 
 ## Trade
 
-Trade networks are the arteries of Duskaran society, facilitating the flow of goods and resources between settlements. Wind caravans, heavily windproofed vehicles or sleds powered by the planet’s unrelenting gales, travel across the twilight belt, linking cities and outposts. In the caves, the ancient Deep Roads serve as a vital underground network, connecting geothermal hubs to the surface and enabling safe transport in regions where the winds are too fierce.
+Trade networks are the arteries of Duskaran society, facilitating the flow of goods and resources between settlements. Wind caravans, heavily windproofed vehicles or sleds powered by the planet’s unrelenting gales, travel across the twilight belt, linking cities and outposts. In the caves, the Deep Roads serve as a vital underground network, connecting geothermal hubs to the surface and enabling safe transport in regions where the winds are too fierce.
 
 Certain settlements act as trade nexuses, bustling hubs where goods and information converge. These hubs are overseen by Merchant Guilds, which regulate pricing and ensure fair practices, safeguarding the delicate balance of the Duskaran economy. Trade agreements are common, fostering alliances between settlements. Twilight cities exchange processed goods such as clothing, tools, and preserved food for the raw minerals and geothermal energy provided by cave settlements. Water caravans carry ice or extracted water from the night side to settlements far from the rivers, above all in the Dry Land. They often travel under escort to deter theft and predators.
 
@@ -1263,7 +1273,9 @@ Settlements invest significant resources in maintaining readiness not because th
 
 ## The Absence of Military Structure
 
-Notably absent from Duskaran society is a military establishment. There are no standing armies, no hierarchical command structures organized for inter-settlement warfare, no weapons designed for human combat, no professional soldiers. The tools and training that exist are organized entirely around responding to environmental and fauna threats or rare criminal activity.
+Notably absent from Duskaran society is a military establishment. There are no standing armies, no hierarchical command structures organized for inter-settlement warfare, no weapons designed for human combat, no professional soldiers.
+
+The Thirst Wars (Cycle 8,205) are the reason this is not an abstraction. In the skirmishes of those years, safety teams turned pressure bows and nets on people, and people died. The Bahari Compact ended the war, and the taboo dates from it in its present form: no settlement has made a weapon for people since, and to turn a fauna weapon on a person is a crime under the Compact. The tools and training that exist are organized entirely around responding to environmental and fauna threats or rare criminal activity.
 
 The philosophical understanding is clear: warfare between settlements breaks cooperation and endangers everyone. The institutional mechanisms exist to manage tensions peacefully. The armed forces that might theoretically be available for warfare are instead trained exclusively for community safety. A settlement that attempted to use its emergency response teams for conquest would be immediately ostracized by the Accord, cut off from trade, and isolated.
 
@@ -2347,6 +2359,16 @@ Names are given in infancy and can be amended or expanded when a person shows a 
   - A broken sentence on mining drones in Chapter 11 is repaired. Daybook 0.5.3 follows the water changes.
 - 2.6.2: The year is an Archivist's word.
   - Calendar (Chapter 10): the Archivists use the year to date records and to measure long spans in the archive. Nobody else uses it in everyday speech; people give their age, and any span of their own lives, in Cycles. The text said that an adult gives their age in years.
+- 2.7.0: Contradictions resolved before new fiction.
+  - The *Stellar Horizon* made a controlled emergency landing; the ship came down whole and seeded the colony.
+  - The Awakening has no known cause; the Archivists teach three readings. There are four gifts. Shadow Walking, deep bonding in the caves and weatherworking in the caves are Deepkin disciplines; Shadow Sight, Echo Empathy and Void Attunement are removed. The physical adaptations follow the phenotype of Chapter 03.
+  - Deep bonding can reach a human mind weakly, to push a feeling; without consent it is *hangakora*.
+  - The Thread, a wire line along the main Whisper Road and the largest Deep Roads, carries text; radio works at short range only.
+  - The Whisper Roads run on wheels over a stone and ceramic guideway, not on magnets.
+  - The Deepkin dug the Deep Roads one generation after another; Cycle 6,182 is when they join the caves to the belt. The Deepkin are autonomous and interdependent with the belt.
+  - The star's breath, an activity cycle of about seven years, drives the Long Dry and the festivals that do not follow the year.
+  - Councils of Windkeepers: four elected sector seats, three general seats, a balance of gifted and ungifted members, consensus before a vote.
+  - The Thirst Wars explain the taboo on weapons for people. References to ancient ruins are removed.
 
 # License
 

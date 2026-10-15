@@ -2,8 +2,8 @@
 date: 2026-10-14
 subtitle: A Comprehensive Conlang Reference for the Duskara Setting
 title: Duskaran Language Handbook
-version: 2.2.0
-latest_update: "mwaka is now the year in use (365 days), and mwaka mpya the start of the year. babu-mzunguko (Ancestor Cycle) is removed."
+version: 2.3.0
+latest_update: "pumzi-nyota and Uzi added; the Deepkin abilities are now disciplines, and kivuli-ona, echo-hisi and bara-tunga are removed."
 ---
 
 # Introduction
@@ -422,6 +422,7 @@ Words that survive mostly in place names. They show the four source languages mo
 - **mzunguko** /mzu.ˈŋu.ko/ – Cycle: one orbit of Duskara, about 35 Earth days
 - **mwaka** /ˈmwa.ka/ – year: 365 days, the year of the ship. In everyday speech, "eleven Cycles"
 - **mwaka mpya** /ˈmwa.ka ˈmpja/ – the start of the year; the day of Ancestor's Light
+- **pumzi-nyota** /ˈpum.zi.ˈɲo.ta/ – the star's breath: the activity cycle of HD Xanthea, about seven years
 
 ### Measurements
 
@@ -598,14 +599,11 @@ Words that survive mostly in place names. They show the four source languages mo
 - **maji'tunga** /ˈma.dʒi.tu.ŋa/ – water finding
 - **joto'hisi** /ˈdʒo.to.hi.si/ – thermal sensing
 - **songa-unga** /ˈso.ŋa.u.ŋa/ – deep bonding (with animals or people)
-- **kivuli-tembea** /ki.ˈvu.li.tem.be.a/ – shadow walking
-- **kivuli-ona** /ki.ˈvu.li.o.na/ – shadow sight (Deepkin ability)
-- **giza-unga** /ˈgi.za.u.ŋa/ – dark bonding (Deepkin ability)
+- **kivuli-tembea** /ki.ˈvu.li.tem.be.a/ – shadow walking (Deepkin discipline: thermal sensing and trained hearing)
+- **giza-unga** /ˈgi.za.u.ŋa/ – dark bonding: deep bonding with cave fauna (Deepkin discipline)
 - **mwanga-tunga** /ˈmwa.ŋa.tu.ŋa/ – light-finding (navigation by dim sources)
-- **echo-hisi** /ˈe.tʃo.hi.si/ – echo empathy (echolocation-like psychic sense)
-- **moto-kunga** /ˈmo.to.ku.ŋa/ – geothermal communion
+- **moto-kunga** /ˈmo.to.ku.ŋa/ – weatherworking in the caves: moving warm air through tunnels and halls (Deepkin discipline)
 - **roho-unganisha** /ˈro.ho.u.ŋa.ni.ʃa/ – spirit joining (collective psychic meditation)
-- **bara-tunga** /ˈba.ra.tu.ŋa/ – void attunement (sensing distant disturbances)
 
 ### Psychic Tools & Artifacts
 
@@ -631,6 +629,7 @@ Words that survive mostly in place names. They show the four source languages mo
 - **barabara** /ba.ra.ˈba.ra/ – road (from Swahili)
 - **hanga-reli** /ˈha.ŋa.re.li/ – Whisper Road (wind-powered rail)
 - **pango-njia** /ˈpa.ŋo.ndʒi.a/ – Deep Road (tunnel network)
+- **Uzi** /ˈu.zi/ – the Thread: the wire line beside the main Whisper Road (Swahili *uzi*, thread)
 - **hema-tufani** /ˈhe.ma.tu.fa.ni/ – Storm Sanctuary (reinforced shelter)
 - **hekalu-hanga** /he.ˈka.lu.ha.ŋa/ – Wind Temple
 - **soko** /ˈso.ko/ – market (from Swahili)
@@ -1680,7 +1679,6 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | easy | *pole* |
 | eat | *kula* |
 | echo | *echo* |
-| echo empathy | *echo-hisi* |
 | edge | *daŋa* |
 | education | *elimu* |
 | eight | *nane* |
@@ -1784,7 +1782,6 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | geotherm fern | *moto-unyasi* |
 | geothermal | *motohan* |
 | geothermal chamber | *pango-moto* |
-| geothermal communion | *moto-kunga* |
 | geothermal engineer | *moto-kazi* |
 | gift | *mitu* |
 | give | *toa* |
@@ -2164,7 +2161,6 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | seven | *saba* |
 | shadow | *kivuli* |
 | shadow lizard | *mjusi-kivuli* |
-| shadow sight | *kivuli-ona* |
 | shadow walking | *kivuli-tembea* |
 | shadow-dance | *kivuli-dansa* |
 | shard | *kipande* |
@@ -2214,6 +2210,7 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | stand | *simama* |
 | staple food | *sima* |
 | star | *taiyo* |
+| star's breath | *pumzi-nyota* |
 | station | *kituo* |
 | stay | *kaa* |
 | steadfast hope | *tumaini-thabiti* |
@@ -2285,6 +2282,7 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | thing | *kitu* |
 | thirst | *kiu* |
 | thousand | *elfu*, *kilo* |
+| thread | *Uzi* |
 | three | *tatu* |
 | three truths | *kweli-tatu* |
 | thriving | *ustawi* |
@@ -2332,7 +2330,6 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | village | *kijiji* |
 | vine | *tanda* |
 | violent storm | *dhoruba* |
-| void attunement | *bara-tunga* |
 | vote | *kura* |
 
 ## W

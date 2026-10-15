@@ -1,9 +1,9 @@
 ---
 title: Duskaran Daybook
 subtitle: Everyday Life on the Living Edge
-version: 0.6.0
-date: 2026-10-14
-latest_update: "Written as a description of the world: source marks, decisions and writer notes moved out of the book."
+version: 0.6.1
+date: 2026-10-15
+latest_update: "The Long Dry and the festivals follow the star's breath."
 ---
 
 # Introduction
@@ -293,7 +293,7 @@ By old custom a person rests one day in seven, as the caravans do. The rota sets
 
 ## Longer Time
 
-- No part of the Cycle is warm and no part is cold. The weather has **phases**: the Long Dry, a Storm Phase, phases of cold wind and of warm wind. People feel them in the lips, the joints and their sleep.
+- No part of the Cycle is warm and no part is cold. The weather has **phases**: phases of storm and of calm, of cold wind and of warm wind. Over about seven years the star's breath brings the Long Dry and then the rains again. People feel them in the lips, the joints and their sleep.
 - A farming town counts the Cycle by its grain. People say "at this point of the Cycle" of a crop and of a river.
 - People date their own lives by storms, by the heading of the grain, by festivals and by births. The count of Cycles is for contracts and records.
 - A child's age is given in Cycles and an adult's in years.
@@ -542,11 +542,11 @@ The body is dried, so that its water returns to the settlement, and then it is b
 |------|------|--------------------|
 | *Saumu* | One Cycle in each year, by household | Eats only after the last bell |
 | Ancestor's Light | The start of each year | Lights the torch of the house and hears the story of the ship |
-| Storm Wall Festival | Each year, at the first Storm Phase after the year begins | Races, makes a chime, flies the kite of the house |
+| Storm Wall Festival | Each year, at the first great storm after the year begins | Races, makes a chime, flies the kite of the house |
 | Gradient Feast | At a change of wind phase | Gives away surplus, settles contracts, makes cups for the children |
 | Water's Blessing | When the rain returns after the Long Dry | Pours into the common basin and says the names of those who kept the water |
-| Windcallers' Rite | Once in a few years | Watches the weatherworkers work in public |
-| Aurora Nights | Under a strong aurora | Sits out under it |
+| Windcallers' Rite | Once in each star's breath, as the active half begins | Watches the weatherworkers work in public |
+| Aurora Nights | Under a strong aurora, in the active half of the star's breath | Sits out under it |
 | Hearth Renewal, Aurora Veil | In the caves | Cleans the thermal harvesters; hums with the Hearth |
 
 # Public Life
@@ -578,6 +578,7 @@ The body is dried, so that its water returns to the settlement, and then it is b
 ## News
 
 - The drum relay, the bell, the flute of a caravan, the Lorekeeper in the hall, the tally and the steam house.
+- News from far towns comes down the Thread. The station posts it at the hall, and a runner carries what is urgent.
 - A report carries its witness word. "Heard" news from the steam house is repeated as heard.
 
 ## Standing
@@ -893,6 +894,7 @@ The words of the ordinary day. The Language Handbook has the full vocabulary.
 - 0.5.2: The year (*mwaka*, 365 days) replaces the Ancestor Cycle. The Storm Wall Festival is held at the first Storm Phase of the year.
 - 0.5.3: Water as a flow, with Compendium 2.6.0. River water is never drunk raw.
 - 0.6.0: The book describes the world and no longer talks about its own sources. The source marks, the list of decisions and the notes for writers move out of the book. New sections What People Compare Things To and What a Stranger Notices. The word list becomes the Glossary.
+- 0.6.1: The Long Dry comes with the quiet half of the star's breath. The Storm Wall Festival is held at the first great storm after the year begins; the Windcallers' Rite and the Aurora Nights follow the star's breath (Compendium 2.7.0). News from far towns comes down the Thread.
 
 # License
 

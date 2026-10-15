@@ -1,9 +1,9 @@
 ---
 title: Duskaran Gazetteer
 subtitle: Places of the Living Edge
-version: 1.5.3
-date: 2026-10-14
-latest_update: "Times given in years in place of Ancestor Cycles."
+version: 1.5.4
+date: 2026-10-15
+latest_update: "The wind rail runs on a stone guideway; the Deepkin disciplines follow Compendium 2.7."
 ---
 
 # Introduction
@@ -261,7 +261,7 @@ The northernmost city, in the foothills of Bundok-Kuu, where the storm walls pil
 
 *Alama 515. Central band, offset -10. Major city, about 400,000. Canon.*
 
-The city of the Whisper Roads. Its name means "path fortress": the path is the Whisper Road. Its works build the wind-rail carriages and the magnetic track, and its crews go out after each storm to repair the line anywhere on the arc. A city that wants a new junction comes to its rail guild first, and this gives Cheŋ-Njia more weight in the Assembly than its size. It stands in open country where the wind off the ice is strong and steady, and the works run on that wind.
+The city of the Whisper Roads. Its name means "path fortress": the path is the Whisper Road. Its works build the wind-rail carriages and the parts of the guideway, and its crews go out after each storm to repair the line and the Thread anywhere on the arc. A city that wants a new junction comes to its rail guild first, and this gives Cheŋ-Njia more weight in the Assembly than its size. It stands in open country where the wind off the ice is strong and steady, and the works run on that wind.
 
 ### Cheŋ-Biŋ
 
@@ -685,7 +685,7 @@ The largest communities of each region have names. The other fifty-five have non
 | Jiko-Giza | Hearth in the Dark | Tanga-Barafu | 418 | -294 | Cheŋ-Jiwe | 85,000 | One great Warmth Hearth, where the communities of the north meet |
 | Pango-Kuvu | Fungus Caves | Tanga-Barafu | 1,926 | -220 | an entrance | 75,000 | Glow farms; it gives glowcap strains to other communities |
 | Lawa-Samaki | Fish Pools | Tanga-Barafu | 1,940 | -298 | an entrance | 80,000 | Blind fish from warm pools |
-| Pango-Wimbo | Singing Caves | Tanga-Bahari | 2,936 | -236 | Cheŋ-Angataa | 115,000 | Caves that sing in the wind of the vents; the practice of Echo Empathy is taught here |
+| Pango-Wimbo | Singing Caves | Tanga-Bahari | 2,936 | -236 | Cheŋ-Angataa | 115,000 | Caves that sing in the wind of the vents; the hearing of the shadow walkers is taught here |
 | Mvukewan | Steam Place | Tanga-Bahari | 3,130 | -228 | Birni | 115,000 | Steam condensers that give water to its neighbors |
 | Pango-Angataa | Aurora Caves | Tanga-Bahari | 3,450 | -220 | an entrance | 110,000 | Aurora Arrays on the ice above it, and the largest Aurora Veil Festival |
 | Pango-Liwanag | Caves of Radiance | Tanga-Moto | 4,200 | -300 | Motowan | 150,000 | The largest community. See its entry. |
@@ -718,7 +718,7 @@ Cheŋ-Angataa lost 60% of its water and needs more night-side ice than its own c
 
 *Gate of Tafki-Kuu, alama 5,400. Weatherworking near a gate. Canon.*
 
-The weatherworkers of Tafki-Kuu hold each storm over the rock bowl for as long as they can, so that more of its rain reaches the reservoirs. A long hold lowers the pressure at the gate. The Deep Road is 238 kilometers long, and its air moves toward the low pressure: warm air leaves the tunnel at the gate, and cold air from the outer caverns comes in at the far end. During one hold the cold reached a vent hall of the community below while its adepts were in Geothermal Communion. The working broke, and one adept has burnout. The guild of Tafki-Kuu says that no rule asked for a warning and that the city needs every storm. The Warmth Circle says that the Earth's Breath was turned back in its own house, and that this is an offense with or without a rule. The two sides agree on the remedy: a warning before each hold, sent down the tunnel on stone bells of the kind that Kengele-Chini uses. They do not agree on who can answer "not now".
+The weatherworkers of Tafki-Kuu hold each storm over the rock bowl for as long as they can, so that more of its rain reaches the reservoirs. A long hold lowers the pressure at the gate. The Deep Road is 238 kilometers long, and its air moves toward the low pressure: warm air leaves the tunnel at the gate, and cold air from the outer caverns comes in at the far end. During one hold the cold reached a vent hall of the community below while its weatherworkers were moving the air of the hall. The working broke, and one adept has burnout. The guild of Tafki-Kuu says that no rule asked for a warning and that the city needs every storm. The Warmth Circle says that the Earth's Breath was turned back in its own house, and that this is an offense with or without a rule. The two sides agree on the remedy: a warning before each hold, sent down the tunnel on stone bells of the kind that Kengele-Chini uses. They do not agree on who can answer "not now".
 
 # The Far Edge
 
@@ -880,6 +880,7 @@ The names that these replace in older texts are listed in CANON_REMAPPING.md, in
   - Liko-Luŋga: its place in the lee of the scarp, its halt on the main Whisper Road and its river fishers.
 - 1.5.0: The Night Side: new section Open Cases at the Gates, with one open dispute between Deepkin and Twilight Belters at each of three gates: the cores of Motowan (maintenance), the ice of Cheŋ-Angataa (ice quota) and the draught of Tafki-Kuu (weatherworking near a gate). The author confirmed the three cases. They follow the three kinds of dispute of Compendium 2.2.0, Chapter 08.
   - New chapter Local Sheets, with the sheet Liko-Luŋga and Bantay-Hanga: the places of the novel The Weight of Wind that are smaller than the scale of the maps (the fisher quarter, the flats, the water works, the Step, the seven storm shelters on the shelf, the notch, the Wind Temple) and the paths between them. The geodata folder has the data and the map of the sheet.
+- 1.5.4: Cheŋ-Njia builds a guideway of stone and ceramic, not a magnetic track, and its crews also mend the Thread. Pango-Wimbo teaches the hearing of the shadow walkers, and the weatherworkers of the vent hall below Tafki-Kuu move its air (Compendium 2.7.0).
 - 1.5.1: The main Whisper Road starts at Cheŋ-Jiwe (alama 175) and ends at Bwawa-Isha (alama 5,880). The maps drew it to both ends of the arc. The count of alama goes on beyond the two cities along the center line of the belt. Beyond Bwawa-Isha a caravan track, not the Whisper Road, runs to the first dunes.
   - The atlas in the geodata folder has five supporting sheets: the heights, warmth and water, the wind and the storms, the Far Edge, and the local sheet Liko-Luŋga and Bantay-Hanga.
 - 1.5.2: This Gazetteer is now the only source for places. The settlement profiles and the phenomenon profiles of worldbuilding/ (settlements/, natural_phenomena/) are removed, and the sentence that pointed to them is removed from the Introduction.
