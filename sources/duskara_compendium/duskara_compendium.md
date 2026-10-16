@@ -1,9 +1,9 @@
 ---
 title: Duskara Compendium
 subtitle: Main Setting Book
-version: 2.7.1
+version: 2.7.2
 date: 2026-10-16
-latest_update: "The proposals of the plates of Duskara Illustrated confirmed: storm havens, the wind carriage, the water judge chamber, the Assembly in Birni."
+latest_update: "The day side and the night side are less extreme: about 80 to 150 °C and about −60 to −100 °C."
 
 
 ---
@@ -93,12 +93,12 @@ CE dates are approximate conversions for the reader. Duskarans count only in Cyc
 #### Day–Night Temperature Extremes
 
 - **Day Side**:  
-  - Surface Temperatures: ~150–220°C, hottest around the substellar point  
+  - Surface Temperatures: ~80–150°C, hottest around the substellar point  
   - Intense stellar flux, extreme UV and particle radiation  
   - Frequent dust storms in transition zone  
   - Minimal or no standing water at the surface  
 - **Night Side**:  
-  - Surface Temperatures: ~−100 to −150°C (variable by region)  
+  - Surface Temperatures: ~−60 to −100°C, coldest around the antistellar point  
   - Permanently dark or in deep twilight from scattered auroras  
   - Glacial ice sheets, occasional geothermal vents or volcanic hotspots  
   - Some pockets of life in subterranean areas warmed by geothermal heat  
@@ -140,9 +140,9 @@ CE dates are approximate conversions for the reader. Duskarans count only in Cyc
 #### Why the Twilight Belt Is Habitable
 
 - **A dry world**: Duskara has no oceans. With little water vapor in the air, the greenhouse effect stays weak, and the planet avoids the runaway heating that would sterilize a wetter world at this distance from its star.
-- **Water locked in the night**: Nearly all of Duskara's water sits frozen on the night side, with the carbon dioxide that freezes out beside it. Glaciers creep toward the Nightward Edge and melt there, feeding the rivers, aquifers, and storms of the belt. They reach the belt only along one arc of the ring, which is why the settled world is an arc and not a ring, and why night-side ice matters so much.
+- **Water locked in the night**: Nearly all of Duskara's water sits frozen on the night side, which is cold enough to hold it but not to freeze the air. Glaciers creep toward the Nightward Edge and melt there, feeding the rivers, aquifers, and storms of the belt. They reach the belt only along one arc of the ring, which is why the settled world is an arc and not a ring, and why night-side ice matters so much.
 - **Water passes through**: The Living Edge has rivers and a lake, but little water that stays. The ground falls from the ice to the day side, so every river runs dayward and ends in the salt flats. The warm, dry wind takes water from every open surface, most of all in the dayward half of the belt. The melt comes in pulses with glacier surges and storm phases, and a full river can be low two Cycles later. Raw melt water carries dissolved carbon dioxide, rock flour and minerals, and it must be treated before people drink it. Water is least scarce in the Ice Land, where the glacier tongues are longest, and most scarce in the Dry Land, where no river runs. Water on Duskara is not rare; it is brief. A settlement catches it, uses it, cleans it and gives it back. This is what Duskarans mean when they call water scarce.
-- **Wind as heat engine**: The thick atmosphere carries day-side heat across the terminator and returns cold air beneath it. The eternal wind and the storm walls are the visible face of that circulation, and they keep the belt between −5°C and +40°C.
+- **Wind as heat engine**: The thick atmosphere carries day-side heat across the terminator and returns cold air beneath it. This is why neither side reaches the extremes of bare rock: without air the point under the star would pass 150°C, and the night side would fall far below −100°C. The eternal wind and the storm walls are the visible face of that circulation, and they keep the belt between −5°C and +40°C.
 - **Magnetic shelter**: A strong planetary magnetic field turns aside most of the star's flare radiation. What gets through lights the auroras.
 
 #### Ecology & Life
@@ -169,7 +169,7 @@ CE dates are approximate conversions for the reader. Duskarans count only in Cyc
 
 ## The Day Side
 
-The day side of Duskara is a scorched wasteland where temperatures climb beyond 200°C (392°F). Battered by relentless stellar radiation and powerful stellar winds, this barren region offers no refuge for life, its surface a desiccated landscape of parched rock. Despite its inhospitable nature, the day side plays a crucial role in shaping Duskara’s climate. The extreme heat drives thermal updrafts that fuel the planet’s unyielding winds, and the stark temperature differential between the day and night sides generates violent superstorms in the twilight belt.
+The day side of Duskara is a scorched wasteland where temperatures climb past 100°C (212°F), and to about 150°C under the star. Battered by relentless stellar radiation and powerful stellar winds, this barren region offers no refuge for life, its surface a desiccated landscape of parched rock. Despite its inhospitable nature, the day side plays a crucial role in shaping Duskara’s climate. The extreme heat drives thermal updrafts that fuel the planet’s unyielding winds, and the stark temperature differential between the day and night sides generates violent superstorms in the twilight belt.
 
 Human interaction with the day side is limited to heavily shielded robotic mining operations. These machines extract rare, heat-resistant materials essential for sustaining Duskara’s advanced technologies. Manual exploration is perilous, as the region’s extreme conditions pose immediate threats such as heatstroke, radiation exposure, and rapid equipment failure. Consequently, the day side remains a forbidding yet vital component of the planet's ecosystem.
 
@@ -189,7 +189,7 @@ The twilight belt is the center of Duskara’s water cycle, with liquid water fl
 
 ## The Night Side
 
-In stark contrast to the blazing day side, Duskara’s night side is a frozen wilderness. Temperatures plummet below -100°C (-148°F), and the landscape is dominated by vast ice sheets and frozen gas deposits. Occasional auroras cast faint, spectral light across the desolate expanse, offering rare glimpses of beauty in the frigid darkness. Beneath the surface, geothermal vents sustain pockets of liquid water and life, creating isolated oases amid the icy wasteland.
+In stark contrast to the blazing day side, Duskara’s night side is a frozen wilderness. Temperatures fall to -60°C (-76°F) and, far from the belt, to -100°C (-148°F), and the landscape is dominated by vast ice sheets and frost. Occasional auroras cast faint, spectral light across the desolate expanse, offering rare glimpses of beauty in the frigid darkness. Beneath the surface, geothermal vents sustain pockets of liquid water and life, creating isolated oases amid the icy wasteland.
 
 Humans have made homes even here. Communities settle around geothermal vents and live on the heat and resources of these underground sanctuaries. Extensive cave systems, shielded from the harsh conditions above, are home to the Deepkin, night-side inhabitants who have developed unique cultural and technological adaptations. These societies mine the caves for minerals, search for underground water sources, and extend the tunnels that join them to each other and to the belt. The night side fosters a distinct sense of separation: its people govern themselves and keep traditions forged in the shadow of the endless cold, and they trade with the belt for what the caves cannot make.
 
@@ -1443,7 +1443,7 @@ The ecosystems of Duskara are a testament to adaptation, with plants and animals
 
 **Warmedge Cacti**: Succulent plants found in the hottest regions of the dayward edge, featuring silvery, reflective outer skins that deflect up to 70% of stellar radiation. Their water-storing tissues can sustain them through extended dry periods, and their sap has mild antiseptic properties. Harvesting warmedge cacti is dangerous work, done by crews in thermal suits led by a thermal sensor.
 
-**Frostblooms**: Diminutive flowering plants that blanket the nightward edge in clusters of pale blue and white. They produce a glycoprotein-rich sap that acts as natural antifreeze, allowing them to survive temperatures below -100°C. Their petals can be brewed into a stimulating tea that helps regulate body temperature, though overconsumption can disrupt natural thermoregulation.
+**Frostblooms**: Diminutive flowering plants that blanket the nightward edge in clusters of pale blue and white. They produce a glycoprotein-rich sap that acts as natural antifreeze, allowing them to survive temperatures below -60°C. Their petals can be brewed into a stimulating tea that helps regulate body temperature, though overconsumption can disrupt natural thermoregulation.
 
 **Stormroot Trees**: Ancient, massive trees with thick, deeply grooved trunks and low, sprawling canopies that create natural windbreaks. Their root systems extend horizontally for dozens of meters, stabilizing soil and preventing erosion in high-wind zones. Settlements are often built in the lee of stormroot groves, and their dense wood is prized for construction, though felling one requires council approval due to their ecological importance.
 
@@ -2371,6 +2371,8 @@ Names are given in infancy and can be amended or expanded when a person shows a 
   - The star's breath, an activity cycle of about seven years, drives the Long Dry and the festivals that do not follow the year.
   - Councils of Windkeepers: four elected sector seats, three general seats, a balance of gifted and ungifted members, consensus before a vote.
   - The Thirst Wars explain the taboo on weapons for people. References to ancient ruins are removed.
+- 2.7.2: Day-side and night-side temperatures.
+  - The day side is about 80 to 150°C (was 150 to 220°C) and the night side about −60 to −100°C (was −100 to −150°C) (Chapters 00, 01, 17). The light of the star (about twice Earth's) cannot heat bare rock above about 150 to 190°C, and a 1 bar atmosphere carries heat to the night side. At these temperatures no gas of the air freezes on the night side; only water is held there.
 - 2.7.1: Storm havens, three levels of kin, and the proposals of the plates of Duskara Illustrated.
   - One name for every storm shelter. Storm Sanctuaries (Chapter 02), beacon shelters (Chapters 01, 02 and 09) and the storm shelters of the towns (Chapters 05, 13 and 19) are all storm havens (*hema-tufani*); many havens are also beacons (Chapter 09).
   - Three levels of kin (Chapters 06, 08, 18, 19). The house is the compound of one line; the line (*ukoo*) is the family of the line name; the Wind-Kin is one of five clans that group the lines. The trades of the five Wind-Kins are those of their founding lines, kept as tradition. Each Wind-Kin has a sign (Daybook 0.7.5). The general seat of a council rotates among the kin leaders of the five Wind-Kins.

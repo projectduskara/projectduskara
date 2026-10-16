@@ -1,9 +1,9 @@
 ---
 title: Duskaran Gazetteer
 subtitle: Places of the Living Edge
-version: 1.5.5
+version: 1.5.6
 date: 2026-10-16
-latest_update: "The proposals of the plates of Duskara Illustrated confirmed: Birni, Tafki-Kuu, the gates, the havens, Liko-Luŋga and Bantay-Hanga."
+latest_update: "Birni has about 1.2 million people; the day side and the night side follow Compendium 2.7.2."
 ---
 
 # Introduction
@@ -205,7 +205,7 @@ Every named place, from north to south.
 | 2,920 | 6 | C | 0 | Mdomo-Luŋga | Major city | about 700,000 | Canon |
 | 2,925 to 3,075 | 6 to 7 | C | -17 to +27 | Bahari | Lake | | Canon |
 | 2,990 | 6 | C | -19 | Latian-Haske | Protected wetland | | Canon |
-| 3,000 | 6 | C | -20 | Birni | Major city, seat of the Assembly | 500,000 to 2 million | Canon |
+| 3,000 | 6 | C | -20 | Birni | Major city, seat of the Assembly | about 1.2 million | Canon |
 | 3,050 | 7 | C | +24 | Lambak-Hanga | Major city | about 500,000 | Canon |
 | 3,085 | 7 | C | +3 | Mlango-Bahari | Major city | about 450,000 | Canon |
 | 3,215 | 7 | C | 0 | Ngomawan | Major city | about 500,000 | Canon |
@@ -363,7 +363,7 @@ A geothermal wetland on the lake shore, a short walk up-belt of Birni, known for
 
 ### Birni
 
-*Alama 3,000. Central band, offset -20. Major city, 500,000 to 2 million. Canon.*
+*Alama 3,000. Central band, offset -20. Major city, about 1.2 million. Canon.*
 
 The largest city of Duskara and the hub of its trade and governance. It rises in terraces from the nightward shore of the Bahari, at the middle of its length, toward a central geothermal cluster. A Council of Windkeepers guides it by consensus, and it is the seat of the Assembly. Its cliffs are home to wind serpents and to the Beastwalkers who bond with them. Its name means "walled city"; the full form, Birni-Bahari, is used in treaties.
 
@@ -898,6 +898,7 @@ The names that these replace in older texts are listed in CANON_REMAPPING.md, in
 - 1.5.2: This Gazetteer is now the only source for places. The settlement profiles and the phenomenon profiles of worldbuilding/ (settlements/, natural_phenomena/) are removed, and the sentence that pointed to them is removed from the Introduction.
   - The Storm Walls: what a wall is for a traveler (pressure shifts, debris, blind instruments, disturbed psychic senses, the taste of copper), what the walls give, and the standing of a crossing. The rules of a crossing stay in the Compendium.
 - 1.5.3: Compendium 2.5.0: the year (*mwaka*, 365 days) replaces the Ancestor Cycle. The times to the Far Edge are given again in years (365 days); the surge of the ice tongue was a little more than 200 years ago.
+- 1.5.6: Birni has about 1.2 million people (was 500,000 to 2 million): on its 140 square kilometers that is about 8,500 people to the square kilometer, and the region Tanga-Bahari keeps its total. The temperatures of the day side and the night side follow Compendium 2.7.2.
 - 1.5.5: Grain, storm havens, the two waters of Liko-Luŋga, and the proposals of the plates of Duskara Illustrated.
   - Shamba-Kuu: the plains of wind-grain lie in strips between lines of stormroot set across the wind (Daybook 0.7.2, decision 42).
   - Every storm shelter is a storm haven (*hema-tufani*), with Compendium 2.7.1: the havens of Zaŋgo-Iska, Rijiya-Sanyi, Mnara-Bato and the shelf of Bantay-Hanga. Patag-Bato: its caves are its storm havens, and the caravan leaders of Isha-Luŋga keep them and their list for every caravan; they are no longer trade secrets.
