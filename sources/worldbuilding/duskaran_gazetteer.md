@@ -1,9 +1,9 @@
 ---
 title: Duskaran Gazetteer
 subtitle: Places of the Living Edge
-version: 1.5.4
-date: 2026-10-15
-latest_update: "The wind rail runs on a stone guideway; the Deepkin disciplines follow Compendium 2.7."
+version: 1.5.5
+date: 2026-10-16
+latest_update: "The proposals of the plates of Duskara Illustrated confirmed: Birni, Tafki-Kuu, the gates, the havens, Liko-Luŋga and Bantay-Hanga."
 ---
 
 # Introduction
@@ -89,6 +89,8 @@ Twenty-five major cities stand along the arc, about 250 kilometers apart on aver
 | The whole arc | 6,000 km | about 8 Cycles | about 40 days |
 
 A caravan makes about 25 kilometers in a day of travel, and it rests about one day in seven. The caravan times in the table include these days of rest. A wind-rail carriage makes about 150, because it waits out storms and stops at each junction. Both figures are for good conditions.
+
+On the caravan tracks of the open ground a storm haven stands at each day of travel, about 25 kilometers apart, so a caravan ends each day at a haven and is never more than half a day from one. The havens of Patag-Bato are its caves and fissures, and they keep no fixed spacing.
 
 # Naming Conventions
 
@@ -291,7 +293,7 @@ The ice market. The ice that is cut in the north is gathered here, and the water
 
 *Alama 1,700. Central band, offset 0. Canon.*
 
-A waystation on the main road, in the stretch of almost 600 kilometers between Soko-Barafu and Kofa-Sanyi that has no city. It keeps large shelters and emergency supply caches under mutual-aid agreements with several settlements.
+A waystation on the main road, in the stretch of almost 600 kilometers between Soko-Barafu and Kofa-Sanyi that has no city. It keeps large storm havens and emergency supply caches under mutual-aid agreements with several settlements.
 
 ## Tanga-Bahari, the Sea Land
 
@@ -307,7 +309,7 @@ The gate of the heartland. Its name means "cold gate". Every water caravan from 
 
 *Alama 2,450. Central band, offset +6. Major city, about 600,000. Canon.*
 
-The city of the Great Field: open plains of wind-grain on the dayward side of the road, the widest farmland on the arc that needs no condenser. Its granaries hold the reserve of the heartland, and the flour for sima in most cities of the lake comes from its mills. Farmers hold most of the seats of its council.
+The city of the Great Field: plains of wind-grain on the dayward side of the road, in strips between lines of stormroot set across the wind, the widest farmland on the arc that needs no condenser. Its granaries hold the reserve of the heartland, and the flour for sima in most cities of the lake comes from its mills. Farmers hold most of the seats of its council.
 
 ### Hanaŋa-Kuukuu
 
@@ -325,7 +327,7 @@ A city on rocky plateaus where geothermal activity softens the cold. It harvests
 
 *Alama 2,780. Nightward Edge, offset -70. Canon.*
 
-A wind-rail platform between Cheŋ-Angataa and the central settlements. It keeps emergency shelters and serves as neutral ground for negotiations, mostly those that involve frontier communities and Deepkin traders who come up to the surface routes.
+A wind-rail platform between Cheŋ-Angataa and the central settlements. It keeps storm havens and serves as neutral ground for negotiations, mostly those that involve frontier communities and Deepkin traders who come up to the surface routes.
 
 ### Liko-Luŋga
 
@@ -338,6 +340,8 @@ A town at a curve of the Luŋga-Hanga river network, about 150 kilometers up-bel
 *Alama 2,852. Central band, offset -27. Weatherworking guild house. Canon.*
 
 The guild house of Liko-Luŋga, on the nightward scarp of the rift, about 12 kilometers nightward of the town and about 110 meters above it: three hours on foot, uphill. Its name means "wind watch". It stands where the lee of the scarp ends. Below it the air of the rift is slack. The usual wind at the house is about 32 kilometers an hour, against 21 in the town, and a few kilometers above the house it is twice that of the town. The lines of the night wall strike this shoulder before they pass over the town, and the house watches for them. It is a minor wind focal point: the cold wind over the shoulder, the current of the rift below and the air that climbs the face of the scarp meet there. The path from the town has iron rings in the rock for a storm line. Each person who climbs carries part of the supplies of the house.
+
+The house is about 26 meters across the belt and 48 meters along it, round a paved court, with towers of about 6 meters at the corners: about 15 meters high on the night side and 13 on the day side, where the platforms have a rail. The nightward range, along the back wall, holds the Listening Hall. The dayward range holds the hall below and the rooms of the Newly Called above. The up-belt range holds the gate, the archive and the store; the gate is at that end because the path comes from the Step, up-belt of the house. The kitchen is in the down-belt range, down the steps beyond the far arch. The grounding chamber is cut into the rock under the nightward range and is reached by a stair from the court. The first storm haven of the shelf stands just down-belt of the house.
 
 ### Mdomo-Luŋga
 
@@ -361,7 +365,9 @@ A geothermal wetland on the lake shore, a short walk up-belt of Birni, known for
 
 *Alama 3,000. Central band, offset -20. Major city, 500,000 to 2 million. Canon.*
 
-The largest city of Duskara and the hub of its trade and governance. It rises in terraces from the nightward shore of the Bahari, at the middle of its length, toward a central geothermal cluster. A five-member Council of Windkeepers guides it by consensus. Its cliffs are home to wind serpents and to the Beastwalkers who bond with them. Its name means "walled city"; the full form, Birni-Bahari, is used in treaties.
+The largest city of Duskara and the hub of its trade and governance. It rises in terraces from the nightward shore of the Bahari, at the middle of its length, toward a central geothermal cluster. A Council of Windkeepers guides it by consensus, and it is the seat of the Assembly. Its cliffs are home to wind serpents and to the Beastwalkers who bond with them. Its name means "walled city"; the full form, Birni-Bahari, is used in treaties.
+
+The city covers about 18 kilometers of shore and climbs about 8 kilometers up the slope to the foot of the cliffs: about 140 square kilometers. Its terraces follow the slope, and its cross lanes go up it, across the belt, with the wind. The geothermal cluster is in the middle of the city, at the top of the terraces, with the council hall and the hall of the Assembly beside it. The wall that gives the name stands on the crest of the scarp, about 280 meters above the lake, at the clean end of the city; the turbines, the condensers and the cisterns stand behind it, and the cliffs below it are the scarp of the rift. The gate of the Deep Road is at the foot of the cliffs, near the cluster. The shore is the used end: quays, lake boats, drying racks, and the recyclers, sealed, so that nothing runs into the lake. The station of the main Whisper Road and the junction of the Thread are in the lower city.
 
 ### Lambak-Hanga
 
@@ -401,19 +407,19 @@ The south-central region. The crust is thin here: hot springs, vents and the can
 
 *Alama 3,500 to 3,900. Central band, dayward side, offset 0 to +50. Canon.*
 
-A plain of wind-polished stone. The down-belt branch of the Luŋga-Hanga ends at its up-belt edge. Travel is fast in stable weather and there is no shelter in a storm. Caravan routes are marked by cairns at intervals of one kilometer, each topped with reflective material. Fissures and caves give emergency shelter, and caravan leaders keep their locations as trade secrets.
+A plain of wind-polished stone. The down-belt branch of the Luŋga-Hanga ends at its up-belt edge. Travel is fast in stable weather, and nothing built stands on the plain to break the wind. Caravan routes are marked by cairns at intervals of one kilometer, each topped with reflective material. The storm havens of the plain are fissures and caves in the stone. The caravan leaders of Isha-Luŋga keep them stocked and keep their list, which any caravan may ask for, and the cairn lines lead to them.
 
 ### Isha-Luŋga
 
 *Alama 3,585. Central band, offset +34. Major city, about 400,000. Canon.*
 
-The city where the Luŋga-Hanga ends. Its name means "river's end". The river reaches the edge of Patag-Bato and goes no further, and the city takes its last water into cisterns. The caravans that cross the plain are made up here, and the caravan leaders who know the shelter caves of the Patag have their guild house in the city.
+The city where the Luŋga-Hanga ends. Its name means "river's end". The river reaches the edge of Patag-Bato and goes no further, and the city takes its last water into cisterns. The caravans that cross the plain are made up here, and the caravan leaders who keep the storm havens of the Patag have their guild house in the city.
 
 ### Mnara-Bato
 
 *Alama 3,895. Central band, offset 0. Major city, about 300,000. Canon.*
 
-A city at the down-belt edge of Patag-Bato. Its name means "stone tower". Its beacon towers are the tallest on the arc: they guide the caravans off the plain, and when a storm comes they signal which shelter is nearest. Its masons cut the wind-polished stone of the plain, which every city wants for its windward walls. The keepers of the cairns of the Patag answer to its council.
+A city at the down-belt edge of Patag-Bato. Its name means "stone tower". Its beacon towers are the tallest on the arc: they guide the caravans off the plain, and when a storm comes they signal which storm haven is nearest. Its masons cut the wind-polished stone of the plain, which every city wants for its windward walls. The keepers of the cairns of the Patag answer to its council.
 
 ### Chumawan
 
@@ -489,7 +495,7 @@ The salt market, on the dayward side of the Central band. Salt is cut on the fla
 
 *Alama 5,400. Central band, offset -25. Major city, about 500,000. Canon.*
 
-The city of the Great Reservoir. It stands at the mouth of a rock bowl of about 4,000 square kilometers, on its nightward side, where the runoff of each storm comes together. The city stores this water in reservoirs cut into the rock, and its water judges are the strictest on the arc. No river reaches it. Tafki-Kuu is also the chief market of the Dry Land: the minerals and the salvage of the day side come to it through Bantay-Init, the nomads of Shan-Feŋ trade there, and the expeditions into Hamada-Kuu are fitted out in it and take their last water at Bwawa-Isha.
+The city of the Great Reservoir. It stands at the mouth of a rock bowl of about 4,000 square kilometers, on its nightward side, where the runoff of each storm comes together. The city stores this water in reservoirs cut into the rock under the city, closed chambers and not open basins, and its water judges are the strictest on the arc. The gate of its Deep Road is inside the city, on its nightward edge, and the road runs under the floor of the bowl. No river reaches it. Tafki-Kuu is also the chief market of the Dry Land: the minerals and the salvage of the day side come to it through Bantay-Init, the nomads of Shan-Feŋ trade there, and the expeditions into Hamada-Kuu are fitted out in it and take their last water at Bwawa-Isha.
 
 ### Mbeguwan
 
@@ -532,18 +538,18 @@ The town, the river below it and the scarp above it, as in the novel *The Weight
 | 2,850 | -15 | Liko-Luŋga | Farming town | Canon | Terraces of wind-grain on the lower slope and on the floor, behind a belt of stormroot |
 | 2,850 | -11 | Fisher quarter | Quarter of the town | Novel | By the river, about 4 km dayward of the center: weirs, set-lines and the fisher hall |
 | 2,850.2 | -24.5 | The Step | Rock shelf on the scarp path | Placed | The path comes out from behind a shoulder of the scarp, and the lee ends. Two hours on foot from the town |
-| 2,852 | -27 | Bantay-Hanga | Weatherworking guild house | Canon | The first of the seven storm shelters is at the house |
-| 2,854 | -27 | Storm shelter 2 | Storm shelter | Novel | On the shelf, 2 km from the house |
-| 2,856 | -27 | Storm shelter 3 | Storm shelter | Novel | On the shelf, 4 km from the house |
-| 2,857 | -28 | The notch | Notch in the scarp | Novel | Between shelters 3 and 4. Cold air that falls here comes down on the down-belt terraces of the town |
-| 2,858 | -27 | Storm shelter 4 | Storm shelter | Novel | On the shelf, 6 km from the house |
+| 2,852 | -27 | Bantay-Hanga | Weatherworking guild house | Canon | The first of the seven storm havens is at the house |
+| 2,854 | -27 | Storm haven 2 | Storm haven | Novel | On the shelf, 2 km from the house |
+| 2,856 | -27 | Storm haven 3 | Storm haven | Novel | On the shelf, 4 km from the house |
+| 2,857 | -28 | The notch | Notch in the scarp | Novel | Between havens 3 and 4. Cold air that falls here comes down on the down-belt terraces of the town |
+| 2,858 | -27 | Storm haven 4 | Storm haven | Novel | On the shelf, 6 km from the house |
 | 2,856 to 2,860 | river | The flats | Low ground by the river | Novel | 6 to 10 km down-belt of the town. The fishers keep their weirs here |
-| 2,860 | -27 | Storm shelter 5 | Storm shelter | Novel | On the shelf, 8 km from the house |
-| 2,862 | -27 | Storm shelter 6 | Storm shelter | Novel | On the shelf, 10 km from the house |
-| 2,864 | -27 | Storm shelter 7 | Storm shelter | Novel | On the shelf, 12 km from the house |
+| 2,860 | -27 | Storm haven 5 | Storm haven | Novel | On the shelf, 8 km from the house |
+| 2,862 | -27 | Storm haven 6 | Storm haven | Novel | On the shelf, 10 km from the house |
+| 2,864 | -27 | Storm haven 7 | Storm haven | Novel | On the shelf, 12 km from the house |
 | 2,876 | -26 | Wind Temple | Wind Temple | Canon | The strong wind focal point of the scarp (see Wind Focal Points), with the old wall record. One day on foot from the house |
 
-A storm shelter is a *hema-tufani*, and a Wind Temple is a *hekalu-hanga*.
+A storm haven is a *hema-tufani*, and a Wind Temple is a *hekalu-hanga*.
 
 Paths of the sheet:
 
@@ -551,10 +557,14 @@ Paths of the sheet:
 |------|------|---------|--------|
 | Main channel | Irrigation channel | Channel intake, Settling basin | Placed |
 | Scarp path | Foot path with a storm line | Liko-Luŋga, The Step, Bantay-Hanga | Novel |
-| Shelf path | Foot path with a storm line | Bantay-Hanga, Storm shelter 2, Storm shelter 3, Storm shelter 4, Storm shelter 5, Storm shelter 6, Storm shelter 7 | Novel |
-| Temple path | Foot path | Storm shelter 7, Wind Temple | Novel |
+| Shelf path | Foot path with a storm line | Bantay-Hanga, Storm haven 2, Storm haven 3, Storm haven 4, Storm haven 5, Storm haven 6, Storm haven 7 | Novel |
+| Temple path | Foot path | Storm haven 7, Wind Temple | Novel |
 
 The scarp path is about 12 kilometers long and climbs about 110 meters: one hour of long legs, one more hour to the Step, and then most of an hour on the level shelf. Iron rings in the rock hold the storm line on the scarp path and on the shelf path.
+
+The built town is about 1.2 kilometers along the belt and 0.8 kilometers across it, on the floor at the foot of the slope, with the halt of the Whisper Road on its dayward edge. The terraces of the slope run from about offset -18 up to the stormroot belt and the last terrace wall, at about -19.6. The terraces of the floor lie up-belt and down-belt of the town, between the road and the river. The fishers keep weirs at the fisher quarter and on the flats.
+
+The terraces of Liko-Luŋga have two waters. The main channel leaves the river at about 384 meters and comes into the settling basin at about 377 meters, so it can water only the floor: from the basin, channels go out to the terraces of the floor. The terraces of the lower slope stand higher. A catch channel along the last terrace wall, at the foot of the stormroot belt, takes the runoff of the scarp after each line of storm and lets it down through the slope terraces, one wall at a time. What the river brings, it brings only to the floor.
 
 The ice front is about 125 kilometers nightward of the town, and the night wall stands about 30 kilometers behind it. The plateau between the ice and the scarp has outposts of ice harvesters. They have no names and no positions yet, and neither have the three settlements that were lost in the last surge.
 
@@ -576,7 +586,7 @@ The rift also has a current of its own: cold air that drains down-belt along its
 
 The two storm walls stand at the edges of the belt.
 
-- The **night wall** stands over the ice, about 30 kilometers behind its front. In Tanga-Barafu the ice front is inside the belt, so the wall stands inside the Nightward Edge there. Where the ice stops outside the belt, the wall stands just outside the edge.
+- The **night wall** stands over the ice, about 30 kilometers behind its front. In Tanga-Barafu the ice front is far inside the belt, so the wall stands inside the Nightward Edge there. In the heartland the glacier tongues reach about 10 kilometers into the belt (offset -140), and the wall stands just outside its edge. Where the ice stops outside the belt, the wall stands farther out.
 - The **day wall** stands about 20 kilometers outside the dayward edge.
 
 At the northern end, Bundok-Kuu holds the storms of both walls against its slopes.
@@ -589,7 +599,7 @@ The hot air that comes in at Kofa-Joto does not go straight across the belt. The
 
 ## The Surging Ice
 
-Most glacier tongues of the heartland stop outside the belt and move little. The tongue nightward of Liko-Luŋga, the one that feeds the up-belt branch of the Luŋga-Hanga, is different: about once in 200 years it surges. For some Cycles the ice front moves forward quickly, tens of kilometers across the nightward plateau, and then it stops for a long time. The last surge was a little more than 200 years before the present. It is not known if other tongues of the arc do the same.
+Most glacier tongues of the heartland stop in the outer Nightward Edge and move little. The tongue nightward of Liko-Luŋga, the one that feeds the up-belt branch of the Luŋga-Hanga, is different: about once in 200 years it surges. For some Cycles the ice front moves forward quickly, tens of kilometers across the nightward plateau, and then it stops for a long time. The last surge was a little more than 200 years before the present. It is not known if other tongues of the arc do the same.
 
 The night wall stands about 30 kilometers behind the ice front, so the wall advances with the ice. While the surge lasts, the wall sends line after line of storm across the plateau, each one colder and faster than those of an ordinary Cycle. People of the region call this a Storm Phase. Three settlements of the plateau were lost in the last one.
 
@@ -655,6 +665,8 @@ The Deep Roads join every community to its neighbors and to the surface: 88 tunn
 
 A **gate** is the surface end of a Deep Road. Most gates are in the major cities on the nightward side of the Central band.
 
+A gate is a vaulted hall cut into the hillside on the nightward side of its city. A vent shaft and the door of the hall let the air of the tunnel out, and the door opens on a ramp up to the city. In the tunnel, loads move on carts pushed by hand; glowing markers on the walls show the way, and where the Thread goes down a Deep Road it runs along the roof into the hall. On a trade day the water judge stands at the ice, on the cave side of the hall.
+
 | Gate | Alama | Community at the other end | Tunnel, km |
 |------|------:|----------------------------|------:|
 | Cheŋ-Jiwe | 175 | a community without a name | 320 |
@@ -718,7 +730,7 @@ Cheŋ-Angataa lost 60% of its water and needs more night-side ice than its own c
 
 *Gate of Tafki-Kuu, alama 5,400. Weatherworking near a gate. Canon.*
 
-The weatherworkers of Tafki-Kuu hold each storm over the rock bowl for as long as they can, so that more of its rain reaches the reservoirs. A long hold lowers the pressure at the gate. The Deep Road is 238 kilometers long, and its air moves toward the low pressure: warm air leaves the tunnel at the gate, and cold air from the outer caverns comes in at the far end. During one hold the cold reached a vent hall of the community below while its weatherworkers were moving the air of the hall. The working broke, and one adept has burnout. The guild of Tafki-Kuu says that no rule asked for a warning and that the city needs every storm. The Warmth Circle says that the Earth's Breath was turned back in its own house, and that this is an offense with or without a rule. The two sides agree on the remedy: a warning before each hold, sent down the tunnel on stone bells of the kind that Kengele-Chini uses. They do not agree on who can answer "not now".
+The weatherworkers of Tafki-Kuu hold each storm over the rock bowl for as long as they can, so that more of its rain reaches the reservoirs. A long hold lowers the pressure at the gate. The Deep Road is 238 kilometers long, and its air moves toward the low pressure: warm air leaves the tunnel at the gate, and cold air from the outer caverns comes in at the far end. During one hold the cold reached a vent hall of the community below while its weatherworkers were moving the air of the hall. The working broke, and one adept has burnout. The guild of Tafki-Kuu says that no rule asked for a warning and that the city needs every storm. The Warmth Circle says that the Earth's Breath was turned back in its own house, and that this is an offense with or without a rule. The two sides agree on the remedy: a warning before each hold, sent down the tunnel on stone bells of the kind that Kengele-Chini uses, hung at intervals along the tunnel so that each one answers the last. They do not agree on who can answer "not now".
 
 # The Far Edge
 
@@ -886,6 +898,11 @@ The names that these replace in older texts are listed in CANON_REMAPPING.md, in
 - 1.5.2: This Gazetteer is now the only source for places. The settlement profiles and the phenomenon profiles of worldbuilding/ (settlements/, natural_phenomena/) are removed, and the sentence that pointed to them is removed from the Introduction.
   - The Storm Walls: what a wall is for a traveler (pressure shifts, debris, blind instruments, disturbed psychic senses, the taste of copper), what the walls give, and the standing of a crossing. The rules of a crossing stay in the Compendium.
 - 1.5.3: Compendium 2.5.0: the year (*mwaka*, 365 days) replaces the Ancestor Cycle. The times to the Far Edge are given again in years (365 days); the surge of the ice tongue was a little more than 200 years ago.
+- 1.5.5: Grain, storm havens, the two waters of Liko-Luŋga, and the proposals of the plates of Duskara Illustrated.
+  - Shamba-Kuu: the plains of wind-grain lie in strips between lines of stormroot set across the wind (Daybook 0.7.2, decision 42).
+  - Every storm shelter is a storm haven (*hema-tufani*), with Compendium 2.7.1: the havens of Zaŋgo-Iska, Rijiya-Sanyi, Mnara-Bato and the shelf of Bantay-Hanga. Patag-Bato: its caves are its storm havens, and the caravan leaders of Isha-Luŋga keep them and their list for every caravan; they are no longer trade secrets.
+  - Local sheet Liko-Luŋga and Bantay-Hanga: the two waters of the terraces. The main channel waters the floor from the settling basin; a catch channel along the last terrace wall takes the runoff of the scarp for the terraces of the slope.
+  - Proposals of the plates of Duskara Illustrated confirmed by the author. Distances and Travel: a storm haven at each day of travel on the tracks of the open ground. The Deep Roads: the gate hall, the carts, the markers, the Thread and the judge. Birni: its council has the usual seven seats, it is the seat of the Assembly, and its plan. Tafki-Kuu: closed reservoirs under the city, the gate in the city, the bells as relays. Bantay-Hanga: the plan of the house. Local sheet: the size of Liko-Luŋga, its terraces and its weirs. The Storm Walls and The Surging Ice: the heartland tongues reach about 10 km into the belt, as the terrain model and the local sheet already showed.
 
 # License
 

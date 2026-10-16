@@ -2,8 +2,8 @@
 date: 2026-10-16
 subtitle: A Comprehensive Conlang Reference for the Duskara Setting
 title: Duskaran Language Handbook
-version: 2.4.0
-latest_update: "sabuni, tiba-wan and mbali-wan added, with Daybook 0.7.0."
+version: 2.4.1
+latest_update: "kin is one of the five clans; ukoo is the line (Compendium 2.7.1)."
 ---
 
 # Introduction
@@ -164,7 +164,7 @@ Duskaran has two layers of vocabulary. The **core** layer formed in the first ge
 - **babu-tana** /ˈba.bu.ta.na/ – grandfather (lit. "strong elder")
 - **mpenzi** /ˈmpen.zi/ – beloved, partner; can be used sincerely or to imply obligation (from Swahili)
 - **rafiki-wan** /ra.ˈfi.ki.wan/ – friendship-bond
-- **kin** /kin/ – Wind-Kin, the extended family unit (from English); also the prefix of the clan designations (*kin-Hanga*, *kin-Moto*)
+- **kin** /kin/ – Wind-Kin, one of the five clans that group the lines (from English); also the prefix of the clan designations (*kin-Hanga*, *kin-Moto*)
 
 ### Roles & Occupations
 
@@ -630,7 +630,7 @@ Words that survive mostly in place names. They show the four source languages mo
 - **hanga-reli** /ˈha.ŋa.re.li/ – Whisper Road (wind-powered rail)
 - **pango-njia** /ˈpa.ŋo.ndʒi.a/ – Deep Road (tunnel network)
 - **Uzi** /ˈu.zi/ – the Thread: the wire line beside the main Whisper Road (Swahili *uzi*, thread)
-- **hema-tufani** /ˈhe.ma.tu.fa.ni/ – Storm Sanctuary (reinforced shelter)
+- **hema-tufani** /ˈhe.ma.tu.fa.ni/ – storm haven (reinforced storm shelter, on a road, in a town or at a guild house)
 - **hekalu-hanga** /he.ˈka.lu.ha.ŋa/ – Wind Temple
 - **soko** /ˈso.ko/ – market (from Swahili)
 - **bwawa-maji** /ˈbwa.wa.ma.dʒi/ – cistern, water reservoir
@@ -744,7 +744,7 @@ The stories, the games and the Compendium name institutions in English for the r
 - **kinabara** /ki.ˈna.ba.ra/ – "hoarder"; a deeply shameful term for someone who stockpiles resources or power.
 - **hangakora** /ˈha.ŋa.ko.ra/ – "bad wind" (lit. "contrary wind"); a term for psychic coercion, emotional manipulation, or the abuse of psychic gifts.
 - **utu** /ˈu.tu/ – humanity, compassion: a person is a person through other people (from Swahili; the same root as *ubuntu*)
-- **ukoo** /u.ˈkoː/ – lineage, clan (from Swahili)
+- **ukoo** /u.ˈkoː/ – lineage, line: the family of the line name (from Swahili)
 - **utamaduni** /u.ta.ma.ˈdu.ni/ – culture, tradition (from Swahili)
 - **sheria** /ˈʃe.ri.a/ – law (from Swahili)
 - **haki** /ˈha.ki/ – right, justice (from Swahili)
@@ -1581,7 +1581,6 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | circle | *duara* |
 | cistern | *bwawa-maji* |
 | city | *mji* |
-| clan | *ukoo* |
 | claws | *makucha* |
 | clean | *safi* |
 | climb | *panda* |
@@ -1700,7 +1699,6 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | exchange | *kubadilishana* |
 | excuse me | *samahani* |
 | experience | *uzoefu* |
-| extended family unit | *kin* |
 | eye | *jicho* |
 
 ## F
@@ -1938,6 +1936,7 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | light-finding | *mwanga-tunga* |
 | lightning | *radi* |
 | like | *penda* |
+| line | *ukoo* |
 | lineage | *ukoo* |
 | lion | *simba* |
 | listen | *baŋga*, *sikia* |
@@ -2232,8 +2231,8 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | storage | *hifadhi* |
 | storage pit | *shimo-hifadhi* |
 | storm | *tufani* |
+| storm haven | *hema-tufani* |
 | storm hunter | *tufani-winda* |
-| storm sanctuary | *hema-tufani* |
 | storm wall festival | *tufani-sherehe* |
 | stormroot tree | *hanaŋa* |
 | stove | *jiko* |

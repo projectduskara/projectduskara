@@ -1,9 +1,9 @@
 ---
 title: Duskaran Daybook
 subtitle: Everyday Life on the Living Edge
-version: 0.7.0
+version: 0.8.0
 date: 2026-10-16
-latest_update: "Sickness, the monthly blood, soap, the latrine and the recycler."
+latest_update: "The proposals of the plates confirmed: the house, the shape of a town, the steam house, the growing tower, sickness, the hearth, the bells, the haven."
 ---
 
 # Introduction
@@ -183,7 +183,7 @@ These are two different things, and people feel them in opposite ways.
 
 - **Wet dust is the best-loved smell on Duskara.** It is the smell of the Water's Blessing Festival. Old people stand in a doorway for it.
 - **A smell from the day side is an alarm.** Scorched rock and dry dust mean that hot air has come in against the wind, as it does at the hot gates. Everybody looks up.
-- **People** smell of smoke, wool and skin oil. A person who has come off the road smells of dust, and one who has come from the steam house smells of resin.
+- **People** smell of smoke, wool and skin oil. A person who has come off the road smells of dust, and one who has come from the steam house smells of resin, from the stormroot beams warm in the steam.
 
 ## Taste
 
@@ -229,7 +229,7 @@ Water goes down this stair and never up it.
 - **Soap** (*sabuni*) is soft and brown, and it smells of smoke. A household boils goat tallow with the lye of hearth ash: the ash of *kuni* makes good lye, and the surface has no wood ash. Soap needs rinse water, so people use it where dirt can kill and not where it is only dust: the hands of the healer, the birth room, the hands of the recycler crew, the cook after meat. A pot of it stands in each steam house.
 - **Pots and bowls** are scoured dry, with hearth ash and fine sand, and then wiped. The bowl is already empty. A little second water finishes the work.
 - **To spit is to waste.** A person who must spit does it into the latrine or into a cloth.
-- **The steam house** (*hamamu*). In the north and in the caves steam costs nothing, and the Fire Land has baths. A heartland town has a steam house in each quarter, heated by the thermal exchanger. A person goes once in a few days. It is the place where news passes.
+- **The steam house** (*hamamu*). In the north and in the caves steam costs nothing, and the Fire Land has baths. A heartland town has a steam house in each quarter, heated by the thermal exchanger. Its beams are stormroot, and in the steam they give off their resin. The steam room is a dome about 12 meters across, sunk a little below the lane, with benches in two tiers round its wall. The exchanger heats a boiler in a room against the back wall, and warm pipes run under the floor. Steam turns to water on the cold dome and runs down to gutters at its foot and back to the hydroloop, so the steam house loses little water. On the dayward side are the undressing room, the oil room and a cool room, and the door opens on steps down from the lane, in the lee. A person goes once in a few days. It is the place where news passes.
 - **Hair** is braided close to the head or wrapped in a scarf. This keeps the dust out and needs little water. Braiding is done in the court, in the lee, and it takes hours of talk.
 - **Clothes** are beaten, aired in the wind and hung on the lit wall. They are seldom washed, and wool almost never.
 - **The latrine** is dry. What it holds goes to the recyclers.
@@ -271,7 +271,7 @@ A day has ten bells: five in the waking period and five in the rest period. The 
 | First of the day (*sori*) | 0 | Work begins. It is not the bell of waking: people are up before it. |
 | Second | about 2.5 | Markets open. Lessons begin. |
 | Third | about 5 | The middle of the work. Shifts change. |
-| Fourth | about 7 | The meal. |
+| Fourth | about 7 | The meal, which lasts about an hour and a half. |
 | Fifth, the last bell | about 9.5 | The public day ends. Halls close and children go down. In the Cycle of *saumu*, people eat after it. |
 | First of the rest (*kiza*) | 12 | First sleep. |
 | Second of the rest | about 14.5 | |
@@ -279,7 +279,7 @@ A day has ten bells: five in the waking period and five in the rest period. The 
 | Fourth of the rest | about 19 | Second sleep. |
 | Fifth of the rest | about 21.5 | Rising: the cloth and the cup, thin porridge, chai, the walk to work. |
 
-The old words survive for the parts of the waking period: morning from the first bell to the second, midday to the third, afternoon to the fourth, evening after it.
+The old words survive for the parts of the waking period: morning from the first bell to the second, midday to the third, afternoon to the fourth, evening from the fourth to *kiza*.
 
 ## Sleep
 
@@ -311,13 +311,34 @@ This pattern follows from the wind and the light. Rich houses and city blocks ch
 - **The back** is the nightward wall: thick, low, with no opening. The wind and the rain strike it. The gutter and the cistern are at its foot, and the sweet jar stands against it inside. A weatherworking house also turns its back to the night.
 - **The roof** is low at the back and rises toward the day. Nets of cable or rows of stones hold it down, and it hums.
 - **The face** is the dayward wall: the door, the high windows, and a bench. It is lit, and it is in the lee.
-- **The court** lies on the dayward side. It holds the hearth (*jiko*), the porridge crock, the loom, the drying lines, and in small places the goats. The houses of one kin share a court: this is the compound.
+- **The court** lies on the dayward side. It holds the hearth (*jiko*), the porridge crock, the loom, the drying lines, and in small places the goats. The houses of one line share a court: this is the compound.
 - **Below** are the store and the sleeping room.
 - **Inside**: mats and low stools. A shelf with the cups of the family, each one different. In many houses, most of all in the north, a shelf of name tablets. Wrap cloths with their sayings, hung as curtains. Tools on pegs, each one carved.
+- **The cistern** at the foot of the back wall holds the rain of the roof. It is for the lower stairs of water: cloth, the floor and the plants. Nobody drinks it, and it is outside the measure, but the keeper of the tally reads its level after each storm.
+- **The heat stone**, a geothermal crystal, lies in a lined bin under the sleeping room.
+- The used water goes by a pipe under the court to the hydroloop line in the long lane. The power line comes in under the roof and feeds the hot plate.
+- The dry latrine stands at the dayward side of the court, downwind. The stair goes down along the day face.
+- **Sizes.** A common house is about 7 meters deep. The lower rooms are about 2.5 meters below the ground. The roof rises from about 2.2 meters at the back to 4.7 at the face, and the court is about 7 meters deep.
 
 ## The House Stays
 
 A house belongs to a line and stays in it. People are born and die in the same compound, and a house holds the cups, the tablets and the carvings of many generations. A Belter who hears that the Deepkin change rooms by rota does not know what to say.
+
+## Marks of the Kin
+
+A person has three kin: the **house**, which is the compound of one line; the **line** (*ukoo*), which gives the line name; and the **Wind-Kin**, one of five clans that group the lines along the whole arc. Each Wind-Kin has a sign, carved with a few cuts.
+
+| Wind-Kin | The sign | What it shows |
+|----------|----------|---------------|
+| *kin-Hanga*, Wind | Three strokes that lean the same way | Grass in the wind |
+| *kin-Moto*, Fire | An arc over a short bar | The hearth |
+| *kin-Maji*, Water | Three steps going down, a dot on the top one | The stair of uses |
+| *kin-Babu*, Elder | A cord with a knot and a loop | The knotted cord of the tally |
+| *kin-Kivuli*, Shadow | An arch under a ground line | The mouth of a cave |
+
+- **The house mark** is the sign of the Wind-Kin. The house draws its measures under it at the tally.
+- The sign is carved on the **doorpost** and under the **cups** of the family, on the **name tablets** of the dead and on the **seals** of contracts. It is **worn** as a small pendant of carved wood on a cord, or stitched in a light thread into the sash of adulthood. A seal is pressed in red clay.
+- A person with no Wind-Kin has no sign, and draws water under the line name.
 
 ## Fuel
 
@@ -356,9 +377,32 @@ The surface has little to burn. The only wood is stormroot, and a council releas
 - Carvings cover the windward walls. At the height of a hand they are worn smooth.
 - **What a lane sounds like:** the hum, the bells, the drum, goats, a loom, children who say a survival poem in chorus, and from the cricket sheds a steady song. Some children keep one cricket in a small cage of fiber, for its voice.
 
+## The Shape of a Town
+
+A town of the heartland is about 680 meters across the belt and 490 meters along it.
+
+- **The clean end**, from the night: the wall, open at each cross lane so that the wind goes down the lanes; the stormroot belt inside it; the turbines; the condensers; the cisterns; the bell house with the drum.
+- **The rows** of compounds stand on terraces about 1.5 meters high. A block holds five compounds between two cross lanes. Cross lanes are about 80 meters apart and about 8 meters wide; long lanes are about 2 meters wide.
+- **A quarter** is the ground around one main cross lane, in the middle of the town: the hall, the market court in its lee, the water tally, the steam house, the healing house and a growing tower. A heartland town has two quarters, and the council floor stands in one of them.
+- **The hydroloop** has two lines under the main cross lanes: sweet water from the cisterns, and used water down to the recyclers.
+- **The used end**, toward the day: the Whisper Road on its embankment, with the halt and the Thread on poles; the track of the caravans; the guest house by the halt; the goat pens, the recyclers, the drying yards, the forges and the greenhouses; the drying house, with the kiln of the dead beside it. The fields lie beyond, and the far house stands in them.
+
 # Food
 
 A meal on the belt is counted, shared and finished.
+
+## Where Food Grows
+
+- **Grain grows in strips.** Wind-grain is short and stiff in the stalk. It grows in long strips that lie along the belt, each in the lee of a line of stormroot or of a low wall set across the wind. Beyond the strip stands the next line, and beyond it the next strip.
+- The wind never changes its side, so a line gives the same shelter every day: a strip as deep as ten to fifteen times the height of the line. Open ground with no line grows grass, not grain.
+- From the road the grain land looks open: pale strips of grain, and dark lines of trees across the wind.
+- A town is a windbreak too. Its fields lie at its dayward end, in its lee.
+- Leaf, herbs, roots and a little grain grow in the growing towers of the quarters. Beans and the seed crops grow in the greenhouses at the day end.
+- **The growing tower** (*shamba-juu*) is round, about 8 meters across and 24 high. Its nightward half is stone without openings; its dayward half is glass. A wall that faces the sun takes the low light square on, where a field takes it at a slant: this is why the farms of a town stand up. A band of carving runs at the foot of the stone half: grain, water, the balance.
+- **Its floors**, from the top: green leaf, which needs the most sun; herbs and chai leaf; roots in deep troughs; dwarf wheat; beans on poles; and the nursery under the lamps. The lower floors are in the shadow of the rows in front and rely more on the lamps.
+- **The lamps** are blue-white. They give the blue that the red sun lacks, and from outside the glass shows a cold blue light, seen nowhere else in a town.
+- **Its water** runs from a tank on the roof down through the beds by its own weight to a sump in the cellar, and a wind pump on the roof lifts it back. Gutters at the foot of the glass take the water that the leaves breathe out. The feed room takes in the second water and the water of the yellow jar, and compost from the recyclers steeps in a vat there: this is the pond smell of the feed water. Glowcaps grow on shelves in the cellar beside the sump, and warm water from the exchanger of the steam house keeps the cellar and the core warm.
+- The door is in the lee, with a tally slate. Leaf goes out by the tally of the quarter.
 
 ## Through the Day
 
@@ -420,9 +464,9 @@ A meal on the belt is counted, shared and finished.
 - **What changes in the house** is one word. The family begins to say *bapa* where it said *ama*, or the reverse, and by custom the youngest says it first, at the meal.
 - A stranger does not ask, and does not guess aloud.
 
-## The Monthly Blood
+## The Blood
 
-- **The drug changes it.** Most adults take the contraceptive drug (*dawa-zuia*), and to take it is the normal state. In most people who would bleed, it stops the bleeding or makes it small. So the monthly blood is a thing of the young, of a person who has stopped the drug for a child, and of the few who do not take it.
+- **The drug changes it.** Most adults take the contraceptive drug (*dawa-zuia*), and to take it is the normal state. In most people who would bleed, it stops the bleeding or makes it small. So the blood is a thing of the young, of a person who has stopped the drug for a child, and of the few who do not take it.
 - **The first blood** comes near the age of the Rite of the Winds. It has no rite. The healer explains the drug, and an older person of the house shows the pad.
 - **The pad** is a fold of carded sunspire pith in a cloth. It is not washed: it goes into the latrine jar, and so to the recyclers. People say that the body gives its water back, as they say of the dead, and they say it without weight.
 - **Nothing is closed to a person who bleeds.** The steam house, the kitchen, the council and the guild house are the same for all. No custom calls the blood unclean.
@@ -440,7 +484,7 @@ A meal on the belt is counted, shared and finished.
 ## The Healer
 
 - The healer (*tiba-ji*, *dok*) has a trade like any other, and takes turns on the rota like any other person.
-- A heartland town has a **healing house** (*tiba-wan*) in each quarter, near the steam house. It has a few mats, a still for clean water, a pot of soap and the shelf of remedies.
+- A heartland town has a **healing house** (*tiba-wan*) in each quarter, near the steam house. It stands just down-belt of the steam house: a room of about 8 by 6 meters with its back to the night and its door in the lee. It has three mats, a still for clean water, a pot of soap and the shelf of remedies: herb teas, glowcap preparations, salves of seed oil and ash.
 - Healers keep a guild (*chama*) across the towns of a region. Its grades and its examination follow the pattern of the weatherworking guilds.
 - A healer who is also a thermal sensor reads a body by the palm: fever, a hidden wound, a cold limb. People call such a healer "a warm hand".
 - **Counting as care.** The healer reads the water tally every day. A house that draws less water, or takes fewer bowls from the common kitchen, is often a house with a sick person in it. The tally sees sickness before the healer does.
@@ -448,22 +492,22 @@ A meal on the belt is counted, shared and finished.
 ## Catching Sickness
 
 - People know that some ills go from one person to another: the cough that goes through a caravan, the belly sickness of bad water, the fever that comes with new travelers. Most of them come by the roads.
-- **The wind carries it dayward.** People believe this, and it is often true. So a person with a catching sickness lies at the **far house** (*mbali-wan*), at the dayward end of the town, downwind of all other houses.
+- **The wind carries it dayward.** People believe this, and it is often true. So a person with a catching sickness lies at the **far house** (*mbali-wan*). It stands in the fields beyond the used end, about 25 meters past the last works, so that nothing of the town is downwind of it. It has three mats and the ochre cloth on its door.
 - A sick house in the town has a strip of ochre cloth on the ring of its door. It is not the undyed cloth of mourning, and nobody confuses the two. Neighbors leave cooked food and sealed water on the step, knock twice and step back.
 - **The measure of the sick** stays full. A fever takes water, and the healer may ask the committee for more. This is never called hoarding.
 - **To hide a fever is to lie.** It is the same fault as to lie about health before two people first lie together. It covers a traveler who hides a cough at the gate, and the council hears it as it hears waste.
-- **A dead person of a catching sickness** has the vigil with the door open, but nobody goes down. People speak the name from the step. The drying and the kiln are as usual.
+- **A dead person of a catching sickness** has the vigil with the door open, but nobody goes down. People speak the name from the step. The drying and the kiln are as usual. From the far house the keepers carry the body to the drying house along the used end, not through the lanes.
 
 ## At the Gate
 
-- The boiled cup of welcome and the three days of a guest are also a watch. If a guest has fever in the three days, the guest house becomes a sick house.
-- Where the town has a thermal sensor at the gate, each traveler gives a palm on arrival. "To give the palm" is ordinary courtesy, and a traveler who refuses it is watched.
+- The boiled cup of welcome and the three days of a guest are also a watch. The guest house stands by the halt, where travelers come in from the road and the caravan track. If a guest has fever in the three days, the guest house becomes a sick house.
+- Where the town has a thermal sensor at the gate, each traveler gives a palm on arrival. The sensor stands at the halt. "To give the palm" is ordinary courtesy, and a traveler who refuses it is watched.
 
 ## A Closed Town
 
 - When a catching sickness spreads, the council can close the gate. The healer gives the count, and the council decides in the open, as it decides everything else.
 - A closed town sends the warning down the relays and the wind songs, and the Caravan Guilds carry it along the routes.
-- Neighbors bring loads to a **drop stone** at a distance from the wall. They put the load down, step back, and wait until the people of the town take it. This is mutual aid under the Accord, and the debt is remembered on both sides.
+- Neighbors bring loads to a **drop stone** outside the wall at the clean end, about 100 meters from it, on the line of a main cross lane. The carriers stay upwind of the town. They put the load down, step back, and wait until the people of the town take it. This is mutual aid under the Accord, and the debt is remembered on both sides.
 - Trade stops, and every day of a closed gate is counted. So councils close late, and they are blamed either way.
 
 # Manners
@@ -509,6 +553,15 @@ The Creole word is *adabu*.
 - Neighbors do not see what a tied door hides. They do see a person who has gone out of bell.
 - A person with an ability is always partly elsewhere. Nobody asks them what the air is doing while they eat.
 
+## At a Storm Haven
+
+- Nobody is turned away from a haven. A quarrel waits at the door.
+- Take what you need, leave what you can, and write both on the slate of the haven.
+- The first in makes chai for those who come after.
+- The seals of the water jars are counted, and a jar is opened only in a storm.
+- In the dark of a storm someone rings the bells of the haven and keeps the count, so that nobody comes out "a bell late".
+- After a great storm the nearest town sends a team to check its havens and to look for the people whom the storm did not give back.
+
 ## What a Stranger Notices
 
 A Deepkin on the first day above sees these small acts before anything else. Everybody does them, and nobody thinks about them.
@@ -541,13 +594,15 @@ By about ninety Cycles, when lessons begin, a child can:
 - pour without loss;
 - read the nightward sky for a line that is coming;
 - make the hand signals and speak the storm register;
-- find the nearest shelter from any place in the town;
+- find the nearest storm haven from any place in the town;
 - say the survival poems of the house;
 - keep a tally.
 
 # Rites
 
 ## Through a Life
+
+Childhood runs from about 55 Cycles, the end of early childhood, to about 130, the start of adolescence.
 
 | Rite | When | What happens |
 |------|------|--------------|
@@ -556,7 +611,7 @@ By about ninety Cycles, when lessons begin, a child can:
 | The first cup | The first Gradient Feast of the child | The family makes a cup for the child. |
 | Fostering | When a child joins a new house | It is marked with a ceremony: the child drinks from the cup of the new house. |
 | The first work | About 60 Cycles | The child scrapes a condenser with the others. |
-| Wind-listening | Childhood | Every child learns it. |
+| Wind-listening | From about 20 Cycles to 130 | Every child learns it, through childhood. |
 | Rite of the Winds | About 135 Cycles | It shows an ability, if there is one. In the heartland the family marks the forehead with ash. The person may take a second name. |
 | Threshold and the Wind Endurance Trial | About 190 Cycles | The sash of adulthood. Heat trials and frost vigils belong to the same age; the north goes to Jiko-Biŋ for the vigil. |
 | Partnership | Adult life | See Married Life. |
@@ -650,7 +705,7 @@ The body is dried, so that its water returns to the settlement, and then it is b
 
 ## Together
 
-- In a storm every person has a place in a shelter and a task. The town drills for it, and after the storm the whole town repairs.
+- In a storm every person has a place in a storm haven (*hema-tufani*) and a task. The town drills for it, and after the storm the whole town repairs.
 - When a house must be moved or built again, the lane lifts and carries without payment.
 - At a feast the hall answers the storyteller, and nobody only watches.
 
@@ -766,7 +821,7 @@ Sex is a need like food and sleep. It carries no shame and no secrecy, and it re
 ## Where and When
 
 - The lower room, the middle wake, the tied door.
-- **Quiet rooms.** A city has rooms for people who have no privacy at home. They stand beside the steam house. Nobody pays and nobody gives a name. A cloth on the ring shows that a room is in use.
+- **Quiet rooms.** A town or a city has rooms for people who have no privacy at home: a row of six small rooms on the down-belt side of the steam house. Nobody pays and nobody gives a name. A cloth on the ring shows that a room is in use.
 - A small settlement has only timing and tact.
 
 ## The Body
@@ -877,6 +932,8 @@ The life of the Deepkin (*pango-jata*), from the inside.
 - **Clothes** are light and carry dyes that glow.
 - **The table:** pale fungi with a taste of nuts, blind fish, algae, the shellfish of the hot pools, young fronds of the geotherm fern, buns.
 - **Company.** Glowmoss grazers are kept near the houses. A guest is received with care and trusted late.
+- **The shape of a community.** The vent and the Warmth Hearth are at the bottom, with the working caverns beside them. The rooms lie above in rings that grow colder outward. The cold vault is near the ice, and the Deep Road comes in from the side. Heat rises from the vent in three main channels, and a central shaft carries the chimes. The hot pools take their water from the steam condensers. The bone wall is one wall of the Hearth; the living murals are on the other.
+- **Catching sickness.** There is no dayward side below, so a sick person lies at the cold end, in the outermost ring, where the air leaves the community toward the cold. The cave weatherworkers keep the draught going outward past the sick.
 
 # Crossing Over
 
@@ -950,7 +1007,13 @@ The words of the ordinary day. The Language Handbook has the full vocabulary.
 - 0.5.3: Water as a flow, with Compendium 2.6.0. River water is never drunk raw.
 - 0.6.0: The book describes the world and no longer talks about its own sources. The source marks, the list of decisions and the notes for writers move out of the book. New sections What People Compare Things To and What a Stranger Notices. The word list becomes the Glossary.
 - 0.6.1: The Long Dry comes with the quiet half of the star's breath. The Storm Wall Festival is held at the first great storm after the year begins; the Windcallers' Rite and the Aurora Nights follow the star's breath (Compendium 2.7.0). News from far towns comes down the Thread.
-- 0.7.0: New chapter Sickness: the healer and the healing house, catching sickness and the far house, the watch at the gate, the closed town. New sections The Monthly Blood and The Latrine and the Recycler. Soap, scouring and spitting in Washing; the Deepkin wash every day.
+- 0.7.0: New chapter Sickness: the healer and the healing house, catching sickness and the far house, the watch at the gate, the closed town. New sections The Blood and The Latrine and the Recycler. Soap, scouring and spitting in Washing; the Deepkin wash every day.
+- 0.7.1: The resin smell of the steam house comes from its stormroot beams, warm in the steam.
+- 0.7.2: New section Where Food Grows: wind-grain grows in strips along the belt, each in the lee of a line of stormroot or a low wall across the wind; the town shelters its own fields.
+- 0.7.3: The storm shelters of a town are storm havens (*hema-tufani*), with Compendium 2.7.1.
+- 0.7.4: The section on menstruation is now called The Blood, without an Earth time unit in its name.
+- 0.7.5: New section Marks of the Kin: the three kin (house, line, Wind-Kin) and the signs of the five Wind-Kins, and where they are carved and worn (Compendium 2.7.1). The houses of one line share a court.
+- 0.8.0: The proposals of the plates of Duskara Illustrated, confirmed by the author (decisions 44 to 53): the cistern, heat, pipes, latrine, stair and sizes of the common house; new section The Shape of a Town; the steam house and the quiet rooms; the growing tower; the healing house and its remedies, the far house, the guest house, the sensor at the halt and the drop stone; the shape of a Deepkin community and sickness under the night; the length of the meal and the evening; wind-listening and childhood; the pendant, the sash and the seal; new section At a Storm Haven.
 
 # License
 

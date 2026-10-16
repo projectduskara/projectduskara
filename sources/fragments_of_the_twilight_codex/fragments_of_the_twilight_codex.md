@@ -725,7 +725,7 @@ The wind gives and takes, but a pilgrim must find their own way to endure. The j
 
   - **Stormroot Groves**: low canopies that break the wind's bite. If their leaves are still, the ground beneath is safe.
   - **Ravines and Wind Hollows**: carved by time, shaped by patience. The best shelters are those that the wind itself has created.
-  - **Beacon Shelters and Storm Havens**: stocked by the settlements along every road. Take what you need, and leave what you can for the next traveler.
+  - **Storm Havens**: stocked by the settlements along every road. Take what you need, and leave what you can for the next traveler.
   - **Deep Roads**: the tunnels of the Deepkin, linking the caves to each other and to the belt. Enter only at a gate, and only with a guide of the caves or a shadow walker.
 
 - **Warmth**:

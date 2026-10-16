@@ -1,0 +1,3 @@
+# The edition of Duskara Illustrated. build_book.py prints it on the title page; the release workflow tags with it.
+version: "1.0.0"
+latest_update: "2026-10-16"

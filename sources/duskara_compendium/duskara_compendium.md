@@ -1,9 +1,9 @@
 ---
 title: Duskara Compendium
 subtitle: Main Setting Book
-version: 2.7.0
-date: 2026-10-15
-latest_update: "Contradictions resolved: the landing, the four gifts, the Thread, the wind rail, the Deep Roads, the star's breath, the councils."
+version: 2.7.1
+date: 2026-10-16
+latest_update: "The proposals of the plates of Duskara Illustrated confirmed: storm havens, the wind carriage, the water judge chamber, the Assembly in Birni."
 
 
 ---
@@ -66,7 +66,7 @@ CE dates are approximate conversions for the reader. Duskarans count only in Cyc
 
 ### Host Star
 
-- **Name**: HD Xanthea (colloquial: “Xanthea’s Star”)
+- **Name**: HD Xanthea (colloquial: “The Lion”)
 - **Spectral Type**: M0–M1 main-sequence star (a red dwarf at the warm end of its class)
 - **Mass**: ~0.55 Solar masses
 - **Luminosity**: ~0.05–0.06 Solar luminosities
@@ -197,7 +197,7 @@ Humans have made homes even here. Communities settle around geothermal vents and
 
 The transition zones between Duskara’s day and night sides are turbulent and dynamic. Storm walls, formed where hot and cold air masses collide, are a near-constant presence at the edges of the twilight belt. These violent systems, though dangerous, bring essential rainfall and disperse atmospheric heat, acting as both a barrier and a resource for human settlements.
 
-Crossing a storm wall follows strict protocols set by the Accord and the Weatherworking Guilds. A caravan needs storm-braced vehicles, personal tethers for anyone outside during transit, a guide who knows the route, and at least one guild-certified weatherworker; it must also carry supplies to restock the beacon shelters along the way. The rules were formalized after the Great Loss of Cycle 7,984, when three major trade caravans vanished in a single unpredicted storm convergence. A successful crossing remains a rite of passage for traders and explorers.
+Crossing a storm wall follows strict protocols set by the Accord and the Weatherworking Guilds. A caravan needs storm-braced vehicles, personal tethers for anyone outside during transit, a guide who knows the route, and at least one guild-certified weatherworker; it must also carry supplies to restock the storm havens along the way. The rules were formalized after the Great Loss of Cycle 7,984, when three major trade caravans vanished in a single unpredicted storm convergence. A successful crossing remains a rite of passage for traders and explorers.
 
 The Deep Roads are tunnels that the Deepkin dug one generation after another, to join the caves of the night side to each other and to the twilight cities. They are never finished: each generation extends them and keeps them in repair. They carry trade, resource exchange, and safe travel away from the extremes of the surface environment. Meanwhile, life forms within the twilight belt exhibit remarkable adaptability, with traits suited for both heat and cold, underscoring the planet’s evolutionary diversity and the interconnected nature of its environmental zones.
 
@@ -273,7 +273,7 @@ The **Duskaran Gazetteer** gives the position, the population and an entry for e
 
 ## Infrastructure and Points of Interest
 
-The Twilight Belt is a tapestry of human ingenuity, woven with pathways and structures designed to endure the planet’s extremes. The Whisper Roads, a wind-powered rail network, connects settlements along the arc, while caravans traverse secondary routes protected by windbreaks and beacon shelters. The Deep Roads, a series of ancient subterranean tunnels, link the twilight and nightward settlements, ensuring the flow of trade and resources beneath the surface.
+The Twilight Belt is a tapestry of human ingenuity, woven with pathways and structures designed to endure the planet’s extremes. The Whisper Roads, a wind-powered rail network, connects settlements along the arc, while caravans traverse secondary routes protected by windbreaks and storm havens. The Deep Roads, a series of ancient subterranean tunnels, link the twilight and nightward settlements, ensuring the flow of trade and resources beneath the surface.
 
 Experienced travelers read approaching weather through multiple senses beyond simple observation. Storm fronts announce themselves through metallic pressure, a sensation described as tasting copper while feeling atmospheric weight increase against exposed skin. Temperature gradients normally shift gradually across the belt, but pre-storm conditions create steep thermal boundaries, where stepping forward three meters produces noticeable temperature changes.
 
@@ -281,7 +281,7 @@ Storm clouds themselves display characteristic coloration: copper bands indicate
 
 Natural amphitheaters where three wind currents converge become focal points for both spiritual practice and practical weather observation. The wind creates harmonic resonances in these locations, producing sustained tones that change with atmospheric conditions. Weatherworkers conduct meditation at these sites, using the audible patterns to develop sensitivity to pressure differential collapse, the moment when opposing wind systems collide and generate superstorm conditions.
 
-Sacred sites such as Wind Temples rise at key wind-focal points, where spirituality and environmental observation converge. Storm Sanctuaries, reinforced shelters scattered across the belt, stand ready to protect travelers and settlers from the region’s unpredictable superstorms.
+Sacred sites such as Wind Temples rise at key wind-focal points, where spirituality and environmental observation converge. Storm havens (*hema-tufani*), reinforced shelters scattered across the belt, stand ready to protect travelers and settlers from the region’s unpredictable superstorms.
 
 Travel is slow. A caravan needs ten to twelve days between adjacent major cities, and about four Cycles from either end of the arc to the Bahari. The Whisper Roads cover the same distances in about two days and about twenty days under good conditions. This isolation fosters distinct local cultures and makes inter-settlement politics a slow, deliberate process. News travels faster than people: the Thread, a wire line beside the main Whisper Road, carries text from one end of the arc to the other in a day or two (see [Communication Technology](#communication-technology)). But Duskarans settle nothing by wire. An agreement needs the people in one room, and often a Wayseer to read them, so envoy exchanges still add Cycles to diplomatic resolutions.
 
@@ -410,7 +410,7 @@ The trial is held at a wind focal point, on a built platform or on a natural out
 
 Access to water, the most precious commodity on Duskara, defines wealth and power. Families with significant water quotas or control over distribution systems are among the societal elite. Water tokens, ceramic discs marked with settlement glyphs, are physical representations of water rights. Beyond their economic value, they are instruments of authority and autonomy, physically required to authorize critical actions within a settlement’s water systems, such as overriding automated valves. Linked to an individual's specific role and identification, the possession or coercive withholding of a token can become a significant source of personal and political power. They are often passed down through generations or traded as part of alliances, symbolizing both status and trust.
 
-The tokens contain psychic authentication signatures embedded in microscopic grooves during their creation. Each settlement's glyph (Cheŋ-Angataa's spiral-and-crescent, for example) identifies origin, while groove depth analysis detects forgery attempts. These tokens function as both economic instruments and legal evidence, with chain-of-custody protocols governing their inter-settlement trade.
+The tokens contain psychic authentication signatures embedded in microscopic grooves during their creation. A token bears a water drop and a line on its front, and the glyph of its settlement with tally marks on its back. Each settlement's glyph (Cheŋ-Angataa's spiral-and-crescent, for example) identifies origin, while groove depth analysis detects forgery attempts. These tokens function as both economic instruments and legal evidence, with chain-of-custody protocols governing their inter-settlement trade.
 
 Every able-bodied individual is expected to contribute to resource maintenance. Whether repairing wind turbines, overseeing water systems, or protecting trade routes, these duties are seen not just as civic responsibilities but also as spiritual obligations. Such collective efforts reinforce a communal mentality, binding settlements together in shared purpose.
 
@@ -543,7 +543,7 @@ Deep bonding is a telepathic connection that allows individuals to form empathic
 
 This ability is cultivated under the guidance of beastwalkers, experts who teach apprentices how to establish and nurture psychic bonds. Trust and mutual respect are essential, as the strength of the connection depends as much on emotional intelligence as on psychic power.
 
-Deep bonding is made for animals, but it can reach a human mind. The reach is weak. A bonder can push a feeling toward a person (calm, fear, trust) and can never read a thought. With consent this has honest uses: a bonder calms a panicked child in a storm shelter, or steadies a weatherworker through a hard working. Without consent it is *hangakora* (see [Cultural Impact](#cultural-impact)), and the oath forbids it.
+Deep bonding is made for animals, but it can reach a human mind. The reach is weak. A bonder can push a feeling toward a person (calm, fear, trust) and can never read a thought. With consent this has honest uses: a bonder calms a panicked child in a storm haven, or steadies a weatherworker through a hard working. Without consent it is *hangakora* (see [Cultural Impact](#cultural-impact)), and the oath forbids it.
 
 Because of their deep connection to native fauna, many Beastwalkers evolve into fierce conservation advocates or serve as **Preserve Wardens**. Their unique perspective allows them to sense ecosystem health through the experiences of their animal companions, making them critical players in maintaining Duskara's ecological balance.
 
@@ -624,7 +624,7 @@ Duskaran culture has three sources: what the settlers carried, what the crew car
 
 The settlers were African: most from East Africa, a minority from West Africa. The frame of Duskaran society is theirs.
 
-- **Kin and clan.** The Wind-Kin continues the clan (*ukoo*): a person belongs to a line, and marries outside it. The marriage caravan answers the same need on the scale of a planet.
+- **Kin and clan.** The line (*ukoo*) continues the clan: a person belongs to a line, and marries outside it. The lines group into five Wind-Kins. The marriage caravan answers the same need on the scale of a planet.
 - **Ancestors.** The dead stay near the living and are owed respect. On Duskara they moved into the wind.
 - **Age and council.** People pass through life in age groups with duties, which is the origin of threshold education. Decisions are talked out in an open council (*baraza*) until the group agrees.
 - **Water elders.** The water judges continue the councils of elders that divided irrigation water between farms.
@@ -665,15 +665,15 @@ What remains:
 
 Duskaran cities are masterpieces of practicality and art, designed to withstand the planet’s relentless winds while fostering communal life. Terraced wind-cities are engineered to channel airflow safely, with towering outer walls serving as both defenses and windbreaks. These walls are adorned with protective carvings, blending functionality with spirituality. Within, inner courtyards act as communal hubs for gatherings, resource storage, and rituals.
 
-Settlements are carefully arranged using principles reminiscent of feng-shui, aligning with wind channels for optimal airflow and comfort. Wind towers, central to many cities, not only cool their surroundings but also serve as spiritual symbols of harmony with the planet’s forces. Family compounds, known as Wind-Kins, house multigenerational groups in tightly-knit units. These compounds often extend underground, where geothermal insulation offers stability and warmth, emphasizing the importance of shared resources.
+Settlements are carefully arranged using principles reminiscent of feng-shui, aligning with wind channels for optimal airflow and comfort. Wind towers, central to many cities, not only cool their surroundings but also serve as spiritual symbols of harmony with the planet’s forces. Family compounds, known as houses, hold several generations of one line in tightly-knit units. These compounds often extend underground, where geothermal insulation offers stability and warmth, emphasizing the importance of shared resources.
 
 Vertical farming towers rise throughout the settlements, combining ancient terracing techniques with modern hydroponics. These communal efforts, adorned with motifs of fertility and balance, maximize agricultural yield in limited spaces. Sacred spaces, positioned at wind-focal points, provide tranquil sites for meditation, rituals, and weatherworking ceremonies, weaving spirituality into the fabric of daily life.
 
 ## Social Structure
 
-The Duskaran social order is deeply communal, with Wind-Kins forming the backbone of society. These extended families pool labor and resources for mutual support, guided by kin leaders who mediate disputes and represent their groups in broader councils. Age-grades define roles within this structure, with youth learning fieldcraft, adults managing critical tasks, and elders serving as repositories of wisdom and tradition.
+The Duskaran social order is deeply communal, and it has three levels of kin. The **house** is the compound of one line, where several generations pool labor and resources. The **line** (*ukoo*) is the family of the line name, and a person marries outside it. The **Wind-Kin** is one of five clans that group the lines along the whole arc (see [Duskaran Names Guidelines](#duskaran-names-guidelines)); its trade is that of its founding lines, kept as tradition, and says nothing about a person's work or gift. In each town a kin leader of each Wind-Kin mediates disputes between its houses and represents it in broader councils. Each Wind-Kin has a sign, carved and worn (see the Daybook). Age-grades define roles within this structure, with youth learning fieldcraft, adults managing critical tasks, and elders serving as repositories of wisdom and tradition.
 
-Governance in each twilight settlement rests with its **Council of Windkeepers** (see [Political Systems](#political-systems)), on which elders sit beside sector representatives, balancing tradition with practical needs. **Water management** castes oversee the allocation of this vital resource, while Weatherworking Lineages, families known for psychic abilities, hold hereditary roles in guiding settlements during environmental crises. Cross-settlement alliances, often solidified through trade and marriage, ensure political stability and resource sharing, maintaining harmony across the linear civilization.
+Governance in each twilight settlement rests with its **Council of Windkeepers** (see [Political Systems](#political-systems)), on which elders sit beside sector representatives, balancing tradition with practical needs. The **water judges** oversee the allocation of this vital resource, and the **Weatherworking Guilds** guide settlements during environmental crises. Neither is hereditary: a judge is trained and examined, and a gift appears where it will. Cross-settlement alliances, often solidified through trade and marriage, ensure political stability and resource sharing, maintaining harmony across the linear civilization.
 
 Knowledge of Earth history carries prestige among certain intellectual circles, with Archivists holding elevated status for their guardianship of ancient records. However, this scholarship is viewed by most as academic curiosity rather than practical wisdom. The divide between "Earth-obsessed" elites and pragmatic laborers occasionally sparks tension, particularly when resources are diverted to preserving data crystals rather than expanding water infrastructure.
 
@@ -787,7 +787,7 @@ Governance in Duskara is shaped by the stewardship of shared resources, varying 
 In the twilight belt, city-states operate autonomously, each under a Council of Windkeepers. Most councils have seven members:
 
 - **Four sector seats**: water, food, power and trade. The forum of the city elects them.
-- **Three general seats**: one passes in rotation among the Wind-Kin houses of the city, and the forum elects the other two.
+- **Three general seats**: one passes in rotation among the kin leaders of the five Wind-Kins of the city, and the forum elects the other two.
 - **The balance rule**: at least two members have a gift and at least two do not (see [Cultural Impact](#cultural-impact)).
 - **The chair** rotates each year.
 
@@ -809,7 +809,7 @@ These regional coalitions serve as the Accord's operational backbone. Wind Allia
 
 ## Assembly Procedures
 
-The Wind and Water Assembly convenes at a rotating neutral site within the Central Twilight Zone, typically near the Bahari. Sessions last fifteen to twenty days, with delegations arriving in waves as travel times permit. Major city-states hold permanent seats with full voting rights, while smaller settlements send rotating representatives who may speak but vote only on matters directly affecting their regions.
+The Wind and Water Assembly convenes in Birni, the seat of the Assembly, in its hall beside the geothermal cluster of the city. In a crisis it can meet at a neutral site nearer the trouble. Sessions last fifteen to twenty days, with delegations arriving in waves as travel times permit. Major city-states hold permanent seats with full voting rights, while smaller settlements send rotating representatives who may speak but vote only on matters directly affecting their regions.
 
 Decisions follow a tiered system. Routine matters (trade route maintenance, caravan schedules, minor resource adjustments) require simple majority votes among permanent members. Significant policy changes (water redistribution mandates, inter-settlement emergency mobilization, infrastructure projects) demand a two-thirds majority and input from regional coalitions. Constitutional-level decisions, such as admitting new settlements to the Accord or altering the fundamental structure of governance, require near-unanimous consent and are exceedingly rare.
 
@@ -873,7 +873,7 @@ Metal goes only where nothing else serves. Duskarans build in stone, rammed eart
 
 ## Infrastructure
 
-The linear layout of settlements in the twilight belt has inspired a highly efficient transport system. The Whisper Roads are a wind railway that connects the major hubs. The carriages run under sail and on motors charged by the wind. Their wheels have tires of plant composite and roll on a guideway of dressed stone and fired ceramic, with a raised center rail that steers them. The line needs almost no metal, and a damaged stretch is mended with the stone at hand. A carriage runs at 30 to 40 kilometers an hour while it moves, but it stops at every junction and waits out every storm, so it makes about 150 kilometers in a day. Automated caravans, designed to withstand the planet’s intense winds, travel secondary routes, ensuring robust trade and communication networks.
+The linear layout of settlements in the twilight belt has inspired a highly efficient transport system. The Whisper Roads are a wind railway that connects the major hubs. The carriages run under sail and on motors charged by the wind. Their wheels have tires of plant composite and roll on a guideway of dressed stone and fired ceramic, with a raised center rail that steers them. A carriage is about 11 meters long and 3.3 meters wide, on four wheels a side, and its guide wheels hold the center rail from both sides; the running plates are about 2.4 meters apart. It carries one fore-and-aft sail on a mast of about 4 meters. The wind always comes from the side of the line, so a carriage sails with the wind abeam in both directions. The motor is under the floor. The line needs almost no metal, and a damaged stretch is mended with the stone at hand. A carriage runs at 30 to 40 kilometers an hour while it moves, but it stops at every junction and waits out every storm, so it makes about 150 kilometers in a day. Wind caravans, sleds and vehicles under sail built to withstand the planet’s intense winds, travel the secondary routes and the caravan tracks with their crews (see [Economy](#economy)).
 
 Water management is a cornerstone of Duskaran infrastructure. Raw river and melt water is not drunk as it comes. Settlements take it at intakes nightward of the town, let the rock flour settle, and treat it before it enters the hydroloop. Cisterns are covered and deep, because open water is lost to the wind. Hydroloops, closed-loop systems, purify and recycle water for domestic, agricultural, and industrial use. In the colder night-side regions, ice harvesters extract water from frozen reserves, powered by geothermal energy. To prevent over-extraction, aquifer monitors track underground water levels, ensuring sustainable use.
 
@@ -897,7 +897,7 @@ The Deepkin have developed specialized infrastructure systems adapted to the nig
 
 ### Hydroloop Monitoring Systems
 
-Major settlements maintain underground monitoring chambers where water judges analyze real-time data from distributed sensor networks. Tablet arrays display hydroloop junction flows, aquifer depth fluctuations, and atmospheric condenser performance. While most systems are automated, critical valves and manual overrides require physical authentication with an authorized water token, ensuring a layer of personal accountability. Archive chambers beneath council complexes store generations of water rights documentation (ceramic tokens, trade manifests, quota adjustments) accessible only to water judges and authorized delegates. Projection systems allow emergency data presentation during council audiences, visualizing crisis patterns across multiple screens for rapid decision-making.
+Major settlements maintain underground monitoring chambers where water judges analyze real-time data from distributed sensor networks. Tablet arrays display hydroloop junction flows, aquifer depth fluctuations, and atmospheric condenser performance. While most systems are automated, critical valves and manual overrides require physical authentication with an authorized water token, ensuring a layer of personal accountability. Archive chambers beneath council complexes store generations of water rights documentation (ceramic tokens, trade manifests, quota adjustments) accessible only to water judges and authorized delegates. Projection systems allow emergency data presentation during council audiences, visualizing crisis patterns across multiple screens for rapid decision-making. In a major settlement the chamber lies about 30 meters under the council floor, reached by a stair, with the archive below it; the valve station is a single desk with a slot for the token, and the line of the projection runs up beside the stair to the council floor.
 
 ## Communication Technology
 
@@ -917,7 +917,7 @@ Outside the settlements, life depends on advanced and adaptable gear. Insulated 
 
 Water extraction and purification systems are crucial. Atmospheric condensers pull moisture from the air, a vital resource during dry wind phases, while compact filters process even the most contaminated water sources, ensuring access to clean water across the belt.
 
-To temper the constant winds where people work and grow food, wind domes create stable microclimates over settlements or agricultural zones, while wind stabilizers redirect dangerous gusts along trade routes and protect critical infrastructure. Emergency shelters, known as storm havens, are scattered across the belt, stocked with supplies to support travelers and caravans during extreme weather. Beacon shelters, powered by geothermal energy, emit guiding signals to help those lost in storms find safety.
+To temper the constant winds where people work and grow food, wind domes create stable microclimates over settlements or agricultural zones, while wind stabilizers redirect dangerous gusts along trade routes and protect critical infrastructure. Storm havens (*hema-tufani*) are scattered across the belt, stocked with supplies to support travelers and caravans during extreme weather. Many of them are also beacons: powered by geothermal energy, they emit guiding signals to help those lost in storms find safety. A haven of the roads is a vault in the ground for one caravan, under an earth mound with a sloped stone face to the night, so that the wind and its debris pass over it; the face catches the rain for a cistern under the floor. A lock of two doors, never open together, and a hooded vent open on the lee side, and a yard sunk in the lee holds the sleds with their masts down. In a beacon haven a stack over a warm bore shows to a thermal sensor through the storm, as a flare does, and a wind horn on its top sounds while the wind blows; it is heard only dayward of the haven. The same bore warms the floor. The stores are sealed water jars, flour, dried food, lamp oil, cake, cord, cloth, tethers and medicine, with the flares in a stone box apart. The Caravan Guilds keep the havens of the roads (see the Gazetteer for their spacing, and the Daybook for their custom).
 
 Thermal flares are signal devices for the worst conditions. A flare, powered by a portable energy cell, gives a short and local spike of very high heat. A person with thermal sensing can read this heat signature at a great distance, through a storm that blinds light and instruments. Storm hunters, frontier explorers and the salvage crews of the Dayward Edge fire them by hand or from a vehicle: as emergency beacons, as waypoints in dangerous ground, and as signals between teams. The flares are dangerous. One that fires by accident can kill the person who carries it and anyone near, its heat can draw predators that hunt by heat, and near a vent it can ignite gas.
 
@@ -962,7 +962,7 @@ Marking the transition between wind phases, the Gradient Feast signals the begin
 
 ### Aurora Nights
 
-In the active half of the star's breath, the night side becomes a canvas for awe and reflection. Rituals beneath the shimmering lights honor the mysteries of the universe, while bioluminescent art displays and shadow-dancing performances illuminate the darkness. Meditation sessions deepen the spiritual connection to Duskara, transforming this event into a celebration of the planet’s enigmatic beauty.
+In the middle of the active half of the star's breath, when the auroras are strongest, the night side becomes a canvas for awe and reflection. Rituals beneath the shimmering lights honor the mysteries of the universe, while bioluminescent art displays and shadow-dancing performances illuminate the darkness. Meditation sessions deepen the spiritual connection to Duskara, transforming this event into a celebration of the planet’s enigmatic beauty.
 
 ### The Windcallers’ Rite
 
@@ -970,7 +970,7 @@ Once in each star's breath, at the turn from the quiet half to the active half, 
 
 ### The Hearth Renewal
 
-In the quiet half of the star's breath, when the outer caverns are at their coldest, cave-dwellers gather for the Hearth Renewal, a festival centered on the maintenance of geothermal systems. Communal work to repair and clean thermal harvesters is followed by feasts held in the warmth of geothermal vents. Glow-dances and bioluminescent decorations transform the caves into vibrant spaces, celebrating the heat and life they sustain.
+In the middle of the quiet half of the star's breath, when the outer caverns are at their coldest, cave-dwellers gather for the Hearth Renewal, a festival centered on the maintenance of geothermal systems. Communal work to repair and clean thermal harvesters is followed by feasts held in the warmth of geothermal vents. Glow-dances and bioluminescent decorations transform the caves into vibrant spaces, celebrating the heat and life they sustain.
 
 ### Ancestor’s Light
 
@@ -1183,7 +1183,7 @@ The extreme conditions of Duskara call for coordinated, specialized responses to
 
 ## Threats Faced
 
-Environmental hazards are the primary danger. Massive super-storms born from the clash of hot and cold air masses batter settlements with high winds and debris. These events require rapid community coordination: everyone moves to storm shelters, critical systems are secured, and post-storm assessment teams evaluate damage and coordinate repairs. Auroral disruptions on the night side interfere with technology and destabilize psychic abilities temporarily, requiring special protocols for safety during these events. The constant eternal wind erodes infrastructure continuously, requiring ongoing maintenance.
+Environmental hazards are the primary danger. Massive super-storms born from the clash of hot and cold air masses batter settlements with high winds and debris. These events require rapid community coordination: everyone moves to the storm havens, critical systems are secured, and post-storm assessment teams evaluate damage and coordinate repairs. Auroral disruptions on the night side interfere with technology and destabilize psychic abilities temporarily, requiring special protocols for safety during these events. The constant eternal wind erodes infrastructure continuously, requiring ongoing maintenance.
 
 Duskara's fauna adds another layer of challenge. In the twilight belt, wind serpents sometimes hunt in populated areas; heat hounds and ember stalkers venture closer during warm wind phases. These predators are dangerous but rare, and established fauna management protocols handle encounters effectively. In cave systems, shadow lizards and ice burrowers present hazards to miners and travelers, requiring specialized knowledge and protective practices. Auroral crustaceans in thermal pools can deliver dangerous thermal shocks if cornered during harvesting.
 
@@ -1195,7 +1195,7 @@ The most unpredictable threats are psychic phenomena. Weather Wraiths, entities 
 
 Each settlement maintains organized safety teams that integrate regular citizens with specialized expertise. Unlike military units, these teams are composed of people with multiple roles: a storm-response coordinator also works in resource management or agriculture; a fauna handler also teaches children; a psychic containment specialist also participates in weatherworking guilds.
 
-**Storm Response Teams** are activated when severe weather approaches. These groups secure physical infrastructure, move people to designated shelters, manage communal supplies, and coordinate rapid assessment and repair after storms pass. Teams are trained regularly through drills and practice scenarios, ensuring everyone understands emergency procedures.
+**Storm Response Teams** are activated when severe weather approaches. These groups secure physical infrastructure, move people to the storm havens, manage communal supplies, and coordinate rapid assessment and repair after storms pass. Teams are trained regularly through drills and practice scenarios, ensuring everyone understands emergency procedures.
 
 **Fauna Management Specialists** include beast handlers trained to recognize predatory animal behavior, communicate psychically with bonded creatures, and execute safe deterrence or capture protocols. These specialists work with settlements to establish predator-aware caravan practices, maintain knowledge of animal migration patterns, and respond when fauna enters settled areas.
 
@@ -1217,7 +1217,7 @@ Settlements maintain archives of fauna behavior, storm patterns, psychic phenome
 
 ### Environmental Protection
 
-Settlements invest heavily in infrastructure designed to manage environmental hazards: reinforced storm shelters built deep underground, thermal insulation systems that protect against extreme temperatures, wind-resistant structures that channel rather than resist the constant gales. Portable protective gear (thermal suits, wind shields, impact-resistant clothing) helps individuals operate safely in harsh conditions.
+Settlements invest heavily in infrastructure designed to manage environmental hazards: reinforced storm havens built deep underground, thermal insulation systems that protect against extreme temperatures, wind-resistant structures that channel rather than resist the constant gales. Portable protective gear (thermal suits, wind shields, impact-resistant clothing) helps individuals operate safely in harsh conditions.
 
 Caravan equipment includes reinforced transport sleds designed to withstand wind and debris, insulated sleeping capsules for traveling through extreme temperature zones, and emergency beacon systems that use wind-powered signaling to communicate distress.
 
@@ -1638,7 +1638,7 @@ Despite eight hundred years of linguistic evolution, certain Earth words have pe
 **Cultural Holdovers**:
 
 - *kompyu* /ˈkom.pju/ – "computer/data crystal" (from English)
-- *famili* /fa.ˈmi.li/ – competes with native *Wind-Kin* but persists in some dialects (from English)
+- *famili* /fa.ˈmi.li/ – competes with native *wara* but persists in some dialects (from English)
 - *dok* /dok/ – "medical doctor," used alongside native healer terms (from English)
 
 These loan words are often marked as archaic or elevated speech, used primarily by Archivists or during formal ceremonies that reference Earth heritage.
@@ -2077,13 +2077,15 @@ The **line name** (*ukoo*) is the family name. It follows the personal name. A f
 
 ## Wind-Kin Designations
 
-Wind-Kin affiliation denotes extended family clan membership and is part of formal naming:
+The Wind-Kins are five clans that group the lines along the whole arc. Each is named for an element. The trade in brackets is the trade of its founding lines; it is kept as tradition and says nothing about a person's work or gift. Only the Shadow clan is still tied to a place, the caves.
 
-- **kin-Hanga**: of the Wind clan (surface dwellers, weatherworkers)
-- **kin-Moto**: of the Fire clan (thermal specialists, day-side workers)
-- **kin-Maji**: of the Water clan (water managers, conservationists)
-- **kin-Babu**: of the Elder lineage (knowledge keepers, traditional families)
-- **kin-Kivuli**: of the Shadow clan (Deepkin, night-side cave dwellers)
+- **kin-Hanga**: of the Wind clan (the weather and the sails)
+- **kin-Moto**: of the Fire clan (thermal work, the first ventures toward the day side)
+- **kin-Maji**: of the Water clan (the first cisterns, the water judges)
+- **kin-Babu**: of the Elder clan (the keepers of the first records)
+- **kin-Kivuli**: of the Shadow clan (the lines that went down to the caves; the Deepkin)
+
+Each Wind-Kin has a sign, which marks its houses at the tally, on the doorpost and the cups, on name tablets and seals, and on the body (see the Daybook).
 
 The designation is used in formal introductions, ceremonies, official records and negotiations between settlements. It is omitted in daily speech and in most writing.
 
@@ -2128,7 +2130,7 @@ Names made of Creole words. They are the newest stock and the one that grows. A 
 
 | Name | Meaning | Given when |
 |------|---------|------------|
-| Tufani | storm | born in a storm shelter |
+| Tufani | storm | born in a storm haven |
 | Angataa | aurora | born under a strong aurora |
 | Sori | start of the waking period | born at the first bell |
 | Safari | journey | born on the road or in a caravan |
@@ -2369,6 +2371,15 @@ Names are given in infancy and can be amended or expanded when a person shows a 
   - The star's breath, an activity cycle of about seven years, drives the Long Dry and the festivals that do not follow the year.
   - Councils of Windkeepers: four elected sector seats, three general seats, a balance of gifted and ungifted members, consensus before a vote.
   - The Thirst Wars explain the taboo on weapons for people. References to ancient ruins are removed.
+- 2.7.1: Storm havens, three levels of kin, and the proposals of the plates of Duskara Illustrated.
+  - One name for every storm shelter. Storm Sanctuaries (Chapter 02), beacon shelters (Chapters 01, 02 and 09) and the storm shelters of the towns (Chapters 05, 13 and 19) are all storm havens (*hema-tufani*); many havens are also beacons (Chapter 09).
+  - Three levels of kin (Chapters 06, 08, 18, 19). The house is the compound of one line; the line (*ukoo*) is the family of the line name; the Wind-Kin is one of five clans that group the lines. The trades of the five Wind-Kins are those of their founding lines, kept as tradition. Each Wind-Kin has a sign (Daybook 0.7.5). The general seat of a council rotates among the kin leaders of the five Wind-Kins.
+  - Proposals of the plates of Duskara Illustrated confirmed by the author:
+    - Political Systems (Chapter 08): the Assembly convenes in Birni, the seat of the Assembly, and meets elsewhere only in a crisis. It said "a rotating neutral site".
+    - Cultural Heritage (Chapter 06): the water judges and the Weatherworking Guilds replace the "water management castes" and the hereditary "Weatherworking Lineages".
+    - Technology (Chapter 09): the caravans of the secondary routes are the crewed wind caravans of Chapter 11, not automated ones; the size, the guide wheels, the sail and the motor of a wind carriage; the monitoring chamber under the council floor, its archive, its valve station and its projection; the form, the beacon and the stores of a storm haven of the roads.
+    - Societal Customs (Chapter 04): the faces of a water token.
+    - Calendar (Chapter 10): the Aurora Nights in the middle of the active half of the star's breath, the Hearth Renewal in the middle of the quiet half.
 
 # License
 

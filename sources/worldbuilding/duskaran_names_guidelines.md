@@ -1,8 +1,8 @@
 ---
-date: 2026-10-07
+date: 2026-10-16
 title: Duskaran Names Guidelines
-version: 2.0.0
-latest_update: "New naming system: personal names and line names from Swahili, Hausa, Mandarin, Tagalog and Duskaran Creole. The English-style names of 1.0.0 are superseded."
+version: 2.0.1
+latest_update: "The Wind-Kins are five clans that group the lines; their trades are tradition (Compendium 2.7.1)."
 ---
 
 # Overview
@@ -25,13 +25,15 @@ The **line name** (*ukoo*) is the family name. It follows the personal name. A f
 
 # Wind-Kin Designations
 
-Wind-Kin affiliation denotes extended family clan membership and is part of formal naming:
+The Wind-Kins are five clans that group the lines along the whole arc. Each is named for an element. The trade in brackets is the trade of its founding lines; it is kept as tradition and says nothing about a person's work or gift. Only the Shadow clan is still tied to a place, the caves.
 
-- **kin-Hanga**: of the Wind clan (surface dwellers, weatherworkers)
-- **kin-Moto**: of the Fire clan (thermal specialists, day-side workers)
-- **kin-Maji**: of the Water clan (water managers, conservationists)
-- **kin-Babu**: of the Elder lineage (knowledge keepers, traditional families)
-- **kin-Kivuli**: of the Shadow clan (Deepkin, night-side cave dwellers)
+- **kin-Hanga**: of the Wind clan (the weather and the sails)
+- **kin-Moto**: of the Fire clan (thermal work, the first ventures toward the day side)
+- **kin-Maji**: of the Water clan (the first cisterns, the water judges)
+- **kin-Babu**: of the Elder clan (the keepers of the first records)
+- **kin-Kivuli**: of the Shadow clan (the lines that went down to the caves; the Deepkin)
+
+Each Wind-Kin has a sign, which marks its houses at the tally, on the doorpost and the cups, on name tablets and seals, and on the body (see the Daybook).
 
 The designation is used in formal introductions, ceremonies, official records and negotiations between settlements. It is omitted in daily speech and in most writing.
 
@@ -76,7 +78,7 @@ Names made of Creole words. They are the newest stock and the one that grows. A 
 
 | Name | Meaning | Given when |
 |------|---------|------------|
-| Tufani | storm | born in a storm shelter |
+| Tufani | storm | born in a storm haven |
 | Angataa | aurora | born under a strong aurora |
 | Sori | start of the waking period | born at the first bell |
 | Safari | journey | born on the road or in a caravan |
