@@ -15,6 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       publications: ${{ steps.filter.outputs.changes }}
+      illustrated: ${{ steps.illustrated.outputs.duskara_illustrated }}
     steps:
       - uses: actions/checkout@v3
       
@@ -44,6 +45,14 @@ jobs:
               - 'sources/worldbuilding/duskaran_gazetteer.md'
             duskaran_daybook:
               - 'sources/worldbuilding/duskaran_daybook.md'
+
+      # Duskara Illustrated is not a Quarto book: it comes already built, so it has its own filter and job
+      - uses: dorny/paths-filter@v2
+        id: illustrated
+        with:
+          filters: |
+            duskara_illustrated:
+              - 'sources/duskara_illustrated/**'
 
   build-and-release:
     needs: detect-changes
@@ -200,6 +209,65 @@ jobs:
             - EPUB
             - ODT
             - Markdown (source)
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  release-illustrated:
+    needs: detect-changes
+    if: needs.detect-changes.outputs.illustrated == 'true'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Extract metadata from book.yml
+        id: get_metadata
+        working-directory: sources/duskara_illustrated
+        run: |
+          VERSION=$(grep '^version:' book.yml | sed 's/version: *"\?\([^"]*\)"\?/\1/' | tr -d ' ')
+          LATEST_UPDATE=$(grep '^latest_update:' book.yml | \
+            sed 's/^latest_update:[[:space:]]*//' | \
+            sed 's/^"//;s/"$//' | \
+            sed "s/^'//;s/'$//" | \
+            sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
+
+          if [ -z "$VERSION" ]; then
+            echo "ERROR: Could not extract version"
+            exit 1
+          fi
+          if [ -z "$LATEST_UPDATE" ]; then
+            LATEST_UPDATE="N/A"
+          fi
+
+          echo "VERSION=$VERSION" >> $GITHUB_OUTPUT
+          echo "LATEST_UPDATE=$LATEST_UPDATE" >> $GITHUB_OUTPUT
+
+      - name: Collect and rename outputs
+        run: |
+          VERSION="${{ steps.get_metadata.outputs.VERSION }}"
+          mkdir -p release_files
+          cp sources/duskara_illustrated/duskara_illustrated.pdf "release_files/duskara_illustrated_v${VERSION}.pdf"
+          cp sources/duskara_illustrated/duskara_illustrated_print.pdf "release_files/duskara_illustrated_print_v${VERSION}.pdf"
+
+      - name: Create release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: release_files/*
+          tag_name: duskara_illustrated-v${{ steps.get_metadata.outputs.VERSION }}
+          name: "duskara_illustrated v${{ steps.get_metadata.outputs.VERSION }}"
+          body: |
+            ## duskara_illustrated v${{ steps.get_metadata.outputs.VERSION }}
+
+            **Last Updated:** ${{ steps.get_metadata.outputs.LATEST_UPDATE }}
+
+            Automated release of duskara_illustrated: the Atlas and the Plates of Daŋa-Hai.
+
+            Available formats:
+            - PDF, screen edition (parchment, three inks)
+            - PDF, print edition (white paper and greys, for black and white printers)
           draft: false
           prerelease: false
         env:
