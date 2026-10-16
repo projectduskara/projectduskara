@@ -1,9 +1,9 @@
 ---
-date: 2026-10-14
+date: 2026-10-16
 subtitle: A Comprehensive Conlang Reference for the Duskara Setting
 title: Duskaran Language Handbook
-version: 2.3.0
-latest_update: "pumzi-nyota and Uzi added; the Deepkin abilities are now disciplines, and kivuli-ona, echo-hisi and bara-tunga are removed."
+version: 2.4.0
+latest_update: "sabuni, tiba-wan and mbali-wan added, with Daybook 0.7.0."
 ---
 
 # Introduction
@@ -1034,6 +1034,9 @@ The words of everyday life. The Duskaran Daybook shows them in use.
 - **beba-ji** /ˈbe.ba.dʒi/ – carrier (lit. "carry-person")
 - **kuni** /ˈku.ni/ – hearth fuel: pressed cake of straw, stalk and dung (from Swahili, "firewood")
 - **mgeni** /ˈmge.ni/ – guest (from Swahili)
+- **sabuni** /sa.ˈbu.ni/ – soap (from Swahili)
+- **tiba-wan** /ˈti.ba.wan/ – healing house (lit. "healing-place")
+- **mbali-wan** /ˈmba.li.wan/ – far house: the house at the dayward end of a town where a person with a catching sickness lies (lit. "far-place")
 
 ### Partnership and Rites
 
@@ -1713,6 +1716,7 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | fangs | *meno* |
 | far | *mbali* |
 | far edge | *Daŋa-Mbali* |
+| far house | *mbali-wan* |
 | farm | *lima*, *shamba* |
 | farmer | *nondo-ji* |
 | fasting cycle | *saumu* |
@@ -1832,6 +1836,7 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | head | *kichwa* |
 | healer | *tiba-ji* |
 | healing | *tiba* |
+| healing house | *tiba-wan* |
 | hear | *sikia* |
 | heart | *moyo* |
 | hearth | *jiko* |
@@ -2186,6 +2191,7 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | small stream | *mto-ndogo* |
 | snow | *theluji* |
 | so that | *ili* |
+| soap | *sabuni* |
 | society | *jamii* |
 | soft | *laini* |
 | soft light | *haske* |

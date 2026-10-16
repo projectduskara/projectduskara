@@ -1,9 +1,9 @@
 ---
 title: Duskaran Daybook
 subtitle: Everyday Life on the Living Edge
-version: 0.6.1
-date: 2026-10-15
-latest_update: "The Long Dry and the festivals follow the star's breath."
+version: 0.7.0
+date: 2026-10-16
+latest_update: "Sickness, the monthly blood, soap, the latrine and the recycler."
 ---
 
 # Introduction
@@ -226,10 +226,14 @@ Water goes down this stair and never up it.
 - **Hands.** One person pours from a small jug over the hands of another, above a basin, for about three breaths. The basin goes to the used jar. This is done before every meal, and the youngest person at the table pours.
 - **The body.** A cloth and one cup, each day. Oil and a scraper take off the dust.
 - **Teeth.** A chewing stick (*mswaki*). No water.
+- **Soap** (*sabuni*) is soft and brown, and it smells of smoke. A household boils goat tallow with the lye of hearth ash: the ash of *kuni* makes good lye, and the surface has no wood ash. Soap needs rinse water, so people use it where dirt can kill and not where it is only dust: the hands of the healer, the birth room, the hands of the recycler crew, the cook after meat. A pot of it stands in each steam house.
+- **Pots and bowls** are scoured dry, with hearth ash and fine sand, and then wiped. The bowl is already empty. A little second water finishes the work.
+- **To spit is to waste.** A person who must spit does it into the latrine or into a cloth.
 - **The steam house** (*hamamu*). In the north and in the caves steam costs nothing, and the Fire Land has baths. A heartland town has a steam house in each quarter, heated by the thermal exchanger. A person goes once in a few days. It is the place where news passes.
 - **Hair** is braided close to the head or wrapped in a scarf. This keeps the dust out and needs little water. Braiding is done in the court, in the lee, and it takes hours of talk.
 - **Clothes** are beaten, aired in the wind and hung on the lit wall. They are seldom washed, and wool almost never.
 - **The latrine** is dry. What it holds goes to the recyclers.
+- **The Deepkin** have steam and warm water without cost, and they wash every day. A Belter in the caves finds that nobody there smells of skin oil, and feels dirty for the first time.
 
 ## Drinking and Pouring
 
@@ -326,6 +330,16 @@ The surface has little to burn. The only wood is stormroot, and a council releas
 - **Lamp oil** is pressed from the seed crops.
 - A flame is small and watched. A large open fire is a feast or it is waste.
 
+## The Latrine and the Recycler
+
+- **The latrine is dry.** It has two jars: one for urine and one for the rest. After use, a person throws a scoop of hearth ash or dry dust into the second jar. Ash closes the smell, and the house always has ash.
+- **The yellow jar** stands for some days. Then it goes, mixed with second water, to the growing towers and the plants of the court. It is the last step of the stair of uses.
+- **The solid jar** goes to the recyclers. A crew on the rota carries the jars down to the dayward end on a covered cart, once in a few days. A water judge takes this turn too.
+- **At the recycler** the waste goes into sealed, warm tanks, heated by the thermal exchanger. The tanks give gas for the kitchens and the kiln, and a wet residue. The water of the residue goes to the stills and back into the hydroloop. What stays is cured for a Cycle and becomes compost for the growing towers.
+- People know where some of their water has been. They do not speak of it at the table.
+- **A latrine that leaks into the ground** fouls the soil, and it is the fault of the land-poisoner (*tangazali*). The penalty is the work of cleaning.
+- The recycler crew washes with soap at the end of the turn and goes to the steam house. A person who comes off that turn smells of resin, like any other bather.
+
 ## The Door
 
 - A visitor stops outside and calls *hujambo*. The house answers *karibu*.
@@ -406,12 +420,51 @@ A meal on the belt is counted, shared and finished.
 - **What changes in the house** is one word. The family begins to say *bapa* where it said *ama*, or the reverse, and by custom the youngest says it first, at the meal.
 - A stranger does not ask, and does not guess aloud.
 
+## The Monthly Blood
+
+- **The drug changes it.** Most adults take the contraceptive drug (*dawa-zuia*), and to take it is the normal state. In most people who would bleed, it stops the bleeding or makes it small. So the monthly blood is a thing of the young, of a person who has stopped the drug for a child, and of the few who do not take it.
+- **The first blood** comes near the age of the Rite of the Winds. It has no rite. The healer explains the drug, and an older person of the house shows the pad.
+- **The pad** is a fold of carded sunspire pith in a cloth. It is not washed: it goes into the latrine jar, and so to the recyclers. People say that the body gives its water back, as they say of the dead, and they say it without weight.
+- **Nothing is closed to a person who bleeds.** The steam house, the kitchen, the council and the guild house are the same for all. No custom calls the blood unclean.
+- **Pain** is treated like any small ill: a warm cloth on the belly, an herb tea, a bell in the lower room. A person may trade a turn on the rota, and by custom nobody asks why a turn is traded.
+
 ## Small Ills
 
 - Cracked lips and knuckles. Eyes that run. Ears that ache. A dry cough in dust phases. One stiff shoulder, on the side that takes the wind on the road to work.
 - Chilblains toward the night and heat sickness toward the day.
 - Thermal sensors have migraines. Weatherworkers have nosebleeds and a shake in the hands.
 - The healer is the *tiba-ji* or the *dok*. The common cures are herb teas and fungal salves, frostbloom tea for the cold, the sap of the warmedge cactus on a wound, and glowcap for the chest.
+
+# Sickness
+
+## The Healer
+
+- The healer (*tiba-ji*, *dok*) has a trade like any other, and takes turns on the rota like any other person.
+- A heartland town has a **healing house** (*tiba-wan*) in each quarter, near the steam house. It has a few mats, a still for clean water, a pot of soap and the shelf of remedies.
+- Healers keep a guild (*chama*) across the towns of a region. Its grades and its examination follow the pattern of the weatherworking guilds.
+- A healer who is also a thermal sensor reads a body by the palm: fever, a hidden wound, a cold limb. People call such a healer "a warm hand".
+- **Counting as care.** The healer reads the water tally every day. A house that draws less water, or takes fewer bowls from the common kitchen, is often a house with a sick person in it. The tally sees sickness before the healer does.
+
+## Catching Sickness
+
+- People know that some ills go from one person to another: the cough that goes through a caravan, the belly sickness of bad water, the fever that comes with new travelers. Most of them come by the roads.
+- **The wind carries it dayward.** People believe this, and it is often true. So a person with a catching sickness lies at the **far house** (*mbali-wan*), at the dayward end of the town, downwind of all other houses.
+- A sick house in the town has a strip of ochre cloth on the ring of its door. It is not the undyed cloth of mourning, and nobody confuses the two. Neighbors leave cooked food and sealed water on the step, knock twice and step back.
+- **The measure of the sick** stays full. A fever takes water, and the healer may ask the committee for more. This is never called hoarding.
+- **To hide a fever is to lie.** It is the same fault as to lie about health before two people first lie together. It covers a traveler who hides a cough at the gate, and the council hears it as it hears waste.
+- **A dead person of a catching sickness** has the vigil with the door open, but nobody goes down. People speak the name from the step. The drying and the kiln are as usual.
+
+## At the Gate
+
+- The boiled cup of welcome and the three days of a guest are also a watch. If a guest has fever in the three days, the guest house becomes a sick house.
+- Where the town has a thermal sensor at the gate, each traveler gives a palm on arrival. "To give the palm" is ordinary courtesy, and a traveler who refuses it is watched.
+
+## A Closed Town
+
+- When a catching sickness spreads, the council can close the gate. The healer gives the count, and the council decides in the open, as it decides everything else.
+- A closed town sends the warning down the relays and the wind songs, and the Caravan Guilds carry it along the routes.
+- Neighbors bring loads to a **drop stone** at a distance from the wall. They put the load down, step back, and wait until the people of the town take it. This is mutual aid under the Accord, and the debt is remembered on both sides.
+- Trade stops, and every day of a closed gate is counted. So councils close late, and they are blamed either way.
 
 # Manners
 
@@ -866,6 +919,7 @@ The words of the ordinary day. The Language Handbook has the full vocabulary.
 | water jar; used water | *mtungi*; *maji-pili* |
 | tally board; water tally | *ubao*; *ubao-maji* |
 | steam house | *hamamu* |
+| soap | *sabuni* |
 | chewing stick | *mswaki* |
 | wrap cloth with a saying | *kanga* |
 | load frame; carrier | *kiunzi*; *beba-ji* |
@@ -882,6 +936,7 @@ The words of the ordinary day. The Language Handbook has the full vocabulary.
 | pregnancy; abortion | *mimba*; *toa-mimba* |
 | birth authorization | *ruhusa-zaa* |
 | bone | *mfupa* |
+| healing house; far house | *tiba-wan*; *mbali-wan* |
 
 # Changelog
 
@@ -895,6 +950,7 @@ The words of the ordinary day. The Language Handbook has the full vocabulary.
 - 0.5.3: Water as a flow, with Compendium 2.6.0. River water is never drunk raw.
 - 0.6.0: The book describes the world and no longer talks about its own sources. The source marks, the list of decisions and the notes for writers move out of the book. New sections What People Compare Things To and What a Stranger Notices. The word list becomes the Glossary.
 - 0.6.1: The Long Dry comes with the quiet half of the star's breath. The Storm Wall Festival is held at the first great storm after the year begins; the Windcallers' Rite and the Aurora Nights follow the star's breath (Compendium 2.7.0). News from far towns comes down the Thread.
+- 0.7.0: New chapter Sickness: the healer and the healing house, catching sickness and the far house, the watch at the gate, the closed town. New sections The Monthly Blood and The Latrine and the Recycler. Soap, scouring and spitting in Washing; the Deepkin wash every day.
 
 # License
 
