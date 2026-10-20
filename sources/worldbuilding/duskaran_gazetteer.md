@@ -1,9 +1,9 @@
 ---
 title: Duskaran Gazetteer
 subtitle: Places of the Living Edge
-version: 1.5.6
-date: 2026-10-16
-latest_update: "Birni has about 1.2 million people; the day side and the night side follow Compendium 2.7.2."
+version: 1.5.7
+date: 2026-10-20
+latest_update: "The plateau caravan of Liko-Luŋga and the Wind Temple of its scarp, from The Weight of Wind."
 ---
 
 # Introduction
@@ -568,6 +568,10 @@ The terraces of Liko-Luŋga have two waters. The main channel leaves the river a
 
 The ice front is about 125 kilometers nightward of the town, and the night wall stands about 30 kilometers behind it. The plateau between the ice and the scarp has outposts of ice harvesters. They have no names and no positions yet, and neither have the three settlements that were lost in the last surge.
 
+Once in each Cycle, after the slope terraces have headed, the harvesters come down to Liko-Luŋga with a caravan of sail sleds. They bring glacier ice packed in straw and felt under hides, and they take up forty sacks of wind-grain. The road is about six days down: off the plateau with the wind behind the sleds, then along the river to the town. At the town the sleds lie in the lee of the guest house by the halt, with their masts down. This is the link between the outposts of the Nightward Edge and the main roads.
+
+The Wind Temple of the scarp stands round a spur, in the angle on its far side: a roofless court of grey stone against the face, where the three currents meet and stay. The face is the nightward wall of the court. It is smoothed by hand to twice a person's height and cut with rows from top to bottom (see the Daybook, The Wall of a Wind Temple); the old record of the last surge is cut at its up-belt end. A haven of fitted stone, with a slate and an old stone bell, stands at the down-belt side of the court. The temple has no keeper, and the guild house stocks the haven. No bell of the house reaches it. The temple path from the seventh haven is about 12 kilometers without a storm line, in places across moving scree.
+
 # Wind and Storms
 
 ## The Wind
@@ -904,6 +908,7 @@ The names that these replace in older texts are listed in CANON_REMAPPING.md, in
   - Every storm shelter is a storm haven (*hema-tufani*), with Compendium 2.7.1: the havens of Zaŋgo-Iska, Rijiya-Sanyi, Mnara-Bato and the shelf of Bantay-Hanga. Patag-Bato: its caves are its storm havens, and the caravan leaders of Isha-Luŋga keep them and their list for every caravan; they are no longer trade secrets.
   - Local sheet Liko-Luŋga and Bantay-Hanga: the two waters of the terraces. The main channel waters the floor from the settling basin; a catch channel along the last terrace wall takes the runoff of the scarp for the terraces of the slope.
   - Proposals of the plates of Duskara Illustrated confirmed by the author. Distances and Travel: a storm haven at each day of travel on the tracks of the open ground. The Deep Roads: the gate hall, the carts, the markers, the Thread and the judge. Birni: its council has the usual seven seats, it is the seat of the Assembly, and its plan. Tafki-Kuu: closed reservoirs under the city, the gate in the city, the bells as relays. Bantay-Hanga: the plan of the house. Local sheet: the size of Liko-Luŋga, its terraces and its weirs. The Storm Walls and The Surging Ice: the heartland tongues reach about 10 km into the belt, as the terrain model and the local sheet already showed.
+- 1.5.7: Local sheet Liko-Luŋga and Bantay-Hanga: the plateau caravan of the ice harvesters, and a note on the Wind Temple of the scarp and its wall, from *The Weight of Wind* (Chapters 5 and 8). No change to the tables or the map data.
 
 # License
 

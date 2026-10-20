@@ -1,9 +1,9 @@
 ---
 title: Duskaran Daybook
 subtitle: Everyday Life on the Living Edge
-version: 0.8.0
-date: 2026-10-16
-latest_update: "The proposals of the plates confirmed: the house, the shape of a town, the steam house, the growing tower, sickness, the hearth, the bells, the haven."
+version: 0.9.0
+date: 2026-10-20
+latest_update: "Customs from The Weight of Wind: the load that goes up, the ash of the calling, the growing thread, the flood ring, the marker stones, the council of a guild house, the wall of a Wind Temple."
 ---
 
 # Introduction
@@ -403,6 +403,7 @@ A meal on the belt is counted, shared and finished.
 - **The lamps** are blue-white. They give the blue that the red sun lacks, and from outside the glass shows a cold blue light, seen nowhere else in a town.
 - **Its water** runs from a tank on the roof down through the beds by its own weight to a sump in the cellar, and a wind pump on the roof lifts it back. Gutters at the foot of the glass take the water that the leaves breathe out. The feed room takes in the second water and the water of the yellow jar, and compost from the recyclers steeps in a vat there: this is the pond smell of the feed water. Glowcaps grow on shelves in the cellar beside the sump, and warm water from the exchanger of the steam house keeps the cellar and the core warm.
 - The door is in the lee, with a tally slate. Leaf goes out by the tally of the quarter.
+- **The growing thread.** A keeper who thinks a row is slow ties a red thread round one stalk, under the top joint, and reads the next days of growth against it.
 
 ## Through the Day
 
@@ -585,6 +586,9 @@ A Deepkin on the first day above sees these small acts before anything else. Eve
 - Children scrape the scale from the condensers every seven days. It is their first work for the town, and they are proud of it.
 - The market is open from the second bell to the third. Much of the trade is by hand sign, and a deal closes on *nzuri*.
 - A person is paid in rations and in Windmarks, which stand for water, work and power.
+- **Nothing goes up empty.** Where a guild house or a watch stands above its town, each person who climbs to it carries part of its supplies, whatever the errand. The loads wait at the foot of the path with a slate, and the climber writes their name against the load they take. The cook of the house weighs each load at the door and says it aloud. Empties go down the same way, with whoever leaves, and are counted out.
+- **The flood ring.** River fishers paint a ring of tar round each weir post at the height of the water, so that the next rise or fall can be read against it.
+- **Marker stones.** An ice harvester who begins to cut sets a stone a measured number of paces out from the ice front. The family reads the advance or the retreat of the ice against the stones of the generations before.
 
 ## What Every Child Can Do
 
@@ -612,7 +616,7 @@ Childhood runs from about 55 Cycles, the end of early childhood, to about 130, t
 | Fostering | When a child joins a new house | It is marked with a ceremony: the child drinks from the cup of the new house. |
 | The first work | About 60 Cycles | The child scrapes a condenser with the others. |
 | Wind-listening | From about 20 Cycles to 130 | Every child learns it, through childhood. |
-| Rite of the Winds | About 135 Cycles | It shows an ability, if there is one. In the heartland the family marks the forehead with ash. The person may take a second name. |
+| Rite of the Winds | About 135 Cycles | It shows an ability, if there is one. In the heartland the family marks the forehead with ash, at the rite or whenever an ability shows. The ash is not washed: it wears off by itself, and where and when it wears off is the wind's business. A person who sees it touches two fingers to their own forehead. The person may take a second name. |
 | Threshold and the Wind Endurance Trial | About 190 Cycles | The sash of adulthood. Heat trials and frost vigils belong to the same age; the north goes to Jiko-Biŋ for the vigil. |
 | Partnership | Adult life | See Married Life. |
 | Renewal | At each anniversary | See Married Life. |
@@ -657,6 +661,13 @@ The body is dried, so that its water returns to the settlement, and then it is b
 | Aurora Nights | Under a strong aurora, in the active half of the star's breath | Sits out under it |
 | Hearth Renewal, Aurora Veil | In the caves | Cleans the thermal harvesters; hums with the Hearth |
 
+## The Wall of a Wind Temple
+
+- A Wind Temple keeps a wall that faces the wind, smoothed by hand. Each line of storm that the people of the place live through gets a row on it: the bell, and a short prayer spoken to the wind, as one speaks to a house. Names of the dead stand under some rows.
+- The oldest rows are worn almost flat by the wind, and new rows are cut over them at the foot.
+- A Watcher may cut an account of a working on the wall, in the same signs as the prayers.
+- People pray with the face in the wind, at the wall, and the prayer is not written anywhere else.
+
 # Public Life
 
 ## Where People Meet
@@ -682,6 +693,7 @@ The body is dried, so that its water returns to the settlement, and then it is b
 - A group of citizens can call an emergency audience, and the council must answer within three days.
 - Workers petition against a guild and families against an allocation. A young person can appeal against their own parents.
 - Seats turn with the wind phases, so most adults know somebody who has sat.
+- **A guild house** holds its council in its hall, and votes as a forum does. The practitioners sit on a bench round a circle cut in the floor, and the head of the house sits on a stool at the nightward end. Each practitioner keeps a cloth bag with a river stone and a carved token, lays one of them by the thing in the circle, and takes it back after the count. The Held sit on a lower bench along the wall; they have no bag and no vote. The youngest of the ring pours the chai, and pours for the Held last.
 
 ## News
 
@@ -1014,6 +1026,7 @@ The words of the ordinary day. The Language Handbook has the full vocabulary.
 - 0.7.4: The section on menstruation is now called The Blood, without an Earth time unit in its name.
 - 0.7.5: New section Marks of the Kin: the three kin (house, line, Wind-Kin) and the signs of the five Wind-Kins, and where they are carved and worn (Compendium 2.7.1). The houses of one line share a court.
 - 0.8.0: The proposals of the plates of Duskara Illustrated, confirmed by the author (decisions 44 to 53): the cistern, heat, pipes, latrine, stair and sizes of the common house; new section The Shape of a Town; the steam house and the quiet rooms; the growing tower; the healing house and its remedies, the far house, the guest house, the sensor at the halt and the drop stone; the shape of a Deepkin community and sickness under the night; the length of the meal and the evening; wind-listening and childhood; the pendant, the sash and the seal; new section At a Storm Haven.
+- 0.9.0: Customs from the novel *The Weight of Wind*, confirmed by the author (decisions 54 to 60): nothing goes up empty, the flood ring and the marker stones (Work); the ash of the calling (Rites, Through a Life); the growing thread (Where Food Grows); the council of a guild house (The Council Floor); new section The Wall of a Wind Temple.
 
 # License
 
