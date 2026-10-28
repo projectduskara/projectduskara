@@ -1,7 +1,7 @@
 ---
 title: "Fragments of the Twilight Codex"
-version: 2.0.0
-last_update: "Aligned with Compendium 2.7.0: names, places, the landing, the four gifts, the calendar, marriage and the baŋga'sora, fauna, and the Deep Roads."
+version: 2.1.0
+last_update: "Aligned with Compendium 2.8.0: The Bonding Winds records far work (kazi-mbali) in place of the marriage caravan."
 ---
 
 > *"The wind does not keep what it carries, but we must. Listen well, for in these fragments, the past still speaks."*  
@@ -567,14 +567,14 @@ The elders say the auroras return when the star breathes in again, and the world
 
 ### **The Bonding Winds**
 
-*(Excerpt from the Overseer's Ledger: The trade of partnership, the measure of a house, and the marriage caravan.)*
+*(Excerpt from the Overseer's Ledger: The trade of partnership, the measure of a house, and far work.)*
 
 **Cycle 7,892, Accord Standard**  
 **Recorded by: Water Judge Mariamu kin-Maji Achieng, for the Wind and Water Assembly**
 
 The wind does not move in isolation. It turns, shifts, entwines itself with other currents. Alone, a gust is fleeting; together, the winds shape the land, bring the rains, carry life across the twilight belt. So too are we, bound not by rigid ties, but by agreements freely traded, and by the understanding that a life on Duskara is not an individual act but a shared endeavor.
 
-In common speech, **the Bonding Winds** are all the bonds that hold a settlement together: the partnership of two people, the house they keep, and the alliances that join one town to another. These are not separate matters. Where water flows, so too does trust, and I have spent my life recording both.
+In common speech, **the Bonding Winds** are all the bonds that hold a settlement together: the partnership of two people, the house they keep, and the treaties and the far work that join one town to another. These are not separate matters. Where water flows, so too does trust, and I have spent my life recording both.
 
 #### **On Bonding and the House**
 
@@ -584,27 +584,29 @@ A house draws its measures together, under one mark at the tally. That is the wh
 
 Most houses are two. Some are three or four, with every term stated. Some are two friends who raise a child, and some are partners who join for work and care and nothing more. The trade does not ask why; it asks only that every term be said aloud and that every partner consent to it. And a partnership is a choice that is made again: at each anniversary the partners trade again before their friends, and a bond that is not renewed has ended, with no shame for either.
 
-#### **The Marriage Caravan**
+#### **Far Work**
 
-Our settlements are many and our lines are few, and a person marries outside their own line. A small town cannot do that for long within its own walls. So the *baŋga'sora*, the marriage caravan, has crossed the arc since the first generations, joining lines and settlements.
+A town that owes what it cannot pay in water or goods pays in work, and a town that lacks a skill borrows one. We call it *kazi-mbali*, far work: a person goes to labor in another town for a stated number of Cycles, and the house of their line keeps their place until they return. The measures of a far worker pass through my hands twice, where they are drawn and where they are owed, and so the rosters come to my desk as well.
 
 The rule is clear, and I copy it here because it is not always kept:
 
-- **A person writes their own name** on the roster, before the kin leader or a Wayseer, and can strike it with the same hand until the caravan leaves.
-- **The first terms** are fixed with the home council before departure: which settlements, how many Cycles away at most, the right to come home with no bond, and letters carried without charge.
-- **The Wayseer asks each person alone,** at each halt, and asks once.
-- **A pairing needs two yeses.** A no needs no reason, and the Wayseer writes only "no alliance".
+- **A person writes their own name** on the roster, before the kin leader or a Wayseer, and can strike it with the same hand until the day of departure.
+- **The terms** are fixed with the home council before departure: the town, the work, how many Cycles, the measures, letters carried without charge, and the right to come home if the terms are broken.
+- **The Wayseer asks each person alone,** and asks once.
+- **The worker keeps their place.** Their line and their room in the house wait for them.
 
 That is the rule. The practice is another matter. A place on the roster is called an honor, and in a poor settlement it is often a price. When a council needs water, or a weatherworker, it finds people who will "choose" to go, and they are most often people without a gift and without a voice in the hall. I have seen rosters where every name came from the same end of the town. I have seen a name written in a hand that was not the person's own. I have seen a family whose ration improved in the same Cycle that their daughter's name went up.
 
 This is why the Wayseer stands at the roster. A Wayseer who doubts can refuse to take a name, and I would ask every Wayseer to doubt more often.
+
+Not all of it is grief. Many far workers come home with a partner, and some stay where they were sent; the trade of those bonds comes to my desk like any other. Our settlements are many and our lines are few, and a person marries outside their own line. This is how our lines cross the arc.
 
 #### **The Role of the Assembly**
 
 The **Wind and Water Assembly** ensures that:
 
 1. **No partner may be left without a claim to water.**
-2. **No name goes on a roster without a witness, and no pairing without two yeses.**
+2. **No name goes on a roster without a witness, and no worker leaves without terms.**
 3. **Disputes between partners are settled first through a witness, then through mediation, and only then through the reallocation of measures.**
 
 #### **Final Reflections**

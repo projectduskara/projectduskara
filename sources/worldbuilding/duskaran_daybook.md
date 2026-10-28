@@ -1,9 +1,9 @@
 ---
 title: Duskaran Daybook
 subtitle: Everyday Life on the Living Edge
-version: 0.9.0
-date: 2026-10-20
-latest_update: "Customs from The Weight of Wind: the load that goes up, the ash of the calling, the growing thread, the flood ring, the marker stones, the council of a guild house, the wall of a Wind Temple."
+version: 0.10.0
+date: 2026-10-28
+latest_update: "The marriage caravan is removed. New section Far Work (kazi-mbali); a marriage between two towns is made by two people who met."
 ---
 
 # Introduction
@@ -602,6 +602,32 @@ By about ninety Cycles, when lessons begin, a child can:
 - say the survival poems of the house;
 - keep a tally.
 
+## Far Work
+
+A town that owes what it cannot pay in water or goods pays in work, and a town that lacks a skill borrows it. This is *kazi-mbali*, far work. It has a rule, and it has a practice.
+
+**The rule**
+
+- **The roster.** It hangs at the hall, with the town, the work and the number of Cycles written at the head. A person writes their own name on it, before the kin leader or a Wayseer, and can strike it with the same hand until the day of departure.
+- **The terms** are fixed with the home council before departure: the town, the work, how many Cycles, the measures, letters carried without charge, and the right to come home if the receiving town breaks the terms.
+- **The Wayseer asks each person alone,** once, and writes the answer.
+- **The worker keeps their place.** Their line, their Wind-Kin and their room in the house of their line wait for them. The rota of the home lane counts them as away, not as gone.
+- **In the receiving town** the worker draws their measures at the tally like anyone else and lodges where the terms say: the guest house for a short work, a room in a house of the town for a long one.
+- **Far work brings no birth authorization.** A worker who wants a child asks the council of the town where the child will be raised.
+
+**The practice**
+
+- A place on the roster is called an honor, and in a poor settlement it is often a price. A council that needs water or a weatherworker finds people who will "choose" to go, and they are most often people without an ability, whose work is easiest to lend.
+- **The signs** are known: a roster where every name comes from the same end of the town; a name in a hand that is not the person's own; a family whose ration improved in the same Cycle.
+- Here the witness has work. A Wayseer who doubts can refuse to take a name.
+
+**The burden**
+
+- The people who leave and the people who stay carry a grief, and it is called by the plain word for a load, *mzigo*. The lane takes the turns of the one who left for one Cycle.
+- **Praise comes after, not before.** Nobody tells a person that it is brave to go until the name is on the roster by their own hand. Praise before the choice is pressure.
+- **Many come back with somebody.** A worker who meets a partner in the other town trades the terms of the bond as anyone does, and the trade says who moves. Most marriages between towns begin this way.
+- A letter between the ends of the arc and the Bahari is about four Cycles on the road by caravan, and about twenty days by Whisper Road.
+
 # Rites
 
 ## Through a Life
@@ -748,7 +774,7 @@ Courtship is informal and personal. People meet at gatherings, on work details, 
 
 - The lee of a wall on its lit side. The long lanes. The steps of the steam house. A roof, where there is more sun. The walk home from the hall after the fourth bell.
 - Lovers in two towns write by caravan, ten to twelve days each way between neighbor cities.
-- The marriage caravan cuts across all of this. A person who goes with it may leave somebody behind. See The Marriage Caravan.
+- Far work cuts across all of this. A person who goes may leave somebody behind, and may find somebody where they go. See Work, Far Work.
 
 # Married Life
 
@@ -757,7 +783,7 @@ Courtship is informal and personal. People meet at gatherings, on work details, 
 - An everyday partnership needs no rite. Many couples mark it with the Wind's Embrace at a wind focal point.
 - A formal partnership is *ndoa*. Its terms are traded first: this is *shanda*. They are written and witnessed when children or resources are part of it. The ceremony waits for a good wind, the partners exchange fans, and the feast is the *arusi*.
 - **The trade covers:** which house; the measures of water; the rota; children, and the request for a birth authorization; what each owes to the kin of the other; if others are allowed; how it ends.
-- **An alliance marriage** between settlements is a public act. A Wayseer records the consent of each person. The partners may be near strangers, and they learn each other afterward.
+- **A marriage between two towns** is a public act, because one town loses a person and the other gains one. A Wayseer records the consent of each person. Nobody arranges it: the two have met on far work, on the caravan roads, at a festival, or in letters.
 
 ## The House
 
@@ -786,33 +812,6 @@ Courtship is informal and personal. People meet at gatherings, on work details, 
 - A bond that is not renewed has ended, and the contract says how the goods and the care are divided.
 - The partner who moved in goes back to the house of their own line, which has kept the place. Each fan goes back to its line.
 - An end that was traded fairly carries no shame. Shame is for the person who left the other one carrying.
-
-## The Marriage Caravan
-
-The *baŋga'sora* joins lines and settlements across the arc. It has a rule, and it has a practice.
-
-**The rule**
-
-- **The roster.** It hangs at the hall. A person writes their own name on it, before the kin leader or the Wayseer, and can strike it with the same hand until the caravan leaves.
-- **The first terms** are fixed with the home council before departure: which settlements, how many Cycles away at most, the right to come home with no bond, and letters carried without charge.
-- **The Wayseer asks each person alone,** at each halt, and asks once.
-- **A pairing** needs two yeses. Each person says it to the Wayseer alone, and then both say it together. A no needs no reason. The Wayseer writes "no alliance" and does not write who refused.
-- **The second terms** are the trade of the two partners (*shanda*): the house, the length of the stay, the letters, the return. Many caravan bonds are made for a stated number of Cycles and renewed like any other.
-- **It is not love, and nobody says that it is.** The bond is a *ndoa*. If the trade allows it, a partner keeps a beloved at home.
-- **Two people of the same sex** pair on the caravan as any others do. Such a bond joins two lines, opens a road between two towns, or makes a house that will raise a child.
-- **A caravan bond brings no birth authorization by itself.** The town that receives the partner says in the terms if its quota has room.
-
-**The practice**
-
-- A place on the roster is called an honor, and in a poor settlement it is often a price. A council that needs water or a weatherworker finds people who will "choose" to go, and they are most often people without an ability.
-- **The signs** are known: a roster where every name comes from the same end of the town; a name in a hand that is not the person's own; a family whose ration improved in the same Cycle.
-- Here the witness has work. A Wayseer who doubts can refuse to take a name.
-
-**The burden**
-
-- The people who leave and the people who stay carry a grief, and it is called by the plain word for a load, *mzigo*. The lane takes the turns of the one who left for one Cycle.
-- **Praise comes after, not before.** Nobody tells a person that it is brave to go, or grown-up, until the name is on the roster by their own hand. Praise before the choice is pressure.
-- A letter between the ends of the arc and the Bahari is about four Cycles on the road by caravan, and about twenty days by Whisper Road.
 
 ## Other Shapes
 
@@ -994,6 +993,7 @@ The words of the ordinary day. The Language Handbook has the full vocabulary.
 | load frame; carrier | *kiunzi*; *beba-ji* |
 | hearth fuel | *kuni* |
 | guest | *mgeni* |
+| far work; burden | *kazi-mbali*; *mzigo* |
 | formal partnership; wedding feast | *ndoa*; *arusi* |
 | fan | *pepeo* |
 | renewal of a partnership | *shanda-upya* |
@@ -1027,6 +1027,7 @@ The words of the ordinary day. The Language Handbook has the full vocabulary.
 - 0.7.5: New section Marks of the Kin: the three kin (house, line, Wind-Kin) and the signs of the five Wind-Kins, and where they are carved and worn (Compendium 2.7.1). The houses of one line share a court.
 - 0.8.0: The proposals of the plates of Duskara Illustrated, confirmed by the author (decisions 44 to 53): the cistern, heat, pipes, latrine, stair and sizes of the common house; new section The Shape of a Town; the steam house and the quiet rooms; the growing tower; the healing house and its remedies, the far house, the guest house, the sensor at the halt and the drop stone; the shape of a Deepkin community and sickness under the night; the length of the meal and the evening; wind-listening and childhood; the pendant, the sash and the seal; new section At a Storm Haven.
 - 0.9.0: Customs from the novel *The Weight of Wind*, confirmed by the author (decisions 54 to 60): nothing goes up empty, the flood ring and the marker stones (Work); the ash of the calling (Rites, Through a Life); the growing thread (Where Food Grows); the council of a guild house (The Council Floor); new section The Wall of a Wind Temple.
+- 0.10.0: The marriage caravan is removed, with Compendium 2.8.0 (decision 61). New section Far Work (*kazi-mbali*) under Work: the roster, the terms, the practice and its signs, and the burden move there from the old section. A marriage between two towns is no longer an alliance between near strangers; the two have met. Creole words from Language Handbook 2.5.0.
 
 # License
 

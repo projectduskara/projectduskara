@@ -1,9 +1,9 @@
 ---
 title: Duskara Compendium
 subtitle: Main Setting Book
-version: 2.7.2
-date: 2026-10-16
-latest_update: "The day side and the night side are less extreme: about 80 to 150 °C and about −60 to −100 °C."
+version: 2.8.0
+date: 2026-10-28
+latest_update: "The marriage caravan is removed. Far work (kazi-mbali) carries its tension; Duskara has no arranged marriage."
 
 
 ---
@@ -385,17 +385,17 @@ The extremes of Duskara’s environment inspire both awe and caution. The blazin
 
 Duskaran society operates within a linear hierarchy dictated by the geography of the twilight belt. Settlements situated in the central, optimal temperature zones hold the majority of resources and wield the greatest influence, forming the societal core. Peripheral communities, located closer to the day or night sides, maintain a degree of autonomy but depend on these central hubs for vital supplies and protection. This interdependence fosters a dynamic yet stable structure where cooperation is paramount.
 
-Trade and marriage alliances serve as the bedrock of inter-settlement relations. Arranged marriages are not merely personal unions but significant political events, symbolizing the merging of communities and the establishment of long-term resource-sharing agreements. These grand ceremonies reflect the importance of such partnerships in maintaining societal stability. Families that specialize in fostering these alliances, diplomatic lineages, are held in high regard, occupying the upper echelons of social status.
+Trade and work bind the settlements together. Treaties of water and goods are the bedrock of inter-settlement relations, and the people who negotiate them, the Wayseers and the Wind and Flame Envoys among them, are held in high regard. Duskara has no arranged marriage. A marriage between two settlements is a public act, because one town loses a person and the other gains one, and a Wayseer records the consent of each partner; but it begins with two people who chose each other, and the towns follow it rather than make it.
 
-### The Baŋga'sora (Marriage Caravan)
+### Far Work (*Kazi-Mbali*)
 
-To mitigate genetic isolation and forge political alliances, settlements participate in the *baŋga'sora*, a formal marriage caravan. These organized journeys transport participants to multiple settlements to evaluate potential partnerships. A bond made on the caravan is a formal partnership (*ndoa*): a duty that a person carries for a line and a settlement. Nobody expects it to begin with love, and it is kept apart from the bonds of the heart.
+A settlement that needs a skill it lacks, or owes a debt that it cannot pay in water or goods, pays in work. Under a far work (*kazi-mbali*), a person goes from one town to work in another for a stated number of Cycles: a wind engineer to a town that has lost its turbines, a healer to a town without one, hands to a town that rebuilds after a storm. The receiving town gives the measures and a place to live; the sending town receives what the treaty says, in water, grain, parts, or the service of a weatherworker. The worker keeps their line and their place in their own house, which waits for them.
 
-The rule of the caravan agrees with the consent ethics of the Threshold. A person joins the roster by choice, and fixes with the home council, before departure, how far the caravan goes, how long the person can stay away, and the right to come home with no bond. Each pairing needs the consent of both persons, stated before the Wayseer, and either can refuse without a reason: without mutual agreement no alliance is formed. The two partners then trade their own terms (*shanda*): the house, the length of the stay, the letters, the return. Partners of the same sex join on the same footing, because the caravan serves alliance, the joining of lines and shared parenting as well as descent. A caravan bond does not bring a birth authorization by itself; the settlement that receives the partner says in the terms if its quota has room.
+The rule of far work agrees with the consent ethics of the Threshold. The roster hangs at the hall, and a person writes their own name on it, before the kin leader or a Wayseer, and can strike it until the day of departure. The terms are fixed with the home council before the person leaves: the town, the work, the number of Cycles, the measures, the letters carried without charge, and the right to come home if the receiving town breaks the terms. A neutral Wayseer asks each person alone, once, and records the answer. Far work gives no birth authorization; a worker who wants a child asks the council of the town where the child will be raised.
 
-The practice is not always the rule. While ostensibly an honor, a place on the roster is often political. In struggling settlements, people, particularly those without psychic abilities, are pressed to "volunteer" as "offerings" that secure vital resources or expertise from more powerful communities. By the ethics of the Accord itself this pressure is a wrong, and it is hard to prove.
+The practice is not always the rule. A place on the roster is called an honor, and in a struggling settlement it is often a price. A council that needs water or a weatherworker finds people who will "volunteer" to go, and they are most often people without an ability, whose work is easiest to lend. By the ethics of the Accord itself this pressure is a wrong, and it is hard to prove. A Wayseer who doubts can refuse to take a name.
 
-Each caravan is overseen by a neutral Wayseer, who is responsible for documenting proceedings and ensuring the consent of all participants is respected, at least in principle. The grief of those who leave and of those who stay is spoken of openly, as a burden (*mzigo*) that the settlement shares. The *baŋga'sora* serves as a critical mechanism for cultural exchange and political negotiation, though it is often fraught with tension between communal duty and individual autonomy.
+The grief of those who leave and of those who stay is spoken of openly, as a burden (*mzigo*) that the settlement shares. Far work is also how lines mix across the arc: many workers come home with a partner, and some stay where they were sent. Most marriages between towns begin this way, or on the caravan roads, at a festival, or in letters.
 
 Life in Duskara is marked by age-graded roles, with each stage of life carrying specific expectations. Children learn fieldcraft and the principles of resource conservation. Adults take on critical responsibilities, including resource management, trade, and community safety, while elders serve as teachers and advisors, preserving the cultural and practical knowledge that their community lives by.
 
@@ -439,7 +439,7 @@ To interfere directly in the partnership of an adult is taboo, but there are rem
 
 ### Courtship and Relationship Formation
 
-Duskaran society views partnerships (romantic, sexual, and child-rearing bonds) as fundamental units of social stability. Unlike the formal arranged marriage tradition of the *baŋga'sora*, which serves political and genetic diversity purposes, everyday courtship is surprisingly informal and individualized.
+Duskaran society views partnerships (romantic, sexual, and child-rearing bonds) as fundamental units of social stability. Courtship is informal and individualized, and no institution arranges it: even a bond that joins two towns begins with two people who chose each other.
 
 Young adults typically begin exploring relationships during their later transition to adulthood, though some initiate intimate friendships earlier. Initial attraction might be sparked at communal gatherings, through shared work details, or through deliberate introduction by friends or mentors. Duskaran courtship lacks the structured rituals of some Earth cultures; instead, it emerges through sustained interaction and growing intimacy.
 
@@ -624,7 +624,7 @@ Duskaran culture has three sources: what the settlers carried, what the crew car
 
 The settlers were African: most from East Africa, a minority from West Africa. The frame of Duskaran society is theirs.
 
-- **Kin and clan.** The line (*ukoo*) continues the clan: a person belongs to a line, and marries outside it. The lines group into five Wind-Kins. The marriage caravan answers the same need on the scale of a planet.
+- **Kin and clan.** The line (*ukoo*) continues the clan: a person belongs to a line, and marries outside it. The lines group into five Wind-Kins. The roads answer the same need on the scale of the arc: people go to other towns to trade and on far work, and many marry where they go.
 - **Ancestors.** The dead stay near the living and are owed respect. On Duskara they moved into the wind.
 - **Age and council.** People pass through life in age groups with duties, which is the origin of threshold education. Decisions are talked out in an open council (*baraza*) until the group agrees.
 - **Water elders.** The water judges continue the councils of elders that divided irrigation water between farms.
@@ -833,7 +833,7 @@ Three kinds of dispute come back at the gates of the Deep Roads. The first is ma
 
 To mediate these differences, Wind and Flame Envoys, diplomatic specialists, navigate the delicate negotiations required to maintain harmony between the two groups. Their work ensures that resource exchanges and alliances remain intact despite the underlying friction.
 
-Within regions, settlements often experience friendly rivalries tempered by their mutual interdependence. Trade agreements and marriage alliances are common tools for fostering unity, though occasional standoffs over resources or perceived slights do occur, usually as withheld shipments or closed routes. Such conflicts are typically short-lived, with Wayseers or Assembly interventions swiftly restoring order.
+Within regions, settlements often experience friendly rivalries tempered by their mutual interdependence. Trade agreements, water treaties and far work (*kazi-mbali*) are common tools for fostering unity, though occasional standoffs over resources or perceived slights do occur, usually as withheld shipments or closed routes. Such conflicts are typically short-lived, with Wayseers or Assembly interventions swiftly restoring order.
 
 Shared threats, whether environmental or psychic, often force settlements to set aside their differences. The Storm Wall, unexplained disappearances, and other planetary upheavals demand collective action. During such times, Summits of Survival are convened, bringing together representatives from across Duskara to coordinate their efforts and reaffirm their shared destiny.
 
@@ -1870,7 +1870,7 @@ These taboos aren't merely linguistic; they reflect existential threats. A water
 - *hangan'kiya* /ˌha.ŋaŋˈki.ja/ – wind craft (weatherworking)  
 - *maji'tunga* /ˈma.dʒi.tu.ŋa/ – water finding  
 - *hanga-daŋa* /ˌha.ŋaˈda.ŋa/ – twilight edge  
-- *baŋga'sora* /ˌbaŋ.gaˈso.ra/ – ritual walk or pilgrimage; best known as the name of the marriage caravan  
+- *baŋga'sora* /ˌbaŋ.gaˈso.ra/ – ritual walk or pilgrimage  
 
 ### Sample Phrases
 
@@ -2382,6 +2382,10 @@ Names are given in infancy and can be amended or expanded when a person shows a 
     - Technology (Chapter 09): the caravans of the secondary routes are the crewed wind caravans of Chapter 11, not automated ones; the size, the guide wheels, the sail and the motor of a wind carriage; the monitoring chamber under the council floor, its archive, its valve station and its projection; the form, the beacon and the stores of a storm haven of the roads.
     - Societal Customs (Chapter 04): the faces of a water token.
     - Calendar (Chapter 10): the Aurora Nights in the middle of the active half of the star's breath, the Hearth Renewal in the middle of the quiet half.
+- 2.8.0: The marriage caravan is removed.
+  - Societal Customs (Chapter 04): the *baŋga'sora* is no longer a marriage caravan. Its two reasons did not hold: the arc is one connected population, so it needs no caravan against genetic isolation, and alliance by marriage belongs to dynastic houses that Duskara does not have. Duskara has no arranged marriage; a marriage between two towns is a public act witnessed by a Wayseer, made by two people who chose each other. The "diplomatic lineages" are removed; the Wayseers and the Wind and Flame Envoys negotiate the treaties.
+  - New section Far Work (*kazi-mbali*), Chapter 04: a town pays a debt or buys a skill with work, and a person goes to work in another town for a stated number of Cycles. It keeps the roster, the consent before a Wayseer, the pressure on people without an ability in struggling settlements, and the shared burden (*mzigo*) of the old section. Far work is one of the ways lines mix across the arc.
+  - Cultural Heritage (Chapter 06), Political Systems (Chapter 08): far work and the roads replace the marriage caravan and the marriage alliances. Language (Chapter 18): *baŋga'sora* is a ritual walk or pilgrimage.
 
 # License
 

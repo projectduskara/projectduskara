@@ -1,9 +1,9 @@
 ---
-date: 2026-10-16
+date: 2026-10-28
 subtitle: A Comprehensive Conlang Reference for the Duskara Setting
 title: Duskaran Language Handbook
-version: 2.4.1
-latest_update: "kin is one of the five clans; ukoo is the line (Compendium 2.7.1)."
+version: 2.5.0
+latest_update: "kazi-mbali, far work; baŋga'sora is a ritual walk and no longer names a marriage caravan (Compendium 2.8.0)."
 ---
 
 # Introduction
@@ -657,6 +657,7 @@ Words that survive mostly in place names. They show the four source languages mo
 - **umaskini** /u.mas.ˈki.ni/ – poverty (from Swahili)
 - **maji-haki** /ˈma.dʒi.ha.ki/ – water rights
 - **kazi-hesabu** /ˈka.zi.he.sa.bu/ – work quota
+- **kazi-mbali** /ˈka.zi.mba.li/ – far work: a term of work in another town, by which a settlement pays a debt or borrows a skill (lit. "work-far")
 
 ## XI. Cultural & Spiritual
 
@@ -669,7 +670,7 @@ Words that survive mostly in place names. They show the four source languages mo
 - **heshima** /he.ˈʃi.ma/ – respect, honor (from Swahili)
 - **ibada** /i.ˈba.da/ – worship, ceremony (from Swahili)
 - **sadaka** /sa.ˈda.ka/ – offering; a gift of water given without a witness (from Swahili)
-- **baŋga'sora** /ˌbaŋ.gaˈso.ra/ – ritual walk, pilgrimage; best known as the name of the marriage caravan
+- **baŋga'sora** /ˌbaŋ.gaˈso.ra/ – ritual walk, pilgrimage
 - **kivuli-dansa** /ki.ˈvu.li.dan.sa/ – shadow-dance (Deepkin ceremony)
 
 ### Institutions and Offices
@@ -1715,6 +1716,7 @@ Generated from the vocabulary above. It gives the first sense of each entry.
 | far | *mbali* |
 | far edge | *Daŋa-Mbali* |
 | far house | *mbali-wan* |
+| far work | *kazi-mbali* |
 | farm | *lima*, *shamba* |
 | farmer | *nondo-ji* |
 | fasting cycle | *saumu* |
